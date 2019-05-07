@@ -126,7 +126,7 @@ except ValueError as ErrorDeNumeroNegativo:
 print("Programa terminado.")
 ```
 
-Un par de ejecuciones del anterior programa podrían ser:
+Un par de ejecuciones del anterior programa, por ejemplo, podrían ser:
 
 ```bash
 Introduce un número mayor o igual que cero: 144
