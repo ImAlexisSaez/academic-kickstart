@@ -51,9 +51,9 @@
 - id: present
   translation: Actualmente
 - id: more_pages
-  translation: See all
+  translation: Ver todo
 - id: more_posts
-  translation: Más posts
+  translation: Más artículos
 - id: more_talks
   translation: Más charlas
 - id: more_publications
@@ -83,7 +83,7 @@
 - id: location
   translation: Localización
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Sin categoría
 - id: pub_conf
   translation: Conference paper
 - id: pub_journal
@@ -93,17 +93,17 @@
 - id: pub_report
   translation: Report
 - id: pub_book
-  translation: Book
+  translation: Libro
 - id: pub_book_section
-  translation: Book section
+  translation: Sección de libro
 - id: pub_thesis
-  translation: Thesis
+  translation: Tesis
 - id: pub_patent
-  translation: Patent
+  translation: Patente
 - id: open_project_site
   translation: Ir al sitio del proyecto
 - id: posts
-  translation: Posts
+  translation: Artículos
 - id: publications
   translation: Publicaciones
 - id: talks
