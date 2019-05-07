@@ -1,12 +1,12 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget   = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active   = true  # Activate this widget? true/false
+weight   = 40  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title    = "Proyectos"
+subtitle = "A la búsqueda del conocimiento"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,29 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Todos"
+    tag  = "*"
+
+  [[content.filter_button]]
+    name = "Capacitació"
+    tag  = "Capacitació"
+
+  [[content.filter_button]]
+    name = "Desarrollo web"
+    tag  = "Desarrollo web"
+
+  [[content.filter_button]]
+    name = "Problemas"
+    tag  = "Problemas"
+
+  [[content.filter_button]]
+    name = "Python"
+    tag  = "Python"
+
+  [[content.filter_button]]
+    name = "Valencià"
+    tag  = "Valencià"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
