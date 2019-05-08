@@ -1,7 +1,7 @@
 ---
 title: 8. Tuplas
 linktitle: 8. Tuplas
-toc: false
+toc: true
 type: docs
 date: "2019-04-30T00:01:00+01:00"
 lastmod: "2019-04-30T00:01:00+01:00"

@@ -1,7 +1,7 @@
 ---
 title: 3. Sintaxis básica
 linktitle: 3. Sintaxis básica
-toc: false
+toc: true
 type: docs
 date: "2019-04-28T00:01:01+01:00"
 lastmod: "2019-04-28T00:01:01+01:00"

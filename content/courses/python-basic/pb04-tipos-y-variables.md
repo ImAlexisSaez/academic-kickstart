@@ -1,7 +1,7 @@
 ---
 title: 4. Tipos, operadores y variables
 linktitle: 4. Tipos y variables
-toc: false
+toc: true
 type: docs
 date: "2019-04-29T00:01:01+01:00"
 lastmod: "2019-04-29T00:01:01+01:00"

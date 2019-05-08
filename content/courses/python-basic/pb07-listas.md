@@ -1,7 +1,7 @@
 ---
 title: 7. Listas
 linktitle: 7. Listas
-toc: false
+toc: true
 type: docs
 date: "2019-04-29T00:01:04+01:00"
 lastmod: "2019-04-29T00:01:04+01:00"

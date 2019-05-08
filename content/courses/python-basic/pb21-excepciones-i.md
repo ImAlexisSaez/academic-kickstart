@@ -1,7 +1,7 @@
 ---
 title: 21. Excepciones I
 linktitle: 21. Excepciones I
-toc: false
+toc: true
 type: docs
 date: "2019-05-06T00:01:01+01:00"
 lastmod: "2019-05-06T00:01:01+01:00"

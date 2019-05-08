@@ -1,7 +1,7 @@
 ---
 title: 23. Excepciones III
 linktitle: 23. Excepciones III
-toc: false
+toc: true
 type: docs
 date: "2019-05-07T00:00:01+01:00"
 lastmod: "2019-05-07T00:00:01+01:00"

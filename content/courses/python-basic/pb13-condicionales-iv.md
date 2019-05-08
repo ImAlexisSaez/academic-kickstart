@@ -1,7 +1,7 @@
 ---
 title: 13. Condicionales IV
 linktitle: 13. Condicionales IV
-toc: false
+toc: true
 type: docs
 date: "2019-05-01T00:02:01+01:00"
 lastmod: "2019-05-01T00:02:01+01:00"

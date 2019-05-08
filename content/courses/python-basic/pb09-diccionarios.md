@@ -1,7 +1,7 @@
 ---
 title: 9. Diccionarios
 linktitle: 9. Diccionarios
-toc: false
+toc: true
 type: docs
 date: "2019-04-30T00:01:01+01:00"
 lastmod: "2019-04-30T00:01:01+01:00"

@@ -1,7 +1,7 @@
 ---
 title: 24. Programación orientada a objetos I
 linktitle: 24. POO I
-toc: false
+toc: true
 type: docs
 date: "2019-05-08T00:00:01+01:00"
 lastmod: "2019-05-08T00:00:01+01:00"

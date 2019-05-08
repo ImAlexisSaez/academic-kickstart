@@ -1,7 +1,7 @@
 ---
 title: 14. Bucles I
 linktitle: 14. Bucles I
-toc: false
+toc: true
 type: docs
 date: "2019-05-01T00:02:01+01:00"
 lastmod: "2019-05-01T00:02:01+01:00"

@@ -1,7 +1,7 @@
 ---
 title: 10. Condicionales I
 linktitle: 10. Condicionales I
-toc: false
+toc: true
 type: docs
 date: "2019-04-30T00:02:01+01:00"
 lastmod: "2019-04-30T00:02:01+01:00"

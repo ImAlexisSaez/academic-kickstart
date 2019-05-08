@@ -1,7 +1,7 @@
 ---
 title: 6. Funciones II
 linktitle: 6. Funciones II
-toc: false
+toc: true
 type: docs
 date: "2019-04-29T00:01:03+01:00"
 lastmod: "2019-04-29T00:01:03+01:00"
