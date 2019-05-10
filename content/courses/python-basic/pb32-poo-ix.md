@@ -21,7 +21,7 @@ weight: 32
 
 ## Notas personales
 
-En esta lección abordaremos el concepto de **polimorfismo**. Un objeto puede cambiar de forma dependiendo del contexto en el que se utilice y, por tanto, modificar tanto propiedades como comportamientos asociados.
+En esta lección, abordaremos el concepto de **polimorfismo**. Un objeto puede cambiar de forma dependiendo del contexto en el que se utilice y, por tanto, modificar tanto sus propiedades como sus comportamientos asociados.
 
 Como *Python* es un lenguaje de tipado dinámico, esta característica es sencilla de utilizar.
 
@@ -67,14 +67,14 @@ Me desplazo utilizando seis ruedas.
 
 Si tuviésemos cientos de vehículos y quisiéramos utilizar sus comportamientos, habríamos de seguir el patrón esbozado arriba.
 
-No obstante, nos podemos aprovechar de la magia del polimorfimo creando una función como se muestra a continuación:
+No obstante, nos podemos aprovechar de la magia del polimorfismo creando una función como se muestra a continuación:
 
 ```python
 def desplazamiento_vehiculo(vehiculo):
     vehiculo.desplazamiento()
 ```
 
-Y como el objeto `vehiculo` posee la capacidad de adquirir el rol de cualquiera de los vehículos programados arriba (coche, moto o camión), *Python* en todo momento sabrá a qué método `desplazamiento()` acudir en cada momento.
+Y como el objeto `vehiculo` posee la capacidad de adquirir el rol de cualquiera de los vehículos programados arriba (coche, moto o camión), *Python* en todo momento sabrá a qué método `desplazamiento()` acudir en cada instante.
 
 Así, si escribimos:
 
