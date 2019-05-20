@@ -97,6 +97,7 @@ def evalua_password(password):
         valido = False
     return valido
 
+
 password = input("Introduce contraseña: ")
 
 if evalua_password(password):
@@ -125,6 +126,7 @@ def evalua_mail(mail):
 
     return punto and arroba
 
+
 mail = input("Introduce dirección de correo electrónico: ")
 
 if evalua_mail(mail):
@@ -132,3 +134,7 @@ if evalua_mail(mail):
 else:
     print("Dirección de correo electrónico INVÁLIDA.")
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/16/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

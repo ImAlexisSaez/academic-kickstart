@@ -71,3 +71,7 @@ Frenando: False
 ```
 
 Estamos utilizando métodos de la clase `Vehiculo` a través de la clase `Moto` gracias a la herencia.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/29/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

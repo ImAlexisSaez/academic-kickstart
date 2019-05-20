@@ -33,7 +33,7 @@ def nombre(parámetros):
 
 Ejecutamos (o llamamos) una función tecleando `nombre_función(parámetros)`. 
 
-A continuación, dejamos de lado el IDLE de *Sublime Text 3* y pasamos a compilar directamente ficheros desde el propio editor. Para ello, desplegamos el menú `Tools` y en el apartado `Build System` escogemos la opción `Python`. Acto seguido, creamos el fichero `primeras_funciones.py`, que contendrá la instrucción
+A continuación, dejamos de lado el IDLE de *Sublime Text 3* y pasamos a compilar directamente ficheros desde el propio editor. Para ello, desplegamos el menú `Tools` y en el apartado `Build System` escogemos la opción `Python`. Acto seguido, creamos el fichero `funciones.py`, que contendrá la instrucción
 
 ```python
 print("Estamos aprendiendo Python.")
@@ -76,7 +76,7 @@ print("Poco a poco iremos avanzando.")
 Las funciones nos permiten reutilizar código para, precisamente, evitar que actuemos como arriba. Definamos una función llamada `mensaje()` y ejecutémosla tantas veces como deseemos.
 
 ```python
-def mensaje(): 
+def mensaje():
     print("Estamos aprendiendo Python.")
     print("Estamos aprendiendo instrucciones básicas.")
     print("Poco a poco iremos avanzando.")
@@ -101,3 +101,7 @@ print("Ejecutando código fuera de función")
 
 mensaje()
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/05/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

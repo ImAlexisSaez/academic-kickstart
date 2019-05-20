@@ -233,3 +233,7 @@ ZeroDivisionError: float division by zero
 La cadena de texto `"Cálculo finalizado"` se muestra por pantalla, independientemente de la presencia o no de excepciones durante la ejecución del algoritmo.
 
 *Nota técnica*: toda instrucción `try` ha de estar acompañada bien de su correspondiente `except`, bien de `finally`, bien de ambas; pero no puede aparecer en solitario.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/22/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

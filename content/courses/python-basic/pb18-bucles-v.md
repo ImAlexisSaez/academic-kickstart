@@ -59,7 +59,7 @@ Elaboremos, a continuación, un programa que cuente el número de caracteres de 
 ```python
 nombre = "Píldoras Informáticas"
 
-print(len(nombre)) # 21 (considera espacio en blanco como carácter)
+print(len(nombre))  # 21 (considera espacio en blanco como carácter)
 
 contador = 0
 
@@ -68,14 +68,14 @@ for i in nombre:
         continue
     contador += 1
 
-print(contador) # 20
+print(contador)  # 20
 ```
 
 Cuando queremos crear una clase (o función), tan pequeña como sea posible, pero que seguramente en un futuro ampliemos, la instrucción `pass` es de suma utilidad:
 
 ```python
 class mi_clase:
-    pass # A implementar más tarde
+    pass  # A implementar más tarde
 ```
 
 Por lo que respecta a la instrucción `else`, veamos un código para comprobar si una dirección de correo electrónico posee o no una arroba:
@@ -94,3 +94,7 @@ print(arroba)
 ```
 
 Hemos de ser cautos, pues generalmente asociamos la instrucción `else` a estructuras condicionales y no a bucles. Fijarse en la identación del programa es clave.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/18/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

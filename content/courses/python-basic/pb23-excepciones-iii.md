@@ -139,3 +139,7 @@ Introduce un número mayor o igual que cero: -144
 El número no puede ser negativo.
 Programa terminado.
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/23/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

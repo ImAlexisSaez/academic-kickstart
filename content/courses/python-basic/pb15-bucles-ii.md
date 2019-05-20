@@ -96,6 +96,7 @@ def evalua_email(direcc):
     else:
         print("El email no es correcto.")
 
+
 direcc = input("Introduce tu dirección de correo electrónico: ")
 
 evalua_email(direcc)
@@ -118,6 +119,7 @@ def evalua_email(direcc):
     else:
         print("El email no es correcto.")
 
+
 direcc = input("Introduce tu dirección de correo electrónico: ")
 
 evalua_email(direcc)
@@ -135,3 +137,7 @@ for i in range(5):
 # 3
 # 4
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/15/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

@@ -25,7 +25,7 @@ Un **módulo** es un archivo con extensión `.py`, `.pyc` (Python compilado) o f
 
 Sirve para organizar y reutilizar el código (**modularización** y **reutilización**). Se genera uno creando un archivo con extensión `.py` (o `.pyc` o archivo en C) y guardándolo donde nos interese.
 
-Vamos a crear un módulo que, siguiendo la organización del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0) de código, se llamará `prac34_modulo_matematicas.py`. En su interior tecleamos las siguientes líneas:
+Vamos a crear un módulo que, siguiendo la organización del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0) de código, se llamará `modulo_matematicas.py`. En su interior tecleamos las siguientes líneas:
 
 ```python
 def sumar(op1, op2):
@@ -40,10 +40,10 @@ def multiplicar(op1, op2):
     print("El resultado de la multiplicación es:", op1 * op2)
 ```
 
-Ahora, generamos otro archivo, `prac34_script1.py`, e importamos el anterior módulo, utilizando para ello la instrucción `import`:
+Ahora, generamos otro archivo, `script_1.py`, e importamos el anterior módulo, utilizando para ello la instrucción `import`:
 
 ```python
-import prac34_modulo_matematicas as modulo
+import modulo_matematicas as modulo
 
 modulo.sumar(5, 7)
 
@@ -60,10 +60,10 @@ El resultado de la multiplicación es: 36
 
 Como el nombre del módulo generado es un tanto extenso, he utilizado la instrucción `as`, que permite reescribir dicho nombre y, en mi caso, abreviarlo para que su uso sea más cómodo.
 
-Una alternativa a esta estrategia la encontramos en el fichero `prac34_script2.py`, donde se utiliza `from ... import ...`:
+Una alternativa a esta estrategia la encontramos en el fichero `script_2.py`, donde se utiliza `from ... import ...`:
 
 ```python
-from prac34_modulo_matematicas import sumar
+from modulo_matematicas import sumar
 
 sumar(5, 7)
 ```
@@ -75,7 +75,7 @@ El resultado de la suma es: 12
 En el bloque de código anterior, únicamente hemos importado la función `sumar()` de nuestro módulo. Podemos añadir más funciones separándolas mediante comas o importar todo el contenido del módulo utilizando el carácter `*`:
 
 ```python
-from prac34_modulo_matematicas import sumar, restar
+from modulo_matematicas import sumar, restar
 
 sumar(5, 7)
 
@@ -88,7 +88,7 @@ El resultado de la resta es: 6
 ```
 
 ```python
-from prac34_modulo_matematicas import *
+from modulo_matematicas import *
 
 sumar(5, 7)
 
@@ -105,7 +105,7 @@ El resultado de la multiplicación es: 144
 
 No obstante, es peligroso actuar así, pues, en ocasiones, podemos reescribir métodos de manera accidental y arribar a resultados no deseados. Además, en aplicaciones complejas, por motivos de optimización, utilizar el carácter `*` provoca que se reserve demasiado espacio en memoria al tener que almacenar todo el contenido del módulo importado.
 
-Creemos un módulo, `prac34_modulo_vehiculos.py` con las clases utilizadas en la lección de herencia asociada al apartado de programación orientada a objetos:
+Creemos un módulo, `modulo_vehiculos.py` con las clases utilizadas en la lección de herencia asociada al apartado de programación orientada a objetos:
 
 ```python
 class Vehiculo():
@@ -161,10 +161,10 @@ class VehiculoElec(Vehiculo):
         self.cargando = True
 ```
 
-Y ahora, en el fichero `prac34_script5.py` tecleamos:
+Y ahora, en el fichero `script_5.py` tecleamos:
 
 ```python
-from prac34_modulo_vehiculos import *
+from modulo_vehiculos import *
 
 mi_coche = Vehiculo("Mazda", "MX5")
 mi_coche.estado()
@@ -181,3 +181,7 @@ Frenando: False
 *Python* busca los módulos en el mismo directorio donde está guardado el fichero desde el cual se realiza la llamada de importación. En caso de no hallarlo ahí, pasa a revisar el `syspath` (es un conjunto de directorios entre los que está, por ejemplo, el de instalación de *Python*).
 
 Si no tenemos los módulos en ninguna de ambas ubicaciones, *Python* arrojará un error al ejecutar el programa. Para solucionar esta situación estudiaremos el uso de **paquetes** en la próxima lección.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/34/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

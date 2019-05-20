@@ -34,28 +34,33 @@ def comprueba_edad(edad):
     else:
         print("La edad es incorrecta.")
 
-comprueba_edad(5) # La edad es correcta.
-comprueba_edad(135) # La edad es incorrecta.
-comprueba_edad(-7) # La edad es incorrecta.
+
+comprueba_edad(5)  # La edad es correcta.
+comprueba_edad(135)  # La edad es incorrecta.
+comprueba_edad(-7)  # La edad es incorrecta.
 ```
 
 Creemos ahora un programa que evaluará el salario de diferentes trabajadores de una empresa:
 
 ```python
-salario_presidente = int(input("Introduce el salario del presidente: "))
-print("Salario presidente: " + str(salario_presidente))
+sal_presidente = int(input("Introduce el salario del presidente: "))
+print("Salario presidente: " + str(sal_presidente))
 
-salario_director = int(input("Introduce el salario del director: "))
-print("Salario director: " + str(salario_director))
+sal_director = int(input("Introduce el salario del director: "))
+print("Salario director: " + str(sal_director))
 
-salario_jefe_area = int(input("Introduce el salario del jefe de área: "))
-print("Salario jefe de área: " + str(salario_jefe_area))
+sal_jefe_area = int(input("Introduce el salario del jefe de área: "))
+print("Salario jefe de área: " + str(sal_jefe_area))
 
-salario_administrativo = int(input("Introduce el salario del administrativo: "))
-print("Salario administrativo: " + str(salario_administrativo))
+sal_administrativo = int(input("Introduce el salario del administrativo: "))
+print("Salario administrativo: " + str(sal_administrativo))
 
-if salario_administrativo < salario_jefe_area < salario_director < salario_presidente:
+if sal_administrativo < sal_jefe_area < sal_director < sal_presidente:
     print("Todo funciona correctamente.")
 else:
     print("Algo falla en esta empresa.")
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/12/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

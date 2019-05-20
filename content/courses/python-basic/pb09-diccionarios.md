@@ -35,10 +35,10 @@ mi_dicc = {"Alemania": "Berlin",
            "Reino Unido": "Londres",
            "España": "Madrid"}
 
-print(mi_dicc["Francia"]) # París
-print(mi_dicc["España"]) # Madrid
+print(mi_dicc["Francia"])  # París
+print(mi_dicc["España"])  # Madrid
 
-print(mi_dicc) # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid'}
+print(mi_dicc)  # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid'}
 ```
 
 Agregamos nuevos elementos al diccionario con el patrón `nombre[clave] = valor`:
@@ -46,7 +46,7 @@ Agregamos nuevos elementos al diccionario con el patrón `nombre[clave] = valor`
 ```python
 mi_dicc["Italia"] = "Lisboa"
 
-print(mi_dicc) # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid', 'Italia': 'Lisboa'}
+print(mi_dicc)  # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid', 'Italia': 'Lisboa'}
 ```
 
 Modificamos un valor asignado a una clave simplemente sobreescribiéndolo:
@@ -54,7 +54,7 @@ Modificamos un valor asignado a una clave simplemente sobreescribiéndolo:
 ```python
 mi_dicc["Italia"] = "Roma"
 
-print(mi_dicc) # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid', 'Italia': 'Roma'}
+print(mi_dicc)  # {'Alemania': 'Berlin', 'Francia': 'París', 'Reino Unido': 'Londres', 'España': 'Madrid', 'Italia': 'Roma'}
 ```
 
 Suprimimos elementos con `del`:
@@ -62,7 +62,7 @@ Suprimimos elementos con `del`:
 ```python
 del mi_dicc["Reino Unido"]
 
-print(mi_dicc) # {'Alemania': 'Berlin', 'Francia': 'París', 'España': 'Madrid', 'Italia': 'Roma'}
+print(mi_dicc)  # {'Alemania': 'Berlin', 'Francia': 'París', 'España': 'Madrid', 'Italia': 'Roma'}
 ```
 
 Generemos un diccionario que presente diferentes tipos de datos:
@@ -72,7 +72,7 @@ mi_dicc = {"Alemania": "Berlín",
            23: "Jordan",
            "Mosqueteros": 3}
 
-print(mi_dicc) # {'Alemania': 'Berlín', 23: 'Jordan', 'Mosqueteros': 3}
+print(mi_dicc)  # {'Alemania': 'Berlín', 23: 'Jordan', 'Mosqueteros': 3}
 ```
 
 Empleemos una tupla (el procedimiento sería similar si optamos por una lista) para asignar la clave a cada uno de los valores:
@@ -84,10 +84,10 @@ mi_dicc = {mi_tupla[0]: "Madrid",
            mi_tupla[2]: "Londres",
            mi_tupla[3]: "Berlín"}
 
-print(mi_dicc) # {'España': 'Madrid', 'Francia': 'París', 'Reino Unido': 'Londres', 'Alemania': 'Berlín'}
+print(mi_dicc)  # {'España': 'Madrid', 'Francia': 'París', 'Reino Unido': 'Londres', 'Alemania': 'Berlín'}
 
-print(mi_dicc["España"]) # Madrid
-print(mi_dicc[mi_tupla[0]]) # Madrid
+print(mi_dicc["España"])  # Madrid
+print(mi_dicc[mi_tupla[0]])  # Madrid
 ```
 
 También podemos almacenar tuplas (o listas...) como valores:
@@ -98,9 +98,9 @@ mi_dicc = {23: "Jordan",
            "Equipo": "Chicago",
            "Anillos": (1991, 1992, 1993, 1996, 1997, 1998)}
 
-print(mi_dicc) # {23: 'Jordan', 'Nombre': 'Michael', 'Equipo': 'Chicago', 'Anillos': (1991, 1992, 1993, 1996, 1997, 1998)}
-print(mi_dicc["Equipo"]) # Chicago
-print(mi_dicc["Anillos"]) # (1991, 1992, 1993, 1996, 1997, 1998)
+print(mi_dicc)  # {23: 'Jordan', 'Nombre': 'Michael', 'Equipo': 'Chicago', 'Anillos': (1991, 1992, 1993, 1996, 1997, 1998)}
+print(mi_dicc["Equipo"])  # Chicago
+print(mi_dicc["Anillos"])  # (1991, 1992, 1993, 1996, 1997, 1998)
 ```
 
 Asimismo, guardemos un diccionario dentro de otro:
@@ -111,8 +111,8 @@ mi_dicc = {23: "Jordan",
            "Equipo": "Chicago",
            "Anillos": {"Temporadas": (1991, 1992, 1993, 1996, 1997, 1998)}}
 
-print(mi_dicc) # {23: 'Jordan', 'Nombre': 'Michael', 'Equipo': 'Chicago', 'Anillos': {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}}
-print(mi_dicc["Anillos"]) # {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}
+print(mi_dicc)  # {23: 'Jordan', 'Nombre': 'Michael', 'Equipo': 'Chicago', 'Anillos': {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}}
+print(mi_dicc["Anillos"])  # {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}
 ```
 
 Algunos métodos interesantes a conocer son:
@@ -122,7 +122,11 @@ Algunos métodos interesantes a conocer son:
 - `len()`, para averiguar la longitud de un diccionario:
 
 ```python
-print(mi_dicc.keys()) # dict_keys([23, 'Nombre', 'Equipo', 'Anillos'])
-print(mi_dicc.values()) # dict_values(['Jordan', 'Michael', 'Chicago', {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}])
-print(len(mi_dicc)) # 4
+print(mi_dicc.keys())  # dict_keys([23, 'Nombre', 'Equipo', 'Anillos'])
+print(mi_dicc.values())  # dict_values(['Jordan', 'Michael', 'Chicago', {'Temporadas': (1991, 1992, 1993, 1996, 1997, 1998)}])
+print(len(mi_dicc))  # 4
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/09/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

@@ -60,7 +60,7 @@ coche3 = Vehiculo("Renault", "Megane")
 
 coches = [coche1, coche2, coche3]
 
-fichero = open("prac40_files/coches", "wb")
+fichero = open("coches", "wb")
 
 pickle.dump(coches, fichero)
 
@@ -72,7 +72,7 @@ del fichero
 *Notas:*
 
 - Recordemos que estamos creando ficheros externos cuya codificación es binaria, es por ello que el valor del parámetro correspondiente de la función `open()` es `"wb"`.
-- Al ejecutar el anterior bloque de código, aparecerá en la carpeta `prac40_files` (para mantener coherencia en la estructura del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0)) el fichero `coches`.
+- Al ejecutar el anterior bloque de código, aparecerá en la carpeta asociada del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0)) el fichero `coches`.
 
 Para rescatar la información de este archivo que acabamos de generar, tecleamos:
 
@@ -103,7 +103,7 @@ class Vehiculo():
               self.frena)
 
 
-fichero = open("prac40_files/coches", "rb")
+fichero = open("coches", "rb")
 
 coches = pickle.load(fichero)
 
@@ -143,3 +143,7 @@ None
 ```
 
 *Nota*: como podemos comprobar arriba, si hacemos la recuperación de la serialización en un fichero distinto, la definición de la clase `Vehiculo` es necesario que figure asimismo (en caso contrario arroja *Python* un error). El problema radica en que el nuevo archivo no tiene información sobre la clase `Vehiculo` ni, por supuesto, del método `estado()`.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/40/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

@@ -197,3 +197,7 @@ AttributeError: 'Coche' object has no attribute '__chequeo_interno'
 Es decir, *Python* arroja un error. No nos deja llamar al método `__chequeo_interno()` desde fuera de la propia clase `Coche` porque está encapsulado.
 
 ¿Cuándo encapsular una variable o un método? No existe una ''regla de oro'', esto es, habremos de hacerlo cuando la clase así lo precise, dependiendo del comportamiento que posea una clase y en función del criterio del propio programador.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/28/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

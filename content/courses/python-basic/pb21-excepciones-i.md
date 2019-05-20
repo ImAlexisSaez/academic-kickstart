@@ -166,3 +166,7 @@ ValueError: invalid literal for int() with base 10: 'a'
 ```
 
 *Python* arroja un error de tipo `ValueError` que también habríamos de controlar a través de un bloque `try` - `except`.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/21/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

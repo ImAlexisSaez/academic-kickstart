@@ -164,6 +164,7 @@ def devuelve_max(n1, n2):
     else:
         return n1
 
+
 num1 = int(input("Introduce el primer número: "))
 num2 = int(input("Introduce el segundo número: "))
 
@@ -194,3 +195,7 @@ media = (num1 + num2 + num3) / 3
 
 print("La media aritmética es: " + str(media))
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/11/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

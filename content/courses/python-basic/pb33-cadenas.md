@@ -91,3 +91,7 @@ if email.count("@") == 1 and email.count("@", 1, len(email) - 1) == 1:
 else:
     print("La dirección de correo es incorrecta.")
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/33/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

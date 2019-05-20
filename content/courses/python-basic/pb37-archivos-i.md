@@ -42,12 +42,12 @@ Veamos un ejemplo sencillo en el que crearemos un archivo donde almacenar una fr
 ```python
 from io import open
 
-archivo_texto = open("prac37_files/archivo.txt", "w")
+archivo_texto = open("archivo.txt", "w")
 ```
 
 *Nota*: un archivo lo podemos abrir en modo lectura (`r`), escritura (`w`), agregar (`a`)... 
 
-Si ahora acudimos al interior de la carpeta `prac37_files`, encontraremos un archivo de texto vacío denominado `archivo.txt`. En absoluto es necesario que almacenemos el fichero en una carpeta, pero únicamente procedo así para que el [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0) mantenga una estructura coherente.
+Si ahora acudimos al interior de la carpeta, encontraremos un archivo de texto vacío denominado `archivo.txt`. En absoluto es necesario que almacenemos el fichero en una carpeta, pero únicamente procedo así para que el [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0) mantenga una estructura coherente.
 
 A continuación, veamos cómo incluir información (texto) en dicho archivo:
 
@@ -55,7 +55,7 @@ A continuación, veamos cómo incluir información (texto) en dicho archivo:
 from io import open
 
 # Creación + Apertura
-archivo_texto = open("prac37_files/archivo.txt", "w")
+archivo_texto = open("archivo.txt", "w")
 
 frase = "Es un estupendo día para estudiar Python\nen Youtube."
 
@@ -73,7 +73,7 @@ Acto seguido, estudiemos cómo abrir un archivo en modo lectura y acceder a su c
 ```python
 from io import open
 
-archivo_texto = open("prac37_files/archivo.txt", "r")
+archivo_texto = open("archivo.txt", "r")
 
 texto = archivo_texto.read()
 
@@ -92,7 +92,7 @@ Otro método que nos puede resultar de utilidad a la hora de leer un archivo es 
 ```python
 from io import open
 
-archivo_texto = open("prac37_files/archivo.txt", "r")
+archivo_texto = open("archivo.txt", "r")
 
 lineas_texto = archivo_texto.readlines()
 
@@ -120,17 +120,21 @@ Finalmente, veamos cómo abrir un archivo para agregar información. Para no alt
 ```python
 from io import open
 
-archivo1 = open("prac37_files/archivo.txt", "r")
+archivo1 = open("archivo.txt", "r")
 texto = archivo1.read()
 archivo1.close()
 
-archivo2 = open("prac37_files/archivo2.txt", "w")
+archivo2 = open("archivo2.txt", "w")
 archivo2.write(texto)
 archivo2.close()
 
-archivo2 = open("prac37_files/archivo2.txt", "a")
+archivo2 = open("archivo2.txt", "a")
 archivo2.write("\n¡Mañana más!")
 archivo2.close()
 ```
 
-Si acudimos a la carpeta `prac37_files`, comprobaremos la existencia de un fichero denominado `archivo2.txt`, que contiene tres líneas.
+Si acudimos a la carpeta, comprobaremos la existencia de un fichero denominado `archivo2.txt`, que contiene tres líneas.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/37/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

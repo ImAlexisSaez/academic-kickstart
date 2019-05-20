@@ -23,12 +23,12 @@ weight: 38
 
 Continuemos el estudio de la manipulación de ficheros externos de texto, con el módulo `io`, analizando en esta ocasión cómo manejar punteros en texto.
 
-Para ello, movamos el último archivo de texto generado en la lección anterior (`archivo2.txt`) a la carpeta `prac38_files`, para así mantener la coherencia de la estructura de ficheros del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0). Tras ello, tecleemos:
+Para ello, movamos el último archivo de texto generado en la lección anterior (`archivo2.txt`) a la carpeta, para así mantener la coherencia de la estructura de ficheros del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0). Tras ello, tecleemos:
 
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo2.txt", "r")
+archivo = open("archivo2.txt", "r")
 
 print(archivo.read())
 
@@ -48,7 +48,7 @@ Se puede inicializar la posición del puntero utilizando la función `.seek()`, 
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo2.txt", "r")
+archivo = open("archivo2.txt", "r")
 
 print(archivo.read())
 
@@ -80,7 +80,7 @@ Con el método `.read()` también podemos modificar la función del puntero, aun
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo2.txt", "r")
+archivo = open("archivo2.txt", "r")
 
 print(archivo.read(11))
 print(archivo.read())
@@ -100,7 +100,7 @@ Para situar el puntero justo en medio de un archivo de texto podemos emplear la 
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo2.txt", "r")
+archivo = open("archivo2.txt", "r")
 
 archivo.seek(len(archivo.read()) / 2)
 
@@ -120,7 +120,7 @@ en Youtube.
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo2.txt", "r")
+archivo = open("archivo2.txt", "r")
 
 archivo.seek(len(archivo.readline()))
 
@@ -140,7 +140,7 @@ Un archivo lo podemos abrir, simultáneamente, en modo lectura y escritura (`"r+
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo3.txt", "r+")  # lectura y escritura
+archivo = open("archivo3.txt", "r+")  # lectura y escritura
 
 archivo.write("Comienzo del texto: ")
 
@@ -164,7 +164,7 @@ Así, para incluir una línea en mitad del documento (la segunda en este caso pa
 ```python
 from io import open
 
-archivo = open("prac38_files/archivo3.txt", "r+")  # lectura y escritura
+archivo = open("archivo3.txt", "r+")  # lectura y escritura
 
 lineas = archivo.readlines()
 
@@ -186,6 +186,10 @@ Comienzo del texto: para estudiar Python
 Esta línea ha sido incluida desde el exterior.
 ¡Mañana más!
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/38/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).
 
 
 

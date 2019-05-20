@@ -76,3 +76,7 @@ print(next(ciudades_devueltas))  # M
 
 print(next(ciudades_devueltas))  # a
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/20/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

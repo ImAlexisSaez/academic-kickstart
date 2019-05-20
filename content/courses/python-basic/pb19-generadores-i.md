@@ -100,3 +100,7 @@ print("Aquí podría ir más código.")
 
 print(next(devuelve_pares))  # 6
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/19/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

@@ -73,7 +73,7 @@ print("Programa de cálculo de raíces cuadradas")
 
 numero = int(input("Introduce un número: "))
 
-intentos = 0 # Para ejecutar el bucle while un número de veces determinado
+intentos = 0  # Para ejecutar el bucle while un número de veces determinado
 
 while numero < 0:
     print("No se puede hallar la raíz de un número negativo.")
@@ -121,11 +121,15 @@ print("- Introduce tantos números positivos como desees sumar.")
 print("- Introduce un número negativo para calcular la suma.")
 
 suma = 0
-num  = int(input("Introduce un número positivo: "))
+num = int(input("Introduce un número positivo: "))
 
 while num > 0:
     suma += num
-    num  = int(input("Introduce un número positivo: "))
+    num = int(input("Introduce un número positivo: "))
 
 print(f"La suma de los valores positivos introducios es {suma}.")
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/17/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

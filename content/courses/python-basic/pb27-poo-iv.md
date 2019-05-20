@@ -195,3 +195,7 @@ class Coche():
 ```
 
 De la misma manera, se pueden encapsular métodos, opción que estudiaremos en futuras lecciones.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/27/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

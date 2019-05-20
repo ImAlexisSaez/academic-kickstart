@@ -37,7 +37,7 @@ import pickle
 
 nombres = ["Pedro", "Ana", "María", "Isabel"]
 
-fichero = open("prac39_files/lista_nombres", "wb")
+fichero = open("lista_nombres", "wb")
 
 pickle.dump(nombres, fichero)
 
@@ -50,14 +50,14 @@ del fichero
 
 - A la hora de crear el fichero externo en modo escritura, con el método `open()`, hemos de indicarle que esta será binaria, para lo cual el correspondiente parámetro toma como valor de argumento `"wb"`.
 - La instrucción `del` borra el puntero de la memoria hacia la variable `fichero`, dejando de estar disponible su acceso a partir de ese momento.
-- Al ejecutar el anterior bloque de código, en la carpeta denominada `prac39_files` (designada así para conservar la coherencia en la estructura del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0)), aparecerá un archivo externo de tipo binario denominado `lista_nombres`.
+- Al ejecutar el anterior bloque de código, en la carpeta correspondiente del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0)), aparecerá un archivo externo de tipo binario denominado `lista_nombres`.
 
 A continuamos, veamos cómo rescatar la información que reside en el interior del mencionado fichero.
 
 ```python
 import pickle
 
-fichero = open("prac39_files/lista_nombres", "rb")
+fichero = open("lista_nombres", "rb")
 
 lista = pickle.load(fichero)
 
@@ -71,3 +71,7 @@ print(lista)
 ```
 
 *Nota*: para activar el modo de lectura de archivos binarios, el  parámetro correspondiente de la función `open()` ha de tomar el valor de argumento `"rb"`.
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/39/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

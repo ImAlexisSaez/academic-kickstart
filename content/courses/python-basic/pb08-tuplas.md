@@ -39,26 +39,26 @@ Su sintaxis es `nombre = (elem1, elem2, elem3...)`, siendo el uso de los parént
 ```python
 mi_tupla = ("Alexis", 10, 1, 1995)
 
-print(mi_tupla) # ("Alexis", 10, 1, 1995)
-print(mi_tupla[1]) # 10
-print(mi_tupla[-1]) # 1995
+print(mi_tupla)  # ("Alexis", 10, 1, 1995)
+print(mi_tupla[1])  # 10
+print(mi_tupla[-1])  # 1995
 ```
 
 Existen funciones que nos permiten convertir tuplas en listas (`list()`) y viceversa (`tuple()`):
 
 ```python
 mi_lista = list(mi_tupla)
-print(mi_lista) # ["Alexis", 10, 1, 1995]
+print(mi_lista)  # ["Alexis", 10, 1, 1995]
 
 mi_tupla = tuple(mi_lista)
-print(mi_tupla) # ("Alexis", 10, 1, 1995)
+print(mi_tupla)  # ("Alexis", 10, 1, 1995)
 ```
 
 Comprobamos la pertenencia de un elemento a la tupla mediante `in`:
 
 ```python
-print("Alexis" in mi_tupla) # True
-print(3.14 in mi_tupla) # False
+print("Alexis" in mi_tupla)  # True
+print(3.14 in mi_tupla)  # False
 ```
 
 Con `.count()` obtenemos el número de elementos que se encuentran dentro de una tupla:
@@ -66,16 +66,16 @@ Con `.count()` obtenemos el número de elementos que se encuentran dentro de una
 ```python
 mi_tupla = ("Alexis", 1, 2, 2, True, 2, "Alexis")
 
-print(mi_tupla.count("Alexis")) # 2
-print(mi_tupla.count(1)) # 2 (True cuenta como 1)
-print(mi_tupla.count(2)) # 3
+print(mi_tupla.count("Alexis"))  # 2
+print(mi_tupla.count(1))  # 2 (True cuenta como 1)
+print(mi_tupla.count(2))  # 3
 ```
 
 El método `len` nos permite hallar la longitud de una tupla, siendo el índice del último elemento igual a `len - 1`:
 
 ```python
-print(len(mi_tupla)) # 7
-print(mi_tupla[len(mi_tupla) - 1]) # "Alexis"
+print(len(mi_tupla))  # 7
+print(mi_tupla[len(mi_tupla) - 1])  # "Alexis"
 ```
 
 Podemos crear tuplas unitarias siguiendo el patrón `nombre = (elem,)`:
@@ -83,8 +83,8 @@ Podemos crear tuplas unitarias siguiendo el patrón `nombre = (elem,)`:
 ```python
 mi_tupla = ("Alexis",)
 
-print(type(mi_tupla)) # <class 'tuple'>
-print(len(mi_tupla)) # 1
+print(type(mi_tupla))  # <class 'tuple'>
+print(len(mi_tupla))  # 1
 ```
 
 Como mencionamos, los paréntesis son opcionales:
@@ -92,8 +92,8 @@ Como mencionamos, los paréntesis son opcionales:
 ```python
 mi_tupla = "Alexis", 3.14, True, 10
 
-print(type(mi_tupla)) # <class 'tuple'>
-print(mi_tupla) # ("Alexis", 3.14, True, 10)
+print(type(mi_tupla))  # <class 'tuple'>
+print(mi_tupla)  # ("Alexis", 3.14, True, 10)
 ```
 
 Esta sintaxis se conoce como **empaquetado de tupla** y hemos de ser cautos, pues en un futuro, al combinarla con el uso de funciones, puede dar lugar a confusiones.
@@ -105,8 +105,12 @@ mi_tupla = ("Alexis", 3.14, True, 10)
 
 nombre, pi, alto, mes = mi_tupla
 
-print(nombre) # Alexis
-print(pi) # 3.14
-print(alto) # True
-print(mes) # 10
+print(nombre)  # Alexis
+print(pi)  # 3.14
+print(alto)  # True
+print(mes)  # 10
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/08/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

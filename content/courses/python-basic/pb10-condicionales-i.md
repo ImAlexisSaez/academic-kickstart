@@ -37,9 +37,10 @@ def evaluacion(nota):
         valoracion = "Suspenso"
     return valoracion
 
-print(evaluacion(6)) # Aprobado
-print(evaluacion(1)) # Suspenso
-print(evaluacion(2.1)) # Suspenso
+
+print(evaluacion(6))  # Aprobado
+print(evaluacion(1))  # Suspenso
+print(evaluacion(2.1))  # Suspenso
 ```
 
 Programemos una versión interactiva del anterior bloque de instrucciones, donde el usuario ha de introducir la nota durante la ejecución del código (a través de la función `input()`). Para ello, necesitamos activar la consola mediante el menú `Tools`, opción `SublimeREPL` y en el apartado `Python` seleccionamos `Python - RUN current file`.
@@ -50,6 +51,7 @@ def evaluacion(nota):
     if nota < 5:
         valoracion = "Suspenso"
     return valoracion
+
 
 print("Programa de evaluación de notas de alumnos")
 
@@ -72,6 +74,7 @@ def evaluacion(nota):
     if nota < 5:
         valoracion = "Suspenso"
     return valoracion
+
 
 print("Programa de evaluación de notas de alumnos")
 
@@ -97,6 +100,7 @@ def evaluacion(nota):
         valoracion = "Suspenso"
     return valoracion
 
+
 print("Programa de evaluación de notas de alumnos")
 
 nota_alumno = input("Introduce la nota del alumno: ")
@@ -111,3 +115,7 @@ Programa de evaluación de notas de alumnos
 Introduce la nota del alumno: 8
 Aprobado
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/10/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).

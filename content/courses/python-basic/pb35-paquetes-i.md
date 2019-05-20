@@ -25,9 +25,9 @@ Los **paquetes** son directorios donde se almacenarán módulos relacionados ent
 
 Un paquete se crea generando un directorio en cuyo interior haya presente un archivo denominado `__init__.py`.
 
-Imaginemos que nuestro objetivo es elaborar un programa que realice diversos cálculos matemáticos y estadísticos. Vamos a empezar creando un directorio denominado `prac35_calculos`, en consonancia con la nomenclatura que estamos siguiendo para los ficheros del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).
+Imaginemos que nuestro objetivo es elaborar un programa que realice diversos cálculos matemáticos y estadísticos. Vamos a empezar creando un directorio denominado `calculos`, en consonancia con la nomenclatura que estamos siguiendo para los ficheros del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).
 
-En su interior creamos el mencionado archivo `__init__.py` (sin contenido alguno), acción que le transmite a *Python* la información de que la carpeta `prac35_calculos` funcionará como un paquete.
+En su interior creamos el mencionado archivo `__init__.py` (sin contenido alguno), acción que le transmite a *Python* la información de que la carpeta `calculos` funcionará como un paquete.
 
 Añadimos ahora a la carpeta el módulo `calculos_generales.py`, cuyo contenido es el siguiente:
 
@@ -59,7 +59,7 @@ def redondear(numero):
 Ahora, desde la raíz del directorio, veamos cómo podemos utilizar nuestro paquete recién creado:
 
 ```python
-from prac35_calculos.calculos_generales import dividir
+from calculos.calculos_generales import dividir
 
 dividir(10, 3)
 ```
@@ -71,7 +71,7 @@ El resultado de la división es: 3.3333333333333335
 Recordemos que podemos importar todo el contenido del módulo utilizando el carácter `*`:
 
 ```python
-from prac35_calculos.calculos_generales import *
+from calculos.calculos_generales import *
 
 dividir(10, 3)
 
@@ -123,8 +123,8 @@ def redondear(numero):
 Para utilizar estos últimos módulos creados, tecleamos:
 
 ```python
-from prac35_calculos.basicos.operaciones_basicas import sumar
-from prac35_calculos.redondeo_potencia.redondea_y_potencia import potenciar
+from calculos.basicos.operaciones_basicas import sumar
+from calculos.redondeo_potencia.redondea_y_potencia import potenciar
 
 sumar(5, 7)
 potenciar(2, 10)
@@ -134,4 +134,8 @@ potenciar(2, 10)
 El resultado de la suma es: 12
 El resultado de la potenciación es: 1024
 ```
+
+## Código fuente
+
+El código fuente y los posibles ficheros externos generados correspondientes a esta lección se encuentran disponibles para su consulta en la carpeta `/lecciones/35/` del [repositorio](https://github.com/ImAlexisSaez/curso-python-desde-0).
 
