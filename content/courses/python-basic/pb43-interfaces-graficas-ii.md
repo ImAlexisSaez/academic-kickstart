@@ -57,7 +57,7 @@ raiz.mainloop()
 
 A primera vista, al ejecutar el aterior bloque de código, da la sensación de que hemos perdido el color de fondo declarado para la aplicación (`lightblue`). No obstante, como ahora permitimos manipular el tamaño de la ventana (mediante la instrucción `raiz.resizable(width=True, height=True)`), al agrandarla comprobamos que todo funciona correctamente.
 
-{{< figure src="/courses/python-basic/pb43-img01.png" title="Los dos colores de fondo siguen disponibles." numbered="true" >}}
+{{< figure src="/courses/python-basic/img/pb43-img01.png" title="Los dos colores de fondo siguen disponibles." numbered="true" >}}
 
 *Nota*: en [esta página](http://www.science.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter) podemos encontrar un buen recurso para acceder a una paleta de colores declarados por nombres y disponibles para la librería `tkinter`.
 
@@ -80,7 +80,7 @@ frame.config(bg="tomato", width="450", height="300")
 raiz.mainloop()
 ```
 
-{{< figure src="/courses/python-basic/pb43-img02.png" title="Modificando propiedades del *frame*." numbered="true" >}}
+{{< figure src="/courses/python-basic/img/pb43-img02.png" title="Modificando propiedades del *frame*." numbered="true" >}}
 
 Las opciones de configuración de los *frames* son ciertamente numerosas. Por ejemplo, podemos añadirle un borde (parámetros `bd` y `relief`) o cambiar el icono del ratón cuando se adentra en el interior del *frame* (parámetro `cursor`):
 
@@ -106,7 +106,7 @@ frame.config(bg="tomato",
 raiz.mainloop()
 ```
 
-{{< figure src="/courses/python-basic/pb43-img03.png" title="Añadiendo un marco al *frame*." numbered="true" >}}
+{{< figure src="/courses/python-basic/img/pb43-img03.png" title="Añadiendo un marco al *frame*." numbered="true" >}}
 
 Obviamente, todo aquello que hemos visto de cara a configurar un *frame* es aplicable a la propia *raíz* y dependerá de cómo deseemos diseñar nuestra aplicación.
 

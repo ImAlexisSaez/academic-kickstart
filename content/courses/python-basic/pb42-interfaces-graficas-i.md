@@ -49,7 +49,7 @@ raiz.mainloop()
 
 Al ejecutar el anterior bloque de código aparece una ventana en blanco en nuestro escritorio, con algunos botones que permiten interactuar con ella a la manera que estamos habituados.
 
-{{< figure src="/courses/python-basic/pb42-img01.png" title="Primera ventana." numbered="true" >}}
+{{< figure src="/courses/python-basic/img/pb42-img01.png" title="Primera ventana." numbered="true" >}}
 
 Para que una ventana pueda mantenerse en ejecución, debe estar en una especie de ''bucle infinito'' (a la espera o escucha de eventos), estado que conseguimos a través de la función `mainloop()`, que, por el momento, habrá de estar siempre al final de nuestros programas.
 
@@ -78,7 +78,7 @@ raiz.mainloop()
 - `geometry()` configura el ancho y el alto de la ventana.
 - `config()`, entre otras acciones, nos permite cambiar el color del fondo.
 
-{{< figure src="/courses/python-basic/pb42-img02.png" title="Modificando propiedades de la ventana." numbered="true" >}}
+{{< figure src="/courses/python-basic/img/pb42-img02.png" title="Modificando propiedades de la ventana." numbered="true" >}}
 
 Hasta el momento, las ventanas requieren de la consola de *Python* para su funcionamiento. Si queremos que este sea independiente de ella, hemos de modificar la extensión de la aplicación de `.py` a `.pyw`.
 
