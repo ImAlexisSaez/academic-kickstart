@@ -1,5 +1,5 @@
 +++
-title   = "Valencià (C1)"
+title   = "Valencià (nivell C1)"
 slug    = "valenciano-c1"
 date    = 2019-01-01T15:57:28+01:00
 lastmod = 2019-03-20T15:57:28+01:00
@@ -10,7 +10,7 @@ draft   = false
 tags = ["Valencià"]
 
 # Project summary to display on homepage.
-summary = "En aquest projecte compilaré recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1 del MECR per a les llengües."
+summary = "Compilació de recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1 del MECR per a les llengües."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

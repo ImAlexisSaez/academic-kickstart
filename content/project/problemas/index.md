@@ -1,12 +1,12 @@
 +++
-title   = "Problemas"
+title   = "Problemas (Oposición)"
 slug    = "problemas"
 date    = 2018-07-12T15:57:28+01:00
 lastmod = 2019-05-08T00:57:28+01:00
 draft   = false
 
-tags    = ["Problemas"]
-summary = "En este proyecto recogeré diversos problemas matemáticos enfocados a la preparación de oposiciones."
+tags    = ["Matemáticas"]
+summary = "Recopilación de diversos problemas matemáticos enfocados a la preparación de oposiciones."
 
 [image]
   focal_point = "Smart"

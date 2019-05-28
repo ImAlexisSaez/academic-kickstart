@@ -26,16 +26,12 @@ subtitle = "A la búsqueda del conocimiento"
     tag  = "*"
 
   [[content.filter_button]]
-    name = "Capacitació"
-    tag  = "Capacitació"
-
-  [[content.filter_button]]
     name = "Desarrollo web"
     tag  = "Desarrollo web"
 
   [[content.filter_button]]
-    name = "Problemas"
-    tag  = "Problemas"
+    name = "Matemáticas"
+    tag  = "Matemáticas"
 
   [[content.filter_button]]
     name = "Python"

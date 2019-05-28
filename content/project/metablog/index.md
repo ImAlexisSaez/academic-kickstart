@@ -1,5 +1,5 @@
 +++
-title   = "Metablog"
+title   = "Metablog (Hugo)"
 slug    = "metablog"
 date    = 2018-07-05T15:57:28+01:00
 lastmod = 2019-01-29T15:57:28+01:00
@@ -10,7 +10,7 @@ draft   = false
 tags = ["Desarrollo web"]
 
 # Project summary to display on homepage.
-summary = "En este proyecto recogeré diversas entradas del blog que ilustran detalladamente cómo generar una página web como Infinitos Contrastes."
+summary = "Recopilación de entradas del blog que ilustran detalladamente cómo generar una página web como Infinitos Contrastes."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

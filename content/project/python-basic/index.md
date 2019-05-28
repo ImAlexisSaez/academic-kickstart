@@ -6,7 +6,7 @@ lastmod = 2019-04-28T00:00:01+01:00
 draft   = false
 
 tags    = ["Python"]
-summary = "En este proyecto recopilaré mis notas personales para el curso 'Python desde 0' ofrecido por 'Píldoras Informáticas'."
+summary = "Recopilación de notas personales tomadas durante el curso 'Python desde 0' ofrecido por 'Píldoras Informáticas' en 'Youtube'."
 
 external_link = "/courses/python-basic/"
 

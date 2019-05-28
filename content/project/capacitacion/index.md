@@ -1,5 +1,5 @@
 +++
-title   = "Capacitació"
+title   = "Capacitació en valencià"
 slug    = "capacitacion"
 date    = 2019-01-01T15:57:28+01:00
 lastmod = 2019-01-30T15:57:28+01:00
@@ -7,10 +7,10 @@ draft   = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Capacitació", "Valencià"]
+tags = ["Valencià"]
 
 # Project summary to display on homepage.
-summary = "En aquest projecte compilaré diversos recursos i informació relacionats amb el Certificat de Capacitació en valencià (CC d’ara endavant)."
+summary = "Compilació de diversos recursos i informació d'interés relacionats amb el Certificat de Capacitació en valencià (CC d’ara endavant)."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
