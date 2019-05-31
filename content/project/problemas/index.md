@@ -2,7 +2,7 @@
 title   = "Problemas (Oposición)"
 slug    = "problemas"
 date    = 2018-07-12T15:57:28+01:00
-lastmod = 2019-05-08T00:57:28+01:00
+lastmod = 2019-05-31T00:57:28+01:00
 draft   = false
 
 tags    = ["Matemáticas"]
@@ -19,7 +19,7 @@ Por comodidad, los agrupo por temática en la siguiente tabla
 
 | Temática | Problema |
 | -------- | -------- |
-| [Combinatoria](/tags/combinatoria/) | [59](/2019/03/13/comenzando-con-la-combinatoria-i/), [60](/2019/03/16/comenzando-con-la-combinatoria-ii/), [61](/2019/03/20/comenzando-con-la-combinatoria-iii/), [62](/2019/03/23/comenzando-con-la-combinatoria-iv/), [63](/2019/03/27/contando-multiplos-a-traves-del-pie/), [64](/2019/03/30/un-curioso-multiplo-que-todo-numero-posee/), [65](/2019/04/03/buscando-el-numero-de-terminos-ando/), [66](/2019/04/06/a-la-mesa-todos-a-la-mesa/), [67](/2019/04/10/uno-mas-alrededor-de-la-mesa/), [68](/2019/04/13/de-astas-banderas-y-un-poco-de-combinatoria/), [69](/2019/04/17/contando-diagonales-en-un-poligono/), [70](/2019/04/20/organizando-las-bajadas-del-ascensor/), [71](/2019/04/24/presentando-desarreglos/), [72](/2019/04/27/cuando-bailar-se-convierte-en-un-problema-matematico/), [73](/2019/05/01/una-vuelta-de-tuerca-para-la-estrategia-de-barras-y-estrellas/), [74](/2019/05/04/tres-dados-buscando-sumar-diez/), [75](/2019/05/08/secantes-dos-a-dos-pero-tres-a-tres-no-concurrentes/), [76](/2019/05/11/buscando-el-total-de-soluciones-de-una-inecuacion/), [77](/2019/05/15/refinando-el-ejercicio-del-ultimo-dia/), [78](/2019/05/18/marchando-uno-de-numeros-combinatorios-generalizados/), [79](/2019/05/22/breve-introduccion-a-los-problemas-de-rutas/), [80](/2019/05/25/seguimos_de_rutas/) |
+| [Combinatoria](/tags/combinatoria/) | [59](/2019/03/13/comenzando-con-la-combinatoria-i/), [60](/2019/03/16/comenzando-con-la-combinatoria-ii/), [61](/2019/03/20/comenzando-con-la-combinatoria-iii/), [62](/2019/03/23/comenzando-con-la-combinatoria-iv/), [63](/2019/03/27/contando-multiplos-a-traves-del-pie/), [64](/2019/03/30/un-curioso-multiplo-que-todo-numero-posee/), [65](/2019/04/03/buscando-el-numero-de-terminos-ando/), [66](/2019/04/06/a-la-mesa-todos-a-la-mesa/), [67](/2019/04/10/uno-mas-alrededor-de-la-mesa/), [68](/2019/04/13/de-astas-banderas-y-un-poco-de-combinatoria/), [69](/2019/04/17/contando-diagonales-en-un-poligono/), [70](/2019/04/20/organizando-las-bajadas-del-ascensor/), [71](/2019/04/24/presentando-desarreglos/), [72](/2019/04/27/cuando-bailar-se-convierte-en-un-problema-matematico/), [73](/2019/05/01/una-vuelta-de-tuerca-para-la-estrategia-de-barras-y-estrellas/), [74](/2019/05/04/tres-dados-buscando-sumar-diez/), [75](/2019/05/08/secantes-dos-a-dos-pero-tres-a-tres-no-concurrentes/), [76](/2019/05/11/buscando-el-total-de-soluciones-de-una-inecuacion/), [77](/2019/05/15/refinando-el-ejercicio-del-ultimo-dia/), [78](/2019/05/18/marchando-uno-de-numeros-combinatorios-generalizados/), [79](/2019/05/22/breve-introduccion-a-los-problemas-de-rutas/), [80](/2019/05/25/seguimos_de_rutas/), [81](/2019/05/29/politica-votos-y-un-poco-de-combinatoria/) |
 | [Complejos](/tags/números-complejos/) | [4](/2018/08/11/jugando-con-las-propiedades-del-conjugado/) |
 | [Determinantes](/tags/determinantes/) | [2](/2018/07/16/mezclando-determinantes-y-numeros-combinatorios/) |
 | [Ecuaciones](/tags/ecuaciones/) | [57](/2019/03/06/cuando-un-problema-viene-con-muy-mala-leche/) |
