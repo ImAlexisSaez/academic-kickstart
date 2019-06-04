@@ -15,7 +15,7 @@ menu:
 weight: 2
 ---
 
-## 1. Introducción
+## 1. Introducción {#section-1}
 
 En este módulo, investigaremos cómo *Python*, dado un conjunto de datos, puede realizar manipulaciones, proceder a su limpieza y llevar a cabo consultas a través de la librería `pandas`. Para resolver dudas sobre el uso de este módulo, cuatro buenos recursos son:
 
@@ -24,7 +24,7 @@ En este módulo, investigaremos cómo *Python*, dado un conjunto de datos, puede
 - El agregador de blogs [Planet Python](https://planetpython.org/).
 - El podcast [Data Skeptic](https://dataskeptic.com/).
 
-## 2. La estructura de datos Series
+## 2. La estructura de datos Series {#section-2}
 
 La estructura de datos `Series`, de la librería `pandas`, es una especie de mezcla entre las listas y los diccionarios de *Python* que estudiamos en el módulo anterior. Los elementos se almacenan en orden y tenemos a nuestra disposición una serie de etiquetas (*labels*), que nos permiten un acceso a ellos por nombre.
 
@@ -244,7 +244,7 @@ d
 
 
 
-## 3. Extracción de elementos en Series
+## 3. Extracción de elementos en Series {#section-3}
 
 Para empezar, retomemos uno de los últimos ejemplos de la sección anterior:
 
@@ -716,7 +716,7 @@ lista_original
 
 
 
-## 4. La estrutura de datos DataFrame
+## 4. La estrutura de datos DataFrame {#section-4}
 
 La estructura de datos `DataFrame` es, posiblemente, la gran protagonista de la librería `pandas` y con la que trabajaremos habitualmente a la hora de llevar a cabo análisis de datos. Se trata de una tabla compuesta por múltiples filas y columnas (conceptualmente estaríamos hablando de un *array* 2-dimensional), donde cada registro posee su propia etiqueta.
 
@@ -1478,7 +1478,7 @@ df
 
 
 
-## 5. Lectura de archivos como DataFrame
+## 5. Lectura de archivos como DataFrame {#section-5}
 
 Habitualmente, a la hora de realizar análisis de datos, importamos el conjunto de datos en un `DataFrame` y luego seleccionamos aquellas que nos resulten de interés para trabajar con ellas.
 
@@ -2048,7 +2048,7 @@ df.head()
 
 Notemos el uso del parámetro `inplace`, que permite modificar el objeto original, puesto que su valor está declarado como `True`. Por otro lado, hemos de proceder con cautela a la hora de renombrar las columnas para no perder la unicidad durante el proceso, de ahí la justificación de la concatenación `+ col[4:]`.
 
-## 6. Consultas en DataFrame
+## 6. Consultas en DataFrame {#section-6}
 
 Antes de abordar cómo realizar consultas en `DataFrame`, hemos de introducir el concepto de *máscara booleana* (*boolean masking*), puesto que esta estrategia es la que permite consultar el conjunto de datos de una manera rápida y eficiente.
 
@@ -2717,7 +2717,7 @@ df2[df2["Cost"] > 3]["Name"]
 
 
 
-## 7. Índices en DataFrame
+## 7. Índices en DataFrame {#section-7}
 
 Además de las maneras que hemos visto para generar índices en un objeto de tipo `Series` o `DataFrame`, podemos utilizar la función `set_index()`, que toma una lista de columnas y las convierte en índices para el objeto.
 
@@ -4073,7 +4073,7 @@ df
 
 
 
-## 8. Valores perdidos
+## 8. Valores perdidos {#section-8}
 
 Dado que es bastante frecuente encontrar valores perdidos en conjuntos de datos, veamos cómo podemos gestionarlos con la librería `pandas`.
 

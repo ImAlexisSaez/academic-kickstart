@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-## 1. Introducción a la especialización
+## 1. Introducción a la especialización {#section-1}
 
 La dificultad de la presente [especialización](https://www.coursera.org/specializations/data-science-python) está catalogada como de nivel intermedio, ya que requiere que poseamos cierta familiaridad con algunos conceptos de programación (en *Python* fundamentalmente) y estadística. No obstante, siempre podemos optar por complementar los cinco cursos con los materiales necesarios que nos permitan seguir el ritmo de las explicaciones (documentación, tutoriales, libros...).
 
@@ -32,7 +32,7 @@ El primer curso de la especialización, [Introduction to Data Science in Python]
 3. Consultas (''*querying*'') y manipulaciones avanzadas con *Pandas*.
 4. Análisis estadísticos básicos con *NumPy* y *SciPy*.
 
-## 2. Ciencia de datos
+## 2. Ciencia de datos {#section-2}
 
 La popularidad de la *Ciencia de Datos* ha crecido de manera exponencial, hecho que podemos confirmar experimentalmente nosotros mismos si acudimos a la web de *Google Trends* y buscamos el término ''*data science*''. Este interés queda justificado por la actual era de la información en la que vivimos, con compañías que utilizan de manera intensiva las diversas teorías de esta disciplina, como son *Google*, *Facebook*, *Netflix*...
 
@@ -45,11 +45,11 @@ La *Ciencia de Datos* se describe habitualmente, de manera gráfica, mediante el
 5. Visualización y presentación de los datos.
 6. ''Ciencia'' a través de la *Ciencia de Datos*.
 
-## 3. Uso de Jupyter en Coursera
+## 3. Uso de Jupyter en Coursera {#section-3}
 
 Personalmente, como la especialización la seguiré en modo ''*Audit*'', mi objetivo es realizar las tareas, los ejercicios e incluso los cuestionarios localmente, en lugar de a través de las herramientas que ofrece *Coursera* en la propia plataforma. Para ello, con miras a tener disponible el acceso a los distintos *notebooks* de *Jupyter*, he instalado en mi ordenador la última versión de *Anaconda* ([enlace](https://www.anaconda.com/distribution/#download-section)).
 
-## 4. Funciones en Python
+## 4. Funciones en Python {#section-4}
 
 Familiaricémonos un poco con los *notebooks* de *Python*.
 
@@ -235,9 +235,9 @@ do_math(1, 2)
 
 
 
-## 5. Tipos y secuencias en Python
+## 5. Tipos y secuencias en Python {#section-5}
 
-### 5.1. La función type
+### 5.1. La función type {#section-5-1}
 
 Con la función `type()` accedemos al tipo de un objeto:
 
@@ -303,7 +303,7 @@ type(sumar_numeros)
 
 Analicemos, a continuación, los tres tipos básicos de colecciones que *Python* posee: tuplas, listas y diccionarios.
 
-### 5.2. Tuplas y listas
+### 5.2. Tuplas y listas {#section-5-2}
 
 Por lo que respecta a las tuplas, son objetos inmutables que escribimos entre paréntesis (aunque el uso de estos es opcional si suministramos una serie de objetos separados por comas).
 
@@ -678,7 +678,7 @@ Hemos de prestar atención a los tipos de los objetos cuando estamos realizando 
 
 
 
-### 5.3. Diccionarios
+### 5.3. Diccionarios {#section-5-3}
 
 Examinemos, finalmente, los diccionarios, que son colecciones no ordenadas de elementos etiquetados, que siguen la sintaxis `key : value`. Si para las tuplas utilizamos paréntesis y para las lista corchetes, los diccionarios se generan a partir de llaves.
 
@@ -805,7 +805,7 @@ nombre, mail, tfno = datos
     ValueError: not enough values to unpack (expected 3, got 2)
 
 
-## 6. Cadenas de texto
+## 6. Cadenas de texto {#section-6}
 
 *Python* 3, por defecto, utiliza el estándar de codificación [Unicode](https://es.wikipedia.org/wiki/Unicode), por lo que no encontraremos dificultades a la hora de trabajar con diversos tipos de caracteres (más allá incluso de los existentes en el alfabeto latino).
 
@@ -830,7 +830,7 @@ print(texto_factura.format(ventas["nombre"],
 
 El método `format()` permite casi una miríada de posibilidades de configuración, tal como reza en la [página de documentación](https://docs.python.org/3/library/string.html#format-string-syntax) asociada.
 
-## 7. Lectura de archivos CSV
+## 7. Lectura de archivos CSV {#section-7}
 
 > Los archivos CSV (del inglés comma-separated values) son un tipo de documento en formato abierto sencillo para representar datos en forma de tabla, en las que las columnas se separan por comas (o punto y coma en donde la coma es el separador decimal: Chile, Perú, Argentina, España, Brasil...) y las filas por saltos de línea. ([Fuente](https://es.wikipedia.org/wiki/Valores_separados_por_comas))
 
@@ -1100,7 +1100,7 @@ mpg_hwy_clase
 
 A primera vista, el proceso para llevar a cabo los análisis presentados es un tanto complejo y tedioso de realizar. Veremos, en el próximo módulo, que la librería `pandas` agilizará todos estos procedimientos.
 
-## 8. Fechas y horas en Python
+## 8. Fechas y horas en Python {#section-8}
 
 En ocasiones, a la hora de llevar a cabo de análisis de datos, hemos de trabajar con fechas y horas. Por ejemplo, si buscamos el período de mayor ventas durante una etapa determinada o la hora de mayor actividad, por parte de los usuarios, en un foro de Internet.
 
@@ -1205,9 +1205,9 @@ today > today - delta  # comparación entre fechas
 
 
 
-## 9. Python avanzado: objetos y map()
+## 9. Python avanzado: objetos y map() {#section-9}
 
-### 9.1 Objetos
+### 9.1 Objetos {#section-9-1}
 
 Aunque, a lo largo de la especialización, rara vez nos veremos en la tesitura de generar clases propias, refresquemos su creación en *Python* elaborando una que modelice personas:
 
@@ -1236,7 +1236,7 @@ print("{} vive en {} y trabaja en el {}.".format(alexis.nombre, alexis.localizac
     Alexis Sáez vive en Ibi (Alicante, España) y trabaja en el Departamento de Educación.
     
 
-### 9.2 map()
+### 9.2 map() {#section-9-2}
 
 Acto seguido, supongamos que tenemos acceso a los precios para cuatro productos que ofrecen dos tiendas diferentes. Nuestro objetivo es averiguar a cuánto ascenderá el desembolso total, si buscamos adquirir dichos cuatro productos, de manera que paguemos la menor cantidad monetaria para cada uno de ellos. Dadas ambas listas de precios, dicho tipo de comparaciones elemento a elemento se pueden llevar a cabo a través de la función `map()`, que aplica una determinada función a una serie de objetos iterables.
 
@@ -1314,9 +1314,9 @@ list(map(split_title_and_name, people))
 
 
 
-## 10. Python avanzado: lambdas y comprensiones de listas
+## 10. Python avanzado: lambdas y comprensiones de listas {#section-10}
 
-### 10.1 Lambdas
+### 10.1 Lambdas {#section-10-1}
 
 La palabra clave `lambda` nos permite crear funciones anónimas en *Python* (conocidas comúnmente en este lenguaje de programación como *lambdas*). Suelen ser funciones cortas, que podemos escribir generalmente en una línea (una única expresión, sin valores para parámetros opciones ni una lógica compleja en su interior) y mediante la instrucción `lambda` no nos vemos en la necesidad de haber de crear una función con nombre para desempeñar cierta tarea concreta.
 
@@ -1399,7 +1399,7 @@ list(map(split_title_and_name, people)) == list(map(lambda person: person.split(
 
 
 
-### 10.2 Comprensiones de listas
+### 10.2 Comprensiones de listas {#section-10-2}
 
 A continuación, almacenemos en una lista los números pares menores que mil:
 
@@ -1484,7 +1484,7 @@ print(answer[:50])  # Primeros 50 identificadores
     ['aa00', 'aa01', 'aa02', 'aa03', 'aa04', 'aa05', 'aa06', 'aa07', 'aa08', 'aa09', 'aa10', 'aa11', 'aa12', 'aa13', 'aa14', 'aa15', 'aa16', 'aa17', 'aa18', 'aa19', 'aa20', 'aa21', 'aa22', 'aa23', 'aa24', 'aa25', 'aa26', 'aa27', 'aa28', 'aa29', 'aa30', 'aa31', 'aa32', 'aa33', 'aa34', 'aa35', 'aa36', 'aa37', 'aa38', 'aa39', 'aa40', 'aa41', 'aa42', 'aa43', 'aa44', 'aa45', 'aa46', 'aa47', 'aa48', 'aa49']
     
 
-## 11. La librería NumPy
+## 11. La librería NumPy {#section-11}
 
 Adentrémonos, en este apartado, en los entresijos de la librería *NumPy*. Sobre este módulo se asienta el ecosistema que permite trabajar *Ciencia de Datos* en *Python*, ya que posibilita el cálculo con *arrays* y *matrices* de una manera eficiente en este lenguaje de programación.
 
@@ -1493,7 +1493,7 @@ Adentrémonos, en este apartado, en los entresijos de la librería *NumPy*. Sobr
 import numpy as np
 ```
 
-### 11.1 Creando arrays
+### 11.1 Creando arrays {#section-11-1}
 
 A continuación, generemos nuestro primer *array* con *NumPy*. Para ello, podemos crear una lista y convertirla a dicha estructura:
 
@@ -1734,7 +1734,7 @@ np.repeat(np.array([1, 2, 3]), 3)
 
 
 
-### 11.2 Combinando arrays
+### 11.2 Combinando arrays {#section-11-2}
 
 Por otro lado, podemos construir nuevos *arrays* combinando unos existentes.
 
@@ -1784,7 +1784,7 @@ np.hstack([p, 2*p])
 
 
 
-### 11.3 Operaciones
+### 11.3 Operaciones {#section-11-3}
 
 Los operadores aritméticos realizan las opciones elemento a elemento:
 
@@ -1949,7 +1949,7 @@ z.dtype
 
 
 
-### 11.4 Funciones matemáticas
+### 11.4 Funciones matemáticas {#section-11-4}
 
 La librería *NumPy* incorpora de base algunas conocidas funciones matemáticas.
 
@@ -2050,7 +2050,7 @@ a.std()
 
 
 
-### 11.5 Extracción de elementos (indexing & slicing)
+### 11.5 Extracción de elementos (indexing & slicing) {#section-11-5}
 
 A continuación, veamos qué posibilidades nos ofrece *NumPy* de cara a la extracción de elementos de un *array*.
 
@@ -2234,7 +2234,7 @@ r
 
 
 
-### 11.6 Copiando datos
+### 11.6 Copiando datos {#section-11-6}
 
 Hemos de ser cautos a la hora de copiar y modificar *arrays* en *NumPy*.
 
@@ -2450,7 +2450,7 @@ print(old)
      [1 1 1]]
     
 
-### 11.7 Iterando sobre arrays
+### 11.7 Iterando sobre arrays {#section-11-7}
 
 Finalmente, estudiemos cómo iterar sobre *arrays*:
 
@@ -2558,7 +2558,7 @@ for i, j in zip(matriz_aleatorios, matriz_aleatorios_cuadrado):
     [0 0 7] + [ 0  0 49] = [ 0  0 56]
     
 
-## 12. Cuestionario
+## 12. Cuestionario {#section-12}
 
 Dado que estoy siguiendo la especialización en modo *Audit*, no tengo acceso a la posibilidad de verificar las respuestas que proporciono en los cuestionarios, así como sospecho que tampoco podré hacer lo propio con las prácticas de programación.
 
