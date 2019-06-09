@@ -18,7 +18,7 @@ projects   = []
 
 [image]
   focal_point = "Smart"
-  caption     = "Fotografía de [journey man](https://unsplash.com/@j_o_u_r_n_e_y), disponible en [Unsplash](https://unsplash.com/photos/yeedyBjfbuo)."
+  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com)."
 +++
 
 En la web oficial de la *Conselleria de Educación, Investigación, Cultura y Deporte*, dentro del apartado dedicado a la *inclusión educativa*, podemos encontrar interesantes publicaciones enfocadas hacia la atención al alumnado con necesidades específicas de apoyo educativo.

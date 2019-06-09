@@ -285,4 +285,4 @@ Por último, quizá quede todo un poco mejor si damos acceso a las diferentes se
     weight = 2
 ```
 
-Concluyo aquí esta extensa entrada, dejando el [Proyecto MetaBlog](/proyectos/metablog/) en espera, pues en estos momentos estoy más centrado en la generación de contenido para la página web, que en la edición de la misma.
+Concluyo aquí esta extensa entrada, dejando el [Proyecto MetaBlog](/proyecto/metablog/) en espera, pues en estos momentos estoy más centrado en la generación de contenido para la página web, que en la edición de la misma.
