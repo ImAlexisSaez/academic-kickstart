@@ -21,7 +21,7 @@ weight: 67
 
 ## Notas personales
 
-En esta lección, estudiaremos la función `filter()`, que forma parte de un conjunto de funciones conocidas como ''de orden superior'' y nos permiten utilizar en *Python* en paradigma de **programación funcional**. La mencionada función verifica que los elementos de una secuencia cumplen una condición, devolviendo un iterador compuesto por aquellos que la satisfacen.
+En esta lección, estudiaremos la función `filter()`, que forma parte de un conjunto de funciones conocidas como ''de orden superior'' y nos permiten utilizar en *Python* el paradigma de **programación funcional**. La mencionada función verifica que los elementos de una secuencia cumplen una condición, devolviendo un iterador compuesto por aquellos que la satisfacen.
 
 Por ejemplo, podemos construir un programa que detecte qué números son pares y cuáles no lo son, devolviéndonos una lista compuesta por los que verifiquen dicha condición:
 
