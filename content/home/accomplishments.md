@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Servei de Formació del Professorat"
+  organization_url = "http://www.ceice.gva.es/va/web/formacion-profesorado/inicio"
+  title = "Certificat de Capacitació per a l'Ensenyament en Valencià"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-18"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "cieaCOVA"
   organization_url = "http://cieacova.com/"
   title = "Certificat de nivell C1"
