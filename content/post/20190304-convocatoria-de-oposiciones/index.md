@@ -5,7 +5,7 @@ subtitle = "Tan esperada como temida"
 summary  = "Breve análisis de la convocatoria de oposiciones, destacando algunas de sus principales características."
 
 date     = 2019-03-04T05:59:39+02:00
-lastmod  = 2019-06-14T00:00:01+01:00
+lastmod  = 2019-06-17T00:00:01+01:00
 
 authors  = ["admin"]
 math     = false
