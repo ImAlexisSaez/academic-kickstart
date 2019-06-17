@@ -2,7 +2,7 @@
 title   = "Capacitació en valencià"
 slug    = "capacitacion"
 date    = 2019-01-01T15:57:28+01:00
-lastmod = 2019-01-30T15:57:28+01:00
+lastmod = 2019-06-17T15:57:28+01:00
 draft   = false
 
 # Tags: can be used for filtering projects.
@@ -90,3 +90,54 @@ Pel que fa a la intervenció oral, aquesta té una valoració màxima de 30 punt
 - Contingut: 15 punts.
 
 S'obtindrà un apte en aquesta part si la qualificació total és superior a 18 punts.
+
+## 4. Convocatòries
+
+Convé que revisem amb freqüència la [pàgina web](http://www.ceice.gva.es/va/web/formacion-profesorado/pruebas/cursos-ccdm?fbclid=IwAR26Aw0-IwsRvb9Te-NsjX1SokH-uWo_e2mCjgfjLPJvZY2P_oAgtDg60cM) del Servei de Formació del Professorat associada amb l'oferta lingüística (i més concretament la corresponent a les proves de CC i DM). Els detalls de l'última convocatòria són els següents:
+
+- [Convocatòria](http://www.ceice.gva.es/documents/162880217/166879173/Convocat%C3%B2ria+Capacitaci%C3%B3%2027+de+maig+de+2019+def.pdf/3c3f6d1e-a03e-4567-b21c-cbd331fa6bb8) de 27 de maig de 2019, de la Secretaria Autonòmica d'Educació i Investigació, per la qual es convoquen proves adreçades a l'obtenció de les titulacions administratives de Certificat de Capacitació per a l'Ensenyament en Valencià, Certificat de Capacitació per a l'Ensenyament en Llengua estrangera i del Diploma de Mestre de Valencià.
+- [Diagrama](http://www.ceice.gva.es/documents/162880217/166879173/CAS_Diagrama+pruebas+CCDM+septiembre+%2719.pdf/a4fc20d1-1bd4-4c7e-a425-4b9f27acef14) explicatiu del procediment.
+
+El termini d'inscripció d'aquesta ja està tancat, però els documents poden servir de referència i orientació per a futures convocatòries.
+
+## 5. Recursos addicionals
+
+El grup de Facebook '*Opositores sin Capacitació en Valencià. Noticias y recursos*' ([enllaç](https://www.facebook.com/groups/1615777152003844/)) és, possiblement, el millor lloc on estar al dia de totes les novetats relacionades amb el CC (notícies, cursos, proves, qualificacions...). Els seus membres comparteixen interessants recursos com ara:
+
+- [Directori](https://drive.google.com/drive/folders/1DHWatcZuwCNyj9fBYLqRqIDmbdmz-N8w?fbclid=IwAR397Adq7rWAP_4B15xUwICRi8Y9XH7HI5D3D_nIog7zZzMscuIIX2ue5Lo) en Google Drive amb qüestionaris associats a les unitats 3 i 4, així com de caràcter general, que es proposen als cursos presencials del CEFIRE. Pel que fa a la convocatòria de maig d'enguany, la majoria de les preguntes eren idèntiques a les que figuren en aquest recurs.
+
+D'altra banda, el canal de YouTube d'en Salva Pérez, [Per no frenar](https://www.youtube.com/channel/UCzE7J6b2d5qmEKnQeabE1hA), recull excel·lents consells de cara a les parts orals i escrites de les proves de la cieaCOVA, JQCV i EOI. Són una referència molt recomanable a tindre en compte per a fer un bon paper a les proves lliures de CC. 
+
+A més a més, destaque els següents vídeos enfocats al CC d'enguany:
+
+{{< youtube Cz-AJM3iOuI >}}
+
+---
+
+{{< youtube KskXErywWwQ >}}
+
+---
+
+Així mateix, en deixe uns altres corresponents a les convocatòries de l'any 2018, però que encara són recomanables perquè la prova té la mateixa estructura:
+
+{{< youtube vP9afKD3zHE >}}
+
+---
+
+{{< youtube Cz-kwmVei3g >}}
+
+---
+
+{{< youtube T669ztYmqjo >}}
+
+---
+
+{{< youtube OMNgbSWmIWw >}}
+
+---
+
+{{< youtube AMS-170EoVw >}}
+
+---
+
+{{< youtube 8uaRaQnzyp4 >}}
