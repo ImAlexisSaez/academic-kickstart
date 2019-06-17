@@ -13,9 +13,9 @@ summary = "Recopilación de diversos problemas matemáticos enfocados a la prepa
   caption     = "Fotografía de [Antoine Dautry](https://unsplash.com/@antoine1003), disponible en [Unsplash](https://unsplash.com/photos/_zsL306fDck)."
 +++
 
-En este proyecto recogeré diversos problemas matemáticos enfocados a la preparación de oposiciones.
+A nivel personal, de las cuatro partes en que se divide el procedimiento de selección de oposiciones, la asociada al supuesto práctico es aquella que encuentro más interesante. Cierto es que con un temario tan extenso como variado, esta parte precisa una buena dedicación de tiempo para preparala con garantías.
 
-Por comodidad, los agrupo por temática en la siguiente tabla
+En este proyecto, por tanto, recogeré diversos problemas matemáticos enfocados a la preparación de oposiciones. Por comodidad, los agruparé por temática en la siguiente tabla:
 
 | Temática | Problema |
 | -------- | -------- |
