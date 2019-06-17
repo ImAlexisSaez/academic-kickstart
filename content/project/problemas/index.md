@@ -2,7 +2,7 @@
 title   = "Problemas (Oposición)"
 slug    = "problemas"
 date    = 2018-07-12T15:57:28+01:00
-lastmod = 2019-05-31T00:57:28+01:00
+lastmod = 2019-06-17T00:57:28+01:00
 draft   = false
 
 tags    = ["Matemáticas"]

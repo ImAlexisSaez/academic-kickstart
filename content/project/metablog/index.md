@@ -2,7 +2,7 @@
 title   = "Metablog (Hugo)"
 slug    = "metablog"
 date    = 2018-07-05T15:57:28+01:00
-lastmod = 2019-01-29T15:57:28+01:00
+lastmod = 2019-06-17T15:57:28+01:00
 draft   = false
 
 # Tags: can be used for filtering projects.
