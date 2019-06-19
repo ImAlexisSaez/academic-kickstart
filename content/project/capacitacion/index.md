@@ -102,11 +102,12 @@ El termini d'inscripció d'aquesta ja està tancat, però els documents poden se
 
 ## 5. Recursos addicionals
 
-El grup de Facebook '*Opositores sin Capacitació en Valencià. Noticias y recursos*' ([enllaç](https://www.facebook.com/groups/1615777152003844/)) és, possiblement, el millor lloc on estar al dia de totes les novetats relacionades amb el CC (notícies, cursos, proves, qualificacions...). Els seus membres comparteixen interessants recursos com ara:
+El grup de *Facebook* '*Opositores sin Capacitació en Valencià. Noticias y recursos*' ([enllaç](https://www.facebook.com/groups/1615777152003844/)) és, possiblement, el millor lloc on estar al dia de totes les novetats relacionades amb el CC (notícies, cursos, proves, qualificacions...). Els seus membres comparteixen interessants recursos com ara:
 
-- [Directori](https://drive.google.com/drive/folders/1DHWatcZuwCNyj9fBYLqRqIDmbdmz-N8w?fbclid=IwAR397Adq7rWAP_4B15xUwICRi8Y9XH7HI5D3D_nIog7zZzMscuIIX2ue5Lo) en Google Drive amb qüestionaris associats a les unitats 3 i 4, així com de caràcter general, que es proposen als cursos presencials del CEFIRE. Pel que fa a la convocatòria de maig d'enguany, la majoria de les preguntes eren idèntiques a les que figuren en aquest recurs.
+- [Directori](https://drive.google.com/drive/folders/1DHWatcZuwCNyj9fBYLqRqIDmbdmz-N8w?fbclid=IwAR397Adq7rWAP_4B15xUwICRi8Y9XH7HI5D3D_nIog7zZzMscuIIX2ue5Lo) en *Google Drive* amb qüestionaris associats a les unitats 3 i 4, així com de caràcter general, que es proposen als cursos presencials del CEFIRE. Pel que fa a la convocatòria de maig d'enguany, la majoria de les preguntes eren idèntiques a les que figuren en aquest recurs.
+- Un altre [directori](https://drive.google.com/drive/folders/1PPZyFgQrSwiNj4eYal_BfXJNytOwcCrh?fbclid=IwAR23uMSFylr3-EyAbYXuDNaiG8nZcBNBSX4xGqhGTTM8Et3g2xRoVxFpI6E) en *Google Drive* amb els apunts personals d'una integrant del grup de *Facebook* (qüestionaris, redaccions, esquemes...).
 
-D'altra banda, el canal de YouTube d'en Salva Pérez, [Per no frenar](https://www.youtube.com/channel/UCzE7J6b2d5qmEKnQeabE1hA), recull excel·lents consells de cara a les parts orals i escrites de les proves de la cieaCOVA, JQCV i EOI. Són una referència molt recomanable a tindre en compte per a fer un bon paper a les proves lliures de CC. 
+D'altra banda, el canal de *YouTube* d'en *Salva Pérez*, [Per no frenar](https://www.youtube.com/channel/UCzE7J6b2d5qmEKnQeabE1hA), recull excel·lents consells de cara a les parts orals i escrites de les proves de la cieaCOVA, JQCV i EOI. Són una referència molt recomanable a tindre en compte per a fer un bon paper a les proves lliures de CC. 
 
 A més a més, destaque els següents vídeos enfocats al CC d'enguany:
 
