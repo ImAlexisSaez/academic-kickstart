@@ -1,5 +1,5 @@
 +++
-title   = "Python (Básico)"
+title   = "Curso Python (Nivel básico)"
 slug    = "python-basic"
 date    = 2019-04-28T00:00:01+01:00
 lastmod = 2019-04-28T00:00:01+01:00
