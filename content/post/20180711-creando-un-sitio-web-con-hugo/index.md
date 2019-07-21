@@ -1,25 +1,25 @@
-+++
-title = "Creando un sitio web con Hugo"
-slug  = "creando-un-sitio-web-con-hugo"
-subtitle = "It's alive!"
-summary  = "Lección 3: damos a luz un sitio web de prueba y lo revisamos localmente."
+---
+title: "Creando un sitio web con Hugo"
+slug: "creando-un-sitio-web-con-hugo"
+subtitle: "It's alive!"
+summary: "Lección 3: damos a luz un sitio web de prueba y lo revisamos localmente."
 
-date     = 2018-07-11T05:59:39+02:00
-#lastmod = 2019-03-28T19:32:08+01:00
+date: 2018-07-11T05:59:39+02:00
+#lastmod: 2019-03-28T19:32:08+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Ananke"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Ananke"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Lee Campbell](https://unsplash.com/@leecampbell), disponible en [Unsplash](https://unsplash.com/photos/DtDlVpy-vvQ)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Lee Campbell](https://unsplash.com/@leecampbell), disponible en [Unsplash](https://unsplash.com/photos/DtDlVpy-vvQ)."
+---
 
 ¡Ha llegado el momento que todos estábamos esperando! Tras un par de artículos en los que hemos preparado nuestros equipos instalando las herramientas necesarias, hoy veremos cómo generar nuestro primer sitio web con *Hugo*.
 

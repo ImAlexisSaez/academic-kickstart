@@ -1,25 +1,25 @@
-+++
-title = "Configurando Sublime Text para escribir en Markdown"
-slug  = "configurando-sublime-text-para-escribir-en-markdown"
-subtitle = "Se convierte así en mi herramienta favorita"
-summary  = "Analicemos cómo configurar un interesante complemento de Sublime Text 3 para trabajar con Markdown."
+---
+title: "Configurando Sublime Text para escribir en Markdown"
+slug: "configurando-sublime-text-para-escribir-en-markdown"
+subtitle: "Se convierte así en mi herramienta favorita"
+summary: "Analicemos cómo configurar un interesante complemento de Sublime Text 3 para trabajar con Markdown."
 
-date     = 2018-07-10T05:59:39+02:00
-#lastmod = 2019-03-28T19:17:21+01:00
+date: 2018-07-10T05:59:39+02:00
+#lastmod: 2019-03-28T19:17:21+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Markdown", "Sublime Text 3"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["Markdown", "Sublime Text 3"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Patrick Fore](https://unsplash.com/@patrickian4), disponible en [Unsplash](https://unsplash.com/photos/0gkw_9fy0eQ)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Patrick Fore](https://unsplash.com/@patrickian4), disponible en [Unsplash](https://unsplash.com/photos/0gkw_9fy0eQ)."
+---
 
 En una [entrada publicada](/2018/07/05/preparando-el-equipo-para-hugo/) hace unos días comenté que utilizo el editor de texto plano *Sublime Text 3* como herramienta predeterminada para escribir documentos con *Markdown*. Veamos cómo configurarlo para abordar tal empresa.
 

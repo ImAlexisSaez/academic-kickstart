@@ -1,25 +1,26 @@
-+++
-title = "Probando KaTeX con un problema de inducción clásico"
-slug  = "probando-katex-con-un-problema-de-induccion-clasico"
-subtitle = "Problema 1"
-summary  = "Problema 1: sumando números naturales."
+---
+title: "Probando KaTeX con un problema de inducción clásico"
+slug: "probando-katex-con-un-problema-de-induccion-clasico"
+subtitle: "Problema 1"
+summary: "Problema 1: sumando números naturales."
 
-date     = 2018-07-12T05:59:39+02:00
-#lastmod = 2019-03-29T07:49:17+01:00
+date: 2018-07-12T05:59:39+02:00
+#lastmod: 2019-03-29T07:49:17+01:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Inducción", "KaTeX", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Inducción", "KaTeX", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Antoine Dautry](https://unsplash.com/@antoine1003), disponible en [Unsplash](https://unsplash.com/photos/05A-kdOH6Hw)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Antoine Dautry](https://unsplash.com/@antoine1003), disponible en [Unsplash](https://unsplash.com/photos/05A-kdOH6Hw)."
+---
 
 **Problema 1:** Demuestra que, para cada $n\in\mathbb{N}$, con $n\geq 1$,  
 
@@ -117,7 +118,8 @@ funciona a la perfección, como podemos comprobar a continuación
 $$
 x = 
 \begin{cases}
-  a &\text{if } b\\\\ c &\text{if } d
+  a &\text{if } b\\
+  c &\text{if } d
 \end{cases}
 $$
 

@@ -1,25 +1,25 @@
-+++
-title = "Errores frecuentes a la hora de elaborar programaciones didácticas"
-slug  = "errores-frecuentes-a-la-hora-de-elaborar-programaciones-didacticas"
-subtitle = "¡A evitarlos todos!"
-summary  = "Breve análisis del artículo 'Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria'."
+---
+title: "Errores frecuentes a la hora de elaborar programaciones didácticas"
+slug: "errores-frecuentes-a-la-hora-de-elaborar-programaciones-didacticas"
+subtitle: "¡A evitarlos todos!"
+summary: "Breve análisis del artículo 'Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria'."
 
-date     = 2018-07-14T05:59:39+02:00
-#lastmod = 2019-03-29T08:18:37+01:00
+date: 2018-07-14T05:59:39+02:00
+#lastmod: 2019-03-29T08:18:37+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación", "Programación didáctica"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación", "Programación didáctica"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Estée Janssens](https://unsplash.com/@esteejanssens), disponible en [Unsplash](https://unsplash.com/photos/RARH8b7N-fw)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Estée Janssens](https://unsplash.com/@esteejanssens), disponible en [Unsplash](https://unsplash.com/photos/RARH8b7N-fw)."
+---
 
 En esta entrada echaremos un vistazo al artículo "*Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria*", que viene de la mano de *Ignacio Polo* y *Gemma Puertas*.
 

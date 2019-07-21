@@ -1,25 +1,25 @@
-+++
-title = "Curso de Hugo en YouTube"
-slug  = "curso-de-hugo-en-youtube"
-subtitle = "Aprende Hugo en un suspiro"
-summary  = "Presentación de la lista de reproducción, compuesta por la nada desdeñable cifra de 23 vídeos, que viene de la mano de Giraffe Academy."
+---
+title: "Curso de Hugo en YouTube"
+slug: "curso-de-hugo-en-youtube"
+subtitle: "Aprende Hugo en un suspiro"
+summary: "Presentación de la lista de reproducción, compuesta por la nada desdeñable cifra de 23 vídeos, que viene de la mano de Giraffe Academy."
 
-date     = 2018-07-15T05:59:39+02:00
-#lastmod = 2019-03-29T09:23:54+01:00
+date: 2018-07-15T05:59:39+02:00
+#lastmod: 2019-03-29T09:23:54+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo"]
-categories = ["Recursos"]
-projects   = []
+tags: ["Hugo"]
+categories: ["Recursos"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Linda Xu](https://unsplash.com/@rhindaxu), disponible en [Unsplash](https://unsplash.com/photos/iMf7bvcIIog)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Linda Xu](https://unsplash.com/@rhindaxu), disponible en [Unsplash](https://unsplash.com/photos/iMf7bvcIIog)."
+---
 
 A estas alturas, estimo que nadie pondrá en duda que la plataforma audiovisual [YouTube](https://www.youtube.com/) es una colosal mina de recursos de aprendizaje, con auténticos diamantes por descubrir y al alcance de cualquier estudiante.
 

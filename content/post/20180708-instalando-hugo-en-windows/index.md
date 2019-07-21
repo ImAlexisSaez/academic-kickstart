@@ -1,25 +1,25 @@
-+++
-title = "Instalando Hugo en Windows"
-slug  = "instalando-hugo-en-windows"
-subtitle = "Un soplo de aire fresco en comparación con Jekyll"
-summary  = "Lección 2: cómo instalar Hugo en Windows sin morir en el intento."
+---
+title: "Instalando Hugo en Windows"
+slug: "instalando-hugo-en-windows"
+subtitle: "Un soplo de aire fresco en comparación con Jekyll"
+summary: "Lección 2: cómo instalar Hugo en Windows sin morir en el intento."
 
-date     = 2018-07-08T05:59:39+02:00
-#lastmod = 2019-03-28T06:08:34+01:00
+date: 2018-07-08T05:59:39+02:00
+#lastmod: 2019-03-28T06:08:34+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Windows"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Windows"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl), disponible en [Unsplash](https://unsplash.com/photos/KE0nC8-58MQ)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl), disponible en [Unsplash](https://unsplash.com/photos/KE0nC8-58MQ)."
+---
 
 Llevar a cabo la instalación de *Hugo* en *Windows* es extremadamente fácil, hecho que nos permite empezar a experimentar con esta tecnología en apenas unos minutos. Veamos, sin más dilación, todo el proceso en detalle.
 

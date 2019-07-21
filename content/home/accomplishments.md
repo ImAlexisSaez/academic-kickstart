@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Certificat de Capacitació per a l'Ensenyament en Valencià"
   url = ""
   certificate_url = ""
-  date_start = "2019-05-18"
+  date_start = "2019-07-05"
   date_end = ""
   description = ""
 

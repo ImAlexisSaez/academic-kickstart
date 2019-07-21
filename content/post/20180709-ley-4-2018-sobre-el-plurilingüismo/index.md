@@ -1,25 +1,25 @@
-+++
-title = "Ley 4 / 2018, sobre el plurilingüismo en el sistema educativo valenciano"
-slug  = "ley-4-2018-sobre-el-plurilingüismo-en-el-sistema-educativo-valenciano"
-subtitle = "Potenciando el uso del valenciano en las aulas"
-summary  = "Breve análisis de una ley que pretende normalizar el uso del valenciano y potenciar el del inglés."
+---
+title: "Ley 4 / 2018, sobre el plurilingüismo en el sistema educativo valenciano"
+slug: "ley-4-2018-sobre-el-plurilingüismo-en-el-sistema-educativo-valenciano"
+subtitle: "Potenciando el uso del valenciano en las aulas"
+summary: "Breve análisis de una ley que pretende normalizar el uso del valenciano y potenciar el del inglés."
 
-date     = 2018-07-09T05:59:39+02:00
-#lastmod = 2019-03-28T16:54:32+01:00
+date: 2018-07-09T05:59:39+02:00
+#lastmod: 2019-03-28T16:54:32+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación", "Plurilingüismo"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación", "Plurilingüismo"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Jelleke Vanooteghem](https://unsplash.com/@ilumire), disponible en [Unsplash](https://unsplash.com/photos/2OCh8tuNsBo)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Jelleke Vanooteghem](https://unsplash.com/@ilumire), disponible en [Unsplash](https://unsplash.com/photos/2OCh8tuNsBo)."
+---
 
 Echemos un vistazo en este artículo a la *Ley 4 / 2018, de 21 de febrero, de la Generalitat, por la que se regula y promueve el plurilingüismo en el sistema educativo valenciano*. Nos centraremos en la acreditación, capacitación y formación del profesorado.
 

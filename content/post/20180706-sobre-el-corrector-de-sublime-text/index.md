@@ -1,25 +1,25 @@
-+++
-title = "Sobre el corrector de Sublime Text"
-slug  = "sobre-el-corrector-de-sublime-text"
-subtitle = "Añadiendo un diccionario en español a este editor de texto"
-summary  = "Trabajar con Sublime Text 3 no implica renunciar al uso de un buen corrector ortográfico."
+---
+title: "Sobre el corrector de Sublime Text"
+slug: "sobre-el-corrector-de-sublime-text"
+subtitle: "Añadiendo un diccionario en español a este editor de texto"
+summary: "Trabajar con Sublime Text 3 no implica renunciar al uso de un buen corrector ortográfico."
 
-date     = 2018-07-06T07:59:39+02:00
-#lastmod = 2019-03-28T05:53:28+01:00
+date: 2018-07-06T07:59:39+02:00
+#lastmod: 2019-03-28T05:53:28+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Sublime Text 3"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["Sublime Text 3"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Romain Vignes](https://unsplash.com/@rvignes), disponible en [Unsplash](https://unsplash.com/photos/ywqa9IZB-dU)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Romain Vignes](https://unsplash.com/@rvignes), disponible en [Unsplash](https://unsplash.com/photos/ywqa9IZB-dU)."
+---
 
 Si nos decidimos a utilizar este editor de texto plano para escribir en español, ¿tenemos entonces que prescindir sin remedio del uso del corrector ortográfico? ¡En absoluto! Veamos cómo configurar esta característica fácilmente.
 

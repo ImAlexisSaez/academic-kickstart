@@ -1,25 +1,25 @@
-+++
-title = "Preparando el equipo para Hugo"
-slug  = "preparando-el-equipo-para-hugo"
-subtitle = "Guía de instalación de tres herramientas necesarias"
-summary  = "Lección 1: cómo instalar un buen sistema de control de versiones y un excelente editor de texto plano."
+---
+title: "Preparando el equipo para Hugo"
+slug: "preparando-el-equipo-para-hugo"
+subtitle: "Guía de instalación de tres herramientas necesarias"
+summary: "Lección 1: cómo instalar un buen sistema de control de versiones y un excelente editor de texto plano."
 
-date     = 2018-07-05T05:59:39+02:00
-#lastmod = 2019-03-27T21:41:59+01:00
+date: 2018-07-05T05:59:39+02:00
+#lastmod: 2019-03-27T21:41:59+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Git", "GitHub", "Sublime Text 3"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Git", "GitHub", "Sublime Text 3"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Todd Quackenbush](https://unsplash.com/@toddquackenbush), disponible en [Unsplash](https://unsplash.com/photos/IClZBVw5W5A)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Todd Quackenbush](https://unsplash.com/@toddquackenbush), disponible en [Unsplash](https://unsplash.com/photos/IClZBVw5W5A)."
+---
 
 Antes de lanzarnos sin más a generar sitios web con *Hugo*, conviene que instalemos una serie de herramientas que nos facilitarán la vida: un sistema de control de versiones (*Git* + *GitHub*) y un editor de texto plano (*Sublime Text 3*).
 

@@ -1,27 +1,27 @@
-+++
-title = "Migrando a Hugo"
-slug  = "migrando-a-hugo"
-subtitle = "Justificando cambios"
-summary  = "La falta de agilidad de Jekyll, a la hora de experimentar con la página web, me ha obligado a explorar alternativas."
+---
+title: "Migrando a Hugo"
+slug: "migrando-a-hugo"
+subtitle: "Justificando cambios"
+summary: "La falta de agilidad de Jekyll, a la hora de experimentar con la página web, me ha obligado a explorar alternativas."
 
-date     = 2018-07-04T07:59:39+02:00
-#lastmod = 2019-03-27T16:02:15+01:00
+date: 2018-07-04T07:59:39+02:00
+#lastmod: 2019-03-27T16:02:15+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags        = ["Hugo", "Jekyll", "Minimal Mistakes"]
-categories  = ["Reflexiones"]
-#projects   = []
+tags: ["Hugo", "Jekyll", "Minimal Mistakes"]
+categories: ["Reflexiones"]
+#projects: []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Mantas Hesthaven](https://unsplash.com/@mantashesthaven), disponible en [Unsplash](https://unsplash.com/photos/_g1WdcKcV3w)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Mantas Hesthaven](https://unsplash.com/@mantashesthaven), disponible en [Unsplash](https://unsplash.com/photos/_g1WdcKcV3w)."
+---
 
 La llegada del verano viene acompañada, al menos en mi caso, por un período de experimentación, en el que suelo abordar nuevos intereses o explorar alguna tecnología que haya captado mi atención en los últimos meses. 
 
