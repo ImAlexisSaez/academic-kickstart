@@ -1,25 +1,25 @@
-+++
-title = "Configurando el tema Ananke"
-slug  = "configurando-el-tema-ananke"
-subtitle = "Entablando amistad con los ficheros TOML"
-summary  = "Lección 4: analicemos cómo configurar algunos de los parámetros básicos del tema Ananke para personalizar el sitio web."
+---
+title: "Configurando el tema Ananke"
+slug: "configurando-el-tema-ananke"
+subtitle: "Entablando amistad con los ficheros TOML"
+summary: "Lección 4: analicemos cómo configurar algunos de los parámetros básicos del tema Ananke para personalizar el sitio web."
 
-date     = 2018-07-17T05:59:39+02:00
-#lastmod = 2019-03-29T11:08:48+01:00
+date: 2018-07-17T05:59:39+02:00
+lastmod: 2019-07-22T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Ananke"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Ananke"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Kalen Emsley](https://unsplash.com/@kalenemsley), disponible en [Unsplash](https://unsplash.com/photos/_LuLiJc1cdo)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Kalen Emsley](https://unsplash.com/@kalenemsley), disponible en [Unsplash](https://unsplash.com/photos/_LuLiJc1cdo)."
+---
 
 En la [anterior entrada](/2018/07/11/creando-un-sitio-web-con-hugo/) generamos, ¡solucionando incluso un pequeño *bug*!, nuestro primer sitio web con *Hugo*, utilizando para ello el tema *Ananke*. Veamos qué opciones de configuración nos ofrece dicho tema a continuación.
 

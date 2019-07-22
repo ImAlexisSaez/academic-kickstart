@@ -1,25 +1,26 @@
-+++
-title = "¿Cómo dividir diagonalmente una celda de una tabla con LaTeX?"
-slug  = "como-dividir-diagonalmente-una-celda-de-una-tabla-con-latex"
-subtitle = "Tan sencillo como útil"
-summary  = "Es habitual en estadística que trabajemos con tablas de contingencia, que se caracterizan por tener la celda que ocupa la esquina superior izquierda dividida diagonalmente."
+---
+title: "¿Cómo dividir diagonalmente una celda de una tabla con LaTeX?"
+slug: "como-dividir-diagonalmente-una-celda-de-una-tabla-con-latex"
+subtitle: "Tan sencillo como útil"
+summary: "Es habitual en estadística que trabajemos con tablas de contingencia, que se caracterizan por tener la celda que ocupa la esquina superior izquierda dividida diagonalmente."
 
-date     = 2018-07-20T05:59:39+02:00
-#lastmod = 2019-03-30T07:28:58+01:00
+date: 2018-07-20T05:59:39+02:00
+lastmod: 2019-03-30T07:28:58+01:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["LaTeX"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["LaTeX"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Jesus Kiteque](https://unsplash.com/@jesuskiteque), disponible en [Unsplash](https://unsplash.com/photos/wn-KYaHwcis)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Jesus Kiteque](https://unsplash.com/@jesuskiteque), disponible en [Unsplash](https://unsplash.com/photos/wn-KYaHwcis)."
+---
 
 Reconozco que la edición de tablas, junto con la gestión de figuras, a veces se convierte en una pequeña pesadilla para mí cuando estoy generando documentos con *LaTeX*. Veamos cómo he dado respuesta a la cuestión que aparece en el título de esta entrada.
 

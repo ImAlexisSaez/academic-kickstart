@@ -5,7 +5,7 @@ subtitle: "Problema 2"
 summary: "Problema 2: una combinación peligrosa."
 
 date: 2018-07-16T05:59:39+02:00
-#lastmod: 2019-03-29T09:36:34+01:00
+lastmod: 2019-07-22T00:00:01+01:00
 
 authors: ["admin"]
 math: true

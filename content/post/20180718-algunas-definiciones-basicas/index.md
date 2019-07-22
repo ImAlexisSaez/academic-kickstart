@@ -1,25 +1,25 @@
-+++
-title = "Algunas definiciones básicas: contenidos, criterios de evaluación, etc."
-slug  = "algunas-definiciones-basicas-contenidos-criterios-de-evaluacion-etc"
-subtitle = "Asentando los conceptos principales"
-summary  = "¿Qué es un contenido? ¿Y un criterio de evaluación? ¿Cómo se define un estándar de aprendizaje evaluable? La legislación nos da una respuesta rigurosa a cada una de las anteriores cuestiones."
+---
+title: "Algunas definiciones básicas: contenidos, criterios de evaluación, etc."
+slug: "algunas-definiciones-basicas-contenidos-criterios-de-evaluacion-etc"
+subtitle: "Asentando los conceptos principales"
+summary: "¿Qué es un contenido? ¿Y un criterio de evaluación? ¿Cómo se define un estándar de aprendizaje evaluable? La legislación nos da una respuesta rigurosa a cada una de las anteriores cuestiones."
 
-date     = 2018-07-18T05:59:39+02:00
-#lastmod = 2019-03-29T20:10:29+01:00
+date: 2018-07-18T05:59:39+02:00
+lastmod: 2019-03-29T20:10:29+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación", "Programación didáctica"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación", "Programación didáctica"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Patrick Tomasso](https://unsplash.com/@impatrickt), disponible en [Unsplash](https://unsplash.com/photos/Oaqk7qqNh_c)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Patrick Tomasso](https://unsplash.com/@impatrickt), disponible en [Unsplash](https://unsplash.com/photos/Oaqk7qqNh_c)."
+---
 
 ¿Qué es un contenido? ¿Y un criterio de evaluación? ¿Cómo se define un estándar de aprendizaje evaluable? La legislación nos da una respuesta rigurosa a cada una de las anteriores cuestiones.
 

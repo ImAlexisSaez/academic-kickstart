@@ -5,7 +5,7 @@ subtitle: "Problema 1"
 summary: "Problema 1: sumando números naturales."
 
 date: 2018-07-12T05:59:39+02:00
-#lastmod: 2019-03-29T07:49:17+01:00
+lastmod: 2019-07-22T00:00:01+01:00
 
 authors: ["admin"]
 math: true
@@ -25,7 +25,7 @@ image:
 **Problema 1:** Demuestra que, para cada $n\in\mathbb{N}$, con $n\geq 1$,  
 
 $$
-1+2+\cdots+n = \dfrac{n(n+1)}{2}.
+1 + 2 + \cdots + n = \dfrac{n(n+1)}{2}.
 $$ 
 
 ***

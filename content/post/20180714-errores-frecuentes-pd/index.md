@@ -5,7 +5,7 @@ subtitle: "¡A evitarlos todos!"
 summary: "Breve análisis del artículo 'Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria'."
 
 date: 2018-07-14T05:59:39+02:00
-#lastmod: 2019-03-29T08:18:37+01:00
+lastmod: 2019-07-22T08:18:37+01:00
 
 authors: ["admin"]
 math: false
@@ -21,9 +21,9 @@ image:
   caption: "Fotografía de [Estée Janssens](https://unsplash.com/@esteejanssens), disponible en [Unsplash](https://unsplash.com/photos/RARH8b7N-fw)."
 ---
 
-En esta entrada echaremos un vistazo al artículo "*Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria*", que viene de la mano de *Ignacio Polo* y *Gemma Puertas*.
+En esta entrada, echaremos un vistazo al artículo "*Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria*", que viene de la mano de *Ignacio Polo* y *Gemma Puertas*.
 
-Empecemos ofreciendo la referencia completa del mencionado artículo, para el que me gustaría destacar que su acceso es libre, hecho que siempre agradezco y opino debería ser la norma que seguir:
+Empecemos ofreciendo la referencia completa del mencionado artículo, para el que me gustaría destacar que su acceso es libre, hecho que siempre agradezco y opino que debería ser la norma que seguir en cuanto a investigación respecta:
 
 - Polo Martínez, I., & Puertas Bescós, G. (2017). Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria. *Avances en Supervisión Educativa*, (27). [https://doi.org/10.23824/ase.v0i27.593](https://doi.org/10.23824/ase.v0i27.593)
 
@@ -31,7 +31,7 @@ El texto posee un objetivo, cuanto menos, ambicioso, tal y como nos deja entreve
 
 >El objetivo esencial de este artículo es facilitar la elaboración de programaciones didácticas (ateniendo al marco normativo vigente en Educación Primaria y Educación Secundaria Obligatoria), reales (en cuanto a su reflejo con la docencia que se está practicando en las aulas), contextualizadas (al grupo de alumnado, nivel educativo y materia curricular del presente curso escolar), eficientes (en equilibrio entre la cantidad de información que aportamos y la calidad de la misma), actualizadas (en función de las posibles variaciones que se produzcan en el grupo clase a lo largo del curso) y evaluables (desde un planteamiento procesual dirigido al análisis de los logros que se van alcanzando tras el proceso de planificación inicial).
 
-A la hora de elaborar una programación didáctica (PD) de cara a unas futuras oposiciones, tener a nuestra disposición un documento que recopila errores frecuentes y, además, aconseja cómo solventarlos, es poco menos que un tesoro.
+A la hora de elaborar una programación didáctica (PD), de cara a unas futuras oposiciones, tener a nuestra disposición un documento que recopila errores frecuentes y, además, aconseja cómo solventarlos, es poco menos que un tesoro.
 
 Sin pretender llevar a cabo un resumen del artículo en las siguientes líneas, sí que me gustaría compartir algunas ideas que me han resultado interesantes, sobre todo por lo que respecta a la elaboración de programaciones didácticas para las etapas de Secundaria y de Bachillerato:
 

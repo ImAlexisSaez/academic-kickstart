@@ -1,25 +1,25 @@
-+++
-title = "¿Cómo incluir varias imágenes en la misma figura con LaTeX?"
-slug  = "como-incluir-varias-imagenes-en-la-misma-figura-con-latex"
-subtitle = "Estableciendo relaciones entre figuras fácilmente"
-summary  = "Es muy útil poder incluir varias imágenes en la misma figura, bien sea porque están relacionadas de alguna manera, bien debido a que resulta mucho más sencillo hacer una comparación si se colocan juntas."
+---
+title: "¿Cómo incluir varias imágenes en la misma figura con LaTeX?"
+slug: "como-incluir-varias-imagenes-en-la-misma-figura-con-latex"
+subtitle: "Estableciendo relaciones entre figuras fácilmente"
+summary: "Es muy útil poder incluir varias imágenes en la misma figura, bien sea porque están relacionadas de alguna manera, bien debido a que resulta mucho más sencillo hacer una comparación si se colocan juntas."
 
-date     = 2018-07-22T05:59:39+02:00
-#lastmod = 2019-03-30T07:36:02+01:00
+date: 2018-07-22T05:59:39+02:00
+lastmod: 2019-07-22T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["LaTeX"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["LaTeX"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Jack B.](https://unsplash.com/@nervum), disponible en [Unsplash](https://unsplash.com/photos/9GHTP3BbEO8)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Jack B.](https://unsplash.com/@nervum), disponible en [Unsplash](https://unsplash.com/photos/9GHTP3BbEO8)."
+---
 
 Es muy útil poder incluir varias imágenes en la misma figura, bien sea porque están relacionadas de alguna manera, bien debido a que resulta mucho más sencillo hacer una comparación si se colocan juntas.
 
