@@ -5,7 +5,7 @@ subtitle: "Añadiendo un diccionario en español a este editor de texto"
 summary: "Trabajar con Sublime Text 3 no implica renunciar al uso de un buen corrector ortográfico."
 
 date: 2018-07-06T07:59:39+02:00
-#lastmod: 2019-03-28T05:53:28+01:00
+lastmod: 2019-07-22T05:53:28+01:00
 
 authors: ["admin"]
 math: false
@@ -26,7 +26,7 @@ Si nos decidimos a utilizar este editor de texto plano para escribir en español
 En la instalación por defecto de *Sublime Text 3*, el mencionado corrector ortográfico únicamente tiene a su disposición dos listados de palabras, asociados estos a los idiomas:
 
 - inglés británico, e
-- inglés estadounidense (o "americano").
+- inglés estadounidense (o ''americano'').
 
 Comúnmente conocidos también como *diccionarios* (aunque no se incluyan los significados para las palabras contenidas en este tipo de listados nombrado), podemos seleccionar cualquiera de ellos a través del menú `View`, dentro del apartado `Dictionary`, y luego activar el modo de corrección ortográfica sin más que pulsar la tecla `F6`.
 
@@ -40,3 +40,4 @@ En apenas unos minutos podemos ampliar el número de listado de palabras siguien
 6. Los pasos 3 y 4 podemos repetirlos tantas veces como necesitemos en función del distinto número de diccionarios que estimemos que vayamos a emplear. El proceso que seguir es siempre el indicado, con los correspondientes cambios lógicos que cada nuevo idioma incorpora al procedimiento.
 
 Dejo pendiente para una futura entrada explicar cómo he configurado *Sublime Text 3* para convertirlo en un más que agradable editor de texto plano orientado a trabajar con documentos de tipo *markdown*.
+

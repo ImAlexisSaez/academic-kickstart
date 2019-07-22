@@ -5,7 +5,7 @@ subtitle: "Guía de instalación de tres herramientas necesarias"
 summary: "Lección 1: cómo instalar un buen sistema de control de versiones y un excelente editor de texto plano."
 
 date: 2018-07-05T05:59:39+02:00
-#lastmod: 2019-03-27T21:41:59+01:00
+lastmod: 2019-07-22T00:00:01+01:00
 
 authors: ["admin"]
 math: false
@@ -21,7 +21,7 @@ image:
   caption: "Fotografía de [Todd Quackenbush](https://unsplash.com/@toddquackenbush), disponible en [Unsplash](https://unsplash.com/photos/IClZBVw5W5A)."
 ---
 
-Antes de lanzarnos sin más a generar sitios web con *Hugo*, conviene que instalemos una serie de herramientas que nos facilitarán la vida: un sistema de control de versiones (*Git* + *GitHub*) y un editor de texto plano (*Sublime Text 3*).
+Antes de lanzarnos, sin más, a generar sitios web con *Hugo*, conviene que instalemos una serie de herramientas que nos facilitarán la vida: un sistema de control de versiones (*Git* + *GitHub*) y un editor de texto plano (*Sublime Text 3*).
 
 Tal es el propósito de esta primera entrada del [Proyecto Metablog](/proyecto/metablog/), que consistirá en una serie de artículos que documentarán todo el proceso de instalación de *Hugo*, el de la creación del propio sitio web empleando dicho generador y el de la personalización de la plantilla que actualmente estoy utilizando: [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
 
@@ -51,9 +51,9 @@ Utilizaremos este portal para subir los archivos fuente que permitirán generar 
 
 ## 3. Sublime Text 3
 
-El dicho "Para gustos los colores" tendría en este apartado la versión "Para gustos los editores de texto plano". En mi caso, los proyectos de programación que he realizado y todo el trabajo con generadores de web estáticas los he llevado a cabo tanto con el antiguo *Sublime Text 2*, como con su más reciente versión: *Sublime Text 3*.
+El dicho "Para gustos los colores" tendría en este apartado la versión "Para gustos los editores de texto plano". En mi caso, los proyectos de programación que he realizado y todo el trabajo con generadores de web estáticas los he llevado a cabo, tanto con el antiguo *Sublime Text 2*, como con su más reciente versión: *Sublime Text 3*.
 
-Este editor de texto plano es bastante potente, rápido y la comunidad puede extender sus funcionalidades a través de paquetes. Además, su versión "de prueba" te permite utilizar la herramienta sin restricción alguna durante un período de tiempo ilimitado, con la única pega de aparecer un mensaje cada 20 o 30 veces que salvemos cualquier archivo y que te invita a comprar una licencia.
+Este editor de texto plano es bastante potente, rápido y la comunidad puede extender sus funcionalidades a través de paquetes. Además, su versión ''de prueba'' te permite utilizar la herramienta sin restricción alguna durante un período de tiempo ilimitado, con la única pega de aparecer un mensaje cada 20 o 30 veces que salvemos cualquier archivo y que te invita a comprar una licencia.
 
 Nos podemos hacer con él a través de [este enlace](https://www.sublimetext.com/3). Su proceso de instalación es similar 
 
