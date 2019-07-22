@@ -5,7 +5,7 @@ subtitle: "Un soplo de aire fresco en comparación con Jekyll"
 summary: "Lección 2: cómo instalar Hugo en Windows sin morir en el intento."
 
 date: 2018-07-08T05:59:39+02:00
-#lastmod: 2019-03-28T06:08:34+01:00
+lastmod: 2019-07-22T00:00:01+01:00
 
 authors: ["admin"]
 math: false
@@ -25,14 +25,14 @@ Llevar a cabo la instalación de *Hugo* en *Windows* es extremadamente fácil, h
 
 Así pues, en este segundo artículo del [Proyecto Metablog](/proyecto/metablog/), retomaremos la senda en el lugar que nos quedamos al finalizar la [primera entrada](/2018/07/05/preparando-el-equipo-para-hugo/). Recuerdo que, en ella, instalamos un par de útiles herramientas en nuestro equipo (*git* y *Sublime Text 3*) y nos creamos una cuenta en el portal *GitHub*, que será donde alojemos tanto el código fuente de nuestros futuros sitios web, como los propios sitios web en sí.
 
-En la documentación oficial de *Hugo* existe una extensa página dedicada a su instalación, con una sección que orienta específicamente a los usuarios de *Windows* y a la que podemos acceder directamente a través de [este enlace](https://gohugo.io/getting-started/installing#windows).
+En la documentación oficial de *Hugo*, existe una extensa página dedicada a su instalación, con una sección que orienta específicamente a los usuarios de *Windows* y a la que podemos acceder directamente a través de [este enlace](https://gohugo.io/getting-started/installing#windows).
 
 Los desarrolladores han intentado que la experiencia de instalación sea muy intuitiva, pero, en mi opinión, alguna de las indicaciones puede no ser coherente con la estructura de archivos y carpetas que hayamos decidido implementar en nuestros equipos. ¿A qué se debe esta afirmación? Por ejemplo:
 
 - *Hugo* no deja de ser simplemente un programa, por lo que en lugar de instalarlo donde indica la guía, quizá sería mejor opción ubicarlo en la carpeta `Archivos de programa`.
-- Nos señalan, en la menciona guía, un directorio muy específico donde almacenar nuestros sitios web. No obstante, aunque vayamos a utilizar el combo *git* + *GitHub*, es posible que nos interese, además, utilizar un servicio de alojamiento de archivos y, por tanto, ubicar las páginas en otra ruta diferente.
+- Nos señalan, en la menciona guía, un directorio muy específico donde almacenar nuestros sitios web. No obstante, aunque vayamos a utilizar la pareja *git* + *GitHub*, es posible que nos interese, además, utilizar un servicio de alojamiento de archivos y, por tanto, ubicar las páginas en otra ruta diferente.
 
-Simplemente lo comento para que quede claro que las instrucciones que a continuación compartiré admiten cierta flexibilidad a la hora de llevarlas a cabo. Dicho esto, sin más dilación, veamos cómo instalar *Hugo* en *Windows*.
+Simplemente lo comento para que quede claro que las instrucciones que, a continuación, compartiré admiten cierta flexibilidad a la hora de llevarlas a cabo. Dicho esto, sin más preámbulos, veamos cómo instalar *Hugo* en *Windows*.
 
 En primer lugar, bien desde la terminal, bien desde el explorador de archivos de *Windows*, creamos en el directorio raíz de nuestro disco duro (generalmente `C:\`) una carpeta denominada `Hugo`. En su interior engendramos otras dos carpetas: `bin`, donde almacenaremos la aplicación, y `Sites`, donde ubicaremos nuestros futuros sitios web. Al final, debemos tener disponibles las siguientes dos rutas:
 

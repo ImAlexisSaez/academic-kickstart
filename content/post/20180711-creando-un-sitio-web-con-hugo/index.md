@@ -5,7 +5,7 @@ subtitle: "It's alive!"
 summary: "Lección 3: damos a luz un sitio web de prueba y lo revisamos localmente."
 
 date: 2018-07-11T05:59:39+02:00
-#lastmod: 2019-03-28T19:32:08+01:00
+lastmod: 2019-07-22T19:32:08+01:00
 
 authors: ["admin"]
 math: false
@@ -69,7 +69,7 @@ cd themes
 git clone https://github.com/budparr/gohugo-theme-ananke.git
 ```
 
-De esta manera, tenemos acceso localmente a un sitio web de prueba, con un poco de contenido ya generado, que nos permitirá hacernos una idea del aspecto final de nuestro sitio web utilizando el tema *Ananke*. Aunque soy consciente de que me estoy desviando "ligeramente" de la guía oficial, vamos a tomar esta senda para ver cómo luce nuestro sitio web.
+De esta manera, tenemos acceso localmente a un sitio web de prueba, con un poco de contenido ya generado, que nos permitirá hacernos una idea del aspecto final de nuestro sitio web utilizando el tema *Ananke*. Aunque soy consciente de que me estoy desviando ''ligeramente'' de la guía oficial, vamos a tomar esta senda para ver cómo luce nuestro sitio web.
 
 Abrimos el explorador de archivos de *Windows* y en el directorio donde hemos ubicado la página web (`C:\Hugo\Sites\prueba\`) accedemos a la carpeta `themes`. Una vez dentro de ella, hacemos doble clic sobre el directorio `gohugo-theme-ananke` y repetimos luego la acción con la carpeta denomiada `exampleSite`, cuyos contenidos son:
 
