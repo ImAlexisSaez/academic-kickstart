@@ -1,17 +1,17 @@
-+++
-title   = "Problemas (Oposición)"
-slug    = "problemas"
-date    = 2018-07-12T15:57:28+01:00
-lastmod = 2019-06-17T00:57:28+01:00
-draft   = false
+---
+title: "Problemas (Oposición)"
+slug: "problemas"
+date: 2018-07-12T15:57:28+01:00
+lastmod: 2019-07-22T00:57:28+01:00
+draft: false
 
-tags    = ["Matemáticas"]
-summary = "Recopilación de diversos problemas matemáticos enfocados a la preparación de oposiciones para secundaria."
+tags: ["Matemáticas"]
+summary: "Recopilación de diversos problemas matemáticos enfocados a la preparación de oposiciones para secundaria."
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Antoine Dautry](https://unsplash.com/@antoine1003), disponible en [Unsplash](https://unsplash.com/photos/_zsL306fDck)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Antoine Dautry](https://unsplash.com/@antoine1003), disponible en [Unsplash](https://unsplash.com/photos/_zsL306fDck)."
+---
 
 A nivel personal, de las cuatro partes en que se divide el procedimiento de selección de oposiciones, la asociada al supuesto práctico es aquella que encuentro más interesante. Cierto es que con un temario tan extenso como variado, esta parte precisa una buena dedicación de tiempo para preparala con garantías.
 

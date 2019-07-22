@@ -1,16 +1,16 @@
-+++
-title   = "Valencià (nivell C1)"
-slug    = "valenciano-c1"
-date    = 2019-01-01T15:57:28+01:00
-lastmod = 2019-03-20T15:57:28+01:00
-draft   = false
+---
+title: "Valencià (nivell C1)"
+slug: "valenciano-c1"
+date: 2019-01-01T15:57:28+01:00
+lastmod: 2019-07-22T15:57:28+01:00
+draft: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Valencià"]
+tags: ["Valencià"]
 
 # Project summary to display on homepage.
-summary = "Compilació de recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1 del MECR per a les llengües."
+summary: "Compilació de recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1 del MECR per a les llengües."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -18,29 +18,29 @@ summary = "Compilació de recursos útils a l’hora d’estudiar valencià per 
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Links (optional).
-url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+# links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Hieu Vu Minh](https://unsplash.com/@spoony), disponible en [Unsplash](https://unsplash.com/photos/He8-FZl-o10)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Hieu Vu Minh](https://unsplash.com/@spoony), disponible en [Unsplash](https://unsplash.com/photos/He8-FZl-o10)."
+---
 
 En aquest projecte compilaré recursos útils a l'hora d'estudiar valencià per superar les proves que avaluen el nivell C1 del *Marc Europeu Comú de Referència* (MECR d'ara endavant) per a les llengües.
 

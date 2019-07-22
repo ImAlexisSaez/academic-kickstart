@@ -1,16 +1,16 @@
-+++
-title   = "Capacitació en valencià"
-slug    = "capacitacion"
-date    = 2019-01-01T15:57:28+01:00
-lastmod = 2019-06-17T15:57:28+01:00
-draft   = false
+---
+title: "Capacitació en valencià"
+slug: "capacitacion"
+date: 2019-01-01T15:57:28+01:00
+lastmod: 2019-07-22T15:57:28+01:00
+draft: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Valencià"]
+tags: ["Valencià"]
 
 # Project summary to display on homepage.
-summary = "Compilació de diversos recursos i informació d'interés relacionats amb el Certificat de Capacitació en valencià (CC d’ara endavant)."
+summary: "Compilació de diversos recursos i informació d'interés relacionats amb el Certificat de Capacitació en valencià (CC d’ara endavant)."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -18,29 +18,29 @@ summary = "Compilació de diversos recursos i informació d'interés relacionats
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Links (optional).
-url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+# links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Green Chameleon](https://unsplash.com/@craftedbygc), disponible en [Unsplash](https://unsplash.com/photos/s9CC2SKySJM)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Green Chameleon](https://unsplash.com/@craftedbygc), disponible en [Unsplash](https://unsplash.com/photos/s9CC2SKySJM)."
+---
 
 En aquesta pàgina compilaré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (CC d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací em centraré específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen oposicions que requereixen el CC).
 
