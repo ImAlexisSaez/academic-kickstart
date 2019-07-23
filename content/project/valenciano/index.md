@@ -10,7 +10,7 @@ draft: false
 tags: ["Valencià"]
 
 # Project summary to display on homepage.
-summary: "Compilació de recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1 del MECR per a les llengües."
+summary: "Recursos útils a l’hora d’estudiar valencià per superar les proves que avaluen el nivell C1."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

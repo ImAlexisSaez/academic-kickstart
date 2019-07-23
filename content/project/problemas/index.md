@@ -6,7 +6,7 @@ lastmod: 2019-07-22T00:57:28+01:00
 draft: false
 
 tags: ["Matemáticas"]
-summary: "Recopilación de diversos problemas matemáticos enfocados a la preparación de oposiciones para secundaria."
+summary: "Problemas matemáticos enfocados a la preparación de oposiciones para secundaria."
 
 image:
   focal_point: "Smart"

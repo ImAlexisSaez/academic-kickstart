@@ -10,7 +10,7 @@ draft: false
 tags: ["Valencià"]
 
 # Project summary to display on homepage.
-summary: "Compilació de diversos recursos i informació d'interés relacionats amb el Certificat de Capacitació en valencià (CC d’ara endavant)."
+summary: "Informació i recursos d'interés relacionats amb el Certificat de Capacitació en valencià."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
