@@ -1,25 +1,25 @@
-+++
-title = "Los 34 grados de libertad de un estudio"
-slug  = "los-34-grados-de-libertad-de-un-estudio"
-subtitle = "Tentaciones a evitar"
-summary  = "Breve análisis del artículo 'Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking'."
+---
+title: "Los 34 grados de libertad de un estudio"
+slug: "los-34-grados-de-libertad-de-un-estudio"
+subtitle: "Tentaciones a evitar"
+summary: "Breve análisis del artículo 'Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking'."
 
-date     = 2018-08-02T05:59:39+02:00
-#lastmod = 2019-03-30T22:55:16+01:00
+date: 2018-08-02T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Grados de libertad", "Papers"]
-categories = ["Estadística"]
-projects   = []
+tags: ["Grados de libertad", "Papers"]
+categories: ["Estadística"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [João Silas](https://unsplash.com/@joaosilas), disponible en [Unsplash](https://unsplash.com/photos/I_LgQ8JZFGE)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [João Silas](https://unsplash.com/@joaosilas), disponible en [Unsplash](https://unsplash.com/photos/I_LgQ8JZFGE)."
+---
 
 Hace unos días, completé la lectura del estupendo artículo *"Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking"*, cuya lista de autores es casi tan extensa como el propio título, y de acceso abierto a través de [este enlace](http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01832/abstract). 
 <!--more--> 

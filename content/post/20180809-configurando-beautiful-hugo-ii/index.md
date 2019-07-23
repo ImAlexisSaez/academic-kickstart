@@ -1,25 +1,25 @@
-+++
-title = "Configurando el tema Beautiful Hugo (II)"
-slug  = "configurando-el-tema-beautiful-hugo-ii"
-subtitle = "Terminando de ajustar parámetros"
-summary  = "Lección 6: finalizamos la edición del archivo de configuración del tema Beautiful Hugo."
+---
+title: "Configurando el tema Beautiful Hugo (II)"
+slug: "configurando-el-tema-beautiful-hugo-ii"
+subtitle: "Terminando de ajustar parámetros"
+summary: "Lección 6: finalizamos la edición del archivo de configuración del tema Beautiful Hugo."
 
-date     = 2018-08-09T05:59:39+02:00
-#lastmod = 2019-03-31T09:17:46+02:00
+date: 2018-08-09T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Beautiful Hugo"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Beautiful Hugo"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Andrew Charney](https://unsplash.com/@theandrewwilliam), disponible en [Unsplash](https://unsplash.com/photos/UsbMGphPWw4)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Andrew Charney](https://unsplash.com/@theandrewwilliam), disponible en [Unsplash](https://unsplash.com/photos/UsbMGphPWw4)."
+---
 
 Nos quedamos, en la [anterior entrada](/2018/08/07/configurando-el-tema-beautiful-hugo-i/) del [Proyecto Metablog](/proyecto/metablog/), a falta de revisar la parte final del archivo de configuración `config.toml`. Terminemos pues de echarle un vistazo a dicho fichero en este artículo.
 

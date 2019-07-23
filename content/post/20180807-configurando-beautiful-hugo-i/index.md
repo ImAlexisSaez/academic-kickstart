@@ -1,25 +1,25 @@
-+++
-title = "Configurando el tema Beautiful Hugo (I)"
-slug  = "configurando-el-tema-beautiful-hugo-i"
-subtitle = "Primeros pasos con el tema"
-summary  = "Lección 5: instalamos el tema Beautiful Hugo y editamos en detalle su archivo de configuración."
+---
+title: "Configurando el tema Beautiful Hugo (I)"
+slug: "configurando-el-tema-beautiful-hugo-i"
+subtitle: "Primeros pasos con el tema"
+summary: "Lección 5: instalamos el tema Beautiful Hugo y editamos en detalle su archivo de configuración."
 
-date     = 2018-08-07T05:59:39+02:00
-#lastmod = 2019-03-31T09:07:55+02:00
+date: 2018-08-07T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Beautiful Hugo"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Beautiful Hugo"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Willian Justen de Vasconcellos](https://unsplash.com/@willianjusten), disponible en [Unsplash](https://unsplash.com/photos/Cdb3-cWZBeo)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Willian Justen de Vasconcellos](https://unsplash.com/@willianjusten), disponible en [Unsplash](https://unsplash.com/photos/Cdb3-cWZBeo)."
+---
 
 Continuemos esta serie de artículos, pertenecientes al [Proyecto Metablog](/proyecto/metablog/), donde examinamos con detalle la creación de sitios web utilizando *Hugo*. Hoy veremos cómo instalar y configurar el tema [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
 

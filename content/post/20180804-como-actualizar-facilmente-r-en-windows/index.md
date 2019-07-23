@@ -1,25 +1,25 @@
-+++
-title = "¿Cómo actualizar fácilmente R en Windows?"
-slug  = "como-actualizar-facilmente-r-en-windows"
-subtitle = "Realizando el proceso en un suspiro"
-summary  = "El proceso de actualización de la versión del lenguaje de programación *R* puede resultar un tanto tedioso si lo llevamos a cabo de forma manual. Veamos cómo hacer más liviana esta pesada carga."
+---
+title: "¿Cómo actualizar fácilmente R en Windows?"
+slug: "como-actualizar-facilmente-r-en-windows"
+subtitle: "Realizando el proceso en un suspiro"
+summary: "El proceso de actualización de la versión del lenguaje de programación *R* puede resultar un tanto tedioso si lo llevamos a cabo de forma manual. Veamos cómo hacer más liviana esta pesada carga."
 
-date     = 2018-08-04T05:59:39+02:00
-#lastmod = 2019-03-31T09:01:14+02:00
+date: 2018-08-04T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["R", "Windows"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["R", "Windows"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Artem Sapegin](https://unsplash.com/@sapegin), disponible en [Unsplash](https://unsplash.com/photos/DErxVSSQNdM)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Artem Sapegin](https://unsplash.com/@sapegin), disponible en [Unsplash](https://unsplash.com/photos/DErxVSSQNdM)."
+---
 
 El proceso de actualización de la versión del lenguaje de programación *R* puede resultar un tanto tedioso si lo llevamos a cabo de forma manual. Veamos cómo hacer más liviana esta pesada carga.
 
