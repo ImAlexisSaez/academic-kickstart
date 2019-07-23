@@ -18,7 +18,7 @@ projects   = ["problemas"]
 
 [image]
   focal_point = "Smart"
-  caption     = "Fotografía de [Tim Easley](https://unsplash.com/@timeasley), disponible en [Unsplash](https://unsplash.com/photos/lsHBUp7TXqA)."
+  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com/)."
 +++
 
 **Problema 4:** Dada una constante real positiva, $a$, y el conjunto 
