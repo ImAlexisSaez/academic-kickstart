@@ -1,27 +1,27 @@
-+++
-title = "Sobre los temarios de oposiciones"
-slug  = "sobre-los-temarios-de-oposiciones"
-subtitle = "Listando los 71 temas"
-summary  = "En este artículo señalaremos la legislación vigente al respecto de los temarios de oposiciones para el acceso al cuerpo de profesores de Enseñanza Secundaria, listando completamente el asociado a la especialidad de matemáticas."
+---
+title: "Sobre los temarios de oposiciones"
+slug: "sobre-los-temarios-de-oposiciones"
+subtitle: "Listando los 71 temas"
+summary: "En este artículo señalaremos la legislación vigente al respecto de los temarios de oposiciones para el acceso al cuerpo de profesores de Enseñanza Secundaria, listando completamente el asociado a la especialidad de matemáticas."
 
-date     = 2018-07-31T05:59:39+02:00
-#lastmod = 2019-03-30T22:48:28+01:00
+date: 2018-07-31T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación", "Temarios"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación", "Temarios"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Susan Yin](https://unsplash.com/@syinq), disponible en [Unsplash](https://unsplash.com/photos/2JIvboGLeho)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Susan Yin](https://unsplash.com/@syinq), disponible en [Unsplash](https://unsplash.com/photos/2JIvboGLeho)."
+---
 
-En este artículo señalaremos la legislación vigente al respecto de los temarios de oposiciones para el acceso al cuerpo de profesores de Enseñanza Secundaria, listando completamente el asociado a la especialidad de matemáticas.
+En este artículo, señalaremos la legislación vigente al respecto de los temarios de oposiciones para el acceso al cuerpo de profesores de Enseñanza Secundaria, listando completamente el asociado a la especialidad de matemáticas.
 
 Para empezar, podemos acudir, por ejemplo, a la [Orden 13 / 2016](http://www.dogv.gva.es/datos/2016/05/06/pdf/2016_3109.pdf), de 3 de mayo, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se convoca procedimiento selectivo de ingreso, y procedimiento para la adquisición de nuevas especialidades en los cuerpos docentes de profesores de Enseñanza Secundaria, profesores de escuelas oficiales de idiomas, profesores de Música y Artes Escénicas y profesores técnicos de Formación Profesional.
 

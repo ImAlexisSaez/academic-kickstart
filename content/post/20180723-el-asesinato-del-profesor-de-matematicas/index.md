@@ -1,27 +1,27 @@
-+++
-title = "Reseña: 'El asesinato del profesor de matemáticas'"
-slug  = "resena-el-asesinato-del-profesor-de-matematicas"
-subtitle = "Interesante lectura para recomendar"
-summary  = "En este artículo vamos a echar un vistazo a una interesante novela, con las matemáticas como telón de fondo, que viene de la mano de Jordi Sierra i Fabra. ¿Será un libro adecuado para recomendar como lectura durante el curso académico?"
+---
+title: "Reseña: 'El asesinato del profesor de matemáticas'"
+slug: "resena-el-asesinato-del-profesor-de-matematicas"
+subtitle: "Interesante lectura para recomendar"
+summary: "En este artículo vamos a echar un vistazo a una interesante novela, con las matemáticas como telón de fondo, que viene de la mano de Jordi Sierra i Fabra. ¿Será un libro adecuado para recomendar como lectura durante el curso académico?"
 
-date     = 2018-07-23T05:59:39+02:00
-#lastmod = 2019-03-30T07:43:28+01:00
+date: 2018-07-23T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Divulgación", "Lecturas"]
-categories = ["Reseñas"]
-projects   = []
+tags: ["Divulgación", "Lecturas"]
+categories: ["Reseñas"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Caroline Bertolini](https://unsplash.com/@caroline_bertolini), disponible en [Unsplash](https://unsplash.com/photos/NAaXkKDdQZg)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Caroline Bertolini](https://unsplash.com/@caroline_bertolini), disponible en [Unsplash](https://unsplash.com/photos/NAaXkKDdQZg)."
+---
 
-En este artículo vamos a echar un vistazo a una interesante novela, con las matemáticas como telón de fondo, que viene de la mano de *Jordi Sierra i Fabra*. ¿Será un libro adecuado para recomendar como lectura durante el curso académico?
+En este artículo, vamos a echar un vistazo a una interesante novela, con las matemáticas como telón de fondo, que viene de la mano de *Jordi Sierra i Fabra*. ¿Será un libro adecuado para recomendar como lectura durante el curso académico?
 
 En la contraportada encontramos el siguiente texto:
 

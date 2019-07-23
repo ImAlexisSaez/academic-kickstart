@@ -1,60 +1,48 @@
-+++
-title = "Sobre las competencias clave"
-slug  = "sobre-las-competencias-clave"
-subtitle = "Aspectos fundamentales"
-summary  = "Abordemos, en este artículo, algunos aspectos fundamentales a tener en cuenta sobre las competencias clave, a las que dedicaremos uno de los apartados de nuestra programación didáctica."
+---
+title: "Sobre las competencias clave"
+slug: "sobre-las-competencias-clave"
+subtitle: "Aspectos fundamentales"
+summary: "Abordemos, en este artículo, algunos aspectos fundamentales a tener en cuenta sobre las competencias clave, a las que dedicaremos uno de los apartados de nuestra programación didáctica."
 
-date     = 2018-07-25T05:59:39+02:00
-#lastmod = 2019-03-30T08:20:23+01:00
+date: 2018-07-25T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación", "Programación didáctica"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación", "Programación didáctica"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [James Sutton](https://unsplash.com/@jamessutton_photography), disponible en [Unsplash](https://unsplash.com/photos/FqaybX9ZiOU)."
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [James Sutton](https://unsplash.com/@jamessutton_photography), disponible en [Unsplash](https://unsplash.com/photos/FqaybX9ZiOU)."
 
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img01.png"
-  caption = "CCLI"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img02.png"
-  caption = "CMCT"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img03.png"
-  caption = "CD"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img04.png"
-  caption = "CAA"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img05.png"
-  caption = "CSC"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img06.png"
-  caption = "SIEE"
-
-[[gallery_item]]
-  album = "1"
-  image = "20180725-img07.png"
-  caption = "CEC"
-+++
+gallery_item:
+- album: "1"
+  image: "20180725-img01.png"
+  caption: "CCLI"
+- album: "1"
+  image: "20180725-img02.png"
+  caption: "CMCT"
+- album: "1"
+  image: "20180725-img03.png"
+  caption: "CD"
+- album: "1"
+  image: "20180725-img04.png"
+  caption: "CAA"
+- album: "1"
+  image: "20180725-img05.png"
+  caption: "CSC"
+- album: "1"
+  image: "20180725-img06.png"
+  caption: "SIEE"
+- album: "1"
+  image: "20180725-img07.png"
+  caption: "CEC"
+---
 
 Abordemos, en este artículo, algunos aspectos fundamentales a tener en cuenta sobre las competencias clave, a las que dedicaremos uno de los apartados de nuestra programación didáctica.
 

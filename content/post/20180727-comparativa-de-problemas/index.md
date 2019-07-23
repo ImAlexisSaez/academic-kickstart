@@ -1,27 +1,27 @@
-+++
-title = "Comparativa de problemas de oposición en Castilla y León"
-slug  = "comparativa-de-problemas-de-oposicion-en-castilla-y-leon"
-subtitle = "Evolución del supuesto práctico"
-summary  = "A través de Facebook he tenido acceso a un recurso didáctico bastante interesante, que viene en forma de Trabajo de Fin de Máster (TFM) y ha sido elaborado por Rubén Rodríguez Ballesteros para la Universidad de Valladolid."
+---
+title: "Comparativa de problemas de oposición en Castilla y León"
+slug: "comparativa-de-problemas-de-oposicion-en-castilla-y-leon"
+subtitle: "Evolución del supuesto práctico"
+summary: "A través de Facebook he tenido acceso a un recurso didáctico bastante interesante, que viene en forma de Trabajo de Fin de Máster (TFM) y ha sido elaborado por Rubén Rodríguez Ballesteros para la Universidad de Valladolid."
 
-date     = 2018-07-27T05:59:39+02:00
-#lastmod = 2019-03-30T08:42:12+01:00
+date: 2018-07-27T05:59:39+02:00
+lastmod: 2019-07-23T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Problemas", "TFM"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Problemas", "TFM"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [James Bold](https://unsplash.com/@jamesbold), disponible en [Unsplash](https://unsplash.com/photos/lMQv3xVa8X4)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [James Bold](https://unsplash.com/@jamesbold), disponible en [Unsplash](https://unsplash.com/photos/lMQv3xVa8X4)."
+---
 
-A través de *Facebook* he tenido acceso a un recurso didáctico bastante interesante, que viene en forma de *Trabajo de Fin de Máster* (TFM) y ha sido elaborado por *Rubén Rodríguez Ballesteros* para la *Universidad de Valladolid*.
+A través de *Facebook*, he tenido acceso a un recurso didáctico bastante interesante, que viene en forma de *Trabajo de Fin de Máster* (TFM) y ha sido elaborado por *Rubén Rodríguez Ballesteros* para la *Universidad de Valladolid*.
 
 "Comparativa histórica del examen de problemas en la prueba selectiva al cuerpo de profesores de secundaria en Castilla y León" es el título del TFM al que podemos tener acceso a través de [este enlace](http://uvadoc.uva.es/handle/10324/26136). En la introducción, su autor nos plantea un par de ambiciosos objetivos:
 
