@@ -1,25 +1,25 @@
-+++
-title = "Tutorial sobre Machine Learning con Python"
-slug  = "tutorial-sobre-machine-learning-con-python"
-subtitle = "Un paseo por SciPy"
-summary  = "¿Qué tal invertir las próximas seis horas y media de tu vida disfrutando de un tutorial sobre Machine Learning con Python? Suena interesante, ¿verdad? Al menos es así en esta especie de universo paralelo donde parece que vivo últimamente."
+---
+title: "Tutorial sobre Machine Learning con Python"
+slug: "tutorial-sobre-machine-learning-con-python"
+subtitle: "Un paseo por SciPy"
+summary: "¿Qué tal invertir las próximas seis horas y media de tu vida disfrutando de un tutorial sobre Machine Learning con Python? Suena interesante, ¿verdad? Al menos es así en esta especie de universo paralelo donde parece que vivo últimamente."
 
-date     = 2018-08-16T05:59:39+02:00
-#lastmod = 2019-03-31T11:12:06+02:00
+date: 2018-08-16T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Machine Learning", "Python", "SciPy"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["Machine Learning", "Python", "SciPy"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Maria Krasnova](https://unsplash.com/@salty_morning), disponible en [Unsplash](https://unsplash.com/photos/ju1OVy2SB7k)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Maria Krasnova](https://unsplash.com/@salty_morning), disponible en [Unsplash](https://unsplash.com/photos/ju1OVy2SB7k)."
+---
 
 ¿Te has quedado sin planes para el fin de semana? Aunque tu lista de tareas pendientes y, generalmente, poco atractivas parezca haber crecido de manera exponencial en los últimos tiempos, ¿el cuerpo te pide algo distinto? 
 

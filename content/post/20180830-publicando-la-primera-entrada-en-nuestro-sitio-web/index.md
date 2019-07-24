@@ -1,25 +1,25 @@
-+++
-title = "Publicando la primera entrada en nuestro sitio web"
-slug  = "publicando-la-primera-entrada-en-nuestro-sitio-web"
-subtitle = "Empezamos a generar contenido"
-summary  = "Lección 7: generamos una entrada para el blog y estudiamos cómo configurar sus metadatos."
+---
+title: "Publicando la primera entrada en nuestro sitio web"
+slug: "publicando-la-primera-entrada-en-nuestro-sitio-web"
+subtitle: "Empezamos a generar contenido"
+summary: "Lección 7: generamos una entrada para el blog y estudiamos cómo configurar sus metadatos."
 
-date     = 2018-08-30T05:59:39+02:00
-#lastmod = 2019-03-31T16:14:29+02:00
+date: 2018-08-30T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "Beautiful Hugo"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "Beautiful Hugo"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Aaron Burden](https://unsplash.com/@aaronburden), disponible en [Unsplash](https://unsplash.com/photos/xG8IQMqMITM)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Aaron Burden](https://unsplash.com/@aaronburden), disponible en [Unsplash](https://unsplash.com/photos/xG8IQMqMITM)."
+---
 
 Tras haber recorrido, en el [Proyecto Metablog](/proyecto/metablog/), las seis estaciones del vía crucis asociado al calvario de la instalación de *Hugo* y la personalización del tema *Beautiful Hugo*, llega el momento más anhelado por todos: generar contenido para el sitio web.
 

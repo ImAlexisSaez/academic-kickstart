@@ -1,25 +1,25 @@
-+++
-title = "Breve introducción a la librería NumPy"
-slug  = "breve-introduccion-a-la-libreria-numpy"
-subtitle = "La base del ecosistema científico en Python"
-summary  = "Tras la buena experiencia vivida después de la sesión dedicada a Machine learning, de la convención SciPy 2017, me he animado a seguir explorando la lista de reproducción del canal de Youtube asociado a la cuenta de Enthought."
+---
+title: "Breve introducción a la librería NumPy"
+slug: "breve-introduccion-a-la-libreria-numpy"
+subtitle: "La base del ecosistema científico en Python"
+summary: "Tras la buena experiencia vivida después de la sesión dedicada a Machine learning, de la convención SciPy 2017, me he animado a seguir explorando la lista de reproducción del canal de Youtube asociado a la cuenta de Enthought."
 
-date     = 2018-08-18T05:59:39+02:00
-#lastmod = 2019-03-31T11:18:18+02:00
+date: 2018-08-18T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+draft: false
+featured: false
 
-tags       = ["NumPy", "Python"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["NumPy", "Python"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com/)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
+---
 
 Tras la buena experiencia vivida después de la sesión dedicada a *machine learning*, de la convención *SciPy 2017*, me he animado a seguir explorando la [lista de reproducción](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf) del canal de *Youtube* asociado a la cuenta de *Enthought*.
 

@@ -1,25 +1,25 @@
-+++
-title = "Aprendiendo de la experiencia de Jacob Cohen"
-slug  = "aprendiendo-de-la-experiencia-de-jacob-cohen"
-subtitle = "Perlas de sabiduría"
-summary  = "Por recomendación, el otro día puse las manos sobre el artículo de Jacob Cohen: 'Things I Have Learned (So Far)', publicado originalmente en diciembre de 1990 en la revista American Psychologist."
+---
+title: "Aprendiendo de la experiencia de Jacob Cohen"
+slug: "aprendiendo-de-la-experiencia-de-jacob-cohen"
+subtitle: "Perlas de sabiduría"
+summary: "Por recomendación, el otro día puse las manos sobre el artículo de Jacob Cohen: 'Things I Have Learned (So Far)', publicado originalmente en diciembre de 1990 en la revista American Psychologist."
 
-date     = 2018-08-21T05:59:39+02:00
-#lastmod = 2019-03-31T11:27:34+02:00
+date: 2018-08-21T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Papers"]
-categories = ["Estadística"]
-projects   = []
+tags: ["Papers"]
+categories: ["Estadística"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Riccardo Chiarini](https://unsplash.com/@riccardoch), disponible en [Unsplash](https://unsplash.com/photos/p7huyfLrdzc)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Riccardo Chiarini](https://unsplash.com/@riccardoch), disponible en [Unsplash](https://unsplash.com/photos/p7huyfLrdzc)."
+---
 
 Por recomendación, el otro día puse las manos sobre el artículo de *Jacob Cohen*: "*Things I Have Learned (So Far)*", publicado originalmente en diciembre de 1990 en la revista *American Psychologist*. Veamos qué impresiones me ha dejado su lectura.
 

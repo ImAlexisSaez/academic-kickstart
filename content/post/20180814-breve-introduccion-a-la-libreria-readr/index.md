@@ -1,25 +1,25 @@
-+++
-title = "Breve introducción a la librería readr"
-slug  = "breve-introduccion-a-la-libreria-readr"
-subtitle = "Una gran herramienta para trabajar con ficheros de datos"
-summary  = "En este artículo exploraremos las posibilidades que nos ofrece una librería de R, readr, integrante del famoso 'tidyverso', de cara a la importación y exportación de nuestros conjuntos de datos."
+---
+title: "Breve introducción a la librería readr"
+slug: "breve-introduccion-a-la-libreria-readr"
+subtitle: "Una gran herramienta para trabajar con ficheros de datos"
+summary: "En este artículo exploraremos las posibilidades que nos ofrece una librería de R, readr, integrante del famoso 'tidyverso', de cara a la importación y exportación de nuestros conjuntos de datos."
 
-date     = 2018-08-14T05:59:39+02:00
-#lastmod = 2019-03-31T11:04:38+02:00
+date: 2018-08-14T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["R", "readr"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["R", "readr"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Dan Magatti](https://unsplash.com/@danmagatti), disponible en [Unsplash](https://unsplash.com/photos/AjAGGScv-nE)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Dan Magatti](https://unsplash.com/@danmagatti), disponible en [Unsplash](https://unsplash.com/photos/AjAGGScv-nE)."
+---
 
 En este artículo exploraremos las posibilidades que nos ofrece una librería de *R*, *readr*, integrante del famoso *tidyverso*, de cara a la importación y exportación de nuestros conjuntos de datos.
 

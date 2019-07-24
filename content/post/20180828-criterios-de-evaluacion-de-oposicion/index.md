@@ -1,25 +1,25 @@
-+++
-title = "Criterios de evaluación de oposición para la especialidad de matemáticas"
-slug  = "criterios-de-evaluacion-de-oposicion-para-la-especialidad-de-matematicas"
-subtitle = "Cómo encarar unas oposiciones"
-summary  = "Opino que una buena manera de encarar unas oposiciones pasa por revisar concienzudamente los criterios de evaluación adoptados en anteriores convocatorias. Echemos un vistazo en este artículo a los seguidos en la última."
+---
+title: "Criterios de evaluación de oposición para la especialidad de matemáticas"
+slug: "criterios-de-evaluacion-de-oposicion-para-la-especialidad-de-matematicas"
+subtitle: "Cómo encarar unas oposiciones"
+summary: "Opino que una buena manera de encarar unas oposiciones pasa por revisar concienzudamente los criterios de evaluación adoptados en anteriores convocatorias. Echemos un vistazo en este artículo a los seguidos en la última."
 
-date     = 2018-08-28T05:59:39+02:00
-#lastmod = 2019-03-31T16:06:56+02:00
+date: 2018-08-28T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Eli Francis](https://unsplash.com/@elifrancis), disponible en [Unsplash](https://unsplash.com/photos/_M-DrbiNFa4)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Eli Francis](https://unsplash.com/@elifrancis), disponible en [Unsplash](https://unsplash.com/photos/_M-DrbiNFa4)."
+---
 
 Opino que una buena manera de encarar unas oposiciones pasa por revisar concienzudamente los criterios de evaluación adoptados en anteriores convocatorias. Echemos un vistazo en este artículo a los seguidos en la última.
 <!--more-->

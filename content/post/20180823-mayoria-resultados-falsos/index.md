@@ -1,25 +1,25 @@
-+++
-title = "Porqué la mayoría de los resultados en investigación son falsos"
-slug  = "porque-la-mayoria-de-los-resultados-en-investigacion-son-falsos"
-subtitle = "Una serie de corolarios a tener en cuenta"
-summary  = "Cuanto menos, es ciertamente llamativo, así como invita con fuerza a su lectura, el título de uno de los artículos de John P. A. Ioannidis: 'Why Most Published Research Findings Are False'."
+---
+title: "Porqué la mayoría de los resultados en investigación son falsos"
+slug: "porque-la-mayoria-de-los-resultados-en-investigacion-son-falsos"
+subtitle: "Una serie de corolarios a tener en cuenta"
+summary: "Cuanto menos, es ciertamente llamativo, así como invita con fuerza a su lectura, el título de uno de los artículos de John P. A. Ioannidis: 'Why Most Published Research Findings Are False'."
 
-date     = 2018-08-23T05:59:39+02:00
-#lastmod = 2019-03-31T15:47:25+02:00
+date: 2018-08-23T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Papers"]
-categories = ["Estadística"]
-projects   = []
+tags: ["Papers"]
+categories: ["Estadística"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Tyler Lastovich](https://unsplash.com/@lastly), disponible en [Unsplash](https://unsplash.com/photos/QqRHhYkk-A4)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Tyler Lastovich](https://unsplash.com/@lastly), disponible en [Unsplash](https://unsplash.com/photos/QqRHhYkk-A4)."
+---
 
 Cuanto menos, es ciertamente llamativo, así como invita con fuerza a su lectura, el título de uno de los artículos de *John P. A. Ioannidis*: "*Why Most Published Research Findings Are False*".
 

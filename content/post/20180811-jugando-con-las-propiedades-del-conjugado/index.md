@@ -1,30 +1,31 @@
-+++
-title = "Jugando con las propiedades del conjugado"
-slug  = "jugando-con-las-propiedades-del-conjugado"
-subtitle = "Problema 4"
-summary  = "Problema 4: cómo una buena simplificación te facilita enormemente la vida."
+---
+title: "Jugando con las propiedades del conjugado"
+slug: "jugando-con-las-propiedades-del-conjugado"
+subtitle: "Problema 4"
+summary: "Problema 4: cómo una buena simplificación te facilita enormemente la vida."
 
-date     = 2018-08-11T05:59:39+02:00
-#lastmod = 2019-03-31T10:56:25+02:00
+date: 2018-08-11T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Números complejos", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Números complejos", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com/)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
+---
 
 **Problema 4:** Dada una constante real positiva, $a$, y el conjunto 
 
 $$
-M_a = \left\\{z\in\mathbb{C}^* : \left|z+\dfrac{1}{z}\right|=a \right\\},
+M_a = \left\{z\in\mathbb{C}^* : \left|z+\dfrac{1}{z}\right|=a \right\},
 $$ 
 
 donde $\mathbb{C}^* = \mathbb{C}\backslash\{(0,0)\}$, encuentre los valores mínimo y máximo de $|z|$ cuando $z\in M_a$. 
@@ -35,7 +36,8 @@ Hemos de ser capaces de extraer información sobre el módulo de $z$, $|z|$, a p
 
 $$
 \begin{aligned}
-a^2 &= \left|z+\dfrac{1}{z}\right|^2 = \left(z+\dfrac{1}{z}\right)\overline{\left(z+\dfrac{1}{z}\right)} = \left(z+\dfrac{1}{z}\right)\left(\overline{z}+\dfrac{1}{\overline{z}}\right)\\\\ &= z\overline{z} + \dfrac{z}{\overline{z}} + \dfrac{\overline{z}}{z} + \dfrac{1}{z\overline{z}} = z\overline{z} + \dfrac{z^2 + \overline{z}^2}{\overline{z}z} + \dfrac{1}{z\overline{z}},
+a^2 &= \left|z+\dfrac{1}{z}\right|^2 = \left(z+\dfrac{1}{z}\right)\overline{\left(z+\dfrac{1}{z}\right)} = \left(z+\dfrac{1}{z}\right)\left(\overline{z}+\dfrac{1}{\overline{z}}\right)\\
+&= z\overline{z} + \dfrac{z}{\overline{z}} + \dfrac{\overline{z}}{z} + \dfrac{1}{z\overline{z}} = z\overline{z} + \dfrac{z^2 + \overline{z}^2}{\overline{z}z} + \dfrac{1}{z\overline{z}},
 \end{aligned}
 $$
 
@@ -61,7 +63,9 @@ y si completamos el cuadrado del miembro derecho,
 
 $$
 \begin{aligned}
-|z|^4 - a^2|z|^2 + 1 &= - (z^2 + \overline{z}^2 + 2z\overline{z} - 2z\overline{z})\\\\ &= - (z + \overline{z})^2 + 2z\overline{z}\\\\ &= - (z + \overline{z})^2 + 2|z|^2, 
+|z|^4 - a^2|z|^2 + 1 &= - (z^2 + \overline{z}^2 + 2z\overline{z} - 2z\overline{z})\\
+&= - (z + \overline{z})^2 + 2z\overline{z}\\
+&= - (z + \overline{z})^2 + 2|z|^2, 
 \end{aligned}
 $$
 
@@ -73,7 +77,7 @@ $$
 
 Por lo tanto, tras realizar operaciones algebraicas sobre la ecuación que define al conjunto $M_a$, hemos llegado a que la expresión de cierta ecuación bicuadrada en $|z|$ debe ser menor o igual que cero. Investiguemos si de ella podemos extraer alguna condición sobre el módulo de $z$ que nos permita dar respuesta al problema planteado.
 
-Resolviendo $|z|^4 - (a^2+2)|z|^2 + 1 = 0$ y teniendo en cuenta que es positivo el coeficiente asociado a $|z|^4$, tenemos que $|z|^4 - (a^2+2)|z|^2 + 1 \leq 0$  si, y solo si,
+Resolviendo $|z|^4 - (a^2 + 2)|z|^2 + 1 = 0$ y teniendo en cuenta que es positivo el coeficiente asociado a $|z|^4$, tenemos que $|z|^4 - (a^2 + 2)|z|^2 + 1 \leq 0$  si, y solo si,
 
 $$
 |z|^2\in \left[
@@ -94,14 +98,17 @@ Veamos esta última equivalencia en detalle, pues puede no resultarnos trivial a
 Centrémonos en la expresión del extremo inferior del intervalo definido para $|z|^2$ (el razonamiento a seguir sería análogo para el superior). Por un lado,
 
 $$
-2+a^2 - \sqrt{a^4+4a^2} = 2+a^2 - a\sqrt{a^2+4},
+2+a^2 - \sqrt{a^4 + 4a^2} = 2+a^2 - a\sqrt{a^2 + 4},
 $$ 
 
-expresión que nos invita a experimentar con el desarrollo del binomio $(-a + \sqrt{a^2+4})^2$. Así,
+expresión que nos invita a experimentar con el desarrollo de $(-a + \sqrt{a^2 + 4})^2$. Así,
 
 $$
 \begin{aligned}
-(-a + \sqrt{a^2+4})^2 &= a^2 + a^2 + 4 - 2a\sqrt{a^2+4}\\\\ &= 2a^2+4 - 2a\sqrt{a^2+4}\\\\ &= 2(a^2+2-a\sqrt{a^2+4})\\\\ &= 2(a^2+2-\sqrt{a^4+4a^2}),
+(-a + \sqrt{a^2+4})^2 &= a^2 + a^2 + 4 - 2a\sqrt{a^2+4}\\
+&= 2a^2+4 - 2a\sqrt{a^2+4}\\
+&= 2(a^2+2-a\sqrt{a^2+4})\\
+&= 2(a^2+2-\sqrt{a^4+4a^2}),
 \end{aligned}
 $$
 

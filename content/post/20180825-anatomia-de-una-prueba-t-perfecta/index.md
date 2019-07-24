@@ -1,25 +1,25 @@
-+++
-title = "Anatomía de una prueba t perfecta"
-slug  = "anatomia-de-una-prueba-t-perfecta"
-subtitle = "Un script interesante"
-summary  = "En mi reciente vuelta a Twitter, he empezado a seguir al profesor responsable del excelente MOOC 'Improving your statistical inferences', Daniël Lakens, que comparte más que interesantes perlas relacionadas con el campo de la estadística."
+---
+title: "Anatomía de una prueba t perfecta"
+slug: "anatomia-de-una-prueba-t-perfecta"
+subtitle: "Un script interesante"
+summary: "En mi reciente vuelta a Twitter, he empezado a seguir al profesor responsable del excelente MOOC 'Improving your statistical inferences', Daniël Lakens, que comparte más que interesantes perlas relacionadas con el campo de la estadística."
 
-date     = 2018-08-25T05:59:39+02:00
-#lastmod = 2019-03-31T15:52:42+02:00
+date: 2018-08-25T05:59:39+02:00
+lastmod: 2019-07-24T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Prueba T", "R"]
-categories = ["Estadística"]
-projects   = []
+tags: ["Prueba T", "R"]
+categories: ["Estadística"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Iswanto Arif](https://unsplash.com/@iswanto), disponible en [Unsplash](https://unsplash.com/photos/rBSRJxzymNk)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Iswanto Arif](https://unsplash.com/@iswanto), disponible en [Unsplash](https://unsplash.com/photos/rBSRJxzymNk)."
+---
 
 En mi reciente vuelta a *Twitter*, he empezado a seguir al profesor responsable del excelente *MOOC* "*Improving your statistical inferences*" ([enlace](https://www.coursera.org/learn/statistical-inferences)), *Daniël Lakens* ([@lakens](https://twitter.com/lakens)), que comparte más que interesantes perlas relacionadas con el campo de la estadística. 
 
