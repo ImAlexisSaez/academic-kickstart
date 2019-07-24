@@ -5,7 +5,7 @@ subtitle: "Asentando los conceptos principales"
 summary: "¿Qué es un contenido? ¿Y un criterio de evaluación? ¿Cómo se define un estándar de aprendizaje evaluable? La legislación nos da una respuesta rigurosa a cada una de las anteriores cuestiones."
 
 date: 2018-07-18T05:59:39+02:00
-lastmod: 2019-03-29T20:10:29+01:00
+lastmod: 2019-07-22T00:00:01+01:00
 
 authors: ["admin"]
 math: false
