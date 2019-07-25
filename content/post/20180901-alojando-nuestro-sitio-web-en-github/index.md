@@ -1,25 +1,25 @@
-+++
-title = "Alojando nuestro sitio web en GitHub"
-slug  = "alojando-nuestro-sitio-web-en-github"
-subtitle = "It's globally alive!"
-summary  = "Lección 8: analizamos cómo utilizar GitHub para publicar nuestra página web."
+---
+title: "Alojando nuestro sitio web en GitHub"
+slug: "alojando-nuestro-sitio-web-en-github"
+subtitle: "It's globally alive!"
+summary: "Lección 8: analizamos cómo utilizar GitHub para publicar nuestra página web."
 
-date     = 2018-09-01T05:59:39+02:00
-#lastmod = 2019-03-31T21:20:02+02:00
+date: 2018-09-01T05:59:39+02:00
+lastmod: 2019-07-25T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Hugo", "GitHub"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Hugo", "GitHub"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Soroush golpoor](https://unsplash.com/@soroushgolpoor), disponible en [Unsplash](https://unsplash.com/photos/mbUXFI5ZpLc)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Soroush golpoor](https://unsplash.com/@soroushgolpoor), disponible en [Unsplash](https://unsplash.com/photos/mbUXFI5ZpLc)."
+---
 
 A estas alturas de la película, seguramente con algún que otro artículo redactado y revisado localmente de manera concienzuda, no nos queda más remedio que ocuparnos de un asunto un tanto tedioso: el alojamiento de nuestro sitio web en *Internet*.
 

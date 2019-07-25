@@ -1,25 +1,26 @@
-+++
-title = "Probando una sencilla desigualdad por inducción"
-slug  = "probando-una-sencilla-desigualdad-por-induccion"
-subtitle = "Problema 8"
-summary  = "Problema 8: no solo de igualdades vive el principio de inducción matemática."
+---
+title: "Probando una sencilla desigualdad por inducción"
+slug: "probando-una-sencilla-desigualdad-por-induccion"
+subtitle: "Problema 8"
+summary: "Problema 8: no solo de igualdades vive el principio de inducción matemática."
 
-date     = 2018-09-11T05:59:39+02:00
-#lastmod = 2019-04-01T09:47:39+02:00
+date: 2018-09-11T05:59:39+02:00
+lastmod: 2019-07-25T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Inducción", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Inducción", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Daniel von Appen](https://unsplash.com/@daniel_von_appen), disponible en [Unsplash](https://unsplash.com/photos/KqKruA8nMdE)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Daniel von Appen](https://unsplash.com/@daniel_von_appen), disponible en [Unsplash](https://unsplash.com/photos/KqKruA8nMdE)."
+---
 
 **Problema 8:** Demuestra que, para cada $n\in\mathbb{N}$, con $n\geq 1$, 
 
@@ -35,7 +36,7 @@ $$
 1 < 2^1 = 2.
 $$
 
-A continuación, asumimos cierta la desigualdad para un $n\in\mathbb{N}$ dado, con $n\geq 1$, es decir, que efectivamente se cumple que
+Ahora, asumimos cierta la desigualdad para un $n\in\mathbb{N}$ dado, con $n\geq 1$, es decir, que efectivamente se cumple que
 
 $$
 n < 2^n,
@@ -51,7 +52,10 @@ Apoyándonos en que $n+1\leq n+n = 2n$, para cada $n\in\mathbb{N}$, (siendo una 
 
 $$
 \begin{aligned}
-n+1 &\leq n+n\\\\ &= 2n\\\\ &< 2\cdot 2^n\\\\ &= 2^{n+1},
+n+1 &\leq n+n\\
+&= 2n\\
+&< 2\cdot 2^n\\
+&= 2^{n+1},
 \end{aligned}
 $$
 
