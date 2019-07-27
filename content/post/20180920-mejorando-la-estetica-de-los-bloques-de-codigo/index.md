@@ -1,25 +1,25 @@
-+++
-title = "Mejorando la estética de los bloques de código"
-slug  = "mejorando-la-estetica-de-los-bloques-de-codigo"
-subtitle = "¡Que aparezca una barra horizontal, por favor!"
-summary  = "Lección 10: mejorando la legibilidad de los bloques de código fuente."
+---
+title: "Mejorando la estética de los bloques de código"
+slug: "mejorando-la-estetica-de-los-bloques-de-codigo"
+subtitle: "¡Que aparezca una barra horizontal, por favor!"
+summary: "Lección 10: mejorando la legibilidad de los bloques de código fuente."
 
-date     = 2018-09-20T05:59:39+02:00
-#lastmod = 2019-04-01T11:20:48+02:00
+date: 2018-09-20T05:59:39+02:00
+lastmod: 2019-07-27T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["css", "Beautiful Hugo", "Hugo"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["css", "Beautiful Hugo", "Hugo"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Paulin](https://unsplash.com/@hautrisque), disponible en [Unsplash](https://unsplash.com/photos/7Arx1c_L8Ac)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Paulin](https://unsplash.com/@hautrisque), disponible en [Unsplash](https://unsplash.com/photos/7Arx1c_L8Ac)."
+---
 
 Por uno de esos casuales de la vida, me ha dado por revisar el sitio web con el móvil y ha sido entonces cuando he presenciado un horror sin parangón: ¿por qué se ven así mis bloques de código?
 

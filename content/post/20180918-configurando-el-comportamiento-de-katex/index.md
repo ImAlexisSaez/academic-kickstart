@@ -1,25 +1,25 @@
-+++
-title = "Configurando el comportamiento de KaTeX"
-slug  = "configurando-el-comportamiento-de-katex"
-subtitle = "Adecuando el estilo de las expresiones matemáticas"
-summary  = "Lección 9: revisamos cómo añadir ecuaciones en línea y, además, modificamos el tamaño de la letra para las expresiones matemáticas."
+---
+title: "Configurando el comportamiento de KaTeX"
+slug: "configurando-el-comportamiento-de-katex"
+subtitle: "Adecuando el estilo de las expresiones matemáticas"
+summary: "Lección 9: revisamos cómo añadir ecuaciones en línea y, además, modificamos el tamaño de la letra para las expresiones matemáticas."
 
-date     = 2018-09-18T05:59:39+02:00
-#lastmod = 2019-04-01T10:07:40+02:00
+date: 2018-09-18T05:59:39+02:00
+lastmod: 2019-07-27T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Beautiful Hugo", "Hugo", "KaTeX"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["Beautiful Hugo", "Hugo", "KaTeX"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [@freezydreamin](https://unsplash.com/@freezydreamin), disponible en [Unsplash](https://unsplash.com/photos/SV3V-D1G2q4)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [@freezydreamin](https://unsplash.com/@freezydreamin), disponible en [Unsplash](https://unsplash.com/photos/SV3V-D1G2q4)."
+---
 
 El tema *Beautiful Hugo* viene, por defecto, configurado para que podamos escribir expresiones matemáticas utilizando [KaTeX](https://khan.github.io/KaTeX/). Tras unos minutos experimentando con esta tecnología surge enseguida la primera duda: ¿cómo puedo escribir ecuaciones en línea?
 

@@ -1,25 +1,26 @@
-+++
-title = "Una historia de cheques de viaje"
-slug  = "una-historia-de-cheques-de-viaje"
-subtitle = "Problema 11"
-summary  = "Problema 11: el relato de un... ¿error?"
+---
+title: "Una historia de cheques de viaje"
+slug: "una-historia-de-cheques-de-viaje"
+subtitle: "Problema 11"
+summary: "Problema 11: el relato de un... ¿error?"
 
-date     = 2018-09-22T05:59:39+02:00
-#lastmod = 2019-04-01T11:28:09+02:00
+date: 2018-09-22T05:59:39+02:00
+lastmod: 2019-07-27T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones diofánticas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones diofánticas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Aviv Ben Or](https://unsplash.com/@vivanebro), disponible en [Unsplash](https://unsplash.com/photos/g_Abgn1slAM)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Aviv Ben Or](https://unsplash.com/@vivanebro), disponible en [Unsplash](https://unsplash.com/photos/g_Abgn1slAM)."
+---
 
 En el presente artículo abordaremos con sumo detalle un problema propuesto en la convocatoria de oposiciones de Extremadura, de este mismo año 2018, para la especialidad de matemáticas.
 
@@ -51,11 +52,14 @@ Obtengamos el $mcd(199,98)$ utilizando el *Algoritmo de Euclides*:
 
 $$
 \begin{aligned}
-199 &= 98\cdot 2 + 3,\\\\ 98 &= 3\cdot 32 + 2,\\\\ 3 &= 2\cdot 1 + 1,\\\\ 2 &= 1\cdot 2,
+199 &= 98\cdot 2 + 3,\\ 
+98 &= 3\cdot 32 + 2,\\
+3 &= 2\cdot 1 + 1,\\
+2 &= 1\cdot 2,
 \end{aligned}
 $$
 
-luego $mcd(199,98)=1$ y como $1|68$ sabemos que la ecuación diofántica admite solución entera. 
+luego $mcd(199, 98) = 1$ y como $1|68$ sabemos que la ecuación diofántica admite solución entera. 
 
 Despejamos entonces $b$, por ser la variable cuyo coeficiente asociado es más pequeño, quedando así 
 
@@ -87,7 +91,8 @@ Podemos así dar valores a $b^{\prime}$, ya que únicamente tendríamos que prob
 
 $$
 \begin{aligned}
-a_0 &= 10,\\\\ b_0 &= 21,
+a_0 &= 10,\\
+b_0 &= 21,
 \end{aligned}
 $$
 
@@ -95,7 +100,8 @@ mientras que la solución general es
 
 $$
 \begin{aligned}
-a &= 10 - 98t,\\\\ b &= 21 - 199t,
+a &= 10 - 98t,\\
+b &= 21 - 199t,
 \end{aligned}
 $$
 
@@ -105,8 +111,9 @@ Una vez resuelta la ecuación diofántica, centrémonos de nuevo en aquello que 
 
 $$
 \begin{aligned}
-a &= 10 -98t \geq0 \Rightarrow t\leq\dfrac{10}{98},\\\\ b &= 21 - 199t \geq0 \Rightarrow t\leq\dfrac{21}{199},
+a &= 10 -98t \geq0 \Rightarrow t\leq\dfrac{10}{98},\\
+b &= 21 - 199t \geq0 \Rightarrow t\leq\dfrac{21}{199},
 \end{aligned}
 $$
 
-y $t\in\mathbb{Z}$, luego el valor mínimo se alcanza cuando $t=0$, donde $a=10$ y $b=21$. Así, el señor Martínez viajó a Estados Unidos con un cheque de viaje cuyo valor ascendía a 10 dólares y 21 centavos.
+y $t\in\mathbb{Z}$. Por consiguiente, el valor mínimo se alcanza cuando $t=0$, donde $a=10$ y $b=21$. Así, el señor Martínez viajó a Estados Unidos con un cheque de viaje cuyo valor ascendía a 10 dólares y 21 centavos.

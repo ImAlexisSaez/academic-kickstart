@@ -1,25 +1,26 @@
-+++
-title = "¿Cómo evitar que las ecuaciones en línea superen los márgenes?"
-slug  = "como-evitar-que-las-ecuaciones-en-linea-superen-los-margenes"
-subtitle = "Intentando mejorar la legibilidad de nuestros documentos"
-summary  = "Cierto es que LaTeX genera unos documentos matemáticos realmente vistosos. No menos cierto es que el comportamiento de LaTeX, en ocasiones, es un tanto peculiar, ofreciendo duras batallas para solventar ciertos problemas."
+---
+title: "¿Cómo evitar que las ecuaciones en línea superen los márgenes?"
+slug: "como-evitar-que-las-ecuaciones-en-linea-superen-los-margenes"
+subtitle: "Intentando mejorar la legibilidad de nuestros documentos"
+summary: "Cierto es que LaTeX genera unos documentos matemáticos realmente vistosos. No menos cierto es que el comportamiento de LaTeX, en ocasiones, es un tanto peculiar, ofreciendo duras batallas para solventar ciertos problemas."
 
-date     = 2018-09-25T05:59:39+02:00
-#lastmod = 2019-04-01T11:37:42+02:00
+date: 2018-09-25T05:59:39+02:00
+lastmod: 2019-07-27T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["LaTeX"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["LaTeX"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Anton Darius](https://unsplash.com/@thesollers), disponible en [Unsplash](https://unsplash.com/photos/oOuK7nlOfWg)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Anton Darius](https://unsplash.com/@thesollers), disponible en [Unsplash](https://unsplash.com/photos/oOuK7nlOfWg)."
+---
 
 Cierto es que *LaTeX* genera unos documentos matemáticos realmente vistosos. No menos cierto es que el comportamiento de *LaTeX*, en ocasiones, es un tanto peculiar, ofreciendo duras batallas para solventar ciertos problemas.
 
@@ -43,7 +44,7 @@ Una alternativa es emplear el comando `\sloppy` antecediendo el párrafo donde r
 
 {{< figure src="20180925-img03.png" title="Definición del conjunto utilizando `\sloppy`." numbered="true" >}}
 
-Sinceramente, tampoco resulta de mi agrado. ¿Qué más opciones tenemos? Utilizar el comando `\allowbreak` allá donde queramos se produzca la separación en nuestra expresión matemática. Volviendo a la situación original, parece que sería adecuado cortar la declaración del conjunto de aristas del grafo tras el elemento $(2,3)$ y el resultado ahora es
+Sinceramente, tampoco resulta de mi agrado. ¿Qué más opciones tenemos? Utilizar el comando `\allowbreak` allá donde queramos se produzca la separación en nuestra expresión matemática. Volviendo a la situación original, parece que sería adecuado cortar la declaración del conjunto de aristas del grafo tras el elemento $(2, 3)$ y el resultado ahora es
 
 {{< figure src="20180925-img04.png" title="Definición del conjunto utilizando `\allowbreak`." numbered="true" >}}
 
