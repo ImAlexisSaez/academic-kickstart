@@ -1,25 +1,25 @@
-+++
-title = "Referencias de interés sobre la competición matemática Putnam"
-slug  = "referencias-de-interes-sobre-la-competicion-matematica-putnam"
-subtitle = "Docenas de recursos"
-summary  = "En los últimos días he dado, por casualidad, con una serie de problemas que pertenecen a esta competición matemática y que me han resultado ciertamente curiosos, tanto por su complejidad como por la creatividad puesta en escena a la hora de resolverlos."
+---
+title: "Referencias de interés sobre la competición matemática Putnam"
+slug: "referencias-de-interes-sobre-la-competicion-matematica-putnam"
+subtitle: "Docenas de recursos"
+summary: "En los últimos días he dado, por casualidad, con una serie de problemas que pertenecen a esta competición matemática y que me han resultado ciertamente curiosos, tanto por su complejidad como por la creatividad puesta en escena a la hora de resolverlos."
 
-date     = 2018-10-20T05:59:39+02:00
-#lastmod = 2019-04-02T16:25:37+02:00
+date: 2018-10-20T05:59:39+02:00
+lastmod: 2019-07-28T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Putnam"]
-categories = ["Recursos"]
-projects   = []
+tags: ["Putnam"]
+categories: ["Recursos"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com/)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
+---
 
 En los últimos días he dado, por casualidad, con una serie de problemas que pertenecen a esta competición matemática y que me han resultado ciertamente curiosos, tanto por su complejidad como por la creatividad puesta en escena a la hora de resolverlos. 
 

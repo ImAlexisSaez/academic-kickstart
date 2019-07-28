@@ -1,38 +1,39 @@
-+++
-title = "¿Cómo dividir polinomios con LaTeX?"
-slug  = "como-dividir-polinomios-con-latex"
-subtitle = "Automatizando el proceso"
-summary  = "Escribiendo unos apuntes sobre polinomios, llegó el momento de mostrar un ejemplo de la división de un par de ellos. La clásica pregunta no se hizo esperar, ¿cómo transcribo en LaTeX esa operación matemática?"
+---
+title: "¿Cómo dividir polinomios con LaTeX?"
+slug: "como-dividir-polinomios-con-latex"
+subtitle: "Automatizando el proceso"
+summary: "Escribiendo unos apuntes sobre polinomios, llegó el momento de mostrar un ejemplo de la división de un par de ellos. La clásica pregunta no se hizo esperar, ¿cómo transcribo en LaTeX esa operación matemática?"
 
-date     = 2018-10-31T05:59:39+02:00
-#lastmod = 2019-04-02T16:59:41+02:00
+date: 2018-10-31T05:59:39+02:00
+lastmod: 2019-07-28T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["LaTeX"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["LaTeX"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Adrian Infernus](https://unsplash.com/@adrian_infernus), disponible en [Unsplash](https://unsplash.com/photos/5apewqWk978)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Adrian Infernus](https://unsplash.com/@adrian_infernus), disponible en [Unsplash](https://unsplash.com/photos/5apewqWk978)."
+---
 
 Escribiendo unos apuntes sobre polinomios, llegó el momento de mostrar un ejemplo de la división de un par de ellos. La clásica pregunta no se hizo esperar, ¿cómo transcribo en *LaTeX* esa operación matemática?
 
 Acompañemos este artículo con un ejemplo concreto. Sean 
 
 $$
-P = x^4+3x^3-2x^2+x-1
+P = x^4 + 3x^3 - 2x^2 + x - 1
 $$ 
 
 y 
 
 $$
-Q = x^2+x-1
+Q = x^2 + x - 1
 $$ 
 
 los polinomios implicados en la división, siendo nuestro objetivo mostrar la mencionada operación paso por paso (y no simplemente ofrecer el resultado final, acción que no entraña misterio a la hora de llevarla a cabo con *LaTeX*).
