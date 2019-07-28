@@ -1,41 +1,42 @@
-+++
-title = "¿Cómo dividir polinomios con LaTeX en conjuntos finitos?"
-slug  = "como-dividir-polinomios-con-latex-en-conjuntos-finitos"
-subtitle = "Generalizando el proceso"
-summary  = "La semana anterior analizamos el paquete 'polynom', que nos permite fácilmente llevar a cabo la transcripción de divisiones de polinomios con LaTeX. A continuación, estudiaremos una manera alternativa para lidiar con este asunto que, además, nos permitirá operar en conjuntos finitos."
+---
+title: "¿Cómo dividir polinomios con LaTeX en conjuntos finitos?"
+slug: "como-dividir-polinomios-con-latex-en-conjuntos-finitos"
+subtitle: "Generalizando el proceso"
+summary: "La semana anterior analizamos el paquete 'polynom', que nos permite fácilmente llevar a cabo la transcripción de divisiones de polinomios con LaTeX. A continuación, estudiaremos una manera alternativa para lidiar con este asunto que, además, nos permitirá operar en conjuntos finitos."
 
-date     = 2018-11-07T05:59:39+02:00
-#lastmod = 2019-04-02T18:32:51+02:00
+date: 2018-11-07T05:59:39+02:00
+lastmod: 2019-07-28T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["LaTeX"]
-categories = ["Tutoriales"]
-projects   = []
+tags: ["LaTeX"]
+categories: ["Tutoriales"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [eberhard grossgasteiger](https://unsplash.com/@eberhardgross), disponible en [Unsplash](https://unsplash.com)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [eberhard grossgasteiger](https://unsplash.com/@eberhardgross), disponible en [Unsplash](https://unsplash.com)."
+---
 
 La [semana anterior](/2018/10/31/como-dividir-polinomios-con-latex/) analizamos el paquete `polynom`, que nos permite fácilmente llevar a cabo la transcripción de divisiones de polinomios con *LaTeX*. A continuación, estudiaremos una manera alternativa para lidiar con este asunto que, además, nos permitirá operar en conjuntos finitos.
 
 Supongamos, sin pérdida de generalidad, que nuestro objetivo es dividir los polinomios 
 
 $$
-5x^5-2x^4+2x^3-5x^2+2x+1
+5x^5 - 2x^4 + 2x^3 - 5x^2 + 2x + 1
 $$ 
 
 y 
 
 $$
-3x^3+x^2-5x+2
+3x^3 + x^2 - 5x + 2
 $$ 
 
-en $\mathbb{Z}\_7$. Para ello, ''dibujaremos'' la operación matemática en una matriz, método que nos permitirá organizar fácilmente los pasos y, de paso, imprimir algunas rayas horizontales cuando proceda.
+en $\mathbb{Z}_7$. Para ello, ''dibujaremos'' la operación matemática en una matriz, método que nos permitirá organizar fácilmente los pasos y, de paso, imprimir algunas rayas horizontales cuando proceda.
 
 Para empezar, en el preámbulo del documento, insertamos las dos siguientes líneas:
 
@@ -64,7 +65,7 @@ dando el resultado que figura en la siguiente imagen:
 
 Organizar los monomios del dividendo como elementos individuales de una matriz nos facilitará la empresa de ''alinear'' las posteriores operaciones de la división. Por otro lado, el comando `draw` es el que dibuja la ''caja'' de esta operación matemática, tomando como referencia las posiciones de los elementos de la matriz.
 
-Continuemos pues la división, siempre teniendo en cuenta que trabajamos en $\mathbb{Z}\_7$. Así, para la primera etapa, teclearíamos acto seguido:
+Continuemos la división, siempre teniendo en cuenta que trabajamos en $\mathbb{Z}_7$. Así, para la primera etapa, teclearíamos acto seguido:
 
 ```tex
 \begin{center}

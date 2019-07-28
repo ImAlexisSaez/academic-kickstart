@@ -1,25 +1,26 @@
-+++
-title = "Un curioso criterio de divisibilidad"
-slug  = "un-curioso-criterio-de-divisibilidad"
-subtitle = "Problema 24"
-summary  = "Problema 24: trabajando con múltiplos de 1000."
+---
+title: "Un curioso criterio de divisibilidad"
+slug: "un-curioso-criterio-de-divisibilidad"
+subtitle: "Problema 24"
+summary: "Problema 24: trabajando con múltiplos de 1000."
 
-date     = 2018-11-10T05:59:39+02:00
-#lastmod = 2019-04-02T18:41:05+02:00
+date: 2018-11-10T05:59:39+02:00
+lastmod: 2019-07-28T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Criterios de divisibilidad", "Problemas", "Teoría de números"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Criterios de divisibilidad", "Problemas", "Teoría de números"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Mario Gogh](https://unsplash.com/@mariogogh), disponible en [Unsplash](https://unsplash.com/photos/v3aFku0VPDI)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Mario Gogh](https://unsplash.com/@mariogogh), disponible en [Unsplash](https://unsplash.com/photos/v3aFku0VPDI)."
+---
 
 **Problema 24:** Escribe los divisores de $1001$. Considera ahora 
 
@@ -30,7 +31,8 @@ $$
 y 
 
 $$
-S = a_0-a_1+a_2-\cdots+(-1)^na_n,$$
+S = a_0-a_1+a_2-\cdots+(-1)^na_n,
+$$
 
 donde $t=1000$ y $a_n\in\mathbb{Z}$ y demuestra que $N\equiv S\pmod{1001}$. Deduce de ello un criterio de divisibilidad por $7$, $11$ o $13$ y aplícalo al número $312879645$.
 
@@ -39,7 +41,7 @@ donde $t=1000$ y $a_n\in\mathbb{Z}$ y demuestra que $N\equiv S\pmod{1001}$. Dedu
 Como $1001 = 7\cdot11\cdot13$, el conjunto de divisores del número $1001$ es 
 
 $$
-\\{1,7,11,13,77,91,143,1001\\}.
+\{1,7,11,13,77,91,143,1001\}.
 $$
 
 A continuación, si consideramos $t=1000$, como 
@@ -52,7 +54,8 @@ entonces se cumple que $t^2\equiv (-1)^2\pmod{1001}\equiv 1\pmod{1001}$ y, en ge
 
 $$
 \begin{aligned}
-N &= a\_0 + a\_1t + \cdots + a_nt^n \\\\ &\equiv (a_0-a_1+a_2-\cdots+(-1)^na_n)\pmod{1001},
+N &= a_0 + a_1t + \cdots + a_nt^n \\
+&\equiv (a_0-a_1+a_2-\cdots+(-1)^na_n)\pmod{1001},
 \end{aligned}
 $$
 
