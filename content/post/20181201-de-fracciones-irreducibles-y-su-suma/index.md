@@ -1,30 +1,31 @@
-+++
-title = "De fracciones irreducibles y su suma"
-slug  = "de-fracciones-irreducibles-y-su-suma"
-subtitle = "Problema 30"
-summary  = "Problema 30: formalizando un resultado, en apariencia, sencillo."
+---
+title: "De fracciones irreducibles y su suma"
+slug: "de-fracciones-irreducibles-y-su-suma"
+subtitle: "Problema 30"
+summary: "Problema 30: formalizando un resultado, en apariencia, sencillo."
 
-date     = 2018-12-01T05:59:39+02:00
-#lastmod = 2019-04-03T07:44:19+02:00
+date: 2018-12-01T05:59:39+02:00
+lastmod: 2019-07-30T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Problemas", "Teoría de números"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Problemas", "Teoría de números"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Adrien Olichon](https://unsplash.com/@adrienolichon), disponible en [Unsplash](https://unsplash.com/photos/wI96vLftzkE)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Adrien Olichon](https://unsplash.com/@adrienolichon), disponible en [Unsplash](https://unsplash.com/photos/wI96vLftzkE)."
+---
 
 **Problema 30:** Sea $n$ un número natural no nulo. Dado el conjunto de fracciones 
 
 $$
-A\_n = \left\\{\dfrac{1}{n},\dfrac{2}{n},\dfrac{3}{n},\ldots,\dfrac{n}{n}\right\\}.
+A_n = \left\{\dfrac{1}{n},\dfrac{2}{n},\dfrac{3}{n},\ldots,\dfrac{n}{n}\right\}.
 $$ 
 
 Calcula el número de fracciones irreducibles y la suma de dichas fracciones.
@@ -34,13 +35,13 @@ Calcula el número de fracciones irreducibles y la suma de dichas fracciones.
 Acompañemos la resolución de este ejercicio con un caso particular para $n$, con el objetivo de que esta sea así más ilustrativa. Por ejemplo, si $n=8$, el conjunto de fracciones a estudiar es
 
 $$
-A\_8 = \left\\{\dfrac{1}{8},\dfrac{2}{8},\dfrac{3}{8},\dfrac{4}{8},\dfrac{5}{8},\dfrac{6}{8},\dfrac{7}{8},\dfrac{8}{8}\right\\},
+A_8 = \left\{\dfrac{1}{8},\dfrac{2}{8},\dfrac{3}{8},\dfrac{4}{8},\dfrac{5}{8},\dfrac{6}{8},\dfrac{7}{8},\dfrac{8}{8}\right\},
 $$
 
 que contiene $4$ fracciones irreducibles,
 
 $$
-\left\\{\dfrac{1}{8},\dfrac{3}{8},\dfrac{5}{8},\dfrac{7}{8}\right\\}.
+\left\{\dfrac{1}{8},\dfrac{3}{8},\dfrac{5}{8},\dfrac{7}{8}\right\}.
 $$
 
 Estas se caracterizan por ser aquellas en las que numerador y denominador son coprimos. Así pues, el problema se reduce a encontrar, dado un número natural $n$ no nulo, la cantidad de enteros positivos menores o iguales a $n$ y coprimos con $n$, esto es, $\varphi(n)$. 
@@ -48,7 +49,7 @@ Estas se caracterizan por ser aquellas en las que numerador y denominador son co
 En nuestro caso concreto, para $n=8=2^3$, efectivamente,
 
 $$
-\varphi(8) = 8\left(1-\dfrac{1}{2}\right) = 8\cdot\dfrac{1}{2}=4.
+\varphi(8) = 8\left(1 - \dfrac{1}{2}\right) = 8\cdot\dfrac{1}{2} = 4.
 $$
 
 Por tanto, recapitulando, dado $n$ un número natural no nulo, la cantidad de fracciones irreducibles que figuran en el conjunto $A_n$ es igual a $\varphi(n)$.
@@ -65,13 +66,13 @@ $$
 mcd(a,b) = mcd(b,a) = mcd(a,-b) = mcd(a,b+ax).
 $$
 
-Considerando ahora un número natural $k<n$ coprimo con $n$, se tiene que $mcd(k,n)=1$, y basta tomar en el resultado anterior $a=n$, $b=(-k)$ y $x=1$ para deducir que $1 = mcd(n,k) = mcd(n,(-k))= mcd(n,n-k)$ y, así, concluimos que si la fracción $k/n$ es irreducible, asimismo lo es $(n-k)/n$. Además, trivialmente 
+Considerando ahora un número natural $k<n$ coprimo con $n$, se tiene que $mcd(k,n)=1$, y basta tomar en el resultado anterior $a=n$, $b=(-k)$ y $x=1$ para deducir que $1 = mcd(n,k) = mcd(n,(-k))= mcd(n,n-k)$ y, así, concluimos que si la fracción $k / n$ es irreducible, asimismo lo es $(n - k) / n$. Además, trivialmente 
 
 $$
-\dfrac{k}{n} + \dfrac{n-k}{n}=1.
+\dfrac{k}{n} + \dfrac{n-k}{n} = 1.
 $$  
 
-Por tanto, aplicando el resultado alcanzado, la suma de las fracciones irreducibles del conjunto $A\_n$ será 
+Por tanto, aplicando el resultado alcanzado, la suma de las fracciones irreducibles del conjunto $A_n$ será 
 
 $$
 S = \dfrac{\varphi(n)}{2},
