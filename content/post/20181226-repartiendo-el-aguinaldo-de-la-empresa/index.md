@@ -1,25 +1,26 @@
-+++
-title = "Repartiendo el aguinaldo de la empresa"
-slug  = "repartiendo-el-aguinaldo-de-la-empresa"
-subtitle = "Problema 37"
-summary  = "Problema 37: un enunciado muy apropiado para estas fechas."
+---
+title: "Repartiendo el aguinaldo de la empresa"
+slug: "repartiendo-el-aguinaldo-de-la-empresa"
+subtitle: "Problema 37"
+summary: "Problema 37: un enunciado muy apropiado para estas fechas."
 
-date     = 2018-12-26T05:59:39+02:00
-#lastmod = 2019-04-04T19:44:53+02:00
+date: 2018-12-26T05:59:39+02:00
+lastmod: 2019-07-30T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Problemas", "Teorema chino del resto", "Teoría de números"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Problemas", "Teorema chino del resto", "Teoría de números"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [v2osk](https://unsplash.com/@v2osk), disponible en [Unsplash](https://unsplash.com/photos/8YfAkqH3p_Y)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [v2osk](https://unsplash.com/@v2osk), disponible en [Unsplash](https://unsplash.com/photos/8YfAkqH3p_Y)."
+---
 
 **Problema 37:** Un cierto número de billetes se reparten entre siete subalternos y dos jefes, teniendo en cuenta que un jefe cobra el doble que un subalterno. Tras el reparto, sobran seis billetes; pero si hubiese faltado un jefe, el reparto habría salido exacto. Por otro lado, si hubiera faltado un subalterno, serían entonces ocho los billetes que habrían sobrado. Calcular el menor número positivo de billetes que cobraron cada uno.
 
@@ -33,7 +34,9 @@ En resumen, hemos de resolver el sistema de congruencias lineales,
 
 $$
 \begin{aligned}
-x&\equiv 6\pmod{11},\\\\ x&\equiv 0\pmod{9},\\\\ x&\equiv 8\pmod{10}.
+x&\equiv 6\pmod{11},\\
+x&\equiv 0\pmod{9},\\
+x&\equiv 8\pmod{10}.
 \end{aligned}
 $$
 
@@ -47,7 +50,9 @@ por lo que el siguiente paso es resolver las ecuaciones de congruencias lineales
 
 $$
 \begin{aligned}
-90x&\equiv 1\pmod{11}\Leftrightarrow 2x\equiv 1\pmod{11}\Leftrightarrow x\equiv 1\pmod{11},\\\\ 110x&\equiv 1\pmod{9}\Leftrightarrow 2x\equiv 1\pmod{9}\Leftrightarrow x\equiv 5\pmod{11},\\\\ 99x&\equiv 1\pmod{10}\Leftrightarrow (-x)\equiv 1\pmod{10}\Leftrightarrow x\equiv (-1)\pmod{11}.
+90x&\equiv 1\pmod{11}\Leftrightarrow 2x\equiv 1\pmod{11}\Leftrightarrow x\equiv 1\pmod{11},\\
+110x&\equiv 1\pmod{9}\Leftrightarrow 2x\equiv 1\pmod{9}\Leftrightarrow x\equiv 5\pmod{11},\\
+99x&\equiv 1\pmod{10}\Leftrightarrow (-x)\equiv 1\pmod{10}\Leftrightarrow x\equiv (-1)\pmod{11}.
 \end{aligned}
 $$
 
@@ -55,7 +60,9 @@ Agrupando ahora toda la información adecuadamente,
 
 $$
 \begin{aligned}
-x&\equiv 6\pmod{11},& 90x&\equiv 1\pmod{11},& x&\equiv 6\pmod{11},\\\\ x&\equiv 0\pmod{9},& 110x&\equiv 1\pmod{9},& x&\equiv 5 \pmod{9},\\\\ x&\equiv 8\pmod{10},& 99x&\equiv 1\pmod{10},& x&\equiv (-1)\pmod{10},
+x&\equiv 6\pmod{11},& 90x&\equiv 1\pmod{11},& x&\equiv 6\pmod{11},\\
+x&\equiv 0\pmod{9},& 110x&\equiv 1\pmod{9},& x&\equiv 5 \pmod{9},\\
+x&\equiv 8\pmod{10},& 99x&\equiv 1\pmod{10},& x&\equiv (-1)\pmod{10},
 \end{aligned}
 $$
 
@@ -63,7 +70,8 @@ la solución al sistema queda
 
 $$
 \begin{aligned}
-x &\equiv (6\cdot90\cdot6 + 0\cdot110\cdot5 + 8\cdot99\cdot(-1))\pmod{990}\\\\ &\equiv 2448\pmod{990}\equiv 468\pmod{990}.
+x &\equiv (6\cdot90\cdot6 + 0\cdot110\cdot5 + 8\cdot99\cdot(-1))\pmod{990}\\ 
+&\equiv 2448\pmod{990}\equiv 468\pmod{990}.
 \end{aligned}
 $$
 
