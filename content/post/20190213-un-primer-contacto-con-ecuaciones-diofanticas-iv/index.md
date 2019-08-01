@@ -1,25 +1,26 @@
-+++
-title = "Un primer contacto con ecuaciones diofánticas (IV)"
-slug  = "un-primer-contacto-con-ecuaciones-diofanticas-iv"
-subtitle = "Problema 51"
-summary  = "Problema 51: incrementamos el número de incógnitas."
+---
+title: "Un primer contacto con ecuaciones diofánticas (IV)"
+slug: "un-primer-contacto-con-ecuaciones-diofanticas-iv"
+subtitle: "Problema 51"
+summary: "Problema 51: incrementamos el número de incógnitas."
 
-date     = 2019-02-13T05:59:39+02:00
-#lastmod = 2019-04-08T08:00:40+02:00
+date: 2019-02-13T05:59:39+02:00
+lastmod: 2019-08-01T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones diofánticas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones diofánticas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Soroush golpoor](https://unsplash.com/@soroushgolpoor), disponible en [Unsplash](https://unsplash.com/photos/mbUXFI5ZpLc)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Soroush golpoor](https://unsplash.com/@soroushgolpoor), disponible en [Unsplash](https://unsplash.com/photos/mbUXFI5ZpLc)."
+---
 
 **Problema 51:** Halla las soluciones enteras de la ecuación $3x+2y+9z=12$.
 
@@ -41,7 +42,8 @@ por lo que basta probar, para $x$, valores pertenecientes al *menor sistema comp
 
 $$
 \begin{aligned}
-x\_0 &= 1\cdot(12-9z) = 12-9z,\\\\ y\_0 &= (-1)\cdot(12-9z) = (-12) + 9z,
+x_0 &= 1\cdot(12-9z) = 12-9z,\\
+y_0 &= (-1)\cdot(12-9z) = (-12) + 9z,
 \end{aligned}
 $$
 
@@ -49,7 +51,8 @@ por lo que su solución general es
 
 $$
 \begin{aligned}
-x &= 12 - 9z + 2t,\\\\ y &= (-12) + 9z - 3t,
+x &= 12 - 9z + 2t,\\ 
+y &= (-12) + 9z - 3t,
 \end{aligned}
 $$
 
