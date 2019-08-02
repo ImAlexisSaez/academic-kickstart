@@ -1,25 +1,26 @@
-+++
-title = "En la granja de Pepito"
-slug  = "en-la-granja-de-pepito"
-subtitle = "Problema 54"
-summary  = "Problema 54: de vacas, cerdos y pollos."
+---
+title: "En la granja de Pepito"
+slug: "en-la-granja-de-pepito"
+subtitle: "Problema 54"
+summary: "Problema 54: de vacas, cerdos y pollos."
 
-date     = 2019-02-23T05:59:39+02:00
-#lastmod = 2019-04-08T09:29:25+02:00
+date: 2019-02-23T05:59:39+02:00
+lastmod: 2019-08-02T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones diofánticas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones diofánticas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Maksym Ivashchenko](https://unsplash.com/@maksymiv), disponible en [Unsplash](https://unsplash.com/photos/q3-ugNWsBfg)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Maksym Ivashchenko](https://unsplash.com/@maksymiv), disponible en [Unsplash](https://unsplash.com/photos/q3-ugNWsBfg)."
+---
 
 **Problema 54:** Un granjero compró vacas, cerdos y pollos. En total $100$ animales por $100$ euros. Hay al menos uno de cada. Si una vaca cuesta $10$ euros, un cerdo $3$ euros y un pollo $0.50$ euros, ¿cuántos animales de cada clase compró?
 
@@ -29,7 +30,8 @@ Sea $x$ el número de vacas, $y$ el total de cerdos y $z$ la cantidad de pollos 
 
 $$
 \begin{aligned}
-10x+3y+0.5z &= 100,\\\\ x+y+z &= 100,
+10x+3y+0.5z &= 100,\\ 
+x+y+z &= 100,
 \end{aligned}
 $$
 
@@ -49,7 +51,8 @@ por lo que basta probar, para $x$, valores pertenecientes al *menor sistema comp
 
 $$
 \begin{aligned}
-x &= 5t,\\\\ y &= 20-19t,
+x &= 5t,\\
+y &= 20-19t,
 \end{aligned}
 $$
 
