@@ -7,4 +7,8 @@ weight   = 60  # Order that this section will appear.
 
 title    = "Populares"
 subtitle = "Temas recurrentes"
+
+[content]
+  # Choose how many tags you would like to display (0 = all tags)
+  count = 20
 +++
