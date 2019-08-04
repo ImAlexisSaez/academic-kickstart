@@ -1,25 +1,26 @@
-+++
-title = "Comenzando con la combinatoria (II)"
-slug  = "comenzando-con-la-combinatoria-ii"
-subtitle = "Problema 60"
-summary  = "Problema 60: obviamente, las barajas hacen su acto de presencia aquí."
+---
+title: "Comenzando con la combinatoria (II)"
+slug: "comenzando-con-la-combinatoria-ii"
+subtitle: "Problema 60"
+summary: "Problema 60: obviamente, las barajas hacen su acto de presencia aquí."
 
-date     = 2019-03-16T05:59:39+02:00
-#lastmod = 2019-04-08T10:47:00+02:00
+date: 2019-03-16T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Combinatoria", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Combinatoria", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Keisuke Higashio](https://unsplash.com/@keisuke_h), disponible en [Unsplash](https://unsplash.com/photos/jHMiVrTl6Fs)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Keisuke Higashio](https://unsplash.com/@keisuke_h), disponible en [Unsplash](https://unsplash.com/photos/jHMiVrTl6Fs)."
+---
 
 **Problema 60:** Considerando una baraja de póquer de $52$ cartas,
 
@@ -65,7 +66,7 @@ $$
 \dbinom{4}{3} = \dfrac{4!}{3!\cdot1!} = 4
 $$
 
-formas posibles. Ahora, de los doce números distintos de cartas que restan, seleccionamos uno en particular ($C\_{12,1}$) y, de las cuatro cartas posibles asociadas a dicho número, tomamos dos ($C\_{4,2}$). Aplicando la regla del producto, existen
+formas posibles. Ahora, de los doce números distintos de cartas que restan, seleccionamos uno en particular ($C_{12,1}$) y, de las cuatro cartas posibles asociadas a dicho número, tomamos dos ($C_{4,2}$). Aplicando la regla del producto, existen
 
 $$
 \dbinom{12}{1}\cdot\dbinom{4}{2} = 12\cdot\dfrac{4!}{2!\cdot2!} = 72
@@ -79,7 +80,7 @@ $$
 
 manos con $3$ ases que son *full*.
 
-Para el apartado (d), la manera de razonar es muy similar a la mostrada en el párrafo anterior. De los $13$ números posibles, seleccionamos uno de ellos ($C\_{13,1}$) y será de este del que tomaremos tres cartas iguales ($C\_{4,3}$). Ahora de los $12$ números restantes, escogemos uno ($C\_{12,1}$) y extraemos dos cartas idénticas ($C\_{4,2}$). Aplicando la regla del producto, hay
+Para el apartado (d), la manera de razonar es muy similar a la mostrada en el párrafo anterior. De los $13$ números posibles, seleccionamos uno de ellos ($C_{13,1}$) y será de este del que tomaremos tres cartas iguales ($C_{4,3}$). Ahora de los $12$ números restantes, escogemos uno ($C_{12,1}$) y extraemos luego dos cartas idénticas ($C_{4,2}$). Aplicando la regla del producto, hay
 
 $$
 \dbinom{13}{1}\cdot\dbinom{4}{3}\cdot\dbinom{12}{1}\cdot\dbinom{4}{2} = 13\cdot4\cdot12\cdot6 = 3744
@@ -87,7 +88,7 @@ $$
 
 manos que son *full*.
 
-Finalmente, en el apartado (e), de los $13$ números disponibles en la baraja seleccionamos dos de ellos ($C\_{13,2}$), de los cuales, de entre las cuatro cartas asociadas a cada uno de ellos, escogeremos dos idénticas ($C\_{4,2}\cdot C\_{4,2}$). Por último, de las restantes cartas, $52-4-4=44$, tomaremos una cualquiera ($C\_{44,1}$). Aplicando la regla del producto hay 
+Finalmente, en el apartado (e), de los $13$ números disponibles en la baraja seleccionamos dos de ellos ($C_{13,2}$), de los cuales, de entre las cuatro cartas asociadas a cada uno de ellos, escogeremos dos idénticas ($C_{4,2}\cdot C_{4,2}$). Por último, de las restantes cartas, $52-4-4=44$, tomaremos una de ellas cualquiera ($C_{44,1}$). Aplicando la regla del producto hay 
 
 $$
 \dbinom{13}{2}\cdot\dbinom{4}{2}\cdot\dbinom{4}{2}\cdot\dbinom{44}{1} = 78\cdot6\cdot6\cdot44 = 123552

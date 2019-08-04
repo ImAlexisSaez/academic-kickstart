@@ -1,25 +1,26 @@
-+++
-title = "Contando múltiplos a través del PIE"
-slug  = "contando-multiplos-a-traves-del-pie"
-subtitle = "Problema 63"
-summary  = "Problema 63: un resultado útil donde los haya."
+---
+title: "Contando múltiplos a través del PIE"
+slug: "contando-multiplos-a-traves-del-pie"
+subtitle: "Problema 63"
+summary: "Problema 63: un resultado útil donde los haya."
 
-date     = 2019-03-27T05:59:39+02:00
-#lastmod = 2019-04-08T11:09:22+02:00
+date: 2019-03-27T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Combinatoria", "Principio de inclusión-exclusión", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Combinatoria", "Principio de inclusión-exclusión", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Damon Lam](https://unsplash.com/@dayday95), disponible en [Unsplash](https://unsplash.com/photos/T3SnWggaxWw)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Damon Lam](https://unsplash.com/@dayday95), disponible en [Unsplash](https://unsplash.com/photos/T3SnWggaxWw)."
+---
 
 **Problema 63:** ¿Cuántos números entre $1$ y $600$ no son divisibles por $3$, ni por $5$, ni por $7$?
 
@@ -47,19 +48,55 @@ A continuación, por el *Principio de inclusión-exclusión*,
 
 $$
 \begin{aligned}
-card(3\cup 5\cup 7) &= card(3) + card(5) + card(7)\\\\ &\quad -card(3\cap 5) - card(3\cap 7) - card(5\cap 7)\\\\ &\quad +card(3\cap 5\cap 7),
+card(3\cup 5\cup 7) &= card(3) + card(5) + card(7)\\
+&\quad -card(3\cap 5) - card(3\cap 7) - card(5\cap 7)\\
+&\quad +card(3\cap 5\cap 7),
 \end{aligned}
 $$
 
 donde
 
-- $card(3)$ representa el total de múltiplos de $3$ menores o iguales que $600$, esto es, $$card(3) = \left\lfloor\dfrac{600}{3}\right\rfloor=200.$$
-- $card(5)$ representa el total de múltiplos de $5$ menores o iguales que $600$, esto es, $$card(5) = \left\lfloor\dfrac{600}{5}\right\rfloor=120.$$
-- $card(7)$ representa el total de múltiplos de $7$ menores o iguales que $600$, esto es, $$card(7) = \left\lfloor\dfrac{600}{7}\right\rfloor=85.$$
-- $card(3\cap 5)$ representa el total de múltiplos de $3$ y de $5$ menores o iguales que $600$, esto es, $$card(3\cap 5) = \left\lfloor\dfrac{600}{3\cdot 5}\right\rfloor=40.$$
-- $card(3\cap 7)$ representa el total de múltiplos de $3$ y de $7$ menores o iguales que $600$, esto es, $$card(3\cap 7) = \left\lfloor\dfrac{600}{3\cdot 7}\right\rfloor=28.$$
-- $card(5\cap 7)$ representa el total de múltiplos de $5$ y de $7$ menores o iguales que $600$, esto es, $$card(5\cap 7) = \left\lfloor\dfrac{600}{5\cdot 7}\right\rfloor=17.$$
-- $card(3\cap 5\cap 7)$ representa el total de múltiplos de $3$, de $5$ y de $7$ menores o iguales que $600$, esto es, $$card(3\cap 5\cap 7) = \left\lfloor\dfrac{600}{3\cdot 5\cdot 7}\right\rfloor=5.$$
+- $card(3)$ representa el total de múltiplos de $3$ menores o iguales que $600$, esto es, 
+
+$$
+card(3) = \left\lfloor\dfrac{600}{3}\right\rfloor=200.
+$$
+
+- $card(5)$ representa el total de múltiplos de $5$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(5) = \left\lfloor\dfrac{600}{5}\right\rfloor=120.
+$$
+
+- $card(7)$ representa el total de múltiplos de $7$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(7) = \left\lfloor\dfrac{600}{7}\right\rfloor=85.
+$$
+
+- $card(3\cap 5)$ representa el total de múltiplos de $3$ y de $5$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(3\cap 5) = \left\lfloor\dfrac{600}{3\cdot 5}\right\rfloor=40.
+$$
+
+- $card(3\cap 7)$ representa el total de múltiplos de $3$ y de $7$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(3\cap 7) = \left\lfloor\dfrac{600}{3\cdot 7}\right\rfloor=28.
+$$
+
+- $card(5\cap 7)$ representa el total de múltiplos de $5$ y de $7$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(5\cap 7) = \left\lfloor\dfrac{600}{5\cdot 7}\right\rfloor=17.
+$$
+
+- $card(3\cap 5\cap 7)$ representa el total de múltiplos de $3$, de $5$ y de $7$ menores o iguales que $600$, esto es, 
+ 
+$$
+card(3\cap 5\cap 7) = \left\lfloor\dfrac{600}{3\cdot 5\cdot 7}\right\rfloor=5.
+$$
 
 Por consiguiente,
 

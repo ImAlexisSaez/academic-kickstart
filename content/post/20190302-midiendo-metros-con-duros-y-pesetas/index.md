@@ -1,25 +1,26 @@
-+++
-title = "Midiendo metros con duros y pesetas"
-slug  = "midiendo-metros-con-duros-y-pesetas"
-subtitle = "Problema 56"
-summary  = "Problema 56: un curioso juego de monedas."
+---
+title: "Midiendo metros con duros y pesetas"
+slug: "midiendo-metros-con-duros-y-pesetas"
+subtitle: "Problema 56"
+summary: "Problema 56: un curioso juego de monedas."
 
-date     = 2019-03-02T05:59:39+02:00
-#lastmod = 2019-04-08T10:24:03+02:00
+date: 2019-03-02T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones diofánticas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones diofánticas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Kurt Cotoaga](https://unsplash.com/@kydroon), disponible en [Unsplash](https://unsplash.com/photos/cqbLg3lZEpk)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Kurt Cotoaga](https://unsplash.com/@kydroon), disponible en [Unsplash](https://unsplash.com/photos/cqbLg3lZEpk)."
+---
 
 **Problema 56:** El diámetro de una moneda de $5$ pesetas es de $37$ mm y el de una peseta es de $23$ mm, ¿de cuántas maneras puede obtenerse la longitud de un metro alineando monedas de $5$ pesetas y de pesetas?
 
@@ -37,7 +38,8 @@ Como $23$ y $37$ son números primos, tenemos que $mcd(23,37)=1$, y dado que, tr
 
 $$
 \begin{aligned}
-x &= 1000x^{\prime},\\\\ y &= 1000y^{\prime}
+x &= 1000x^{\prime},\\
+y &= 1000y^{\prime}
 \end{aligned}
 $$
 
@@ -45,7 +47,12 @@ de manera que la ecuación diofántica se transforma en $37x^{\prime} + 23y^{\pr
 
 $$
 \begin{aligned}
-37 &= 23\cdot1 + 14,\\\\ 23 &= 14\cdot1 +  9,\\\\ 14 &=  9\cdot1 +  5,\\\\  9 &=  5\cdot1 +  4,\\\\  5 &=  4\cdot1 +  1,\\\\  4 &=  1\cdot4,
+37 &= 23\cdot1 + 14,\\
+23 &= 14\cdot1 +  9,\\
+14 &=  9\cdot1 +  5,\\
+ 9 &=  5\cdot1 +  4,\\
+ 5 &=  4\cdot1 +  1,\\
+ 4 &=  1\cdot4,
 \end{aligned}
 $$
 
@@ -53,15 +60,23 @@ además de haber comprobado que $mcd(23,37)=1$, podemos encontrar una solución 
 
 $$
 \begin{aligned}
-1 &= 5 - 4\cdot1\\\\ &= 5 - 1\cdot(9\cdot1 - 5) \\\\ &= (-9) + 2\cdot5 = (-9) + 2(14\cdot1 - 9) \\\\ &= 2\cdot14 - 3\cdot9 \\\\ &= 2\cdot14 - 3(23\cdot1 - 14) \\\\ &= (-3)\cdot23 + 5\cdot14 \\\\ &= (-3)\cdot23 + 5(37 - 23\cdot1) \\\\ &= 5\cdot37 - 8\cdot23,
+1 &= 5 - 4\cdot1\\
+&= 5 - 1\cdot(9\cdot1 - 5) \\
+&= (-9) + 2\cdot5 = (-9) + 2(14\cdot1 - 9) \\
+&= 2\cdot14 - 3\cdot9 \\
+&= 2\cdot14 - 3(23\cdot1 - 14) \\
+&= (-3)\cdot23 + 5\cdot14 \\
+&= (-3)\cdot23 + 5(37 - 23\cdot1) \\
+&= 5\cdot37 - 8\cdot23,
 \end{aligned}
 $$
 
-y dado que, recordemos, la ecuación diofántica es $37x^{\prime}+23y^{\prime}=1$, igualando, arribamos a que $x^{\prime}\_0=5$ e $y^{\prime}\_0=(-8)$. Deshaciendo ahora el cambio de variable realizado,
+y dado que, recordemos, la ecuación diofántica es $37x^{\prime} +23y^{\prime} =1$, igualando, arribamos a que $x^{\prime}_0=5$ e $y^{\prime}_0=(-8)$. Deshaciendo ahora el cambio de variable realizado,
 
 $$
 \begin{aligned}
-x\_0 &= 1000x^{\prime}\_0 = 5000,\\\\ y\_0 &= 1000y^{\prime}\_0 = (-8000),
+x_0 &= 1000x^{\prime}_0 = 5000,\\
+y_0 &= 1000y^{\prime}_0 = (-8000),
 \end{aligned}
 $$
 
@@ -69,7 +84,8 @@ es una solución particular para la ecuación diofántica $37x+23y=1000$. Por ta
 
 $$
 \begin{aligned}
-x &= 5000 + 23t,\\\\ y &= (-8000) - 37t,
+x &= 5000 + 23t,\\
+y &= (-8000) - 37t,
 \end{aligned}
 $$
 
@@ -89,7 +105,8 @@ es decir, $(-217.4)\leq t\leq (-216.2)$ y como $t$ ha de ser un número entero, 
 
 $$
 \begin{aligned}
-x &= 5000 + 23\cdot(-217) = 9,\\\\ y &= (-8000) - 37\cdot(-217) = 29,
+x &= 5000 + 23\cdot(-217) = 9,\\ 
+y &= (-8000) - 37\cdot(-217) = 29,
 \end{aligned}
 $$
 

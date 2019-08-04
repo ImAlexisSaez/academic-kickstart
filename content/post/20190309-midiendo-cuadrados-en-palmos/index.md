@@ -1,25 +1,26 @@
-+++
-title = "Midiendo cuadrados en palmos"
-slug  = "midiendo-cuadrados-en-palmos"
-subtitle = "Problema 58"
-summary  = "Problema 58: requiere andar con pies de plomo."
+---
+title: "Midiendo cuadrados en palmos"
+slug: "midiendo-cuadrados-en-palmos"
+subtitle: "Problema 58"
+summary: "Problema 58: requiere andar con pies de plomo."
 
-date     = 2019-03-09T05:59:39+02:00
-#lastmod = 2019-04-08T10:34:27+02:00
+date: 2019-03-09T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones diofánticas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones diofánticas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Alex D'Alessio](https://unsplash.com/@alexdalessio22), disponible en [Unsplash](https://unsplash.com/photos/fsasJf8aDvg)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Alex D'Alessio](https://unsplash.com/@alexdalessio22), disponible en [Unsplash](https://unsplash.com/photos/fsasJf8aDvg)."
+---
 
 **Problema 58:** Determina las dimensiones de un rectángulo sabiendo que sus lados miden un número entero de centímetros, pero no un número entero de palmos, y que su área expresada en palmos cuadrados es igual a su perímetro expresado en palmos lineales. Considera que un palmo equivale a $20$ centímetros.
 
@@ -35,7 +36,8 @@ Dado que un palmo equivale a $20$ centímetros, es cierto que $x = 20a$ e $y = 2
 
 $$
 \begin{aligned}
-a &= \dfrac{x}{20},\\\\ b &= \dfrac{y}{20}.
+a &= \dfrac{x}{20},\\
+b &= \dfrac{y}{20}.
 \end{aligned}
 $$
 
@@ -59,10 +61,22 @@ $$
 
 con $y\neq 40$ ($y=40$ no es una solución aceptable en este contexto, pues al ser múltiplo de $20$, uno de los lados del rectángulo poseería una longitud igual a un número entero de palmos). Hemos llegado entonces a que $y-40$ debe ser un divisor de $1600$.
 
-Ahora bien, $1600 = 2^6\cdot 5^2$, situación que produce un total de $(6+1)\cdot(2+1) = 21$ divisores, por lo que, acto seguido, analizaremos todos y cada uno de los casos. Para empezar, listemos el conjunto de divisores. Para llevar a cabo tal tarea de forma relativamente sencilla, recordemos que la expresión de la suma de los divisores era $(1+2+2^2+\cdots+2^6)\cdot(1+5+5^2)$, de manera que si prescindimos de la operación suma, cada uno de los productos resulta ser un divisor de $1600$. Por ejemplo, multiplicando $1$ por $1,2,2^2,\ldots, 2^6$ aparecen los divisores $\\{1,2,4,8,16,32,64\\}$. Multiplicando ahora $5$ por $1,2,2^2,\ldots, 2^6$, obtenemos los divisores $\\{5,10,20,40,80,160,320\\}$. Finalmente, multiplicando $5^2$ por $1,2,2^2,\ldots,2^6$, encontramos los divisores $\\{25,50,100,200,400,800,1600\\}$. En definitiva, el conjunto de divisores de $1600$ es
+Ahora bien, $1600 = 2^6 \cdot 5^2$, situación que produce un total de 
 
 $$
-\\{1, 2, 4, 5, 8, 10, 16, 20, 25, 32, 40, 50, 64, 80, 100, 160, 200, 320, 400, 800, 1600\\}.
+(6+1)\cdot(2+1) = 21
+$$ 
+
+divisores, por lo que, acto seguido, analizaremos todos y cada uno de los casos. Para empezar, listemos el conjunto de divisores. Para llevar a cabo tal tarea de forma relativamente sencilla, recordemos que la expresión de la suma de los divisores era 
+
+$$
+(1+2+2^2 +\cdots+2^6 )\cdot(1+5+5^2 ),
+$$ 
+
+de manera que si prescindimos de la operación suma, cada uno de los productos resulta ser un divisor de $1600$. Por ejemplo, multiplicando $1$ por $1,2,2^2,\ldots, 2^6$ aparecen los divisores $\\{1,2,4,8,16,32,64\\}$. Multiplicando ahora $5$ por $1,2,2^2,\ldots, 2^6$, obtenemos los divisores $\\{5,10,20,40,80,160,320\\}$. Finalmente, multiplicando $5^2$ por $1,2,2^2 ,\ldots,2^6$, encontramos los divisores $\\{25,50,100,200,400,800,1600\\}$. En definitiva, el conjunto de divisores de $1600$ es
+
+$$
+\{1, 2, 4, 5, 8, 10, 16, 20, 25, 32, 40, 50, 64, 80, 100, 160, 200, 320, 400, 800, 1600\}.
 $$
 
 A continuación, vemos que algunos casos los podemos descartar rápidamente. ¿Es válida la solución $y-40=20$? No, ya que implicaría $y=60 = 3\cdot20$, es decir, $y$ sería entonces un múltiplo entero de palmos, longitud no permitida por las restricciones que impone el enunciado del ejercicio. El mismo razonamiento es válido para los valores $40$, $80$, $160$, $320$, $100$, $200$, $400$, $800$ y $1600$. 

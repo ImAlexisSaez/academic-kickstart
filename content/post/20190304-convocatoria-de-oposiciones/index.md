@@ -1,25 +1,25 @@
-+++
-title = "Convocatoria de oposiciones para secundaria en la Comunidad Valenciana (2019)"
-slug  = "convocatoria-de-oposiciones-para-secundaria-en-la-comunidad-valenciana-2019"
-subtitle = "Tan esperada como temida"
-summary  = "Breve análisis de la convocatoria de oposiciones, destacando algunas de sus principales características."
+---
+title: "Convocatoria de oposiciones para secundaria en la Comunidad Valenciana (2019)"
+slug: "convocatoria-de-oposiciones-para-secundaria-en-la-comunidad-valenciana-2019"
+subtitle: "Tan esperada como temida"
+summary: "Breve análisis de la convocatoria de oposiciones, destacando algunas de sus principales características."
 
-date     = 2019-03-04T05:59:39+02:00
-lastmod  = 2019-06-17T00:00:01+01:00
+date: 2019-03-04T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = true
+authors: ["admin"]
+math: false
+draft: false
+featured: false
 
-tags       = ["Legislación"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["Legislación"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Lacie Slezak](https://unsplash.com/@nbb_photos), disponible en [Unsplash](https://unsplash.com/photos/yHG6llFLjS0)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Lacie Slezak](https://unsplash.com/@nbb_photos), disponible en [Unsplash](https://unsplash.com/photos/yHG6llFLjS0)."
+---
 
 Acaba de salir la convocatoria del proceso selectivo de ingreso en los cuerpos docentes de profesores de Enseñanza Secundaria. Echémosle un vistazo, destacando alguna de sus partes.
 

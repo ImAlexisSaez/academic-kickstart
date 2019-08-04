@@ -1,25 +1,26 @@
-+++
-title = "Cuando un problema viene con muy mala leche"
-slug  = "cuando-un-problema-viene-con-muy-mala-leche"
-subtitle = "Problema 57"
-summary  = "Problema 57: un enunciado sencillo que esconde una trampa inesperada."
+---
+title: "Cuando un problema viene con muy mala leche"
+slug: "cuando-un-problema-viene-con-muy-mala-leche"
+subtitle: "Problema 57"
+summary: "Problema 57: un enunciado sencillo que esconde una trampa inesperada."
 
-date     = 2019-03-06T05:59:39+02:00
-#lastmod = 2019-04-08T10:28:25+02:00
+date: 2019-03-06T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Ecuaciones", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Ecuaciones", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Will Turner](https://unsplash.com/@turner_imagery), disponible en [Unsplash](https://unsplash.com/photos/tNt7fOOOgKA)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Will Turner](https://unsplash.com/@turner_imagery), disponible en [Unsplash](https://unsplash.com/photos/tNt7fOOOgKA)."
+---
 
 **Problema 57:** En un verde prado, la hierba crece de forma uniforme y constante. Se sabe que $70$ vacas lo consumirían en $24$ días y que $30$ vacas lo harían en $60$ días. ¿Cuántas vacas se comerían la hierba en $96$ días?
 

@@ -1,25 +1,26 @@
-+++
-title = "Comenzando con la combinatoria (I)"
-slug  = "comenzando-con-la-combinatoria-i"
-subtitle = "Problema 59"
-summary  = "Problema 59: primeros pasos."
+---
+title: "Comenzando con la combinatoria (I)"
+slug: "comenzando-con-la-combinatoria-i"
+subtitle: "Problema 59"
+summary: "Problema 59: primeros pasos."
 
-date     = 2019-03-13T05:59:39+02:00
-#lastmod = 2019-04-08T10:40:36+02:00
+date: 2019-03-13T05:59:39+02:00
+lastmod: 2019-08-04T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Combinatoria", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Combinatoria", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Matteo Marinelli](https://unsplash.com/@rtearth), disponible en [Unsplash](https://unsplash.com/photos/P6uF0I_okfk)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Matteo Marinelli](https://unsplash.com/@rtearth), disponible en [Unsplash](https://unsplash.com/photos/P6uF0I_okfk)."
+---
 
 **Problema 59:** 
 
@@ -49,6 +50,6 @@ $$
 
 formas de obtener cinco caras y cinco cruces al lanzar diez monedas.
 
-En el apartado (f) hemos de considerar dos opciones posibles, en función de si admitimos o no repetición de los números. En caso afirmativo, al importar el orden y permitir repetición de los números, estamos interesados en el número de variaciones con repetición de nueve elementos tomados de cuatro en cuatro, esto es, hay $VR\_{9,4} = 9^4 = 6561$ números de cuatro cifras conformados a partir de los dígitos $1,2,3,\ldots,9$ que pueden poseer, además, dígitos repetidos. En caso negativo, el orden continúa siendo importante, pero ahora no permitimos la repetición de cifras, por lo que estamos interesados en hallar el número de variaciones de nueve elementos tomados de cuatro en cuatro, es decir, $V_{9,4} = 9\cdot8\cdot7\cdot6 = 3024$ posibilidades.
+En el apartado (f) hemos de considerar dos opciones posibles, en función de si admitimos o no repetición de los números. En caso afirmativo, al importar el orden y permitir repetición de los números, estamos interesados en el número de variaciones con repetición de nueve elementos tomados de cuatro en cuatro, esto es, hay $VR_{9,4} = 9^4 = 6561$ números de cuatro cifras conformados a partir de los dígitos $1,2,3,\ldots,9$ que pueden poseer, además, dígitos repetidos. En caso negativo, el orden continúa siendo importante, pero ahora no permitimos la repetición de cifras, por lo que estamos interesados en hallar el número de variaciones de nueve elementos tomados de cuatro en cuatro, es decir, $V_{9,4} = 9\cdot8\cdot7\cdot6 = 3024$ posibilidades.
 
 Finalmente, en el apartado (g), si todos los amigos celebrasen su cumpleaños el primer día del año, se generaría el valor $(1,1,\ldots,1)$. Si el primer amigo lo celebrase el quinto día del año y el resto el tercer día, se conformaría el valor $(5,3,3\ldots,3)$. Así, vemos que los elementos son los días del año, $365$, que los vamos a tomar de diez en diez. Como admitimos la posibilidad de que dos amigos cumplan año el mismo día, esto es, de repetir elemento, e importa el orden, estamos interesados en hallar el número de variaciones con repetición de $365$ elementos tomados de diez en diez. Así, hay $VR_{365,10} = 365^{10}$ distribuciones de cumpleaños posibles entre los diez amigos.
