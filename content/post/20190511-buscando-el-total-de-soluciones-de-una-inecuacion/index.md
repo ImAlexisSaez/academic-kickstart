@@ -1,30 +1,31 @@
-+++
-title = "Buscando el total de soluciones de una inecuación"
-slug  = "buscando-el-total-de-soluciones-de-una-inecuacion"
-subtitle = "Problema 76"
-summary  = "Problema 76: generalizando estrategias para inecuaciones."
+---
+title: "Buscando el total de soluciones de una inecuación"
+slug: "buscando-el-total-de-soluciones-de-una-inecuacion"
+subtitle: "Problema 76"
+summary: "Problema 76: generalizando estrategias para inecuaciones."
 
-date     = 2019-05-11T05:59:39+02:00
-#lastmod = 2019-05-11T16:36:51+02:00
+date: 2019-05-11T05:59:39+02:00
+lastmod: 2019-08-06T00:00:01+02:00
 
-authors  = ["admin"]
-math     = true
-draft    = false
-featured = false
+authors: ["admin"]
+math: true
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Combinatoria", "Estrategia de barras y estrellas", "Problemas"]
-categories = ["Oposiciones"]
-projects   = ["problemas"]
+tags: ["Combinatoria", "Estrategia de barras y estrellas", "Problemas"]
+categories: ["Oposiciones"]
+projects: ["problemas"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Serge Vorobets](https://unsplash.com/@serge_vorobets), disponible en [Unsplash](https://unsplash.com/photos/CSORty3B_hs)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Serge Vorobets](https://unsplash.com/@serge_vorobets), disponible en [Unsplash](https://unsplash.com/photos/CSORty3B_hs)."
+---
 
 **Problema 76:** Calcula el número de soluciones enteras no negativas de la inecuación 
 
 $$
-x+y+z+t\leq 2001.
+x+y+z+t \leq 2001.
 $$
 
 ***
@@ -41,7 +42,10 @@ Ahora ya estamos en condiciones de volver a utilizar las estrategias vistas en e
 
 $$
 \begin{aligned}
-PR\_{2005}^{4,2001} &= CR\_{5,2001} \\\\ &= \dbinom{2005}{2001} \\\\ &= \dfrac{2005\cdot2004\cdot2003\cdot2002}{4!} \\\\ &= 671345179505
+PR_{2005}^{4, 2001} &= CR_{5, 2001}\\
+&= \dbinom{2005}{2001}\\
+&= \dfrac{2005\cdot2004\cdot2003\cdot2002}{4!}\\
+&= 671345179505
 \end{aligned}
 $$
 
