@@ -9,7 +9,6 @@ lastmod: 2019-08-07T00:00:01+02:00
 
 authors: ["admin"]
 math: false
-markup: mmark
 draft: false
 featured: false
 
