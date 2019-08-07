@@ -1,25 +1,26 @@
-+++
-title = "Migrando al tema Academic"
-slug  = "migrando-al-tema-academic"
-subtitle = "Un tema para nuestros sitios web tan interesante como potente"
-summary  = "En este artículo, comento las razones que me han llevado a abandonar el tema Beautiful Hugo en favor de Academic."
+---
+title: "Migrando al tema Academic"
+slug: "migrando-al-tema-academic"
+subtitle: "Un tema para nuestros sitios web tan interesante como potente"
+summary: "En este artículo, comento las razones que me han llevado a abandonar el tema Beautiful Hugo en favor de Academic."
 
-date     = 2019-07-02T00:00:01+01:00
-#lastmod = 2019-07-02T09:37:17+02:00
+date: 2019-07-02T00:00:01+01:00
+lastmod: 2019-08-07T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Academic", "Hugo"]
-categories = ["Reflexiones"]
-projects   = []
+tags: ["Academic", "Hugo"]
+categories: ["Reflexiones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Tim Peterson](https://unsplash.com/@stp_com), disponible en [Unsplash](https://unsplash.com/photos/daevrPHoYRg)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Tim Peterson](https://unsplash.com/@stp_com), disponible en [Unsplash](https://unsplash.com/photos/daevrPHoYRg)."
+---
 
 Aunque hace unos días publiqué un [artículo](/2019/06/01/unos-cambios-rapidos-a-las-plantillas/) que trataba sobre la configuración de ciertos aspectos de las hojas de estilos CSS del tema *Beautiful Hugo*, sí que es cierto que *Infinitos Contrastes* lleva ya unas cuantas semanas bajo los auspicios del tema [*Academic*](https://sourcethemes.com/academic/).
 

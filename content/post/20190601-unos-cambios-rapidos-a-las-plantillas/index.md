@@ -1,25 +1,26 @@
-+++
-title = "Unos cambios rápidos a las plantillas"
-slug  = "unos-cambios-rapidos-a-las-plantillas"
-subtitle = "¡Nos metemos a fondo en la hoja de estilos CSS!"
-summary  = "Lección 11: implementando la localización al español de ciertos elementos de la web."
+---
+title: "Unos cambios rápidos a las plantillas"
+slug: "unos-cambios-rapidos-a-las-plantillas"
+subtitle: "¡Nos metemos a fondo en la hoja de estilos CSS!"
+summary: "Lección 11: implementando la localización al español de ciertos elementos de la web."
 
-date     = 2019-06-01T05:59:39+02:00
-#lastmod = 2019-06-01T07:27:43+02:00
+date: 2019-06-01T05:59:39+02:00
+lastmod: 2019-08-07T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["css", "Beautiful Hugo", "Hugo"]
-categories = ["Tutoriales"]
-projects   = ["metablog"]
+tags: ["css", "Beautiful Hugo", "Hugo"]
+categories: ["Tutoriales"]
+projects: ["metablog"]
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Mar Bustos](https://unsplash.com/@mar28mar), disponible en [Unsplash](https://unsplash.com/photos/HsEz1XZ1TO8)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Mar Bustos](https://unsplash.com/@mar28mar), disponible en [Unsplash](https://unsplash.com/photos/HsEz1XZ1TO8)."
+---
 
 En esta entrada recojo el código necesario para localizar a español ciertas secciones de la página web, incluyendo un experimento que al final no terminó de convencerme, pero que comparto por si sirviera de inspiración a la creatividad ajena.
 

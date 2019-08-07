@@ -1,25 +1,26 @@
-+++
-title = "Reseña: 'Curso Python desde 0'"
-slug  = "resena-curso-python-desde-cero"
-subtitle = "De principiante a nivel intermedio en unos ochenta vídeos"
-summary  = "En este artículo, vamos a echar un vistazo a una interesante y más que recomendable lista de reproducción de YouTube, que contiene un curso de Python con secciones que van más allá de los páramos introductorios."
+---
+title: "Reseña: 'Curso Python desde 0'"
+slug: "resena-curso-python-desde-cero"
+subtitle: "De principiante a nivel intermedio en unos ochenta vídeos"
+summary: "En este artículo, vamos a echar un vistazo a una interesante y más que recomendable lista de reproducción de YouTube, que contiene un curso de Python con secciones que van más allá de los páramos introductorios."
 
-date     = 2019-06-18T00:00:01+01:00
-#lastmod = 2019-06-18T00:00:01+01:00
+date: 2019-06-18T00:00:01+01:00
+lastmod: 2019-08-07T00:00:01+01:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["Python", "YouTube"]
-categories = ["Reseñas"]
-projects   = []
+tags: ["Python", "YouTube"]
+categories: ["Reseñas"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía de [Wilfried Santer](https://unsplash.com/@wsanter), disponible en [Unsplash](https://unsplash.com/photos/zelgyeLINKc)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía de [Wilfried Santer](https://unsplash.com/@wsanter), disponible en [Unsplash](https://unsplash.com/photos/zelgyeLINKc)."
+---
 
 Durante los últimos meses he estado centrado, casi exclusivamente, en la obtención del requisito lingüístico de cara a opositar en la *Comunidad Valenciana*. En breve, ello se traduce en haber alcanzado un nivel *C1* en una lengua que hacía unas dos décadas que no usaba en absoluto y, además, haber superado una prueba de capacitación para ejercer la docencia en dicha lengua.
 

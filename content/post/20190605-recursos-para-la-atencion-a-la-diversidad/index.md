@@ -1,25 +1,26 @@
-+++
-title = "Recursos para la atención a la diversidad"
-slug  = "recursos-para-la-atencion-a-la-diversidad"
-subtitle = "Orientaciones de cara al planteamiento de actuaciones en el aula"
-summary  = "Listado de recursos disponibles, editados por Conselleria, enfocados hacia la atención al alumnado con necesidades específicas de apoyo educativo."
+---
+title: "Recursos para la atención a la diversidad"
+slug: "recursos-para-la-atencion-a-la-diversidad"
+subtitle: "Orientaciones de cara al planteamiento de actuaciones en el aula"
+summary: "Listado de recursos disponibles, editados por Conselleria, enfocados hacia la atención al alumnado con necesidades específicas de apoyo educativo."
 
-date     = 2019-06-05T05:59:39+02:00
-#lastmod = 2019-06-05T08:55:33+02:00
+date: 2019-06-05T05:59:39+02:00
+lastmod: 2019-08-07T00:00:01+02:00
 
-authors  = ["admin"]
-math     = false
-draft    = false
-featured = false
+authors: ["admin"]
+math: false
+markup: mmark
+draft: false
+featured: false
 
-tags       = ["AANEAE", "Programación didáctica"]
-categories = ["Oposiciones"]
-projects   = []
+tags: ["AANEAE", "Programación didáctica"]
+categories: ["Oposiciones"]
+projects: []
 
-[image]
-  focal_point = "Smart"
-  caption     = "Fotografía disponible en [Unsplash](https://unsplash.com)."
-+++
+image:
+  focal_point: "Smart"
+  caption: "Fotografía disponible en [Unsplash](https://unsplash.com)."
+---
 
 En la web oficial de la *Conselleria de Educación, Investigación, Cultura y Deporte*, dentro del apartado dedicado a la *inclusión educativa*, podemos encontrar interesantes publicaciones enfocadas hacia la atención al alumnado con necesidades específicas de apoyo educativo.
 
