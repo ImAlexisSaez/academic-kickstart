@@ -6,7 +6,7 @@ lastmod: 2019-07-22T00:00:01+01:00
 draft: false
 
 tags: ["Python"]
-summary: "Notas personales tomadas durante el curso 'Python desde 0' ofrecido por 'Píldoras Informáticas'."
+summary: "Notas personales del curso 'Python desde 0' ofrecido por 'Píldoras Informáticas'."
 
 external_link: "/courses/python-basic/"
 

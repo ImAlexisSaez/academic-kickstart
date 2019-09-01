@@ -10,7 +10,7 @@ draft: false
 tags: ["Desarrollo web"]
 
 # Project summary to display on homepage.
-summary: "Recopilación de entradas del blog que ilustran cómo generar una página web como Infinitos Contrastes."
+summary: "Entradas del blog que ilustran cómo generar una página web como Infinitos Contrastes."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
