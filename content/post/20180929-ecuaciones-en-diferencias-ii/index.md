@@ -19,7 +19,7 @@ projects: ["problemas"]
 
 image:
   focal_point: "Smart"
-  caption: "Fotografía de [Korey Moore](https://unsplash.com/@kjphotog), disponible en [Unsplash](https://unsplash.com/photos/5DQrSVzWS6c)."
+  caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
 ---
 
 **Problema 13:** Resuelve
