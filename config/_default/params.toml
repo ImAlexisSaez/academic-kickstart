@@ -17,8 +17,8 @@ day_night = true
 font = ""
 
 # Choose a font size.
-# Sizes: s (small), m (medium), l (large)
-font_size = "m"
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size = "L"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Infinitos Contrastes: laboratorio de experimentos de un matemático."
