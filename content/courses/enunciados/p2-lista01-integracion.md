@@ -6,7 +6,6 @@ type: docs
 date: "2019-09-23T00:00:01+01:00"
 lastmod: "2019-09-23T00:00:01+01:00"
 math: true
-markup: mmark
 draft: false
 menu:
   enunciados:
