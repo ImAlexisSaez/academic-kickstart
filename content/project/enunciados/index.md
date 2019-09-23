@@ -6,7 +6,7 @@ lastmod: 2019-09-23T00:00:01+01:00
 draft: false
 
 tags: ["Matemáticas"]
-summary: "Problemas matemáticos para la preparación de las Oposiciones de 2020."
+summary: "Problemas matemáticos propuestos para la preparación de las Oposiciones de 2020."
 
 external_link: "/courses/enunciados/"
 
