@@ -26,8 +26,20 @@ weight: 1
 
 ---
 
+**Ejercicio:** Demuestra que $(6^n - 1)(7^n - 1)$ es múltiplo de $30$, para cada número natural $n$.
+
+[Discusión](/2019/09/24/enunciados-propuestos-ii/)
+
+---
+
 **Ejercicio:** Demuestra que $11^{n+1} + 12^{2n-1}$ es múltiplo de $133$, para cada número natural $n$.
 
 [Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/)
+
+---
+
+**Ejercicio:** Demuestra que $3^{3n+3} - 26n - 27$ es múltiplo de $169$, para cada número natural $n$.
+
+[Discusión](/2019/09/24/enunciados-propuestos-ii/)
 
 ---

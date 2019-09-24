@@ -5,7 +5,7 @@ subtitle: "¿Y las soluciones? ¿Dónde están las soluciones?"
 summary: "Presentación del nuevo proyecto junto con los cinco primeros enunciados."
 
 date: 2019-09-23T00:00:01+02:00
-#lastmod: 2019-08-06T00:00:01+02:00
+#lastmod: 2019-09-23T00:00:01+02:00
 
 authors: ["admin"]
 math: true
