@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (II)"
 slug: "enunciados-propuestos-ii"
-subtitle: "Los sistemas de numeración hacen acto se presencia"
+subtitle: "Los sistemas de numeración hacen acto de presencia"
 summary: "Entrega II de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2019-09-24T00:00:01+02:00
@@ -13,7 +13,7 @@ markup: mmark
 draft: false
 featured: false
 
-tags: ["Inducción", "Problemas", "Sistemas de numeración", "Teoría de números"]
+tags: ["Inducción", "Problemas", "Sistemas de numeración"]
 categories: ["Oposiciones"]
 projects: ["enunciados"]
 
