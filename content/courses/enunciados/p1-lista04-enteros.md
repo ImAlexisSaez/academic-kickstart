@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-09-25T00:00:01+01:00"
+lastmod: "2019-10-01T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -20,9 +20,47 @@ weight: 4
 
 ---
 
+**Ejercicio:** Determina todos los números naturales $m$ tales que $1066\equiv 1776\pmod{m}$.
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
+
+---
+
+**Ejercicio:** Dado $(1! + 2! + \cdots + 100!)\pmod{45}$, encuentra el menor resto no negativo.
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
+
+---
+
+**Ejercicio:** Sea $n$ un número natural y $A\_n = 2^n + 2^{2n} + 2^{3n}$.
+
+- (a) Demuestra que $A\_{n+3}\equiv A\_n\pmod{2}$.
+- (b) ¿Para qué valores de $n$ es $A\_n$ múltiplo de $7$?
+- (c\) Los números, en base $2$, $1110$, $1010100$ y $1001001000$, ¿son divisibles por $7$?
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
+
+---
+
 **Ejercicio:** Calcula las dos últimas cifras de $2^{390}$.
 
 [Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/)
+
+---
+
+## mcd, mcm...
+
+---
+
+**Ejercicio:** Determina todos los pares de números naturales $(a,b)$ tales que $mcd(a,b) = 18$ y $mcm(a,b) = 540$.
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
+
+---
+
+**Ejercicio:** Halla dos números naturales sabiendo que su máximo común divisor es $120$ y la diferencia de sus cuadrados asciende a $345600$.
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
 
 ---
 
@@ -58,7 +96,7 @@ weight: 4
 
 ---
 
-## Fermat
+## Fermat y compañía
 
 ---
 

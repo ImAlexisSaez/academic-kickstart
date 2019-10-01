@@ -4,7 +4,7 @@ linktitle: Numeración
 toc: true
 type: docs
 date: "2019-09-24T00:00:01+01:00"
-lastmod: "2019-09-25T00:00:01+01:00"
+lastmod: "2019-10-01T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -50,6 +50,12 @@ weight: 2
 ---
 
 ## Teoría de números
+
+---
+
+**Ejercicio:** En un sistema de numeración, cuya base se desconoce, dos números se escriben $302$ y $402$. El producto de ambos números es $75583$ en el sistema de numeración en base $9$. Halla la base desconocida.
+
+[Discusión](/2019/10/01/enunciados-propuestos-iv/)
 
 ---
 
