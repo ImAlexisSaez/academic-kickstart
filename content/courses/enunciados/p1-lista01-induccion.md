@@ -4,7 +4,7 @@ linktitle: Inducción
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-09-24T00:00:01+01:00"
+lastmod: "2019-10-02T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -16,7 +16,7 @@ menu:
 weight: 1
 ---
 
-## Divisibilidad
+## I. Divisibilidad
 
 ---
 

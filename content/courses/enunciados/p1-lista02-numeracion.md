@@ -4,7 +4,7 @@ linktitle: Numeración
 toc: true
 type: docs
 date: "2019-09-24T00:00:01+01:00"
-lastmod: "2019-10-01T00:00:01+01:00"
+lastmod: "2019-10-02T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -16,7 +16,7 @@ menu:
 weight: 2
 ---
 
-## Cambio de base
+## I. Cambio de base
 
 ---
 
@@ -34,7 +34,7 @@ weight: 2
 
 ---
 
-## Divisibilidad
+## II. Divisibilidad
 
 ---
 
@@ -49,7 +49,7 @@ weight: 2
 
 ---
 
-## Teoría de números
+## III. Teoría de números
 
 ---
 

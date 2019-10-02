@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-01T00:00:01+01:00"
+lastmod: "2019-10-02T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -16,7 +16,7 @@ menu:
 weight: 4
 ---
 
-## Congruencias
+## I. Congruencias
 
 ---
 
@@ -42,13 +42,25 @@ weight: 4
 
 ---
 
+**Ejercicio:** Halla el dígito final de $9^{9^9}$.
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
 **Ejercicio:** Calcula las dos últimas cifras de $2^{390}$.
 
 [Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/)
 
 ---
 
-## mcd, mcm...
+**Ejercicio:** Sabiendo que $7^4 = 2401$, halla los tres últimos dígitos de $7^{9999}$.
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
+## II. mcd, mcm...
 
 ---
 
@@ -64,7 +76,35 @@ weight: 4
 
 ---
 
-## Criterios de divisibilidad
+**Ejercicio:** Demuestra que $mcd(14n+3, 21n+4)=1$, para cada número natural $n$.
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
+**Ejercicio:** Determina todos los posibles valores de $mcd(3n+1, n^2+1)$, donde $n$ es un número natural.
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
+## III. Jugando con cifras
+
+---
+
+**Ejercicio:** Si a un número de $3$ cifras le quitamos la cifra central, resulta la séptima parte del número inicial. ¿De qué número se trata?
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
+**Ejercicio:** ¿Cuál es el número de tres cifras que es igual a doce veces la suma de sus cifras?
+
+[Discusión](/2019/10/02/enunciados-propuestos-v/)
+
+---
+
+## IV. Criterios de divisibilidad
 
 ---
 
@@ -74,7 +114,7 @@ weight: 4
 
 ---
 
-## Cuadrados, cubos...
+## V. Cuadrados, cubos...
 
 ---
 
@@ -96,7 +136,7 @@ weight: 4
 
 ---
 
-## Fermat y compañía
+## VI. Fermat y compañía
 
 ---
 
