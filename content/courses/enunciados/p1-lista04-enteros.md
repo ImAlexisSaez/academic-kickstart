@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-02T00:00:01+01:00"
+lastmod: "2019-10-05T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -114,7 +114,50 @@ weight: 4
 
 ---
 
-## V. Cuadrados, cubos...
+**Ejercicio:** Halla el criterio de divisibilidad por $5$ en base $12$ y aplícalo al número $12x75\_{(12}$ para que sea divisible por $5$.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+**Ejercicio:** Demuestra que
+
+- (a) un número en base $7$ es par si, y solo si, la suma de sus cifras es par.
+- (b) un número es divisible por $25$ si, y solo si, acaba en $00$, $25$, $50$ o $75$.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+## V. Divisibilidad
+
+---
+
+**Ejercicio:** Prueba que, si $n$ es un número natural, $3^{2 ^ n}+1$ es divisible por $2$, pero no por $4$.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+**Ejercicio:** Dado el número $123456789101112\cdots100$, donde los números escritos son los naturales sin espacios, estudia si es múltiplo de $9$.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+**Ejercicio:** Calcula el menor múltiplo de $23$ cuyas cifras son todas nueves.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+**Ejercicio:** *(Murcia (2002))* Demuestra que $A\_n = 2903^n - 803^n - 464^n + 261^n$ es divisible por $1897$, para cada número natural $n$.
+
+[Discusión](/2019/10/05/enunciados-propuestos-vi/)
+
+---
+
+## VI. Cuadrados, cubos...
 
 ---
 
@@ -136,7 +179,7 @@ weight: 4
 
 ---
 
-## VI. Fermat y compañía
+## VII. Fermat y compañía
 
 ---
 
