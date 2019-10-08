@@ -4,7 +4,7 @@ linktitle: Integración
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-09-23T00:00:01+01:00"
+lastmod: "2019-10-08T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -26,6 +26,6 @@ $$
 \int{\sqrt{\frac{x^2+1}{x^2}}dx}.
 $$
 
-[Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/)
+([Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/))
 
 ---

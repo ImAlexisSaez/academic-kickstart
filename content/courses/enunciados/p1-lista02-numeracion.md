@@ -4,7 +4,7 @@ linktitle: Numeración
 toc: true
 type: docs
 date: "2019-09-24T00:00:01+01:00"
-lastmod: "2019-10-02T00:00:01+01:00"
+lastmod: "2019-10-08T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -30,7 +30,7 @@ weight: 2
 - (f) $\frac{1}{2}$ a base $3$.
 - (g) $0.\overline{12}\_{(3}$ a base $10$.
 
-[Discusión](/2019/09/25/enunciados-propuestos-iii/)
+([Discusión](/2019/09/25/enunciados-propuestos-iii/))
 
 ---
 
@@ -45,7 +45,7 @@ weight: 2
 - (c\) Justifica si alguno de los números dados es divisible por $x-1$ en dicha base.
 - (d) Convierte el primero de los números dados a base $9$.
 
-[Discusión](/2019/09/24/enunciados-propuestos-ii/)
+([Discusión](/2019/09/24/enunciados-propuestos-ii/))
 
 ---
 
@@ -53,20 +53,14 @@ weight: 2
 
 ---
 
-**Ejercicio:** En un sistema de numeración, cuya base se desconoce, dos números se escriben $302$ y $402$. El producto de ambos números es $75583$ en el sistema de numeración en base $9$. Halla la base desconocida.
-
-[Discusión](/2019/10/01/enunciados-propuestos-iv/)
+**Ejercicio:** En un sistema de numeración, cuya base se desconoce, dos números se escriben $302$ y $402$. El producto de ambos números es $75583$ en el sistema de numeración en base $9$. Halla la base desconocida. ([Discusión](/2019/10/01/enunciados-propuestos-iv/))
 
 ---
 
-**Ejercicio:** En la base $x$, $a=0.\overline{37}$ y $b=0.\overline{73}$, mientras que en la base $y$, $a=0.\overline{25}$ y $b=0.\overline{52}$. Halla $x+y$ en base $10$.
-
-[Discusión](/2019/09/25/enunciados-propuestos-iii/)
+**Ejercicio:** En la base $x$, $a=0.\overline{37}$ y $b=0.\overline{73}$, mientras que en la base $y$, $a=0.\overline{25}$ y $b=0.\overline{52}$. Halla $x+y$ en base $10$. ([Discusión](/2019/09/25/enunciados-propuestos-iii/))
 
 ---
 
-**Ejercicio:** Demuestra que, en cualquier sistema de numeración, los números $10101$, $101010101$, $1010101010101,\ldots$ no son primos.
-
-[Discusión](/2019/09/25/enunciados-propuestos-iii/)
+**Ejercicio:** Demuestra que, en cualquier sistema de numeración, los números $10101$, $101010101$, $1010101010101,\ldots$ no son primos. ([Discusión](/2019/09/25/enunciados-propuestos-iii/))
 
 ---
