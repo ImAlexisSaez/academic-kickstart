@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-10T00:00:01+01:00"
+lastmod: "2019-10-12T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -205,6 +205,40 @@ weight: 4
 
 ---
 
+**Ejercicio:** Demuestra que $n^7 - n$ es múltiplo de $42$, para cada número natural $n$. ([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
+**Ejercicio:** Halla el resto de dividir $13!$ entre $17$. ([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
+**Ejercicio:** Halla el menor residuo positivo al dividir
+
+- (a) $5^{500}$ entre $17$.
+- (b) $12!$ entre $13$.
+
+([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
+**Ejercicio:** Prueba que $437$ es divisor de
+
+- (a) $16^{99} - 1$.
+- (b) $18! + 1$.
+
+([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
+**Ejercicio:** Calcula el resto cuando $90!$ se divide por $97$. ([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
 **Ejercicio:** Calcula las dos últimas cifras de $3^{390}$. ([Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/))
+
+---
+
+**Ejercicio:** Calcula las dos últimas cifras de $31^{263}$. ([Discusión](/2019/10/12/enunciados-propuestos-ix/))
 
 ---
