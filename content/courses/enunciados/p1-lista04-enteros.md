@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-12T00:00:01+01:00"
+lastmod: "2019-10-14T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -240,5 +240,48 @@ weight: 4
 ---
 
 **Ejercicio:** Calcula las dos últimas cifras de $31^{263}$. ([Discusión](/2019/10/12/enunciados-propuestos-ix/))
+
+---
+
+**Ejercicio:** Para cada entero no negativo $n$, se considera 
+
+$$
+P(n) = \frac{n^7}{7} + \frac{n^3}{3} + \frac{11n}{21}.
+$$
+
+- (a) Demuestra que $3n^7 + 7n^3 + 11n = 0$ en $\mathbb{Z}\_3$ y en $\mathbb{Z}\_7$.
+- (b) Demuestra que $P(n)$ es un número entero.
+
+([Discusión](/2019/10/14/enunciados-propuestos-x/))
+
+---
+
+**Ejercicio:** Dado un número primo $p\geq 7$, prueba que el número $111\cdots111$ (formado por $p-1$ unos) es divisible por $p$. ([Discusión](/2019/10/14/enunciados-propuestos-x/))
+
+---
+
+**Ejercicio:** Sea $n$ un número natural y el conjunto de fracciones 
+
+$$
+A\_n = \left\\{\frac{1}{n},\frac{2}{n},\ldots,\frac{n}{n}\right\\}.
+$$ 
+
+Calcula el número de fracciones irreducibles y la suma de estas.([Discusión](/2019/10/14/enunciados-propuestos-x/))
+
+---
+
+## Teorema chino del resto
+
+---
+
+**Ejercicio:** Calcula el menor número natural $n$ tal que se cumpla que
+
+$$
+\begin{aligned}
+n&\equiv 4\pmod{5},\\\\ n&\equiv 3\pmod{7},\\\\ n&\equiv 1\pmod{9}.
+\end{aligned}
+$$
+
+([Discusión](/2019/10/14/enunciados-propuestos-x/))
 
 ---
