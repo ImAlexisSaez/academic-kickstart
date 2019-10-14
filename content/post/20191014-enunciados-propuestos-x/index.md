@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (X)"
 slug: "enunciados-propuestos-x"
-subtitle: ""
+subtitle: "¡Partiendo pasteles!"
 summary: "Entrega X de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2019-10-14T00:00:01+02:00
