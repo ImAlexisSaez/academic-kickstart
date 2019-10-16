@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-14T00:00:01+01:00"
+lastmod: "2019-10-16T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -82,6 +82,27 @@ weight: 4
 
 ---
 
+**Ejercicio:** Se consideran los números naturales escritos del modo usual en base $10$. Se pide:
+
+- (a) Encuentra el menor número tal que, al suprimir la primera cifra de la izquierda, quede reducido a su quinta parte.
+- (b) Demuestre que no existe ningún número que, al suprimirle su primera cifra de la izquierda, quede reducido a su doceava parte.
+
+([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
+**Ejercicio:** ¿Cuántas cifras tiene el menor número que cumple que, cuando la primera cifra de la izquierda se coloca en el último lugar de la derecha, el número que resulta es una vez y media el número inicial? ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
+**Ejercicio:** Encuentra el número natural más pequeño, con $6$ como cifra de las unidades, de manera que, si el $6$ se mueve al principio, el número queda multiplicado por cuatro. ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
+**Ejercicio:** Halla un número de cinco cifras diferentes de manera que es igual a la suma de todos los de tres cifras que se pueden obtener con las variaciones ordinarias de dichas cifras tomadas de tres en tres. ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
 ## IV. Criterios de divisibilidad
 
 ---
@@ -140,6 +161,14 @@ weight: 4
 ---
 
 **Ejercicio:** Halla el menor número entero $n$ que tiene $12$ divisores y solamente tres factores primos, cuya suma es $20$. ([Discusión](/2019/10/08/enunciados-propuestos-vii/))
+
+---
+
+**Ejercicio:** Halla un número con $15$ divisores tal que la suma de todos estos divisores sea igual a $1767$. ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
+**Ejercicio:** Un número natural $A$, descompuesto en producto de factores primos, es de la forma $A = a^x b^y c^z$. El número de divisores de $A$, $A^2$ y $A^3$ es, respectivamente, $60$, $315$ y $910$. El máximo común divisor de todos los posibles valores de $A$ es $900$. Hállalos. ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
 
 ---
 
