@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-16T00:00:01+01:00"
+lastmod: "2019-10-18T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -184,6 +184,18 @@ weight: 4
 
 ---
 
+**Ejercicio:** Halla un número de cuatro cifras tal que sea igual al cubo de la suma de sus cifras. ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
+**Ejercicio:** Encuentra un número de cuatro cifras $abcd$ de manera que $abcd = 11(a+b+c+d)^2$. ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
+**Ejercicio:** Determina los números $n$ de tres cifras, divisibles por $11$, de manera que $n / 11$ es igual a la suma de los cuadrados de los dígitos de $n$. ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
 **Ejercicio:** Encuentra un número $abcd$, de $4$ cifras en base $12$, tal que es cuadrado perfecto y, además, los números $ab$ y $cd$ son consecutivos en base $12$. ([Discusión](/2019/09/25/enunciados-propuestos-iii/))
 
 ---
@@ -299,7 +311,7 @@ Calcula el número de fracciones irreducibles y la suma de estas.([Discusión](/
 
 ---
 
-## Teorema chino del resto
+## X. Teorema chino del resto
 
 ---
 
@@ -312,5 +324,25 @@ n&\equiv 4\pmod{5},\\\\ n&\equiv 3\pmod{7},\\\\ n&\equiv 1\pmod{9}.
 $$
 
 ([Discusión](/2019/10/14/enunciados-propuestos-x/))
+
+---
+
+**Ejercicio:** Resuelve la ecuación en congruencias $7x\equiv 6\pmod{100}$. ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
+**Ejercicio:** ¿Existe algún entero positivo $x$ tal que cuando $x$ se divide entre 3, se obtiene un residuo igual a $2$; cuando $x$ se divide entre $5$, se obtiene de resto $4$; y cuando $x$ se divide entre $7$, el resto es igual a $6$? ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
+**Ejercicio:** Encuentra las soluciones del siguiente sistema de ecuaciones en congruencias lineales:
+
+$$
+\begin{aligned}
+x&\equiv 3\pmod{5},\\\\ x&\equiv 4\pmod{7},\\\\ x&\equiv 6\pmod{9}.
+\end{aligned}
+$$
+
+([Discusión](/2019/10/18/enunciados-propuestos-xii/))
 
 ---
