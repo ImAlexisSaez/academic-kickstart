@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-18T00:00:01+01:00"
+lastmod: "2019-10-21T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -21,6 +21,10 @@ weight: 4
 ---
 
 **Ejercicio:** Determina todos los números naturales $m$ tales que $1066\equiv 1776\pmod{m}$. ([Discusión](/2019/10/01/enunciados-propuestos-iv/))
+
+---
+
+**Ejercicio:** Demuestra que $4^n \equiv(1+3n)\pmod{9}$, para cada número natural $n$. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
 
 ---
 
@@ -344,5 +348,21 @@ x&\equiv 3\pmod{5},\\\\ x&\equiv 4\pmod{7},\\\\ x&\equiv 6\pmod{9}.
 $$
 
 ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
+
+---
+
+**Ejercicio:** Determina el entero positivo más pequeño que deja de resto $1$, $2$, $3$ y $4$ cuando se divide, respectivamente, por $2$, $3$, $5$ y $11$. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
+
+---
+
+**Ejercicio:** El matemático y poeta chino *Sun Tsu* planteó, hace alrededor de $1800$ años, el siguiente problema: ''Tengo un conjunto de objetos. Cuando los cuanto de tres en tres, me sobran dos; cuando los cuento de cinco en cinco, me sobran tres; y cuando los cuento de siete en siete, me sobran dos. ¿Cuántos objetos poseo?''. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
+
+---
+
+**Ejercicio:** Resuelve la ecuación en congruencias $91x\equiv 419\pmod{440}$. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
+
+---
+
+**Ejercicio:** Resuelve la ecuación en congruencias $3x\equiv 11\pmod{2275}$. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
 
 ---
