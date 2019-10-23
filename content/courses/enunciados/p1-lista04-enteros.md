@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-21T00:00:01+01:00"
+lastmod: "2019-10-23T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -42,6 +42,10 @@ weight: 4
 
 ---
 
+**Ejercicio:** Divide el número $101$ en dos partes tales que una sea múltiplo de $11$ y la otra sea múltiplo de $17$. ([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
+
+---
+
 **Ejercicio:** Halla el dígito final de $9^{9^9}$. ([Discusión](/2019/10/02/enunciados-propuestos-v/))
 
 ---
@@ -59,6 +63,10 @@ weight: 4
 ---
 
 **Ejercicio:** Determina todos los pares de números naturales $(a,b)$ tales que $mcd(a,b) = 18$ y $mcm(a,b) = 540$. ([Discusión](/2019/10/01/enunciados-propuestos-iv/))
+
+---
+
+**Ejercicio:** La suma de dos números vale $371$ y el cociente entre su mínimo común múltiplo y su máximo común divisor es $430$. Halla dichos números. ([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
 
 ---
 
@@ -104,6 +112,32 @@ weight: 4
 ---
 
 **Ejercicio:** Halla un número de cinco cifras diferentes de manera que es igual a la suma de todos los de tres cifras que se pueden obtener con las variaciones ordinarias de dichas cifras tomadas de tres en tres. ([Discusión](/2019/10/16/enunciados-propuestos-xi/))
+
+---
+
+**Ejercicio:**
+
+- (a) Halla el exponente de $2$ en la factorización de $10!$. ¿Cuál sería en el caso de $11!$?
+- (b) Halla el exponente de $3$ en la factorización de $212!$.
+
+([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
+
+---
+
+**Ejercicio:**
+
+- (a) ¿En cuántos ceros acaba el número $1000!$?
+- (b) Demuestra que $1000!$ no es divisible por $2^{995}$, pero sí por $2^{994}$.
+
+([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
+
+---
+
+**Ejercicio:** Convierte $100!$ a base octal. ¿En cuántos ceros termina $100!$ en base octal? ([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
+
+---
+
+**Ejercicio:** ¿En cuántos ceros acaba $438\_{(15}!$? ([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
 
 ---
 

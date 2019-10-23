@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (XIII)"
 slug: "enunciados-propuestos-xiii"
-subtitle: ""
+subtitle: "Tiempo de practicar el teorema chino del resto"
 summary: "Entrega XIII de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2019-10-21T00:00:01+02:00
