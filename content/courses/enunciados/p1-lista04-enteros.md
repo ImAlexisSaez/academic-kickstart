@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-23T00:00:01+01:00"
+lastmod: "2019-10-25T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -141,6 +141,19 @@ weight: 4
 
 ---
 
+**Ejercicio:**
+
+- (a) ¿En cuántos ceros acaba $438\_{(40}!$?
+- (b) ¿En cuántos ceros acaba $(55555\_{(6}!)^3$?
+
+([Discusión](/2019/10/25/enunciados-propuestos-xv/))
+
+---
+
+**Ejercicio:** Calcula el número de ceros en que acaba $(15348\_{(16}!)^5$, con la condición de que debe operarse en base $16$, sin pasar a base decimal, hasta el final. ([Discusión](/2019/10/25/enunciados-propuestos-xv/))
+
+---
+
 ## IV. Criterios de divisibilidad
 
 ---
@@ -149,7 +162,15 @@ weight: 4
 
 ---
 
+**Ejercicio:** Halla el criterio de divisibilidad por $5$ y por $10$ de un número en base $9$. ¿Es múltiplo de $5$ el número $213246\_{(9}$? ([Discusión](/2019/10/25/enunciados-propuestos-xv/))
+
+---
+
 **Ejercicio:** Halla el criterio de divisibilidad por $5$ en base $12$ y aplícalo al número $12x75\_{(12}$ para que sea divisible por $5$. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
+
+---
+
+**Ejercicio:** Halla el conjunto de los divisores del número $1001$. Sean $N = a\_0 + a\_1t + \cdots + a\_nt^n$ y $S = a\_0 - a\_1 + a\_2 - \cdots + (-1)^na\_n$, donde $t=1000$ y $a_n$ es un número entero, para cada $n\in\mathbb{N}\cup\{0\}$. Demuestra que $N\equiv S\pmod{1001}$. Deduce de ello un criterio de divisibilidad por $7$, por $11$ o por $13$, y aplícalo al número $312879645$. ([Discusión](/2019/10/25/enunciados-propuestos-xv/)) 
 
 ---
 
@@ -175,6 +196,20 @@ weight: 4
 ---
 
 **Ejercicio:** Calcula el menor múltiplo de $23$ cuyas cifras son todas nueves. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
+
+---
+
+**Ejercicio:** Demuestra que, siendo $n$ un número entero, la expresión 
+
+$$
+\frac{n^5 - 5n^3 + 4n}{n+2}
+$$ 
+
+siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-xv/))
+
+---
+
+**Ejercicio:** Demuestra que, si el número natural $p=abc\_{(10}$ es divisible por $37$, los números $bca\_{(10}$ y $cab\_{(10}$ son divisibles por $37$. ([Discusión](/2019/10/25/enunciados-propuestos-xv/))
 
 ---
 
