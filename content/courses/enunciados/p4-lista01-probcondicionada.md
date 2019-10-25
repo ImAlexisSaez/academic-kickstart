@@ -1,10 +1,10 @@
 ---
-title: Probabilidad
-linktitle: Probabilidad
+title: Probabilidad condicionada
+linktitle: Prob. condicionada
 toc: true
 type: docs
 date: "2019-10-14T00:00:01+01:00"
-lastmod: "2019-10-14T00:00:01+01:00"
+lastmod: "2019-10-25T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -16,7 +16,7 @@ menu:
 weight: 7
 ---
 
-## I. Probabilidad condicionada
+## I. Definición y propiedades
 
 ---
 
