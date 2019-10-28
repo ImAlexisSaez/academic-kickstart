@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-25T00:00:01+01:00"
+lastmod: "2019-10-28T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -191,6 +191,16 @@ weight: 4
 
 ---
 
+**Ejercicio:** Sean $a$, $b$, $c$ y $d$ números enteros cualesquiera. Prueba que 
+
+$$
+abcd(a^2 - b^2)(a^2 - c^2)(a^2 - d^2)(b^2 - c^2)(b^2 - d^2)(c^2 - d^2)
+$$ 
+
+es divisible por $7$. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
+
+---
+
 **Ejercicio:** Dado el número $123456789101112\cdots100$, donde los números escritos son los naturales sin espacios, estudia si es múltiplo de $9$. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
 
 ---
@@ -261,6 +271,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 
 ---
 
+**Ejercicio:** Encuentra los números de cuatro cifras, de la forma $abab$, que, disminuidos en una unidad, sean cuadrados perfectos. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
+
+---
+
 **Ejercicio:** Encuentra un número de cuatro cifras $abcd$ de manera que $abcd = 11(a+b+c+d)^2$. ([Discusión](/2019/10/18/enunciados-propuestos-xii/))
 
 ---
@@ -286,6 +300,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Halla un número natural $n$ tal que su cuadrado tenga $202$ dígitos: los primeros $100$ (desde la izquierda) todos iguales a $1$, los siguientes $100$ todos iguales a $2$ y los dos últimos, desconocidos. Es decir, de la forma $111\cdots111222\cdots222xy$. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
+
+---
+
+**Ejercicio:** Se tienen los números $49$, $4489$, $444889$, $\ldots$ obtenido cada uno intercalando $48$ en el centro del anterior. Demuestra que todos estos números son cuadrados perfectos y halla la raíz cuadrada del que consta de $2n$ cifras. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
 
 ---
 
@@ -316,6 +334,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Prueba que $(27 ^ 4) ^ 9 - (25 ^ 3) ^ 6$ es múltiplo de $37$. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
+
+---
+
+**Ejercicio:** Halla el resto de la división por $11$ de $37^{437}$. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
 
 ---
 
@@ -370,7 +392,20 @@ $$
 
 ---
 
+**Ejercicio:** Sea $p$ un número primo impar. Demuestra que
+
+- (a) $(1^{p-1} + 2^{p-1} + \cdots + (p-1)^{p-1})\equiv (-1)\pmod {p}$.
+- (b) $(1^p + 2^p + \cdots + (p-1)^p)\equiv 0\pmod{p}$.
+
+([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
+
+---
+
 **Ejercicio:** Dado un número primo $p\geq 7$, prueba que el número $111\cdots111$ (formado por $p-1$ unos) es divisible por $p$. ([Discusión](/2019/10/14/enunciados-propuestos-x/))
+
+---
+
+**Ejercicio:** Demuestra que si $p$ es un número primo impar, se cumple que $p$ divide a $2^{p-1}-2$. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
 
 ---
 
