@@ -4,7 +4,7 @@ linktitle: Numeración
 toc: true
 type: docs
 date: "2019-09-24T00:00:01+01:00"
-lastmod: "2019-10-08T00:00:01+01:00"
+lastmod: "2019-10-30T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -54,6 +54,10 @@ weight: 2
 ---
 
 **Ejercicio:** En un sistema de numeración, cuya base se desconoce, dos números se escriben $302$ y $402$. El producto de ambos números es $75583$ en el sistema de numeración en base $9$. Halla la base desconocida. ([Discusión](/2019/10/01/enunciados-propuestos-iv/))
+
+---
+
+**Ejercicio:** Encuentra, en el sistema decimal, todos los números que en base $7$ se escriben con tres cifras y en base $9$ con las mismas cifras en orden inverso. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
 
 ---
 

@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-28T00:00:01+01:00"
+lastmod: "2019-10-30T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -43,6 +43,10 @@ weight: 4
 ---
 
 **Ejercicio:** Divide el número $101$ en dos partes tales que una sea múltiplo de $11$ y la otra sea múltiplo de $17$. ([Discusión](/2019/10/23/enunciados-propuestos-xiv/))
+
+---
+
+**Ejercicio:** ¿Qué enteros positivos, menores que $15$, tienen inverso módulo $15$? Encuentra los correspondientes inversos. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
 
 ---
 
@@ -223,6 +227,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 
 ---
 
+**Ejercicio:** Demuestra que $n^5 - 5n^3 + 4n$ es múltiplo de $120$, para cada número natural $n$. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
+
+---
+
 **Ejercicio:** *(Murcia (2002))* Demuestra que $A\_n = 2903^n - 803^n - 464^n + 261^n$ es divisible por $1897$, para cada número natural $n$. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
 
 ---
@@ -299,6 +307,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 
 ---
 
+**Ejercicio:** Si $a=11\cdots 11$ es un número con $2n$ dígitos y $b=22\cdots 22$ es uno que posee $n$ dígitos, prueba que $a-b$ es un cuadrado perfecto. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
+
+---
+
 **Ejercicio:** Halla un número natural $n$ tal que su cuadrado tenga $202$ dígitos: los primeros $100$ (desde la izquierda) todos iguales a $1$, los siguientes $100$ todos iguales a $2$ y los dos últimos, desconocidos. Es decir, de la forma $111\cdots111222\cdots222xy$. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
 
 ---
@@ -330,6 +342,16 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Halla el resto de dividir $2^{55}$ entre $7$. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
+
+---
+
+**Ejercicio:** Prueba que 
+
+$$
+A\_k = 2^{2^{6k+2}}+3
+$$ 
+
+es múltiplo de $19$, para todo número natural $k$. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
 
 ---
 

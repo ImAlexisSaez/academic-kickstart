@@ -4,7 +4,7 @@ linktitle: Inducción
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-21T00:00:01+01:00"
+lastmod: "2019-10-30T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -17,6 +17,10 @@ weight: 1
 ---
 
 ## I. Divisibilidad
+
+---
+
+**Ejercicio:** Demuestra que el número $n(n^2 + 5)$ es divisible por $6$, para cada número natural $n$. ([Discusión](/2019/10/30/enunciados-propuestos-xvii/))
 
 ---
 
