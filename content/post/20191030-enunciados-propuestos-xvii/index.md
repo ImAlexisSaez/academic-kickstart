@@ -13,7 +13,7 @@ markup: mmark
 draft: false
 featured: false
 
-tags: ["Problemas", "Teoría de números"]
+tags: ["Inducción", "Problemas", "Sistemas de numeración", "Teoría de números"]
 categories: ["Oposiciones"]
 projects: ["enunciados"]
 
