@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-30T00:00:01+01:00"
+lastmod: "2019-11-01T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -342,6 +342,14 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Halla el resto de dividir $2^{55}$ entre $7$. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
+
+---
+
+**Ejercicio:** Demuestra que $2222^{5555} + 5555^{2222}$ es múltiplo de $7$. ([Discusión](/2019/11/01/enunciados-propuestos-xviii/))
+
+---
+
+**Ejercicio:** Halla todos los números naturales $n$ tales que $2^n + 3^n$ es un múltiplo de $7$. ([Discusión](/2019/11/01/enunciados-propuestos-xviii/))
 
 ---
 

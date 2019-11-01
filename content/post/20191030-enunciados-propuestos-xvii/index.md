@@ -2,7 +2,7 @@
 title: "Enunciados propuestos (XVII)"
 slug: "enunciados-propuestos-xvii"
 subtitle: "Retomamos algunos ejercicios de divisibilidad"
-summary: "Entrega XVI de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
+summary: "Entrega XVII de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2019-10-30T00:00:01+02:00
 #lastmod: 2019-10-30T00:00:01+02:00
