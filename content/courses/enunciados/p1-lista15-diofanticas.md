@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2019-11-08T00:00:01+01:00"
+lastmod: "2019-11-11T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -106,7 +106,7 @@ weight: 6
 
 ---
 
-**Ejercicio 1:** Halla las soluciones enteras de las ecuaciones diofánticas
+**Ejercicio:** Halla las soluciones enteras de las ecuaciones diofánticas
 
 - (a) $6x + 8y + 14z = 22$.
 - (b) $6x + 10y + 15z = 31$.
@@ -143,11 +143,35 @@ $$
 
 ---
 
-**Ejercicio 6:** Halla las soluciones naturales de las ecuaciones
+**Ejercicio:** Halla las soluciones naturales de las ecuaciones
 
 - (a) $x^2 - y^2 = 46$.
 - (b) $x^2 - y^2 = 36$.
 
 ([Discusión](/2019/11/08/enunciados-propuestos-xxi/))
+
+---
+
+**Ejercicio:** Halla las soluciones enteras de la ecuación $x^2 - y^2 = 24$. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** Encuentra todas las soluciones naturales de la ecuación $x^2 - y^2 = 252$. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** Halla soluciones enteras no triviales para la ecuación $x^2 - 7y^2 = 1$. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** Halla soluciones enteras no triviales para la ecuación $x^2 - 3y^2 = 1$. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** Halla las soluciones enteras no triviales para la ecuación $x^2 - 15y^2 = 1$. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** Prueba que $3$, $4$ y $5$ es la única solución de $x^2 + y^2 = z^2$ en enteros positivos consecutivos. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
 
 ---
