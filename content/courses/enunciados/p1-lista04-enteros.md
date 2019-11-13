@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-11-01T00:00:01+01:00"
+lastmod: "2019-11-13T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -50,6 +50,10 @@ weight: 4
 
 ---
 
+**Ejercicio:** Encuentra todos los números naturales $n$ para los cuales se satisface que $1^n + 9^n + 10^n = 5^n + 6^n + 11^n$. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
 **Ejercicio:** Halla el dígito final de $9^{9^9}$. ([Discusión](/2019/10/02/enunciados-propuestos-v/))
 
 ---
@@ -83,6 +87,10 @@ weight: 4
 ---
 
 **Ejercicio:** Determina todos los posibles valores de $mcd(3n+1, n^2+1)$, donde $n$ es un número natural. ([Discusión](/2019/10/02/enunciados-propuestos-v/))
+
+---
+
+**Ejercicio:** En una batalla, en la que participaron entre $10000$ y $11000$ soldados, resultaron muertos $23 / 165$ del total y heridos $35 / 143$ del total. Halla cuántos resultaron ilesos. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
 
 ---
 

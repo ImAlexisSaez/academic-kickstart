@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2019-11-11T00:00:01+01:00"
+lastmod: "2019-11-13T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -173,5 +173,21 @@ $$
 ---
 
 **Ejercicio:** Prueba que $3$, $4$ y $5$ es la única solución de $x^2 + y^2 = z^2$ en enteros positivos consecutivos. ([Discusión](/2019/11/11/enunciados-propuestos-xxii/))
+
+---
+
+**Ejercicio:** ¿Qué cuadrado de cinco cifras, al quitarle una unidad, se puede descomponer en suma de cinco cuadrados idénticos? ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
+**Ejercicio:** Halla los números naturales $n$ de manera que se cumpla que $1+2+\cdots+n = k^2$, con $k$ número natural. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
+**Ejercicio:** ¿Cuál es el menor triángulo cuyos lados son números enteros consecutivos y su área es múltiplo de $20$? ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
+**Ejercicio:** Halla todos los triángulos cuyos lados son tres números enteros consecutivos y su área es asimismo un número entero. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
 
 ---
