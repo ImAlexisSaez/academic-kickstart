@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-11-13T00:00:01+01:00"
+lastmod: "2019-11-16T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -91,6 +91,16 @@ weight: 4
 ---
 
 **Ejercicio:** En una batalla, en la que participaron entre $10000$ y $11000$ soldados, resultaron muertos $23 / 165$ del total y heridos $35 / 143$ del total. Halla cuántos resultaron ilesos. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
+**Ejercicio:**
+
+- (a) Dados dos números $x$ e $y$, coprimos entre sí, prueba que $mcd(x+y, xy) = 1$.
+- (b) Dados dos números enteros $a$ y $b$, prueba que $mcd(a,b) = mcd(a+b, mcm(a, b))$.
+- (c\) La suma de dos números naturales es $5264$ y su mínimo común múltiplo es $200340$, ¿cuáles son estos números?
+
+([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
 
 ---
 
@@ -217,6 +227,16 @@ es divisible por $7$. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
 
 ---
 
+**Ejercicio:**
+
+- (a) Estudia, según los valores del número natural $n$, el resto de la división de $7^n$ entre $9$.
+- (b) ¿Para qué valores de $n$ se cumple que $16^{3n} + 16^n - 2$ es múltiplo de $9$?
+- (c\) Permutando las cifras del número $1223334444555556666667777777$, ¿podrá obtenerse un cuadrado perfecto?
+
+([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
+
+---
+
 **Ejercicio:** Calcula el menor múltiplo de $23$ cuyas cifras son todas nueves. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
 
 ---
@@ -240,6 +260,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** *(Murcia (2002))* Demuestra que $A\_n = 2903^n - 803^n - 464^n + 261^n$ es divisible por $1897$, para cada número natural $n$. ([Discusión](/2019/10/05/enunciados-propuestos-vi/))
+
+---
+
+**Ejercicio:** Halla los números enteros positivos $n$ tal que $n^4+2$ es divisible por $n+2$. ([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
 
 ---
 
@@ -324,6 +348,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Se tienen los números $49$, $4489$, $444889$, $\ldots$ obtenido cada uno intercalando $48$ en el centro del anterior. Demuestra que todos estos números son cuadrados perfectos y halla la raíz cuadrada del que consta de $2n$ cifras. ([Discusión](/2019/10/28/enunciados-propuestos-xvi/))
+
+---
+
+**Ejercicio:** Determina todos los valores de $k$ para los cuales el número $11\cdots 11$, compuesto por $k$ unos, es un cuadrado perfecto. ([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
 
 ---
 
@@ -506,5 +534,18 @@ $$
 ---
 
 **Ejercicio:** Resuelve la ecuación en congruencias $3x\equiv 11\pmod{2275}$. ([Discusión](/2019/10/21/enunciados-propuestos-xiii/))
+
+---
+
+**Ejercicio:** Una mujer tiene un cesto de manzanas. Haciendo grupos de $3$ sobran $2$ y haciendo grupos de $4$ sobran $3$. Halla el número de manzanas que contiene el cesto sabiendo que están entre $100$ y $110$. ([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
+
+---
+
+**Ejercicio:** A una isla llegan $17$ piratas para repartirse un botín que consiste en un saco con más de $100$ monedas de oro. Efectuado el reparto equitativo, sobra una moneda. Con el objetivo de que no sobre ninguna, los piratas deciden matar a uno de ellos y efectuar nuevamente el reparto equitativo, pero vuelve a sobrar una moneda.
+
+- (a) ¿Cuál es el número mínimo de monedas que contiene el saco?
+- (b) Conocido dicho número mínimo, ¿cuántos piratas morirán hasta que, efectuado el reparto equitativo, no sobre ninguna moneda?
+
+([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
 
 ---
