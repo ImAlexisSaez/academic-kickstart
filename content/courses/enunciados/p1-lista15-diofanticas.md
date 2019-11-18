@@ -10,10 +10,10 @@ draft: false
 menu:
   enunciados:
     parent: Enunciados
-    weight: 6
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 7
 ---
 
 ## I. Dos variables
@@ -99,6 +99,22 @@ weight: 6
 ---
 
 **Ejercicio:** Una persona va a un supermercado y compra $12$ litros de leche, unos de leche entera y otros de desnatada, por $1200$ pesetas. Si la leche entera vale $30$ pesetas más por litro que la desnatada y ha comprado el mínimo posible de leche desnatada, ¿cuántos litros habrá comprado de cada una? ([Discusión](/2019/11/06/enunciados-propuestos-xx/))
+
+---
+
+**Ejercicio:** Los lados de un rectángulo vienen dados por números naturales. ¿Cuál será la longitud de dichos lados para que el perímetro y la superficie de dicha figura se expresen con el mismo número? ([Discusión](/2019/11/18/enunciados-propuestos-xxv/))
+
+---
+
+**Ejercicio:** Determina las dimensiones de un rectángulo sabiendo que sus lados miden un número entero de centímetros, pero no un número entero de palmos; y que su área, expresada en palmos cuadrados, es igual a su perímetro, expresado en palmos lineales. Considera que un palmo equivale a $20$ centímetros. ([Discusión](/2019/11/18/enunciados-propuestos-xxv/))
+
+---
+
+**Ejercicio:** *(Extremadura (2018))* En su último viaje a Estados Unidos, el señor Martínez cambió un cheque de viaje. El cajero, al pagarle, confundió el número de dólares con el de centavos y viceversa. El señor Martínez gastó $68$ centavos en sellos y comprobó que el dinero que le quedaba era el doble del importe del cheque de viaje que había cambiado. ¿Qué valor mínimo tenía el cheque de viaje? ([Discusión](/2019/11/18/enunciados-propuestos-xxv/))
+
+---
+
+**Ejercicio:** *(Galicia (2018))* Una persona ha comprado entradas para el cine para personas adultas por un precio de $640$ u. m. cada una y para menores de edad a $330$ u. m. Sabiendo que invirtió $7140$ u. m. y que compró menos entradas de adultos que de menores, halla el número de entradas que adquirió. ([Discusión](/2019/11/18/enunciados-propuestos-xxv/))
 
 ---
 
