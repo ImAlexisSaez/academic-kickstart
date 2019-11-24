@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Matemático
+role: Profesor de matemáticas
 
 # Organizations/Affiliations
 # organizations:
