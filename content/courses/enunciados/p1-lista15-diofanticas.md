@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2019-11-13T00:00:01+01:00"
+lastmod: "2019-12-06T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -118,6 +118,10 @@ weight: 7
 
 ---
 
+**Ejercicio:** Halla un número de seis cifras que es igual a las seis últimas cifras de su cuadrado. ([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
 ## II. Tres o más variables
 
 ---
@@ -192,6 +196,10 @@ $$
 
 ---
 
+**Ejercicio:** Halla dos números enteros tales que la suma de sus cuadrados es el doble de su suma. ([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
 **Ejercicio:** ¿Qué cuadrado de cinco cifras, al quitarle una unidad, se puede descomponer en suma de cinco cuadrados idénticos? ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
 
 ---
@@ -205,5 +213,32 @@ $$
 ---
 
 **Ejercicio:** Halla todos los triángulos cuyos lados son tres números enteros consecutivos y su área es asimismo un número entero. ([Discusión](/2019/11/13/enunciados-propuestos-xxiii/))
+
+---
+
+**Ejercicio:** Prueba que existen cuadrados de la forma $1 + 2 ^ {x^2} + 2 ^ {y^2}$. ([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
+**Ejercicio:** Sean $a$, $b$ y $c$ números naturales distintos.
+
+- (a) Halla un conjunto infinito de soluciones de la ecuación $a^2 + b^2 + c^2 = 2c(a + b)$.
+- (b) Demuestra que, si $a<b<c$, la ecuación $a^3 - c^3 + b^3 = 3b(a - c)(a + c - b)$ no tiene solución.
+
+([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
+## IV. Polinómicas
+
+---
+
+**Ejercicio:** Halla las soluciones enteras de las ecuaciones diofánticas:
+
+- (a) $2x^2 + x - 3y = 7$.
+- (b) $x^2 + x + 2y = 3$.
+- (c\) $x^2 + x + 3y = 2$.
+
+([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
 
 ---
