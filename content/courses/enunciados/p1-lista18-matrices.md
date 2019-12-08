@@ -20,7 +20,7 @@ weight: 8
 
 ---
 
-**Ejercicio:**Dada la matriz
+**Ejercicio:** Dada la matriz
 
 $$
 \begin{aligned}

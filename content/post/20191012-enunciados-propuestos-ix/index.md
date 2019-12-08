@@ -9,7 +9,6 @@ date: 2019-10-12T00:00:01+02:00
 
 authors: ["admin"]
 math: true
-markup: mmark
 draft: false
 featured: false
 
