@@ -5,7 +5,7 @@ subtitle: "Interesante lectura para recomendar"
 summary: "En este artículo vamos a echar un vistazo a una interesante novela, con las matemáticas como telón de fondo, que viene de la mano de Jordi Sierra i Fabra. ¿Será un libro adecuado para recomendar como lectura durante el curso académico?"
 
 date: 2018-07-23T05:59:39+02:00
-lastmod: 2019-07-23T00:00:01+01:00
+lastmod: 2018-07-23T05:59:39+02:00
 
 authors: ["admin"]
 math: false

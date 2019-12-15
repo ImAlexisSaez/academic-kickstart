@@ -5,7 +5,7 @@ subtitle: "Estableciendo relaciones entre figuras fácilmente"
 summary: "Es muy útil poder incluir varias imágenes en la misma figura, bien sea porque están relacionadas de alguna manera, bien debido a que resulta mucho más sencillo hacer una comparación si se colocan juntas."
 
 date: 2018-07-22T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-22T05:59:39+02:00
 
 authors: ["admin"]
 math: false

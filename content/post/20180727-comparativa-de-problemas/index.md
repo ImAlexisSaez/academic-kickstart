@@ -5,7 +5,7 @@ subtitle: "Evolución del supuesto práctico"
 summary: "A través de Facebook he tenido acceso a un recurso didáctico bastante interesante, que viene en forma de Trabajo de Fin de Máster (TFM) y ha sido elaborado por Rubén Rodríguez Ballesteros para la Universidad de Valladolid."
 
 date: 2018-07-27T05:59:39+02:00
-lastmod: 2019-07-23T00:00:01+01:00
+lastmod: 2018-07-27T05:59:39+02:00
 
 authors: ["admin"]
 math: false

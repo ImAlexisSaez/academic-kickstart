@@ -5,7 +5,7 @@ subtitle: "Aspectos fundamentales"
 summary: "Abordemos, en este artículo, algunos aspectos fundamentales a tener en cuenta sobre las competencias clave, a las que dedicaremos uno de los apartados de nuestra programación didáctica."
 
 date: 2018-07-25T05:59:39+02:00
-lastmod: 2019-07-23T00:00:01+01:00
+lastmod: 2018-07-25T05:59:39+02:00
 
 authors: ["admin"]
 math: false

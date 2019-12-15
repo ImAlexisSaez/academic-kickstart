@@ -5,7 +5,7 @@ subtitle: "Problema 3"
 summary: "Problema 3: la clave está en los productos notables."
 
 date: 2018-07-29T05:59:39+02:00
-lastmod: 2019-07-23T00:00:01+01:00
+lastmod: 2018-07-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -43,10 +43,7 @@ El *caso base*, $P(3)$ en esta ocasión, comprobamos rápidamente que se satisfa
 
 $$
 \begin{aligned}
-a_3 &= (3^2-1)(3^2+1)(3^4-16)3^2\\
-&= 2^3\cdot (2\cdot 5)\cdot (5\cdot 13)\cdot 3^2\\
-&= 2^3\cdot 3\cdot 5^2\cdot (2\cdot 3\cdot 13)\\
-&= 600\cdot(2\cdot 3\cdot 13),
+a_3 &= (3^2-1)(3^2+1)(3^4-16)3^2\\\\ &= 2^3\cdot (2\cdot 5)\cdot (5\cdot 13)\cdot 3^2\\\\ &= 2^3\cdot 3\cdot 5^2\cdot (2\cdot 3\cdot 13)\\\\ &= 600\cdot(2\cdot 3\cdot 13),
 \end{aligned}
 $$
 
@@ -66,8 +63,7 @@ Así pues, a continuación, optaremos por llevar a cabo un enfoque diferente. Si
 
 $$
 \begin{aligned}
-n^2-1&=(n+1)(n-1),\\
-n^4-16&=(n^2+4)(n^2-4)=(n^2+4)(n+2)(n-2),
+n^2-1&=(n+1)(n-1),\\\\ n^4-16&=(n^2+4)(n^2-4)=(n^2+4)(n+2)(n-2),
 \end{aligned}
 $$
 
@@ -93,8 +89,7 @@ Esta situación nos invita a escribir $a_n = u\cdot v$, con
 
 $$
 \begin{aligned}
-u&=(n-2)(n-1)n(n+1)(n+2),\\
-v&=n(n^2+1)(n^2+4),
+u&=(n-2)(n-1)n(n+1)(n+2),\\\\ v&=n(n^2+1)(n^2+4),
 \end{aligned}
 $$
 
@@ -104,9 +99,7 @@ Tal y como hemos indicado arriba, como $n>2$, en $u$ observamos el producto de c
 
 $$
 \begin{aligned}
-u &= 2\cdot3\cdot4\cdot5\cdot k \\
-&= 2^3\cdot 3\cdot 5\cdot k\\
-&= 120\cdot k,
+u &= 2\cdot3\cdot4\cdot5\cdot k \\\\ &= 2^3\cdot 3\cdot 5\cdot k\\\\ &= 120\cdot k,
 \end{aligned}
 $$
 
