@@ -5,7 +5,7 @@ subtitle: "Guía de instalación de tres herramientas necesarias"
 summary: "Lección 1: cómo instalar un buen sistema de control de versiones y un excelente editor de texto plano."
 
 date: 2018-07-05T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-05T05:59:39+02:00
 
 authors: ["admin"]
 math: false

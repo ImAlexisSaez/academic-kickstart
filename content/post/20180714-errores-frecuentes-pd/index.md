@@ -5,7 +5,7 @@ subtitle: "¡A evitarlos todos!"
 summary: "Breve análisis del artículo 'Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria'."
 
 date: 2018-07-14T05:59:39+02:00
-lastmod: 2019-07-22T08:18:37+01:00
+lastmod: 2018-07-14T05:59:39+02:00
 
 authors: ["admin"]
 math: false

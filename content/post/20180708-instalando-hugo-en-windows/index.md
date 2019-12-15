@@ -5,7 +5,7 @@ subtitle: "Un soplo de aire fresco en comparación con Jekyll"
 summary: "Lección 2: cómo instalar Hugo en Windows sin morir en el intento."
 
 date: 2018-07-08T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-08T05:59:39+02:00
 
 authors: ["admin"]
 math: false

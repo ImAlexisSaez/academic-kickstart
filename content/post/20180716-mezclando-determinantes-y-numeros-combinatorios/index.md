@@ -5,7 +5,7 @@ subtitle: "Problema 2"
 summary: "Problema 2: una combinación peligrosa."
 
 date: 2018-07-16T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-16T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -30,12 +30,7 @@ En esta entrada abordaremos un precioso problema de determinantes, propuesto dur
 $$
 f(x) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & x\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & x^2\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & x^3\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & x^k\\ 
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & x^{k+1}
+\binom{1}{0} & 0 & 0 &\ldots & 0 & x\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & x^2\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & x^3\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & x^k\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & x^{k+1}
 \end{vmatrix}.
 $$
 
@@ -51,8 +46,7 @@ Ahora bien, de manera automática, y supongo que por deformación matemática, c
 
 $$
 \begin{aligned}
-(x+y)^n &= \sum_{k=0}^{n}{\binom{n}{k}x^{n-k}y^k}\\
-&= \binom{n}{0}x^n + \binom{n}{1}x^{n-1}y+\cdots+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n.
+(x+y)^n &= \sum_{k=0}^{n}{\binom{n}{k}x^{n-k}y^k}\\\\ &= \binom{n}{0}x^n + \binom{n}{1}x^{n-1}y+\cdots+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n.
 \end{aligned}
 $$
 
@@ -62,10 +56,7 @@ Desarrollemos $(1+x)^n$, para algunos valores concretos de $n$, utilizando para 
 
 $$
 \begin{aligned}
-(1+x)^1 &= \dbinom{1}{0} + \dbinom{1}{1}x,\\
-(1+x)^2 &= \dbinom{2}{0} + \dbinom{2}{1}x + \dbinom{2}{2}x^2,\\
-(1+x)^3 &= \dbinom{3}{0} + \dbinom{3}{1}x + \dbinom{3}{2}x^2 + \dbinom{3}{3}x^3,\\ 
-(1+x)^4 &= \dbinom{4}{0} + \dbinom{4}{1}x + \dbinom{4}{2}x^2 + \dbinom{4}{3}x^3 + \dbinom{4}{4}x^4.
+(1+x)^1 &= \dbinom{1}{0} + \dbinom{1}{1}x,\\\\ (1+x)^2 &= \dbinom{2}{0} + \dbinom{2}{1}x + \dbinom{2}{2}x^2,\\\\ (1+x)^3 &= \dbinom{3}{0} + \dbinom{3}{1}x + \dbinom{3}{2}x^2 + \dbinom{3}{3}x^3,\\\\ (1+x)^4 &= \dbinom{4}{0} + \dbinom{4}{1}x + \dbinom{4}{2}x^2 + \dbinom{4}{3}x^3 + \dbinom{4}{4}x^4.
 \end{aligned}
 $$
 
@@ -80,12 +71,7 @@ podemos reescribir la última columna del determinante dado por $f(x)$ de la sig
 $$
 f(x) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & \binom{1}{1}x^{\phantom{1}}\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & \binom{2}{2}x^2\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & \binom{3}{3}x^3\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & \binom{k}{k}x^k\\
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & \binom{k+1}{k+1}x^{k+1}
+\binom{1}{0} & 0 & 0 &\ldots & 0 & \binom{1}{1}x^{\phantom{1}}\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & \binom{2}{2}x^2\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & \binom{3}{3}x^3\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & \binom{k}{k}x^k\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & \binom{k+1}{k+1}x^{k+1}
 \end{vmatrix}
 $$
 
@@ -98,13 +84,13 @@ $$
 Este hecho nos sugiere que llevemos a cabo la transformación sobre el determinante que consiste en sustituir la última columna por una combinación lineal de esta con la primera columna, que sabemos, por las propiedades de los determinantes, que no altera el valor de $f(x)$. Utilizando la notación habitual de operaciones sobre determinantes, estaríamos proponiendo llevar a cabo la transformación 
 
 $$
-C^{\prime}_{k+1}\rightarrow C_1 + C_{k+1}.
+C^{\prime}\_{k+1}\rightarrow C\_1 + C\_{k+1}.
 $$
 
 Pasemos, a continuación, a estudiar la segunda fila determinante. Con la idea del párrafo anterior en mente, ¿podemos llegar a conseguir el desarrollo del binomio $(1+x)^2$? En realidad, tenemos casi todos los elementos de dicho desarrollo, a falta de una $x$ que tendría que estar multiplicando al elemento que aparece en la segunda columna. No obstante, recordemos aquí que $x$ no es más que un número real, por lo que podríamos multiplicar toda la segunda columna por $x$ y sumarla, junto con la primera columna, a la última. Es decir, la idea es llevar a cabo la transformación
 
 $$
-C^{\prime}_{k+1}\rightarrow C_1 + xC_2 + C_{k+1},
+C^{\prime}\_{k+1}\rightarrow C\_1 + xC\_2 + C\_{k+1},
 $$
 
 que permitiría que el elemento de la última columna fuese precisamente $(1+x)^2$.
@@ -112,13 +98,13 @@ que permitiría que el elemento de la última columna fuese precisamente $(1+x)^
 Empezamos a atisbar un patrón aquí, ¿verdad? Analizando la tercera fila, llegaríamos a proponer la transformación 
 
 $$
-C^{\prime}_{k+1}\rightarrow C_1 + xC_2 + x^2C_3 + C_{k+1},
+C^{\prime}\_{k+1}\rightarrow C\_1 + xC\_2 + x^2C\_3 + C\_{k+1},
 $$
 
 y, siguiendo con el razonamiento, la transformación que al final llevaremos a cabo sobre el determinante será la siguiente: 
 
 $$
-C^{\prime}_{k+1}\rightarrow C_1 + xC_2 + x^2C_3 + \cdots + x^{k-1}C_k + C_{k+1},
+C^{\prime}\_{k+1}\rightarrow C\_1 + xC\_2 + x^2C\_3 + \cdots + x^{k-1}C\_k + C\_{k+1},
 $$ 
 
 que hace que los elementos de la última columna sean binomios de la forma $(1+x)^n$, con $0\leq n\leq k+1$.
@@ -134,12 +120,7 @@ pero como esa expresión no deja de ser un número, podemos sumarlo y restarlo e
 $$
 f(x) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & 1+x\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & (1+x)^2\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & (1+x)^3\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & (1+x)^k\\
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & (1+x)^{k+1} - \binom{k+1}{k}x^k
+\binom{1}{0} & 0 & 0 &\ldots & 0 & 1+x\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & (1+x)^2\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & (1+x)^3\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & (1+x)^k\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & (1+x)^{k+1} - \binom{k+1}{k}x^k
 \end{vmatrix}
 $$
 
@@ -154,12 +135,7 @@ donde
 $$
 g(x) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & 1+x\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & (1+x)^2\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & (1+x)^3\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & (1+x)^k\\
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & (1+x)^{k+1}
+\binom{1}{0} & 0 & 0 &\ldots & 0 & 1+x\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & (1+x)^2\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & (1+x)^3\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & (1+x)^k\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & (1+x)^{k+1}
 \end{vmatrix},
 $$
 
@@ -168,12 +144,7 @@ y
 $$
 h(x) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & 0\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & 0\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & 0\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & 0\\
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & - \binom{k+1}{k}x^k
+\binom{1}{0} & 0 & 0 &\ldots & 0 & 0\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & 0\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & 0\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & 0\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & - \binom{k+1}{k}x^k
 \end{vmatrix}.
 $$
 
@@ -183,9 +154,7 @@ Por otro lado, en $h(x)$ tenemos una matriz triangular inferior, cuyo determinan
 
 $$
 \begin{aligned}
-h(x) &= -\binom{1}{0}\binom{2}{1}\binom{3}{2}\binom{4}{3}\cdots\binom{k+1}{k}x^k\\
-&=-2!\dfrac{3!}{2!}\dfrac{4!}{3!}\cdots\dfrac{(k+1)!}{k!}x^k\\
-&=-(k+1)!x^k.
+h(x) &= -\binom{1}{0}\binom{2}{1}\binom{3}{2}\binom{4}{3}\cdots\binom{k+1}{k}x^k\\\\ &=-2!\dfrac{3!}{2!}\dfrac{4!}{3!}\cdots\dfrac{(k+1)!}{k!}x^k\\\\ &=-(k+1)!x^k.
 \end{aligned}
 $$
 
@@ -223,11 +192,7 @@ Iteramos sucesivamente esta manera de proceder, de forma que al final tenemos el
 
 $$
 \begin{aligned}
-f(n+1) - f(n) &= (k+1)!n^k,\\
-f(n) - f(n-1) &= (k+1)!(n-1)^k,\\
-f(n-1) - f(n-2) &= (k+1)!(n-2)^k,\\
-\vdots & \\
-f(2) - f(1) &= (k+1)!1^k,
+f(n+1) - f(n) &= (k+1)!n^k,\\\\ f(n) - f(n-1) &= (k+1)!(n-1)^k,\\\\ f(n-1) - f(n-2) &= (k+1)!(n-2)^k,\\\\ \vdots & \\\\ f(2) - f(1) &= (k+1)!1^k,
 \end{aligned}
 $$
 
@@ -241,12 +206,7 @@ Ahora bien,
 $$
 f(1) = 
 \begin{vmatrix}
-\binom{1}{0} & 0 & 0 &\ldots & 0 & 1\\
-\binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & 1\\
-\binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & 1\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\
-\binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & 1\\
-\binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & 1
+\binom{1}{0} & 0 & 0 &\ldots & 0 & 1\\\\ \binom{2}{0} & \binom{2}{1} & 0 &\ldots & 0 & 1\\\\ \binom{3}{0} & \binom{3}{1} & \binom{3}{2} & \ldots & 0 & 1\\\\ \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\\\ \binom{k}{0} & \binom{k}{1} & \binom{k}{2} & \ldots & \binom{k}{k-1} & 1\\\\ \binom{k+1}{0} & \binom{k+1}{1} & \binom{k+1}{2} &\ldots & \binom{k+1}{k-1} & 1
 \end{vmatrix},
 $$
 

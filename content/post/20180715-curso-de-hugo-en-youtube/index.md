@@ -5,7 +5,7 @@ subtitle: "Aprende Hugo en un suspiro"
 summary: "Presentación de la lista de reproducción, compuesta por la nada desdeñable cifra de 23 vídeos, que viene de la mano de Giraffe Academy."
 
 date: 2018-07-15T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-15T05:59:39+02:00
 
 authors: ["admin"]
 math: false

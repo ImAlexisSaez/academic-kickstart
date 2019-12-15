@@ -5,7 +5,7 @@ subtitle: "Problema 1"
 summary: "Problema 1: sumando números naturales."
 
 date: 2018-07-12T05:59:39+02:00
-lastmod: 2019-07-22T00:00:01+01:00
+lastmod: 2018-07-12T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -117,8 +117,7 @@ funciona a la perfección, como podemos comprobar a continuación
 $$
 x = 
 \begin{cases}
-  a &\text{if } b\\
-  c &\text{if } d
+  a &\text{if } b\\\\ c &\text{if } d
 \end{cases}
 $$
 
