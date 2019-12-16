@@ -5,7 +5,7 @@ subtitle: "Terminando de ajustar parámetros"
 summary: "Lección 6: finalizamos la edición del archivo de configuración del tema Beautiful Hugo."
 
 date: 2018-08-09T05:59:39+02:00
-lastmod: 2019-07-23T00:00:01+02:00
+lastmod: 2018-08-09T05:59:39+02:00
 
 authors: ["admin"]
 math: false

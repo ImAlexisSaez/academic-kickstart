@@ -5,7 +5,7 @@ subtitle: "La base del ecosistema científico en Python"
 summary: "Tras la buena experiencia vivida después de la sesión dedicada a Machine learning, de la convención SciPy 2017, me he animado a seguir explorando la lista de reproducción del canal de Youtube asociado a la cuenta de Enthought."
 
 date: 2018-08-18T05:59:39+02:00
-lastmod: 2019-07-24T00:00:01+02:00
+lastmod: 2018-08-18T05:59:39+02:00
 
 authors: ["admin"]
 math: true

@@ -5,7 +5,7 @@ subtitle: "Problema 4"
 summary: "Problema 4: cómo una buena simplificación te facilita enormemente la vida."
 
 date: 2018-08-11T05:59:39+02:00
-lastmod: 2019-07-24T00:00:01+02:00
+lastmod: 2018-08-11T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -24,7 +24,7 @@ image:
 **Problema 4:** Dada una constante real positiva, $a$, y el conjunto 
 
 $$
-M_a = \left\{z\in\mathbb{C}^* : \left|z+\dfrac{1}{z}\right|=a \right\},
+M\_a = \left\\{z\in\mathbb{C}^* : \left|z+\dfrac{1}{z}\right|=a \right\\},
 $$ 
 
 donde $\mathbb{C}^* = \mathbb{C}\backslash\{(0,0)\}$, encuentre los valores mínimo y máximo de $|z|$ cuando $z\in M_a$. 
@@ -35,8 +35,7 @@ Hemos de ser capaces de extraer información sobre el módulo de $z$, $|z|$, a p
 
 $$
 \begin{aligned}
-a^2 &= \left|z+\dfrac{1}{z}\right|^2 = \left(z+\dfrac{1}{z}\right)\overline{\left(z+\dfrac{1}{z}\right)} = \left(z+\dfrac{1}{z}\right)\left(\overline{z}+\dfrac{1}{\overline{z}}\right)\\
-&= z\overline{z} + \dfrac{z}{\overline{z}} + \dfrac{\overline{z}}{z} + \dfrac{1}{z\overline{z}} = z\overline{z} + \dfrac{z^2 + \overline{z}^2}{\overline{z}z} + \dfrac{1}{z\overline{z}},
+a^2 &= \left|z+\dfrac{1}{z}\right|^2 = \left(z+\dfrac{1}{z}\right)\overline{\left(z+\dfrac{1}{z}\right)} = \left(z+\dfrac{1}{z}\right)\left(\overline{z}+\dfrac{1}{\overline{z}}\right)\\\\ &= z\overline{z} + \dfrac{z}{\overline{z}} + \dfrac{\overline{z}}{z} + \dfrac{1}{z\overline{z}} = z\overline{z} + \dfrac{z^2 + \overline{z}^2}{\overline{z}z} + \dfrac{1}{z\overline{z}},
 \end{aligned}
 $$
 
@@ -62,9 +61,7 @@ y si completamos el cuadrado del miembro derecho,
 
 $$
 \begin{aligned}
-|z|^4 - a^2|z|^2 + 1 &= - (z^2 + \overline{z}^2 + 2z\overline{z} - 2z\overline{z})\\
-&= - (z + \overline{z})^2 + 2z\overline{z}\\
-&= - (z + \overline{z})^2 + 2|z|^2, 
+|z|^4 - a^2|z|^2 + 1 &= - (z^2 + \overline{z}^2 + 2z\overline{z} - 2z\overline{z})\\\\ &= - (z + \overline{z})^2 + 2z\overline{z}\\\\ &= - (z + \overline{z})^2 + 2|z|^2, 
 \end{aligned}
 $$
 
@@ -104,10 +101,7 @@ expresión que nos invita a experimentar con el desarrollo de $(-a + \sqrt{a^2 +
 
 $$
 \begin{aligned}
-(-a + \sqrt{a^2+4})^2 &= a^2 + a^2 + 4 - 2a\sqrt{a^2+4}\\
-&= 2a^2+4 - 2a\sqrt{a^2+4}\\
-&= 2(a^2+2-a\sqrt{a^2+4})\\
-&= 2(a^2+2-\sqrt{a^4+4a^2}),
+(-a + \sqrt{a^2+4})^2 &= a^2 + a^2 + 4 - 2a\sqrt{a^2+4}\\\\ &= 2a^2+4 - 2a\sqrt{a^2+4}\\\\ &= 2(a^2+2-a\sqrt{a^2+4})\\\\ &= 2(a^2+2-\sqrt{a^4+4a^2}),
 \end{aligned}
 $$
 
