@@ -5,7 +5,7 @@ subtitle: "Cómo encarar unas oposiciones"
 summary: "Opino que una buena manera de encarar unas oposiciones pasa por revisar concienzudamente los criterios de evaluación adoptados en anteriores convocatorias. Echemos un vistazo en este artículo a los seguidos en la última."
 
 date: 2018-08-28T05:59:39+02:00
-lastmod: 2019-07-24T00:00:01+02:00
+lastmod: 2018-08-28T05:59:39+02:00
 
 authors: ["admin"]
 math: false

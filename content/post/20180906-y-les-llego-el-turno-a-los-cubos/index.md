@@ -5,7 +5,7 @@ subtitle: "Problema 6"
 summary: "Problema 6: en matemáticas, reutilizar resultados es clave."
 
 date: 2018-09-06T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-06T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -65,12 +65,7 @@ Apliquemos la *hipótesis de inducción* y llevemos a cabo algunas operaciones a
 
 $$
 \begin{aligned}
-\sum_{k=1}^{n+1}{k^3} &= (n+1)^3 + \sum_{k=1}^{n}{k^3}\\
-&= (n+1)^3 + \dfrac{n^2(n+1)^2}{4}\\
-&= \dfrac{4(n+1)^3 + n^2(n+1)^2}{4}\\
-&= \dfrac{(n+1)^2(4(n+1)+n^2)}{4}\\
-&= \dfrac{(n+1)^2(n^2+4n+4)}{4}\\
-&= \dfrac{(n+1)^2(n+2)^2}{4}
+\sum_{k=1}^{n+1}{k^3} &= (n+1)^3 + \sum_{k=1}^{n}{k^3}\\\\ &= (n+1)^3 + \dfrac{n^2(n+1)^2}{4}\\\\ &= \dfrac{4(n+1)^3 + n^2(n+1)^2}{4}\\\\ &= \dfrac{(n+1)^2(4(n+1)+n^2)}{4}\\\\ &= \dfrac{(n+1)^2(n^2+4n+4)}{4}\\\\ &= \dfrac{(n+1)^2(n+2)^2}{4}
 \end{aligned}
 $$
 

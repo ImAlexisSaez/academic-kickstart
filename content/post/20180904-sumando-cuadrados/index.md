@@ -5,7 +5,7 @@ subtitle: "Problema 5"
 summary: "Problema 5: seguimos reforzando el Principio de inducción matemática."
 
 date: 2018-09-04T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-04T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -53,12 +53,7 @@ Para ello, apliquemos la *hipótesis de inducción* y llevemos a cabo algunas op
 
 $$
 \begin{aligned}
-\sum_{k=1}^{n+1}{k^2} &= (n+1)^2 + \sum_{k=1}^{n}{k^2}\\
-& = (n+1)^2 + \dfrac{n(n+1)(2n+1)}{6}\\
-& = \dfrac{6(n+1)^2 + n(n+1)(2n+1)}{6}\\
-& = \dfrac{(n+1)(6(n+1) + n(2n+1))}{6}\\
-& = \dfrac{(n+1)(2n^2+7n+6)}{6}\\
-& = \dfrac{(n+1)(n+2)(2n+3)}{6},
+\sum_{k=1}^{n+1}{k^2} &= (n+1)^2 + \sum_{k=1}^{n}{k^2}\\\\ & = (n+1)^2 + \dfrac{n(n+1)(2n+1)}{6}\\\\ & = \dfrac{6(n+1)^2 + n(n+1)(2n+1)}{6}\\\\ & = \dfrac{(n+1)(6(n+1) + n(2n+1))}{6}\\\\ & = \dfrac{(n+1)(2n^2+7n+6)}{6}\\\\ & = \dfrac{(n+1)(n+2)(2n+3)}{6},
 \end{aligned}
 $$
 

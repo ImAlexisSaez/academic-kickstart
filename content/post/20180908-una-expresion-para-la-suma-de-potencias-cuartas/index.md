@@ -5,7 +5,7 @@ subtitle: "Problema 7"
 summary: "Problema 7: a veces, no queda otra que arremangarse las mangas y calcular."
 
 date: 2018-09-08T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-08T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -63,9 +63,7 @@ de manera que
 
 $$
 \begin{aligned}
-\sum_{k=1}^{n}{k^4} &= 1^4+2^4+\cdots+n^4\\
-&= \dfrac{n(n+1)(6n^3+9n^2+n-1)}{30}\\
-&=\dfrac{n(n+1)(2n+1)(3n^2+3n-1)}{30}.
+\sum_{k=1}^{n}{k^4} &= 1^4+2^4+\cdots+n^4\\\\ &= \dfrac{n(n+1)(6n^3+9n^2+n-1)}{30}\\\\ &=\dfrac{n(n+1)(2n+1)(3n^2+3n-1)}{30}.
 \end{aligned}
 $$
 
@@ -85,8 +83,7 @@ y estudiamos si se satisface para $n+1$. Así pues, el objetivo que tenemos ahor
 
 $$
 \begin{aligned}
-\sum_{k=1}^{n+1}{k^4} &= \dfrac{(n+1)(n+2)(2(n+1)+1)(3(n+1)^2+3(n+1)-1)}{30}\\
-&= \dfrac{(n+1)(n+2)(2n+3)(3n^2+9n+5)}{30}.
+\sum_{k=1}^{n+1}{k^4} &= \dfrac{(n+1)(n+2)(2(n+1)+1)(3(n+1)^2+3(n+1)-1)}{30}\\\\ &= \dfrac{(n+1)(n+2)(2n+3)(3n^2+9n+5)}{30}.
 \end{aligned}
 $$
 
@@ -94,10 +91,7 @@ Apliquemos la *hipótesis de inducción* y llevemos a cabo algunas operaciones a
 
 $$
 \begin{aligned}
-\sum_{k=1}^{n+1}{k^4} &= (n+1)^4 + \sum_{k=1}^{n}{k^4}\\
-&= (n+1)^4 + \dfrac{n(n+1)(2n+1)(3n^2+3n-1)}{30}\\
-&= \dfrac{30(n+1)^4 + n(n+1)(2n+1)(3n^2+3n-1)}{30}\\
-&= \dfrac{(n+1)(30(n+1)^3+n(2n+1)(3n^2+3n-1))}{30}.
+\sum_{k=1}^{n+1}{k^4} &= (n+1)^4 + \sum_{k=1}^{n}{k^4}\\\\ &= (n+1)^4 + \dfrac{n(n+1)(2n+1)(3n^2+3n-1)}{30}\\\\ &= \dfrac{30(n+1)^4 + n(n+1)(2n+1)(3n^2+3n-1)}{30}\\\\ &= \dfrac{(n+1)(30(n+1)^3+n(2n+1)(3n^2+3n-1))}{30}.
 \end{aligned}
 $$
 
@@ -105,8 +99,7 @@ Por tanto, el resultado quedaría probado siempre y cuando fuesen equivalentes l
 
 $$
 \begin{aligned}
-(n+2)(2n+3) &= 2n^2+3n+4n+6 = 2n^2+7n+6,\\
-(2n^2+7n+6)(3n^2+9n+5) &= 6n^4+39n^3+91n^2+89n+30,
+(n+2)(2n+3) &= 2n^2+3n+4n+6 = 2n^2+7n+6,\\\\ (2n^2+7n+6)(3n^2+9n+5) &= 6n^4+39n^3+91n^2+89n+30,
 \end{aligned}
 $$
 
@@ -114,8 +107,7 @@ y, por otro lado,
 
 $$
 \begin{aligned}
-30(n+1)^3 &= 30n^3 + 90n^2 + 90n + 30,\\
-n(2n+1)(3n^2+3n-1) &= 6n^4+9n^3+n^2-n,
+30(n+1)^3 &= 30n^3 + 90n^2 + 90n + 30,\\\\ n(2n+1)(3n^2+3n-1) &= 6n^4+9n^3+n^2-n,
 \end{aligned}
 $$
 

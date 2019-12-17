@@ -5,7 +5,7 @@ subtitle: "Un script interesante"
 summary: "En mi reciente vuelta a Twitter, he empezado a seguir al profesor responsable del excelente MOOC 'Improving your statistical inferences', Daniël Lakens, que comparte más que interesantes perlas relacionadas con el campo de la estadística."
 
 date: 2018-08-25T05:59:39+02:00
-lastmod: 2019-07-24T00:00:01+02:00
+lastmod: 2018-08-25T05:59:39+02:00
 
 authors: ["admin"]
 math: false

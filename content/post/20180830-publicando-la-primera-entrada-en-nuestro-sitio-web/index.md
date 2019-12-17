@@ -5,7 +5,7 @@ subtitle: "Empezamos a generar contenido"
 summary: "Lección 7: generamos una entrada para el blog y estudiamos cómo configurar sus metadatos."
 
 date: 2018-08-30T05:59:39+02:00
-lastmod: 2019-07-24T00:00:01+02:00
+lastmod: 2018-08-30T05:59:39+02:00
 
 authors: ["admin"]
 math: false
