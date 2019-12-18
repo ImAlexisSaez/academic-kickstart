@@ -5,7 +5,7 @@ subtitle: "Problema 9"
 summary: "Problema 9: combinando teoría de números e inducción."
 
 date: 2018-09-13T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-13T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -65,13 +65,7 @@ y utilizar, acto seguido, la *hipótesis de inducción*, que afirma que existe $
 
 $$
 \begin{aligned}
-4\cdot4^{n+1} + 5^{2n+1} &= 4(21k - 5^{2n-1}) + 5^{2n+1}\\
-&= 4\cdot 21k - 4\cdot 5^{2n-1} + 5^{2n+1}\\
-&= 4\cdot 21k - 4\cdot 5^{2n-1} + 5^2\cdot5^{2n-1}\\
-&= 4\cdot 21k + 5^{2n-1}(5^2-4)\\
-&= 4\cdot 21k + 21\cdot5^{2n-1}\\
-&= 21(4k + 5^{2n-1})\\
-&= 21k^\prime,
+4\cdot4^{n+1} + 5^{2n+1} &= 4(21k - 5^{2n-1}) + 5^{2n+1}\\\\ &= 4\cdot 21k - 4\cdot 5^{2n-1} + 5^{2n+1}\\\\ &= 4\cdot 21k - 4\cdot 5^{2n-1} + 5^2\cdot5^{2n-1}\\\\ &= 4\cdot 21k + 5^{2n-1}(5^2-4)\\\\ &= 4\cdot 21k + 21\cdot5^{2n-1}\\\\ &= 21(4k + 5^{2n-1})\\\\ &= 21k^\prime,
 \end{aligned}
 $$
 

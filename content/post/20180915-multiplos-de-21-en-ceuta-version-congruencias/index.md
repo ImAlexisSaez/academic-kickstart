@@ -5,7 +5,7 @@ subtitle: "Problema 10"
 summary: "Problema 10: siempre hay varias estrategias para abordar un mismo problema."
 
 date: 2018-09-15T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-15T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -52,9 +52,7 @@ Así pues, dado que $4\equiv 1 \pmod{3}$ y $5\equiv (-1) \pmod{3}$, entonces, pa
 
 $$
 \begin{aligned}
-4^{n+1}+5^{2n-1} &\equiv (1^{n+1} + (-1)^{2n-1}) \pmod{3}\\
-&\equiv (1-1) \pmod{3}\\
-&\equiv 0 \pmod{3},
+4^{n+1}+5^{2n-1} &\equiv (1^{n+1} + (-1)^{2n-1}) \pmod{3}\\\\ &\equiv (1-1) \pmod{3}\\\\ &\equiv 0 \pmod{3},
 \end{aligned}
 $$
 
@@ -62,15 +60,7 @@ quedando así una demostrada. Para verificar la restante tengamos en cuenta que 
 
 $$
 \begin{aligned}
-4^{n+1} + 5^{2n-1} &= 2^{2(n+1)} + 5^{2n-1}\\
-&= 2^{2n+2} + 5^{2n-1}\\
-&= 2^32^{2n-1} + 5^{2n-1}\\
-&\equiv (2^32^{2n-1} + (-2)^{2n-1}) \pmod{7}\\
-&\equiv (2^32^{2n-1} + (-1)^{2n-1}2^{2n-1}) \pmod{7}\\
-&\equiv (2^32^{2n-1} - 2^{2n-1}) \pmod{7}\\
-&\equiv ((2^3-1)2^{2n-1}) \pmod{7}\\
-&\equiv 7\cdot 2^{2n-1} \pmod{7}\\
-&\equiv 0 \pmod{7}.
+4^{n+1} + 5^{2n-1} &= 2^{2(n+1)} + 5^{2n-1}\\\\ &= 2^{2n+2} + 5^{2n-1}\\\\ &= 2^32^{2n-1} + 5^{2n-1}\\\\ &\equiv (2^32^{2n-1} + (-2)^{2n-1}) \pmod{7}\\\\ &\equiv (2^32^{2n-1} + (-1)^{2n-1}2^{2n-1}) \pmod{7}\\\\ &\equiv (2^32^{2n-1} - 2^{2n-1}) \pmod{7}\\\\ &\equiv ((2^3-1)2^{2n-1}) \pmod{7}\\\\ &\equiv 7\cdot 2^{2n-1} \pmod{7}\\\\ &\equiv 0 \pmod{7}.
 \end{aligned}
 $$
 

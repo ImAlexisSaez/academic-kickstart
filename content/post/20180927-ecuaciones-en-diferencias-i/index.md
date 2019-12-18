@@ -5,7 +5,7 @@ subtitle: "Problema 12"
 summary: "Problema 12: ecuaciones en diferencias lineales homogéneas."
 
 date: 2018-09-27T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-09-27T05:59:39+02:00
 
 authors: ["admin"]
 math: true

@@ -5,7 +5,7 @@ subtitle: "Problema 13"
 summary: "Problema 13: aparecen raíces complejas en el polinomio característico."
 
 date: 2018-09-29T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-09-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -66,8 +66,7 @@ $$
 \begin{aligned}
 a_h(n) &= 1^n\left(
 (An+B)cos{\left(\dfrac{\pi}{2}n\right)} + (Cn+D)\sin{\left(\dfrac{\pi}{2}n\right)}
-\right)\\
-&= (An+B)cos{\left(\dfrac{\pi}{2}n\right)} + (Cn+D)\sin{\left(\dfrac{\pi}{2}n\right)},
+\right)\\\\ &= (An+B)cos{\left(\dfrac{\pi}{2}n\right)} + (Cn+D)\sin{\left(\dfrac{\pi}{2}n\right)},
 \end{aligned}
 $$
 

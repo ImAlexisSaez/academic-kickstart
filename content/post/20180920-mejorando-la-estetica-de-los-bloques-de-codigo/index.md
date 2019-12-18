@@ -5,7 +5,7 @@ subtitle: "¡Que aparezca una barra horizontal, por favor!"
 summary: "Lección 10: mejorando la legibilidad de los bloques de código fuente."
 
 date: 2018-09-20T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-09-20T05:59:39+02:00
 
 authors: ["admin"]
 math: false

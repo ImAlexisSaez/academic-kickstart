@@ -5,7 +5,7 @@ subtitle: "Problema 11"
 summary: "Problema 11: el relato de un... ¿error?"
 
 date: 2018-09-22T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-09-22T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -51,10 +51,7 @@ Obtengamos el $mcd(199,98)$ utilizando el *Algoritmo de Euclides*:
 
 $$
 \begin{aligned}
-199 &= 98\cdot 2 + 3,\\ 
-98 &= 3\cdot 32 + 2,\\
-3 &= 2\cdot 1 + 1,\\
-2 &= 1\cdot 2,
+199 &= 98\cdot 2 + 3,\\\\ 98 &= 3\cdot 32 + 2,\\\\ 3 &= 2\cdot 1 + 1,\\\\ 2 &= 1\cdot 2,
 \end{aligned}
 $$
 
@@ -90,8 +87,7 @@ Podemos así dar valores a $b^{\prime}$, ya que únicamente tendríamos que prob
 
 $$
 \begin{aligned}
-a_0 &= 10,\\
-b_0 &= 21,
+a_0 &= 10,\\\\ b_0 &= 21,
 \end{aligned}
 $$
 
@@ -99,8 +95,7 @@ mientras que la solución general es
 
 $$
 \begin{aligned}
-a &= 10 - 98t,\\
-b &= 21 - 199t,
+a &= 10 - 98t,\\\\ b &= 21 - 199t,
 \end{aligned}
 $$
 
@@ -110,8 +105,7 @@ Una vez resuelta la ecuación diofántica, centrémonos de nuevo en aquello que 
 
 $$
 \begin{aligned}
-a &= 10 -98t \geq0 \Rightarrow t\leq\dfrac{10}{98},\\
-b &= 21 - 199t \geq0 \Rightarrow t\leq\dfrac{21}{199},
+a &= 10 -98t \geq0 \Rightarrow t\leq\dfrac{10}{98},\\\\ b &= 21 - 199t \geq0 \Rightarrow t\leq\dfrac{21}{199},
 \end{aligned}
 $$
 

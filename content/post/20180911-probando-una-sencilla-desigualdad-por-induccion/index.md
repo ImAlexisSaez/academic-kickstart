@@ -5,7 +5,7 @@ subtitle: "Problema 8"
 summary: "Problema 8: no solo de igualdades vive el principio de inducción matemática."
 
 date: 2018-09-11T05:59:39+02:00
-lastmod: 2019-07-25T00:00:01+02:00
+lastmod: 2018-09-11T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -51,10 +51,7 @@ Apoyándonos en que $n+1\leq n+n = 2n$, para cada $n\in\mathbb{N}$, (siendo una 
 
 $$
 \begin{aligned}
-n+1 &\leq n+n\\
-&= 2n\\
-&< 2\cdot 2^n\\
-&= 2^{n+1},
+n+1 &\leq n+n\\\\ &= 2n\\\\ &< 2\cdot 2^n\\\\ &= 2^{n+1},
 \end{aligned}
 $$
 

@@ -5,7 +5,7 @@ subtitle: "Problema 14"
 summary: "Problema 14: ecuaciones en diferencias lineales completas sencillas."
 
 date: 2018-10-02T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-10-02T05:59:39+02:00
 
 authors: ["admin"]
 math: true
