@@ -5,7 +5,7 @@ subtitle: "Problema 17"
 summary: "Problema 17: presentando el Pequeño Teorema de Fermat."
 
 date: 2018-10-09T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-10-09T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,10 +35,7 @@ Estudiemos, utilizando la teoría de congruencias, el comportamiento del valor d
 
 $$
 \begin{aligned}
-2^1&\equiv 2 \pmod{5},\\
-2^2&\equiv 4 \pmod{5}\equiv(-1) \pmod{5},\\
-2^3&\equiv 3 \pmod{5},\\
-2^4&\equiv 1 \pmod{5}.
+2^1&\equiv 2 \pmod{5},\\\\ 2^2&\equiv 4 \pmod{5}\equiv(-1) \pmod{5},\\\\ 2^3&\equiv 3 \pmod{5},\\\\ 2^4&\equiv 1 \pmod{5}.
 \end{aligned}
 $$
 

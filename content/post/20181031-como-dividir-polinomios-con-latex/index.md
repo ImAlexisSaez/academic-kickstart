@@ -5,7 +5,7 @@ subtitle: "Automatizando el proceso"
 summary: "Escribiendo unos apuntes sobre polinomios, llegó el momento de mostrar un ejemplo de la división de un par de ellos. La clásica pregunta no se hizo esperar, ¿cómo transcribo en LaTeX esa operación matemática?"
 
 date: 2018-10-31T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-10-31T05:59:39+02:00
 
 authors: ["admin"]
 math: true

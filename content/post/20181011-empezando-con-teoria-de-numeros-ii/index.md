@@ -5,7 +5,7 @@ subtitle: "Problema 18"
 summary: "Problema 18: calculando inversos."
 
 date: 2018-10-11T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-10-11T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,11 +35,7 @@ Como $mcd(3,7)=1$, es decir, $3$ y $7$ son coprimos, estamos en condiciones de a
 
 $$
 \begin{aligned}
-3\cdot 1 &= 3\equiv 3\pmod{7},\\
-3\cdot 2 &= 6\equiv 6\pmod{7},\\
-3\cdot 3 &= 9\equiv 2\pmod{7},\\
-3\cdot 4 &= 12\equiv 5\pmod{7},\\
-3\cdot 5 &= 15\equiv 1\pmod{7},
+3\cdot 1 &= 3\equiv 3\pmod{7},\\\\ 3\cdot 2 &= 6\equiv 6\pmod{7},\\\\ 3\cdot 3 &= 9\equiv 2\pmod{7},\\\\ 3\cdot 4 &= 12\equiv 5\pmod{7},\\\\ 3\cdot 5 &= 15\equiv 1\pmod{7},
 \end{aligned}
 $$
 
@@ -49,10 +45,7 @@ Alternativamente, podemos llevar a cabo operaciones elementales sobre la propia 
 
 $$
 \begin{aligned}
-3x\equiv 1\pmod{7}&\Leftrightarrow 6x\equiv 2\pmod{7}\\
-&\Leftrightarrow -x\equiv 2\pmod{7}\\
-&\Leftrightarrow x\equiv (-2)\pmod{7}\\
-&\Leftrightarrow x\equiv 5\pmod{7},
+3x\equiv 1\pmod{7}&\Leftrightarrow 6x\equiv 2\pmod{7}\\\\ &\Leftrightarrow -x\equiv 2\pmod{7}\\\\ &\Leftrightarrow x\equiv (-2)\pmod{7}\\\\ &\Leftrightarrow x\equiv 5\pmod{7},
 \end{aligned}
 $$
 

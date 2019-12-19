@@ -5,7 +5,7 @@ subtitle: "Problema 20"
 summary: "Problema 20: descifrando algunos criterios de divisibilidad."
 
 date: 2018-10-17T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-10-17T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -25,7 +25,7 @@ image:
 
 ***
 
-Consideremos el número de $n$ cifras $a_{n-1}a_{n-2}\cdots a_2a_1a_0$ en base $10$. Sabemos, por el *Teorema Fundamental de la Numeración*, que podemos expresarlo como
+Consideremos el número de $n$ cifras $a\_{n-1}a\_{n-2}\cdots a_2a_1a_0$ en base $10$. Sabemos, por el *Teorema Fundamental de la Numeración*, que podemos expresarlo como
 
 $$
 a_{n-1}a_{n-2}\cdots a_1a_0 = a_0+a_110+\cdots+a_{n-2}10^{n-2}+a_{n-1}10^{n-1}.

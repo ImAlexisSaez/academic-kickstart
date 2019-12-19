@@ -5,7 +5,7 @@ subtitle: "Problema 15"
 summary: "Problema 15: aparecen funciones potenciales como términos independientes."
 
 date: 2018-10-04T05:59:39+02:00
-lastmod: 2019-07-27T00:00:01+02:00
+lastmod: 2018-10-04T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -58,9 +58,7 @@ A continuación, para encontrar una solución particular, $a_p(n)$, como $b(n) =
 
 $$
 \begin{aligned}
-k3^{n+2} - 3k3^{n+1} + 2k3^n &= 3^n,\\ 
-9k - 9k + 2k &= 1,\\
-2k &= 1,
+k3^{n+2} - 3k3^{n+1} + 2k3^n &= 3^n,\\\\ 9k - 9k + 2k &= 1,\\\\ 2k &= 1,
 \end{aligned}
 $$
 
@@ -108,10 +106,7 @@ Ahora, para encontrar una solución particular, $a_p(n)$, como $b(n) = 2^n$ y $\
 
 $$
 \begin{aligned}
-k(n+2)2^{n+2} - 3k(n+1)2^{n+1}+2kn2^n &= 2^n,\\
-4k(n+2) - 6k(n+1) + 2kn &= 1,\\
-4kn + 8k - 6kn - 6k + 2kn &=1,\\
-2k &= 1,
+k(n+2)2^{n+2} - 3k(n+1)2^{n+1}+2kn2^n &= 2^n,\\\\ 4k(n+2) - 6k(n+1) + 2kn &= 1,\\\\ 4kn + 8k - 6kn - 6k + 2kn &=1,\\\\ 2k &= 1,
 \end{aligned}
 $$
 

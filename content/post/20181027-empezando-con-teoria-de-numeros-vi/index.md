@@ -5,7 +5,7 @@ subtitle: "Problema 22"
 summary: "Problema 22: trabajando con distintos sistemas de numeración."
 
 date: 2018-10-27T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-10-27T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -34,9 +34,7 @@ Para el apartado a), por el *Teorema Fundamental de la Numeración*, sabemos que
 
 $$
 \begin{aligned}
-3753_{(x} &= 3x^0 + 5x^1 + 7x^2 + 3x^3 = 3+5x+7x^2+3x^3,\\
-3586_{(x} &= 6x^0 + 8x^1 + 5x^2 + 3x^3 = 6+8x+5x^2+3x^3,\\
-189_{(x} &= 9x^0 + 8x^1 + 1x^2 = 9+8x+x^2,
+3753_{(x} &= 3x^0 + 5x^1 + 7x^2 + 3x^3 = 3+5x+7x^2+3x^3,\\\\ 3586_{(x} &= 6x^0 + 8x^1 + 5x^2 + 3x^3 = 6+8x+5x^2+3x^3,\\\\ 189_{(x} &= 9x^0 + 8x^1 + 1x^2 = 9+8x+x^2,
 \end{aligned}
 $$
 
@@ -92,9 +90,7 @@ Finalmente, en el apartado d) tenemos que
 
 $$
 \begin{aligned}
-3753_{(12} &= 3\cdot12^0 + 5\cdot12^1 + 7\cdot12^2 + 3\cdot12^3 \\
-&= 5184+1008+60+3 \\
-&= 6255_{(10},
+3753_{(12} &= 3\cdot12^0 + 5\cdot12^1 + 7\cdot12^2 + 3\cdot12^3 \\\\ &= 5184+1008+60+3 \\\\ &= 6255_{(10},
 \end{aligned}
 $$
 
@@ -102,9 +98,7 @@ y dividiendo ahora sucesivamente por $9$,
 
 $$
 \begin{aligned}
-6255 &= 9\cdot 695 + 0,\\
-695 &= 9\cdot 77 + 2,\\
-77 &= 9\cdot 8 + 5,
+6255 &= 9\cdot 695 + 0,\\\\ 695 &= 9\cdot 77 + 2,\\\\ 77 &= 9\cdot 8 + 5,
 \end{aligned}
 $$
 
