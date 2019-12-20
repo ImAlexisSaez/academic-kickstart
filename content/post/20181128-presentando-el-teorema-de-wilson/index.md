@@ -5,7 +5,7 @@ subtitle: "Problema 29"
 summary: "Problema 29: un resultado que da mucho juego en teoría de números."
 
 date: 2018-11-28T05:59:39+02:00
-lastmod: 2019-07-29T00:00:01+02:00
+lastmod: 2018-11-28T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -34,10 +34,7 @@ Para el apartado (a), como $19$ es un número primo y $mcd(16,19)=1$, entonces, 
 
 $$
 \begin{aligned}
-16^{99} &= 16^9\cdot(16^{18})^5\\
-&\equiv (16^9\cdot 1^{18})\pmod{19}\\
-&\equiv 16^9\pmod{19}\\
-&\equiv 4^{18}\pmod{19},
+16^{99} &= 16^9\cdot(16^{18})^5\\\\ &\equiv (16^9\cdot 1^{18})\pmod{19}\\\\ &\equiv 16^9\pmod{19}\\\\ &\equiv 4^{18}\pmod{19},
 \end{aligned}
 $$
 
@@ -51,10 +48,7 @@ esto es, $16^{99}-1$ es múltiplo de $19$. De manera similar, como $23$ es un n�
 
 $$
 \begin{aligned}
-16^{99} &= 16^{11}\cdot(16^{22})^4\\
-&\equiv (16^{11}\cdot 1^4)\pmod{23}\\
-&\equiv 16^{11}\pmod{23}\\
-&\equiv 4^{22}\pmod{23},
+16^{99} &= 16^{11}\cdot(16^{22})^4\\\\ &\equiv (16^{11}\cdot 1^4)\pmod{23}\\\\ &\equiv 16^{11}\pmod{23}\\\\ &\equiv 4^{22}\pmod{23},
 \end{aligned}
 $$
 
@@ -76,11 +70,7 @@ esto es, $18!+1$ es múltiplo de $19$. Por otro lado, $23$ es asimismo un númer
 
 $$
 \begin{aligned}
-22! &= (22\cdot21\cdot20\cdot19\cdot18!)\\
-&\equiv ((-1)\cdot(-2)\cdot(-3)\cdot(-4)\cdot18!)\pmod{23}\\
-&\equiv (24\cdot18!)\pmod{23}\\
-&\equiv (1\cdot18!)\pmod{23}\\
-&\equiv 18!\pmod{23},
+22! &= (22\cdot21\cdot20\cdot19\cdot18!)\\\\ &\equiv ((-1)\cdot(-2)\cdot(-3)\cdot(-4)\cdot18!)\pmod{23}\\\\ &\equiv (24\cdot18!)\pmod{23}\\\\ &\equiv (1\cdot18!)\pmod{23}\\\\ &\equiv 18!\pmod{23},
 \end{aligned}
 $$
 

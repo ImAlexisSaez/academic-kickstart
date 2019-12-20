@@ -5,7 +5,7 @@ subtitle: "Problema 27"
 summary: "Problema 27: presentando este importante resultado."
 
 date: 2018-11-21T05:59:39+02:00
-lastmod: 2019-07-29T00:00:01+02:00
+lastmod: 2018-11-21T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -41,10 +41,7 @@ y, por tanto, $3^{40}\equiv 1\pmod{100}$. De esta manera, como $1492 = 40\cdot 3
 
 $$
 \begin{aligned}
-3^{1492} &= 3^{12}\cdot(3^{40})^{37}\\
-&\equiv (3^{12}\cdot1^{37})\pmod{100}\\
-&\equiv 3^{12}\pmod{100}\\
-&\equiv 41\pmod{100},
+3^{1492} &= 3^{12}\cdot(3^{40})^{37}\\\\ &\equiv (3^{12}\cdot1^{37})\pmod{100}\\\\ &\equiv 3^{12}\pmod{100}\\\\ &\equiv 41\pmod{100},
 \end{aligned}
 $$
 
@@ -54,12 +51,7 @@ Alternativamente, para hallar el valor de esta última congruencia, podemos mani
 
 $$
 \begin{aligned}
-3^{12} &= (3^4)^3\\
-&= 81^3\\
-&\equiv(-19)^3\pmod{100}\\
-&\equiv (-6859)\pmod{100}\\
-&\equiv(-59)\pmod{100}\\
-&\equiv 41\pmod{100},
+3^{12} &= (3^4)^3\\\\ &= 81^3\\\\ &\equiv(-19)^3\pmod{100}\\\\ &\equiv (-6859)\pmod{100}\\\\ &\equiv(-59)\pmod{100}\\\\ &\equiv 41\pmod{100},
 \end{aligned}
 $$
 

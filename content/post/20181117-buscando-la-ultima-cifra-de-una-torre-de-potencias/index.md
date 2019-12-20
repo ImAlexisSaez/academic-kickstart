@@ -5,7 +5,7 @@ subtitle: "Problema 26"
 summary: "Problema 26: qué hacer cuando no podemos recurrir a la artillería que proporciona Fermat."
 
 date: 2018-11-17T05:59:39+02:00
-lastmod: 2019-07-29T00:00:01+02:00
+lastmod: 2018-11-17T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -41,10 +41,7 @@ un posible enfoque es estudiar el valor de la congruencia de dicho número módu
 
 $$
 \begin{aligned}
-2^1&\equiv 2\pmod{10},\\
-2^2&\equiv 4\pmod{10},\\
-2^3&\equiv 8\pmod{10},\\
-2^4&\equiv 6\pmod{10}.
+2^1&\equiv 2\pmod{10},\\\\ 2^2&\equiv 4\pmod{10},\\\\ 2^3&\equiv 8\pmod{10},\\\\ 2^4&\equiv 6\pmod{10}.
 \end{aligned}
 $$
 

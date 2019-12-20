@@ -5,7 +5,7 @@ subtitle: "Problema 28"
 summary: "Problema 28: factoriales y números primos al rescate."
 
 date: 2018-11-24T05:59:39+02:00
-lastmod: 2019-07-29T00:00:01+02:00
+lastmod: 2018-11-24T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -31,9 +31,7 @@ En primer lugar, consideremos que buscamos únicamente tres números compuestos 
 
 $$
 \begin{aligned}
-4! + 2 &= 2\cdot(1\cdot3\cdot4 + 1),\\
-4! + 3 &= 3\cdot(1\cdot2\cdot4 + 1),\\
-4! + 4 &= 4\cdot(1\cdot2\cdot3 + 1),
+4! + 2 &= 2\cdot(1\cdot3\cdot4 + 1),\\\\ 4! + 3 &= 3\cdot(1\cdot2\cdot4 + 1),\\\\ 4! + 4 &= 4\cdot(1\cdot2\cdot3 + 1),
 \end{aligned}
 $$
 
@@ -49,9 +47,7 @@ Alternativamente, si no queremos trabajar con números cuya magnitud es tan seve
 
 $$
 \begin{aligned}
-2\cdot3\cdot5 + 2 &= 2(3\cdot 5 + 1),\\
-2\cdot3\cdot5 + 3 &= 3(2\cdot 5 + 1),\\
-2\cdot3\cdot5 + 4 &= 2(3\cdot 5 + 2),
+2\cdot3\cdot5 + 2 &= 2(3\cdot 5 + 1),\\\\ 2\cdot3\cdot5 + 3 &= 3(2\cdot 5 + 1),\\\\ 2\cdot3\cdot5 + 4 &= 2(3\cdot 5 + 2),
 \end{aligned}
 $$
 

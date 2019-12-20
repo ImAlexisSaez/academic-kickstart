@@ -5,7 +5,7 @@ subtitle: "Problema 25"
 summary: "Problema 25: el retorno del Pequeño Teorema de Fermat."
 
 date: 2018-11-14T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-11-14T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -36,9 +36,7 @@ Para el apartado (a), recordemos que el conjunto finito $\mathbb{Z}_3 = \\{\over
 
 $$
 \begin{aligned}
-(3n^7+7n^3+11n)&\equiv (0+n+11n)\pmod{3}\\
-&\equiv 12n\pmod{3}\\
-&\equiv 0\pmod{3},
+(3n^7+7n^3+11n)&\equiv (0+n+11n)\pmod{3}\\\\ &\equiv 12n\pmod{3}\\\\ &\equiv 0\pmod{3},
 \end{aligned}
 $$
 
@@ -46,8 +44,7 @@ para cada entero no negativo $n$. Alternativamente, en el caso de no recordar el
 
 $$
 \begin{aligned}
-(3n^7+7n^3+11n)&\equiv (0+7n^3+11n)\pmod{3}\\
-&\equiv (n^3-n)\pmod{3},
+(3n^7+7n^3+11n)&\equiv (0+7n^3+11n)\pmod{3}\\\\ &\equiv (n^3-n)\pmod{3},
 \end{aligned}
 $$
 
@@ -63,8 +60,7 @@ Por lo que respecta al conjunto finito $\mathbb{Z}_7$, cuerpo también al ser $7
 
 $$
 \begin{aligned}
-(3n^7+7n^3+11n)&\equiv (3n+0+11n)\pmod{7}\\
-&\equiv 14n\pmod{7}\\ 
+(3n^7+7n^3+11n)&\equiv (3n+0+11n)\pmod{7}\\\\ &\equiv 14n\pmod{7}\\\\ 
 &\equiv 0\pmod{7}.
 \end{aligned}
 $$

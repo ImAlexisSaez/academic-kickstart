@@ -5,7 +5,7 @@ subtitle: "Problema 23"
 summary: "Problema 23: seguimos trabajando con múltiplos y criterios de divisibilidad."
 
 date: 2018-11-03T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-11-03T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -47,9 +47,7 @@ En cuanto al apartado b), teniendo presente el resultado alcanzado en el apartad
 
 $$
 \begin{aligned}
-A_1 &= 2^1+2^2+2^3 = 14\equiv 0\pmod{7},\\
-A_2 &= 2^2+2^4+2^6 = 84\equiv 0\pmod{7},\\
-A_3 &= 2^3+2^6+2^9 = 584\equiv 3\pmod{7},
+A_1 &= 2^1+2^2+2^3 = 14\equiv 0\pmod{7},\\\\ A_2 &= 2^2+2^4+2^6 = 84\equiv 0\pmod{7},\\\\ A_3 &= 2^3+2^6+2^9 = 584\equiv 3\pmod{7},
 \end{aligned}
 $$
 
@@ -59,8 +57,7 @@ Finalmente, en el apartado c), por el *Teorema Fundamental de la Numeración*, s
 
 $$
 \begin{aligned}
-1110_{(2} &= 2^1+2^2+2^3 = A_1,\\
-1010100_{(2} &= 2^2+2^4+2^6 = A_2,\\ 
+1110_{(2} &= 2^1+2^2+2^3 = A_1,\\\\ 1010100_{(2} &= 2^2+2^4+2^6 = A_2,\\\\ 
 1001001000_{(2} &= 2^3+2^6+2^9 = A_3,
 \end{aligned}
 $$

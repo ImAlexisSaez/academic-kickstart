@@ -5,7 +5,7 @@ subtitle: "Generalizando el proceso"
 summary: "La semana anterior analizamos el paquete 'polynom', que nos permite fácilmente llevar a cabo la transcripción de divisiones de polinomios con LaTeX. A continuación, estudiaremos una manera alternativa para lidiar con este asunto que, además, nos permitirá operar en conjuntos finitos."
 
 date: 2018-11-07T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-11-07T05:59:39+02:00
 
 authors: ["admin"]
 math: true

@@ -5,7 +5,7 @@ subtitle: "Problema 24"
 summary: "Problema 24: trabajando con múltiplos de 1000."
 
 date: 2018-11-10T05:59:39+02:00
-lastmod: 2019-07-28T00:00:01+02:00
+lastmod: 2018-11-10T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -53,8 +53,7 @@ entonces se cumple que $t^2\equiv (-1)^2\pmod{1001}\equiv 1\pmod{1001}$ y, en ge
 
 $$
 \begin{aligned}
-N &= a_0 + a_1t + \cdots + a_nt^n \\
-&\equiv (a_0-a_1+a_2-\cdots+(-1)^na_n)\pmod{1001},
+N &= a_0 + a_1t + \cdots + a_nt^n \\\\ &\equiv (a_0-a_1+a_2-\cdots+(-1)^na_n)\pmod{1001},
 \end{aligned}
 $$
 
