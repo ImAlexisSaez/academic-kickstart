@@ -5,7 +5,7 @@ subtitle: "Problema 36"
 summary: "Problema 36: con un par de ejemplos, enseguida detectamos el patrón a seguir."
 
 date: 2018-12-22T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-22T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -47,10 +47,7 @@ Operando algebraicamente, llegamos a que
 
 $$
 \begin{aligned}
-3A\cdot10^{n-1} + 3B &= 20B+2A,\\
-17B &= 3A\cdot10^{n-1} - 2A,\\
-17B &= A(3\cdot10^{n-1} - 2),\\
-B &= \dfrac{A(3\cdot10^{n-1} - 2)}{17}.
+3A\cdot10^{n-1} + 3B &= 20B+2A,\\\\ 17B &= 3A\cdot10^{n-1} - 2A,\\\\ 17B &= A(3\cdot10^{n-1} - 2),\\\\ B &= \dfrac{A(3\cdot10^{n-1} - 2)}{17}.
 \end{aligned}
 $$
 

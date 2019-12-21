@@ -5,7 +5,7 @@ subtitle: "Problema 34"
 summary: "Problema 34: una propiedad interesante."
 
 date: 2018-12-15T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-15T05:59:39+02:00
 
 authors: ["admin"]
 math: true

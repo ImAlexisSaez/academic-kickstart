@@ -5,7 +5,7 @@ subtitle: "Problema 32"
 summary: "Problema 32: siempre conviene empezar con ejemplos sencillos."
 
 date: 2018-12-08T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-08T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -58,9 +58,7 @@ Ahora bien, como el miembro derecho de esta última ecuación es un número par 
 
 $$
 \begin{aligned}
-13(2x) &= 2\cdot10^m - 8,\\
-13x &= 10^m - 4,\\
-x &= \dfrac{10^m - 4}{13}.
+13(2x) &= 2\cdot10^m - 8,\\\\ 13x &= 10^m - 4,\\\\ x &= \dfrac{10^m - 4}{13}.
 \end{aligned}
 $$
 
@@ -68,11 +66,7 @@ Podemos ahora introducir la expresión en una calculadora científica y generar 
 
 $$
 \begin{aligned}
-10 &= 13\cdot 0 + 10,\\
-100 &= 13\cdot 7 + 9,\\
-1000 &= 13\cdot 76 + 12,\\
-10000 &= 13\cdot 769 + 3,\\
-100000 &= 13\cdot 7692 + 4,
+10 &= 13\cdot 0 + 10,\\\\ 100 &= 13\cdot 7 + 9,\\\\ 1000 &= 13\cdot 76 + 12,\\\\ 10000 &= 13\cdot 769 + 3,\\\\ 100000 &= 13\cdot 7692 + 4,
 \end{aligned}
 $$
 
@@ -90,8 +84,7 @@ y así podemos escribir
 
 $$
 \begin{aligned}
-10^m\equiv 4\pmod{13}&\Leftrightarrow 10^2\cdot10^{m-2}\equiv 4\pmod{13}\\
-&\Leftrightarrow 10^{m - 2}\equiv (-1)\pmod{13}.
+10^m\equiv 4\pmod{13}&\Leftrightarrow 10^2\cdot10^{m-2}\equiv 4\pmod{13}\\\\ &\Leftrightarrow 10^{m - 2}\equiv (-1)\pmod{13}.
 \end{aligned}
 $$
 

@@ -5,7 +5,7 @@ subtitle: "Problema 31"
 summary: "Problema 31: el Pequeño Teorema de Fermat siempre tan útil."
 
 date: 2018-12-05T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-05T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -31,9 +31,7 @@ Vamos a apoyarnos en el corolario del *Pequeño Teorema de Fermat*, que afirma q
 
 $$
 \begin{aligned}
-a^{25} &= (a^5)^5\\
-&\equiv a^5\pmod{5}\\
-&\equiv a\pmod{5},
+a^{25} &= (a^5)^5\\\\ &\equiv a^5\pmod{5}\\\\ &\equiv a\pmod{5},
 \end{aligned}
 $$
 
@@ -41,11 +39,7 @@ de manera que $(a^{25} - a)\equiv 0\pmod{5}$, esto es, la expresión es múltipl
 
 $$
 \begin{aligned}
-a^{25} &= a\cdot (a^8)^3\\
-&\equiv (a\cdot a^8)\pmod{3}\\
-&\equiv (a^3)^3\pmod{3}\\
-&\equiv a^3\pmod{3}\\
-&\equiv a\pmod{3},
+a^{25} &= a\cdot (a^8)^3\\\\ &\equiv (a\cdot a^8)\pmod{3}\\\\ &\equiv (a^3)^3\pmod{3}\\\\ &\equiv a^3\pmod{3}\\\\ &\equiv a\pmod{3},
 \end{aligned}
 $$
 
@@ -53,16 +47,7 @@ y, por tanto, $(a^{25} - a)\equiv 0\pmod{3}$, es decir, la expresión es asimism
 
 $$
 \begin{aligned}
-a^{25} &= a\cdot(a^{12})^2\\
-&\equiv (a\cdot a^{12})\pmod{2}\\
-&\equiv (a\cdot (a^6)^2)\pmod{2}\\
-&\equiv (a\cdot a^6)\pmod{2}\\
-&\equiv (a\cdot(a^3)^2)\pmod{2}\\
-&\equiv (a\cdot a^3)\pmod{2}\\
-&\equiv a^4\pmod{2}\\
-&\equiv (a^2)^2\pmod{2}\\
-&\equiv a^2\pmod{2}\\
-&\equiv a\pmod{2},
+a^{25} &= a\cdot(a^{12})^2\\\\ &\equiv (a\cdot a^{12})\pmod{2}\\\\ &\equiv (a\cdot (a^6)^2)\pmod{2}\\\\ &\equiv (a\cdot a^6)\pmod{2}\\\\ &\equiv (a\cdot(a^3)^2)\pmod{2}\\\\ &\equiv (a\cdot a^3)\pmod{2}\\\\ &\equiv a^4\pmod{2}\\\\ &\equiv (a^2)^2\pmod{2}\\\\ &\equiv a^2\pmod{2}\\\\ &\equiv a\pmod{2},
 \end{aligned}
 $$
 

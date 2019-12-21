@@ -5,7 +5,7 @@ subtitle: "Problema 30"
 summary: "Problema 30: formalizando un resultado, en apariencia, sencillo."
 
 date: 2018-12-01T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-01T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -24,7 +24,7 @@ image:
 **Problema 30:** Sea $n$ un número natural no nulo. Dado el conjunto de fracciones 
 
 $$
-A_n = \left\{\dfrac{1}{n},\dfrac{2}{n},\dfrac{3}{n},\ldots,\dfrac{n}{n}\right\}.
+A_n = \left\\{\dfrac{1}{n},\dfrac{2}{n},\dfrac{3}{n},\ldots,\dfrac{n}{n}\right\\}.
 $$ 
 
 Calcula el número de fracciones irreducibles y la suma de dichas fracciones.
@@ -34,13 +34,13 @@ Calcula el número de fracciones irreducibles y la suma de dichas fracciones.
 Acompañemos la resolución de este ejercicio con un caso particular para $n$, con el objetivo de que esta sea así más ilustrativa. Por ejemplo, si $n=8$, el conjunto de fracciones a estudiar es
 
 $$
-A_8 = \left\{\dfrac{1}{8},\dfrac{2}{8},\dfrac{3}{8},\dfrac{4}{8},\dfrac{5}{8},\dfrac{6}{8},\dfrac{7}{8},\dfrac{8}{8}\right\},
+A_8 = \left\\{\dfrac{1}{8},\dfrac{2}{8},\dfrac{3}{8},\dfrac{4}{8},\dfrac{5}{8},\dfrac{6}{8},\dfrac{7}{8},\dfrac{8}{8}\right\\},
 $$
 
 que contiene $4$ fracciones irreducibles,
 
 $$
-\left\{\dfrac{1}{8},\dfrac{3}{8},\dfrac{5}{8},\dfrac{7}{8}\right\}.
+\left\\{\dfrac{1}{8},\dfrac{3}{8},\dfrac{5}{8},\dfrac{7}{8}\right\\}.
 $$
 
 Estas se caracterizan por ser aquellas en las que numerador y denominador son coprimos. Así pues, el problema se reduce a encontrar, dado un número natural $n$ no nulo, la cantidad de enteros positivos menores o iguales a $n$ y coprimos con $n$, esto es, $\varphi(n)$. 

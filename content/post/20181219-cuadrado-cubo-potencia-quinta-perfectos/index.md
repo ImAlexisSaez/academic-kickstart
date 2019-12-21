@@ -5,7 +5,7 @@ subtitle: "Problema 35"
 summary: "Problema 35: jugando con las factorizaciones."
 
 date: 2018-12-19T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-19T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -33,9 +33,7 @@ Así pues, para $x$ surge el siguiente sistema de congruencias lineales
 
 $$
 \begin{aligned}
-x-1&\equiv 0\pmod{2},\\
-x&\equiv 0\pmod{3},\\
-x&\equiv 0\pmod{5},
+x-1&\equiv 0\pmod{2},\\\\ x&\equiv 0\pmod{3},\\\\ x&\equiv 0\pmod{5},
 \end{aligned}
 $$
 
@@ -45,9 +43,7 @@ Análogamente, para $y$ aparece el siguiente sistema de congruencias lineales
 
 $$
 \begin{aligned}
-y&\equiv 0\pmod{2},\\
-y-1&\equiv 0\pmod{3},\\
-y&\equiv 0\pmod{5},
+y&\equiv 0\pmod{2},\\\\ y-1&\equiv 0\pmod{3},\\\\ y&\equiv 0\pmod{5},
 \end{aligned}
 $$
 
@@ -57,9 +53,7 @@ Finalmente, para $z$ encontramos el siguiente sistema de congruencias lineales
 
 $$
 \begin{aligned}
-z&\equiv 0\pmod{2},\\
-z&\equiv 0\pmod{3},\\
-z-1&\equiv 0\pmod{5},
+z&\equiv 0\pmod{2},\\\\ z&\equiv 0\pmod{3},\\\\ z-1&\equiv 0\pmod{5},
 \end{aligned}
 $$
 

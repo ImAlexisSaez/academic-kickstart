@@ -5,7 +5,7 @@ subtitle: "Problema 33"
 summary: "Problema 33: trabajando con números enormes."
 
 date: 2018-12-12T05:59:39+02:00
-lastmod: 2019-07-30T00:00:01+02:00
+lastmod: 2018-12-12T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -34,8 +34,7 @@ Así, aplicando la mencionada fórmula,
 
 $$
 \begin{aligned}
-v_5(1000!) &= \left\lfloor\dfrac{1000}{5}\right\rfloor + \left\lfloor\dfrac{1000}{5^2}\right\rfloor + \left\lfloor\dfrac{1000}{5^3}\right\rfloor + \left\lfloor\dfrac{1000}{5^4}\right\rfloor\\
-&= 200 + 40 + 8 + 1 = 249,
+v_5(1000!) &= \left\lfloor\dfrac{1000}{5}\right\rfloor + \left\lfloor\dfrac{1000}{5^2}\right\rfloor + \left\lfloor\dfrac{1000}{5^3}\right\rfloor + \left\lfloor\dfrac{1000}{5^4}\right\rfloor\\\\ &= 200 + 40 + 8 + 1 = 249,
 \end{aligned}
 $$
 
@@ -45,9 +44,7 @@ Para el apartado (b), quizá de forma un tanto rebuscada, simplemente nos pregun
 
 $$
 \begin{aligned}
-v_2(1000!) &= \left\lfloor\dfrac{1000}{2}\right\rfloor + \left\lfloor\dfrac{1000}{2^2}\right\rfloor + \cdots + \left\lfloor\dfrac{1000}{2^9}\right\rfloor\\
-&= 500 + 250 + 125 + 62 + 31 + 15 + 7 + 3 + 1 \\
-&= 994,
+v_2(1000!) &= \left\lfloor\dfrac{1000}{2}\right\rfloor + \left\lfloor\dfrac{1000}{2^2}\right\rfloor + \cdots + \left\lfloor\dfrac{1000}{2^9}\right\rfloor\\\\ &= 500 + 250 + 125 + 62 + 31 + 15 + 7 + 3 + 1 \\\\ &= 994,
 \end{aligned}
 $$
 
