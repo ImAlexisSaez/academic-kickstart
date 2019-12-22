@@ -5,7 +5,7 @@ subtitle: "Problema 41"
 summary: "Problema 41: un viaje por el espacio."
 
 date: 2019-01-09T05:59:39+02:00
-lastmod: 2019-07-31T00:00:01+02:00
+lastmod: 2019-01-09T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -31,9 +31,7 @@ Así pues, hemos de resolver el siguiente sistema de ecuaciones de congruencias 
 
 $$
 \begin{aligned}
-x&\equiv 2017\pmod{3}\equiv 1\pmod{3},\\
-x&\equiv 2014\pmod{8}\equiv 6\pmod{8}\\
-x&\equiv 2008\pmod{13}\equiv 6\pmod{13}.
+x&\equiv 2017\pmod{3}\equiv 1\pmod{3},\\\\ x&\equiv 2014\pmod{8}\equiv 6\pmod{8}\\\\ x&\equiv 2008\pmod{13}\equiv 6\pmod{13}.
 \end{aligned}
 $$
 
@@ -41,9 +39,7 @@ Por la estructura que presenta el anterior sistema y dado que $m_1=3$, $m_2=8$ y
 
 $$
 \begin{aligned}
-M_1 &= \dfrac{M}{m_1} = \dfrac{312}{3} = 8\cdot13 = 104,\\
-M_2 &= \dfrac{M}{m_2} = \dfrac{312}{8} = 3\cdot13 = 39,\\
-M_3 &= \dfrac{M}{m_3} = \dfrac{312}{13} = 3\cdot8 = 24,
+M_1 &= \dfrac{M}{m_1} = \dfrac{312}{3} = 8\cdot13 = 104,\\\\ M_2 &= \dfrac{M}{m_2} = \dfrac{312}{8} = 3\cdot13 = 39,\\\\ M_3 &= \dfrac{M}{m_3} = \dfrac{312}{13} = 3\cdot8 = 24,
 \end{aligned}
 $$
 
@@ -51,13 +47,7 @@ y, a continuación, resolvemos las siguientes ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-104x\equiv 1\pmod{3}&\Leftrightarrow 2x\equiv 1\pmod{3}\\
-&\Leftrightarrow x\equiv 2\pmod{3},\\
-39x\equiv 1\pmod{8}&\Leftrightarrow (-x)\equiv 1\pmod{8}\\
-&\Leftrightarrow x\equiv (-1)\pmod{8},\\
-24x\equiv 1\pmod{13}&\Leftrightarrow (-2x)\equiv 1\pmod{13}\\
-&\Leftrightarrow (-12x)\equiv 6\pmod{13}\\
-&\Leftrightarrow x\equiv 6\pmod{13}.
+104x\equiv 1\pmod{3}&\Leftrightarrow 2x\equiv 1\pmod{3}\\\\ &\Leftrightarrow x\equiv 2\pmod{3},\\\\ 39x\equiv 1\pmod{8}&\Leftrightarrow (-x)\equiv 1\pmod{8}\\\\ &\Leftrightarrow x\equiv (-1)\pmod{8},\\\\ 24x\equiv 1\pmod{13}&\Leftrightarrow (-2x)\equiv 1\pmod{13}\\\\ &\Leftrightarrow (-12x)\equiv 6\pmod{13}\\\\ &\Leftrightarrow x\equiv 6\pmod{13}.
 \end{aligned}
 $$
 
@@ -65,9 +55,7 @@ Agrupando ahora toda la información adecuadamente,
 
 $$
 \begin{aligned}
-x&\equiv 1\pmod{3},& 104x&\equiv 1\pmod{3},& x&\equiv 2\pmod{3},\\
-x&\equiv 6\pmod{8},& 39x&\equiv 1\pmod{8},& x&\equiv (-1)\pmod{8},\\
-x&\equiv 6\pmod{13},& 24x&\equiv 1\pmod{13},& x&\equiv 6\pmod{13},
+x&\equiv 1\pmod{3},& 104x&\equiv 1\pmod{3},& x&\equiv 2\pmod{3},\\\\ x&\equiv 6\pmod{8},& 39x&\equiv 1\pmod{8},& x&\equiv (-1)\pmod{8},\\\\ x&\equiv 6\pmod{13},& 24x&\equiv 1\pmod{13},& x&\equiv 6\pmod{13},
 \end{aligned}
 $$
 
@@ -75,8 +63,7 @@ entonces la solución es
 
 $$
 \begin{aligned}
-x &\equiv (1\cdot104\cdot2 + 6\cdot39\cdot(-1) + 6\cdot24\cdot1)\pmod{312}\\
-&\equiv 838\pmod{312}\equiv 214\pmod{312},
+x &\equiv (1\cdot104\cdot2 + 6\cdot39\cdot(-1) + 6\cdot24\cdot1)\pmod{312}\\\\ &\equiv 838\pmod{312}\equiv 214\pmod{312},
 \end{aligned}
 $$
 

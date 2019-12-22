@@ -5,7 +5,7 @@ subtitle: "Problema 42"
 summary: "Problema 42: extendiendo un problema clásico para que coincida con el año de las oposiciones."
 
 date: 2019-01-12T05:59:39+02:00
-lastmod: 2019-07-31T00:00:01+02:00
+lastmod: 2019-01-12T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -33,8 +33,7 @@ Como estamos interesados en encontrar los tres últimos dígitos del producto de
 
 $$
 \begin{aligned}
-x&\equiv N\pmod{8},\\
-x&\equiv N\pmod{125}.
+x&\equiv N\pmod{8},\\\\ x&\equiv N\pmod{125}.
 \end{aligned}
 $$
 
@@ -42,10 +41,7 @@ Sin embargo, dado que en el producto $N$ aparecen, por ejemplo, los números $15
 
 $$
 \begin{aligned}
-3&\equiv 3\pmod{8},\\
-7&\equiv (-1)\pmod{8},\\
-11&\equiv 3\pmod{8},\\
-15&\equiv (-1)\pmod{8},
+3&\equiv 3\pmod{8},\\\\ 7&\equiv (-1)\pmod{8},\\\\ 11&\equiv 3\pmod{8},\\\\ 15&\equiv (-1)\pmod{8},
 \end{aligned}
 $$
 
@@ -53,8 +49,7 @@ por tanto
 
 $$
 \begin{aligned}
-(3\cdot7\cdot11\cdot15)&\equiv (3\cdot(-1)\cdot3\cdot(-1))\pmod{8}\\
-&\equiv 9\pmod{8}\equiv 1\pmod{8}.
+(3\cdot7\cdot11\cdot15)&\equiv (3\cdot(-1)\cdot3\cdot(-1))\pmod{8}\\\\ &\equiv 9\pmod{8}\equiv 1\pmod{8}.
 \end{aligned}
 $$
 
@@ -68,10 +63,7 @@ Recapitulando, buscamos un múltiplo de $125$ que sea congruente con $3$ módulo
 
 $$
 \begin{aligned}
-125x\equiv 3\pmod{8}&\Leftrightarrow 5x\equiv 3\pmod{8}\\
-&\Leftrightarrow 15x\equiv 9\pmod{8}\\
-&\Leftrightarrow (-x)\equiv 1\pmod{8}\\
-&\Leftrightarrow x\equiv 7\pmod{8},
+125x\equiv 3\pmod{8}&\Leftrightarrow 5x\equiv 3\pmod{8}\\\\ &\Leftrightarrow 15x\equiv 9\pmod{8}\\\\ &\Leftrightarrow (-x)\equiv 1\pmod{8}\\\\ &\Leftrightarrow x\equiv 7\pmod{8},
 \end{aligned}
 $$
 
@@ -81,8 +73,7 @@ De manera más clásica, una vez hallado el valor de las anteriores dos congruen
 
 $$
 \begin{aligned}
-x&\equiv 3\pmod{8},\\
-x&\equiv 0\pmod{125}.
+x&\equiv 3\pmod{8},\\\\ x&\equiv 0\pmod{125}.
 \end{aligned}
 $$
 
@@ -90,8 +81,7 @@ Por la estructura que presenta el anterior sistema y dado que $m_1=8$ y $m_2=125
 
 $$
 \begin{aligned}
-M_1 &= \dfrac{M}{m_1} = \dfrac{1000}{8} = 125,\\
-M_2 &= \dfrac{M}{m_2} = \dfrac{1000}{125} = 4,
+M_1 &= \dfrac{M}{m_1} = \dfrac{1000}{8} = 125,\\\\ M_2 &= \dfrac{M}{m_2} = \dfrac{1000}{125} = 4,
 \end{aligned}
 $$
 
@@ -99,11 +89,7 @@ y, a continuación, resolvemos las siguientes ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-125x\equiv 1\pmod{8}&\Leftrightarrow 5x\equiv 1\pmod{8}\\
-&\Leftrightarrow 25x\equiv 5\pmod{8}\\
-&\Leftrightarrow x\equiv 5\pmod{8},\\
-4x\equiv 1\pmod{125}&\Leftrightarrow 376x\equiv 94\pmod{125}\\
-&\Leftrightarrow x\equiv 94\pmod{125}.
+125x\equiv 1\pmod{8}&\Leftrightarrow 5x\equiv 1\pmod{8}\\\\ &\Leftrightarrow 25x\equiv 5\pmod{8}\\\\ &\Leftrightarrow x\equiv 5\pmod{8},\\\\ 4x\equiv 1\pmod{125}&\Leftrightarrow 376x\equiv 94\pmod{125}\\\\ &\Leftrightarrow x\equiv 94\pmod{125}.
 \end{aligned}
 $$
 
@@ -111,8 +97,7 @@ Agrupando ahora toda la información adecuadamente,
 
 $$
 \begin{aligned}
-x&\equiv 3\pmod{8},& 125x&\equiv 1\pmod{8},& x&\equiv 5\pmod{8},\\
-x&\equiv 0\pmod{125},& 4x&\equiv 1\pmod{125},& x&\equiv 94\pmod{125},
+x&\equiv 3\pmod{8},& 125x&\equiv 1\pmod{8},& x&\equiv 5\pmod{8},\\\\ x&\equiv 0\pmod{125},& 4x&\equiv 1\pmod{125},& x&\equiv 94\pmod{125},
 \end{aligned}
 $$
 
@@ -120,9 +105,7 @@ entonces la solución es
 
 $$
 \begin{aligned}
-x &\equiv (3\cdot125\cdot5 + 0\cdot4\cdot94)\pmod{1000}\\
-&\equiv 1875\pmod{1000}\\
-&\equiv 875\pmod{1000},
+x &\equiv (3\cdot125\cdot5 + 0\cdot4\cdot94)\pmod{1000}\\\\ &\equiv 1875\pmod{1000}\\\\ &\equiv 875\pmod{1000},
 \end{aligned}
 $$
 

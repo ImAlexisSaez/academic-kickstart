@@ -5,7 +5,7 @@ subtitle: "Problema 39"
 summary: "Problema 39: otra aplicación del Teorema chino del resto."
 
 date: 2019-01-02T05:59:39+02:00
-lastmod: 2019-07-31T00:00:01+02:00
+lastmod: 2019-01-02T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -37,9 +37,7 @@ Por comodidad en la escritura, denotemos el dinero que posee cada uno, en euros,
 
 $$
 \begin{aligned}
-b+1 &= \dfrac{2}{3}(a-1),\\
-c+2 &= \dfrac{3}{5}(b-2),\\
-d+3 &= \dfrac{5}{7}(c-3).
+b+1 &= \dfrac{2}{3}(a-1),\\\\ c+2 &= \dfrac{3}{5}(b-2),\\\\ d+3 &= \dfrac{5}{7}(c-3).
 \end{aligned}
 $$
 
@@ -47,9 +45,7 @@ Despejando $b$, $c$ y $d$, encontramos que
 
 $$
 \begin{aligned}
-b&=\dfrac{2a-5}{3},\\
-c&=\dfrac{3b-16}{5},\\
-d&=\dfrac{5c-36}{7},
+b&=\dfrac{2a-5}{3},\\\\ c&=\dfrac{3b-16}{5},\\\\ d&=\dfrac{5c-36}{7},
 \end{aligned}
 $$
 
@@ -57,9 +53,7 @@ que, expresadas todas ellas en función del valor de $a$, equivalen a
 
 $$
 \begin{aligned}
-b&=\dfrac{2a-5}{3},\\
-c&=\dfrac{3b-16}{5} = \dfrac{3\cdot\dfrac{2a-5}{3} - 16}{5}=\dfrac{2a-21}{5},\\
-d&=\dfrac{5c-36}{7} = \dfrac{5\cdot\dfrac{2a-21}{5} - 36}{7} = \dfrac{2a-57}{7}.
+b&=\dfrac{2a-5}{3},\\\\ c&=\dfrac{3b-16}{5} = \dfrac{3\cdot\dfrac{2a-5}{3} - 16}{5}=\dfrac{2a-21}{5},\\\\ d&=\dfrac{5c-36}{7} = \dfrac{5\cdot\dfrac{2a-21}{5} - 36}{7} = \dfrac{2a-57}{7}.
 \end{aligned}
 $$
 
@@ -67,9 +61,7 @@ Recordemos ahora que $b$, $c$ y $d$ llevan encima una cantidad entera mayor o ig
 
 $$
 \begin{aligned}
-(2a-5)&\equiv 0\pmod{3},\\
-(2a-21)&\equiv 0\pmod{5},\\
-(2a-57)&\equiv 0\pmod{7}.
+(2a-5)&\equiv 0\pmod{3},\\\\ (2a-21)&\equiv 0\pmod{5},\\\\ (2a-57)&\equiv 0\pmod{7}.
 \end{aligned}
 $$
 
@@ -77,12 +69,7 @@ Llegados a este momento, comenzamos a sospechar que el camino nos lleva, irremed
 
 $$
 \begin{aligned}
-(2a-5)\equiv 0\pmod{3}&\Leftrightarrow 2a\equiv 5\pmod{3}\Leftrightarrow 4a\equiv 10\pmod{3}\\
-&\Leftrightarrow a\equiv 1\pmod{3},\\
-(2a-21)\equiv 0\pmod{5}&\Leftrightarrow 2a\equiv 1\pmod{5}\Leftrightarrow 6a\equiv 3\pmod{5}\\
-&\Leftrightarrow a\equiv 3\pmod{5},\\
-(2a-57)\equiv 0\pmod{7}&\Leftrightarrow 2a\equiv 1\pmod{7}\Leftrightarrow 8a\equiv 4\pmod{7}\\
-&\Leftrightarrow a\equiv 4\pmod{7}.
+(2a-5)\equiv 0\pmod{3}&\Leftrightarrow 2a\equiv 5\pmod{3}\Leftrightarrow 4a\equiv 10\pmod{3}\\\\ &\Leftrightarrow a\equiv 1\pmod{3},\\\\ (2a-21)\equiv 0\pmod{5}&\Leftrightarrow 2a\equiv 1\pmod{5}\Leftrightarrow 6a\equiv 3\pmod{5}\\\\ &\Leftrightarrow a\equiv 3\pmod{5},\\\\ (2a-57)\equiv 0\pmod{7}&\Leftrightarrow 2a\equiv 1\pmod{7}\Leftrightarrow 8a\equiv 4\pmod{7}\\\\ &\Leftrightarrow a\equiv 4\pmod{7}.
 \end{aligned}
 $$
 
@@ -90,9 +77,7 @@ Esto es, recapitulando, la cantidad total de euros que lleva encima Ana (es deci
 
 $$
 \begin{aligned}
-a&\equiv 1\pmod{3},\\
-a&\equiv 3\pmod{5},\\
-a&\equiv 4\pmod{7}.
+a&\equiv 1\pmod{3},\\\\ a&\equiv 3\pmod{5},\\\\ a&\equiv 4\pmod{7}.
 \end{aligned}
 $$
 
@@ -100,9 +85,7 @@ Por la estructura que presenta el anterior sistema y dado que $m_1=3, m_2=5$ y $
 
 $$
 \begin{aligned}
-M_1 &= \dfrac{M}{m_1} = \dfrac{105}{3} = 5\cdot7 = 35,\\
-M_2 &= \dfrac{M}{m_2} = \dfrac{105}{5} = 3\cdot7 = 21,\\
-M_3 &= \dfrac{M}{m_3} = \dfrac{105}{7} = 3\cdot5 = 15,
+M_1 &= \dfrac{M}{m_1} = \dfrac{105}{3} = 5\cdot7 = 35,\\\\ M_2 &= \dfrac{M}{m_2} = \dfrac{105}{5} = 3\cdot7 = 21,\\\\ M_3 &= \dfrac{M}{m_3} = \dfrac{105}{7} = 3\cdot5 = 15,
 \end{aligned}
 $$
 
@@ -110,9 +93,7 @@ y, a continuación, resolvemos las siguientes ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-35a\equiv 1\pmod{3}&\Leftrightarrow (-a)\equiv 1\pmod{3}\Leftrightarrow a\equiv 2\pmod{3},\\
-21a\equiv 1\pmod{5}&\Leftrightarrow a\equiv 1\pmod{5},\\
-15a\equiv 1\pmod{7}&\Leftrightarrow a\equiv 1\pmod{7}.
+35a\equiv 1\pmod{3}&\Leftrightarrow (-a)\equiv 1\pmod{3}\Leftrightarrow a\equiv 2\pmod{3},\\\\ 21a\equiv 1\pmod{5}&\Leftrightarrow a\equiv 1\pmod{5},\\\\ 15a\equiv 1\pmod{7}&\Leftrightarrow a\equiv 1\pmod{7}.
 \end{aligned}
 $$
 
@@ -120,9 +101,7 @@ Agrupando ahora toda la información adecuadamente,
 
 $$
 \begin{aligned}
-a&\equiv 1\pmod{3},& 35a&\equiv 1\pmod{3},& a&\equiv 2\pmod{3},\\
-a&\equiv 3\pmod{5},& 21a&\equiv 1\pmod{5},& a&\equiv 1\pmod{5},\\
-a&\equiv 4\pmod{7},& 15a&\equiv 1\pmod{7},& a&\equiv 1\pmod{7},
+a&\equiv 1\pmod{3},& 35a&\equiv 1\pmod{3},& a&\equiv 2\pmod{3},\\\\ a&\equiv 3\pmod{5},& 21a&\equiv 1\pmod{5},& a&\equiv 1\pmod{5},\\\\ a&\equiv 4\pmod{7},& 15a&\equiv 1\pmod{7},& a&\equiv 1\pmod{7},
 \end{aligned}
 $$
 
@@ -130,9 +109,7 @@ entonces la solución es
 
 $$
 \begin{aligned}
-a &\equiv (1\cdot35\cdot2 + 3\cdot21\cdot1 + 4\cdot15\cdot1)\pmod{105}\\
-&\equiv 193\pmod{105}\\
-&\equiv 88\pmod{105},
+a &\equiv (1\cdot35\cdot2 + 3\cdot21\cdot1 + 4\cdot15\cdot1)\pmod{105}\\\\ &\equiv 193\pmod{105}\\\\ &\equiv 88\pmod{105},
 \end{aligned}
 $$
 
@@ -140,9 +117,7 @@ esto es, Ana lleva encima $88$ euros. Como $a=88$, entonces
 
 $$
 \begin{aligned}
-b&=\dfrac{2\cdot88-5}{3} = 57,\\
-c&=\dfrac{2\cdot88-21}{5} = 31,\\
-d&=\dfrac{2\cdot88-57}{7} = 17,
+b&=\dfrac{2\cdot88-5}{3} = 57,\\\\ c&=\dfrac{2\cdot88-21}{5} = 31,\\\\ d&=\dfrac{2\cdot88-57}{7} = 17,
 \end{aligned}
 $$
 
@@ -152,9 +127,7 @@ Alternativamente, volvamos al momento del ejercicio en el que declaramos que
 
 $$
 \begin{aligned}
-b+1 &= \dfrac{2}{3}(a-1),\\
-c+2 &= \dfrac{3}{5}(b-2),\\
-d+3 &= \dfrac{5}{7}(c-3).
+b+1 &= \dfrac{2}{3}(a-1),\\\\ c+2 &= \dfrac{3}{5}(b-2),\\\\ d+3 &= \dfrac{5}{7}(c-3).
 \end{aligned}
 $$
 
@@ -162,9 +135,7 @@ Si operamos algebraicamente las ecuaciones
 
 $$
 \begin{aligned}
-3b+3 &= 2a-2 \Rightarrow 3b-2a = -5,\\
-5c+10 &= 3b-6 \Rightarrow 5c-3b=-16,\\
-7d+21 &= 5c-15 \Rightarrow 7d-5c=-36,
+3b+3 &= 2a-2 \Rightarrow 3b-2a = -5,\\\\ 5c+10 &= 3b-6 \Rightarrow 5c-3b=-16,\\\\ 7d+21 &= 5c-15 \Rightarrow 7d-5c=-36,
 \end{aligned}
 $$
 
@@ -178,8 +149,7 @@ Para $d=1$, encontramos que $a=32$, arribando así a la solución particular de 
 
 $$
 \begin{aligned}
-a &= 32 + 7t,\\
-d &= 1 + 2t,
+a &= 32 + 7t,\\\\ d &= 1 + 2t,
 \end{aligned}
 $$
 
@@ -187,8 +157,7 @@ con $t$ número entero. Sustituyendo estos resultados alcanzados en las ecuacion
 
 $$
 \begin{aligned}
-b &= \dfrac{-5 + 2(32+7t)}{3},\\
-c &= \dfrac{36 + 7(1+2t)}{5}.
+b &= \dfrac{-5 + 2(32+7t)}{3},\\\\ c &= \dfrac{36 + 7(1+2t)}{5}.
 \end{aligned}
 $$
 
@@ -196,9 +165,7 @@ Ahora bien, estamos interesados en el valor entero de $t$ que nos proporciona la
 
 $$
 \begin{aligned}
-32+7t+1+2t+\dfrac{-5 + 2(32+7t)}{3}+\dfrac{36 + 7(1+2t)}{5}&<200\\
-480+105t+15+30t-25+320+70t+108+21+42t&<3000,\\
-247t&<2081,
+32+7t+1+2t+\dfrac{-5 + 2(32+7t)}{3}+\dfrac{36 + 7(1+2t)}{5}&<200\\\\ 480+105t+15+30t-25+320+70t+108+21+42t&<3000,\\\\ 247t&<2081,
 \end{aligned}
 $$
 
@@ -206,10 +173,7 @@ esto es, $t<8.43$. Así pues, empezando por $t=8$ (y continuando con $t=7$, $t=6
 
 $$
 \begin{aligned}
-a &= 32+7\cdot8 = 88,\\
-b &= \dfrac{-5 + 2(32+7\cdot8)}{3} = 57,\\
-c &= \dfrac{36 + 7(1+2\cdot8)}{5} = 31,\\
-d &= 1+2\cdot8 = 17,
+a &= 32+7\cdot8 = 88,\\\\ b &= \dfrac{-5 + 2(32+7\cdot8)}{3} = 57,\\\\ c &= \dfrac{36 + 7(1+2\cdot8)}{5} = 31,\\\\ d &= 1+2\cdot8 = 17,
 \end{aligned}
 $$
 

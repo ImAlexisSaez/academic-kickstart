@@ -27,4 +27,4 @@ El principal efecto de tal acción para esta página web reside en las expresion
 
 Dado que su número es significativo, aprovecharé paulatinamente este período vacacional que se aproxima para ir revisando, uno por uno, la correcta visualización de los artículos afectados.
 
-*Actualización*: revisados artículos afectados hasta el 29 de diciembre de 2018.
+*Actualización*: revisados artículos afectados hasta el 12 de enero de 2019.

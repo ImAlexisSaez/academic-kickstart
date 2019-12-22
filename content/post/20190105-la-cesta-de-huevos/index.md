@@ -5,7 +5,7 @@ subtitle: "Problema 40"
 summary: "Problema 40: un problema clásico de teoría de números."
 
 date: 2019-01-05T05:59:39+02:00
-lastmod: 2019-07-31T00:00:01+02:00
+lastmod: 2019-01-05T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -29,12 +29,7 @@ Consideremos $x$ el número de huevos que se encuentran en la cesta de Brahmagup
 
 $$
 \begin{aligned}
-x&\equiv 1\pmod{2},\\
-x&\equiv 2\pmod{3},\\
-x&\equiv 3\pmod{4},\\
-x&\equiv 4\pmod{5},\\
-x&\equiv 5\pmod{6},\\
-x&\equiv 0\pmod{7}.
+x&\equiv 1\pmod{2},\\\\ x&\equiv 2\pmod{3},\\\\ x&\equiv 3\pmod{4},\\\\ x&\equiv 4\pmod{5},\\\\ x&\equiv 5\pmod{6},\\\\ x&\equiv 0\pmod{7}.
 \end{aligned}
 $$
 
@@ -42,13 +37,7 @@ Por desgracia, no podemos aplicar directamente el *Teorema chino del resto*, pue
 
 $$
 \begin{aligned}
-x&\equiv 1\pmod{2},\\
-x&\equiv 2\pmod{3},\\
-x&\equiv 3\pmod{4},\\
-x&\equiv 4\pmod{5},\\
-x&\equiv 5\pmod{2}\equiv 1\pmod{2},\\
-x&\equiv 5\pmod{3}\equiv 2\pmod{3},\\
-x&\equiv 0\pmod{7}.
+x&\equiv 1\pmod{2},\\\\ x&\equiv 2\pmod{3},\\\\ x&\equiv 3\pmod{4},\\\\ x&\equiv 4\pmod{5},\\\\ x&\equiv 5\pmod{2}\equiv 1\pmod{2},\\\\ x&\equiv 5\pmod{3}\equiv 2\pmod{3},\\\\ x&\equiv 0\pmod{7}.
 \end{aligned}
 $$
 
@@ -56,11 +45,7 @@ Encontramos dos ecuaciones de congruencias lineales repetidas, cuya escritura po
 
 $$
 \begin{aligned}
-x&\equiv 1\pmod{2},\\
-x&\equiv 2\pmod{3},\\
-x&\equiv 3\pmod{4},\\
-x&\equiv 4\pmod{5},\\
-x&\equiv 0\pmod{7}.
+x&\equiv 1\pmod{2},\\\\ x&\equiv 2\pmod{3},\\\\ x&\equiv 3\pmod{4},\\\\ x&\equiv 4\pmod{5},\\\\ x&\equiv 0\pmod{7}.
 \end{aligned}
 $$
 
@@ -68,8 +53,7 @@ Llegados a este punto, la primera y la tercera ecuación involucran módulos de 
 
 $$
 \begin{aligned}
-x\equiv 3\pmod{4}&\Rightarrow x = 3+4t\Rightarrow x = 1 + 2(1+2t)\\
-&\Rightarrow x\equiv 1\pmod{2},
+x\equiv 3\pmod{4}&\Rightarrow x = 3+4t\Rightarrow x = 1 + 2(1+2t)\\\\ &\Rightarrow x\equiv 1\pmod{2},
 \end{aligned}
 $$
 
@@ -77,10 +61,7 @@ luego la primera ecuación de congruencia lineal es redundante y la podremos sup
 
 $$
 \begin{aligned}
-x&\equiv 2\pmod{3},\\ 
-x&\equiv 3\pmod{4},\\
-x&\equiv 4\pmod{5},\\
-x&\equiv 0\pmod{7}.
+x&\equiv 2\pmod{3},\\\\ x&\equiv 3\pmod{4},\\\\ x&\equiv 4\pmod{5},\\\\ x&\equiv 0\pmod{7}.
 \end{aligned}
 $$
 
@@ -88,10 +69,7 @@ Por la estructura que presenta el anterior sistema y dado que $m_1=3$, $m_2=4$, 
 
 $$
 \begin{aligned}
-M_1 &= \dfrac{M}{m_1} = \dfrac{420}{3} = 4\cdot5\cdot7 = 140,\\
-M_2 &= \dfrac{M}{m_2} = \dfrac{420}{4} = 3\cdot5\cdot7 = 105,\\
-M_3 &= \dfrac{M}{m_3} = \dfrac{420}{5} = 3\cdot4\cdot7 = 84,\\
-M_4 &= \dfrac{M}{m_4} = \dfrac{420}{7} = 3\cdot4\cdot5 = 60,
+M_1 &= \dfrac{M}{m_1} = \dfrac{420}{3} = 4\cdot5\cdot7 = 140,\\\\ M_2 &= \dfrac{M}{m_2} = \dfrac{420}{4} = 3\cdot5\cdot7 = 105,\\\\ M_3 &= \dfrac{M}{m_3} = \dfrac{420}{5} = 3\cdot4\cdot7 = 84,\\\\ M_4 &= \dfrac{M}{m_4} = \dfrac{420}{7} = 3\cdot4\cdot5 = 60,
 \end{aligned}
 $$
 
@@ -99,12 +77,7 @@ y, a continuación, resolvemos las siguientes ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-140x\equiv 1\pmod{3}&\Leftrightarrow 2x\equiv 1\pmod{3}\Leftrightarrow 4x\equiv 2\pmod{3}\\
-&\Leftrightarrow x\equiv 2\pmod{3},\\
-105x\equiv 1\pmod{4}&\Leftrightarrow x\equiv 1\pmod{4},\\
-84x\equiv 1\pmod{5}&\Leftrightarrow (-x)\equiv 1\pmod{5}\Leftrightarrow x\equiv 4\pmod{5},\\
-60x\equiv 1\pmod{7}&\Leftrightarrow 4x\equiv 1\pmod{7}\Leftrightarrow 8x\equiv 2\pmod{7}\\
-&\Leftrightarrow x\equiv 2\pmod{7}.
+140x\equiv 1\pmod{3}&\Leftrightarrow 2x\equiv 1\pmod{3}\Leftrightarrow 4x\equiv 2\pmod{3}\\\\ &\Leftrightarrow x\equiv 2\pmod{3},\\\\ 105x\equiv 1\pmod{4}&\Leftrightarrow x\equiv 1\pmod{4},\\\\ 84x\equiv 1\pmod{5}&\Leftrightarrow (-x)\equiv 1\pmod{5}\Leftrightarrow x\equiv 4\pmod{5},\\\\ 60x\equiv 1\pmod{7}&\Leftrightarrow 4x\equiv 1\pmod{7}\Leftrightarrow 8x\equiv 2\pmod{7}\\\\ &\Leftrightarrow x\equiv 2\pmod{7}.
 \end{aligned}
 $$
 
@@ -112,10 +85,7 @@ Agrupando ahora toda la información adecuadamente,
 
 $$
 \begin{aligned}
-x&\equiv 2\pmod{3},& 140x&\equiv 1\pmod{3},& x&\equiv 2\pmod{3},\\
-x&\equiv 3\pmod{4},& 105x&\equiv 1\pmod{4},& x&\equiv 1\pmod{4},\\
-x&\equiv 4\pmod{5},& 84x&\equiv 1\pmod{5},& x&\equiv 4\pmod{5},\\
-x&\equiv 0\pmod{7},& 60x&\equiv 1\pmod{7},& x&\equiv 2\pmod{7},
+x&\equiv 2\pmod{3},& 140x&\equiv 1\pmod{3},& x&\equiv 2\pmod{3},\\\\ x&\equiv 3\pmod{4},& 105x&\equiv 1\pmod{4},& x&\equiv 1\pmod{4},\\\\ x&\equiv 4\pmod{5},& 84x&\equiv 1\pmod{5},& x&\equiv 4\pmod{5},\\\\ x&\equiv 0\pmod{7},& 60x&\equiv 1\pmod{7},& x&\equiv 2\pmod{7},
 \end{aligned}
 $$
 
@@ -123,8 +93,7 @@ entonces la solución es
 
 $$
 \begin{aligned}
-x &\equiv (2\cdot140\cdot2 + 3\cdot105\cdot1 + 4\cdot84\cdot4 + 0\cdot60\cdot1)\pmod{420}\\
-&\equiv 2219\pmod{420}\equiv 119\pmod{420},
+x &\equiv (2\cdot140\cdot2 + 3\cdot105\cdot1 + 4\cdot84\cdot4 + 0\cdot60\cdot1)\pmod{420}\\\\ &\equiv 2219\pmod{420}\equiv 119\pmod{420},
 \end{aligned}
 $$
 
