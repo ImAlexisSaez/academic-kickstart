@@ -5,7 +5,7 @@ subtitle: "Problema 47"
 summary: "Problema 47: ¡qué complicado es salir en familia!."
 
 date: 2019-01-30T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-01-30T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -41,10 +41,7 @@ Utilicemos el *Algoritmo de Euclides* para hallar el $mcd(64,33)$ y decidir así
 
 $$
 \begin{aligned}
-64 &= 33\cdot 1 + 31,\\
-33 &= 31\cdot 1 + 2,\\
-31 &= 2\cdot 15 + 1,\\
-2 &= 1\cdot 2,
+64 &= 33\cdot 1 + 31,\\\\ 33 &= 31\cdot 1 + 2,\\\\ 31 &= 2\cdot 15 + 1,\\\\ 2 &= 1\cdot 2,
 \end{aligned}
 $$
 
@@ -52,8 +49,7 @@ luego $mcd(64,33) = 1$, y como $1|714$, estamos en condiciones de asegurar que l
 
 $$
 \begin{aligned}
-x &= 714x^{\prime},\\
-y &= 714y^{\prime},
+x &= 714x^{\prime},\\\\ y &= 714y^{\prime},
 \end{aligned}
 $$
 
@@ -99,10 +95,7 @@ Tras aplicar en retiradas ocasiones la misma estrategia de descomposición, hemo
 
 $$
 \begin{aligned}
-x^{\prime} &= -y^{\prime\prime} + x^{\prime\prime} = 15+1 = 16,\\
-y^{\prime} &= -x^{\prime} + y^{\prime\prime} = -16 -15 = -31,\\
-x  &= 714x^{\prime} = 714\cdot 16 = 11424,\\
-y  &= 714y^{\prime} = 714\cdot(-31) = -22134, 
+x^{\prime} &= -y^{\prime\prime} + x^{\prime\prime} = 15+1 = 16,\\\\ y^{\prime} &= -x^{\prime} + y^{\prime\prime} = -16 -15 = -31,\\\\ x  &= 714x^{\prime} = 714\cdot 16 = 11424,\\\\ y  &= 714y^{\prime} = 714\cdot(-31) = -22134, 
 \end{aligned}
 $$
 
@@ -110,8 +103,7 @@ por lo que la solución particular queda
 
 $$
 \begin{aligned}
-x_0 &= 11424,\\
-y_0 &= -22134,
+x_0 &= 11424,\\\\ y_0 &= -22134,
 \end{aligned}
 $$
 
@@ -119,8 +111,7 @@ mientras que la solución general es
 
 $$
 \begin{aligned}
-x  &= 11424 + 33t,\\
-y  &= -22134 - 64t,
+x  &= 11424 + 33t,\\\\ y  &= -22134 - 64t,
 \end{aligned}
 $$
 
@@ -130,9 +121,7 @@ Ahora que hemos resuelto la ecuación diofántica, centrémonos en sacar el núm
 
 $$
 \begin{aligned}
-x  = 11424 + 33t&\geq0,\\
-y  = -22134 - 64t&\geq0,\\
-11424 + 33t &< -22134 - 64t,
+x  = 11424 + 33t&\geq0,\\\\ y  = -22134 - 64t&\geq0,\\\\ 11424 + 33t &< -22134 - 64t,
 \end{aligned}
 $$
 
@@ -152,8 +141,7 @@ luego $t\leq -346$, con lo cual $t=346$, cantidad que, efectivamente, también v
 
 $$
 \begin{aligned}
-x &= 11424 + 33\cdot(-346) = 6,\\
-y &= -22134 - 64\cdot(-346) = 10,
+x &= 11424 + 33\cdot(-346) = 6,\\\\ y &= -22134 - 64\cdot(-346) = 10,
 \end{aligned}
 $$
 

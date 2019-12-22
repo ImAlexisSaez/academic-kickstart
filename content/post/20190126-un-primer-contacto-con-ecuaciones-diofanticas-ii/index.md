@@ -5,7 +5,7 @@ subtitle: "Problema 46"
 summary: "Problema 46: decidiendo cuándo existe solución y calculándola."
 
 date: 2019-01-26T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-01-26T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -66,8 +66,7 @@ por lo que basta probar para $y^{\prime}$ valores pertenecientes al *menor siste
 
 $$
 \begin{aligned}
-y &= -2x^{\prime} + y^{\prime} = 8+2=10,\\
-x &= -y + x^{\prime} = (-10) - 4 = -14,
+y &= -2x^{\prime} + y^{\prime} = 8+2=10,\\\\ x &= -y + x^{\prime} = (-10) - 4 = -14,
 \end{aligned}
 $$
 
@@ -75,8 +74,7 @@ esto es, una solución particular para la ecuación diofántica planteada es $(x
 
 $$
 \begin{aligned}
-x &= (-14) + 36t,\\
-y &= 10 - 25t,
+x &= (-14) + 36t,\\\\ y &= 10 - 25t,
 \end{aligned}
 $$
 
@@ -86,10 +84,7 @@ De cara al apartado (b), comencemos calculando el máximo común divisor de $200
 
 $$
 \begin{aligned}
-1768 &= 200\cdot8 + 168,\\
-200 &= 168\cdot1 +  32,\\
-168 &=  32\cdot5 +   8,\\
-32 &=   8\cdot4,
+1768 &= 200\cdot8 + 168,\\\\ 200 &= 168\cdot1 +  32,\\\\ 168 &=  32\cdot5 +   8,\\\\ 32 &=   8\cdot4,
 \end{aligned}
 $$
 
@@ -119,8 +114,7 @@ y ya únicamente basta probar valores para $y^{\prime}$ que pertenezcan al *meno
 
 $$
 \begin{aligned}
-y &= -x^{\prime}+y^{\prime} = 5+1=6,\\
-x &= -8y+x^{\prime} = (-48)-5 = (-53).
+y &= -x^{\prime}+y^{\prime} = 5+1=6,\\\\ x &= -8y+x^{\prime} = (-48)-5 = (-53).
 \end{aligned}
 $$
 
@@ -128,8 +122,7 @@ Una solución para la ecuación diofántica planteada es $(x_0,y_0) = ((-53), 6)
 
 $$
 \begin{aligned}
-x &= (-53) + 1768t,\\
-y &= 6-200t,
+x &= (-53) + 1768t,\\\\ y &= 6-200t,
 \end{aligned}
 $$
 
@@ -141,11 +134,7 @@ Para el apartado (d), empecemos calculando el máximo común divisor de $213$ y 
 
 $$
 \begin{aligned}
-1123 &= 213\cdot5 + 58,\\
-213 &=  58\cdot3 + 39,\\
-58 &=  39\cdot1 + 19,\\
-39 &=  19\cdot2 +  1,\\
-19 &=   1\cdot19,
+1123 &= 213\cdot5 + 58,\\\\ 213 &=  58\cdot3 + 39,\\\\ 58 &=  39\cdot1 + 19,\\\\ 39 &=  19\cdot2 +  1,\\\\ 19 &=   1\cdot19,
 \end{aligned}
 $$
 
@@ -153,8 +142,7 @@ por lo que $mcd(213, 1123)=1$, esto es, la ecuación diofántica admite solució
 
 $$
 \begin{aligned}
-x &= 18x^{\prime},\\
-y &= 18y^{\prime},
+x &= 18x^{\prime},\\\\ y &= 18y^{\prime},
 \end{aligned}
 $$
 
@@ -210,12 +198,7 @@ es decir, $x^{\prime\prime\prime} +19y^{\prime\prime\prime} = 1$, luego $x^{\pri
 
 $$
 \begin{aligned}
-y^{\prime\prime}_0 &= -2x^{\prime\prime\prime}_0 + y^{\prime\prime\prime}_0 = (-2)+0 = (-2),\\
-x^{\prime\prime}_0 &= -y^{\prime\prime}_0 + x^{\prime\prime\prime}_0 = 2+1 = 3,\\
-y^{\prime}_0  &= -3x^{\prime\prime}_0 + y^{\prime\prime}_0 = (-9) - 2 = (-11),\\
-x^{\prime}_0  &= -5y^{\prime}_0 + x^{\prime\prime}_0 = 55 + 3 = 58,\\
-y_0   &= 18y^{\prime}_0 = (-198),\\
-x_0   &= 18x^{\prime}_0 = 1044,
+y^{\prime\prime}_0 &= -2x^{\prime\prime\prime}_0 + y^{\prime\prime\prime}_0 = (-2)+0 = (-2),\\\\ x^{\prime\prime}_0 &= -y^{\prime\prime}_0 + x^{\prime\prime\prime}_0 = 2+1 = 3,\\\\ y^{\prime}_0  &= -3x^{\prime\prime}_0 + y^{\prime\prime}_0 = (-9) - 2 = (-11),\\\\ x^{\prime}_0  &= -5y^{\prime}_0 + x^{\prime\prime}_0 = 55 + 3 = 58,\\\\ y_0   &= 18y^{\prime}_0 = (-198),\\\\ x_0   &= 18x^{\prime}_0 = 1044,
 \end{aligned}
 $$
 
@@ -223,8 +206,7 @@ por lo que la solución general a la ecuación diofántica planteada es
 
 $$
 \begin{aligned}
-x &= 1044 + 1123t,\\
-y &= (-198) - 213t,
+x &= 1044 + 1123t,\\\\ y &= (-198) - 213t,
 \end{aligned}
 $$
 
@@ -234,8 +216,7 @@ Finalmente, en el apartado (e), como
 
 $$
 \begin{aligned}
-14 &= 2\cdot7,\\
-165 &= 3\cdot5\cdot11,
+14 &= 2\cdot7,\\\\ 165 &= 3\cdot5\cdot11,
 \end{aligned}
 $$
 
@@ -275,8 +256,7 @@ por lo que basta probar, para $y^{\prime}$, valores pertenecientes al *menor sis
 
 $$
 \begin{aligned}
-y_0 &= -x^{\prime}_0 + y^{\prime}_0 = 7+2=9,\\
-x_0 &= -11y_0 + x^{\prime}_0 = (-99)-7 = (-106),
+y_0 &= -x^{\prime}_0 + y^{\prime}_0 = 7+2=9,\\\\ x_0 &= -11y_0 + x^{\prime}_0 = (-99)-7 = (-106),
 \end{aligned}
 $$
 
@@ -284,8 +264,7 @@ llegamos a una solución particular para la ecuación diofántica planteada. As�
 
 $$
 \begin{aligned}
-x &= (-106) + 165t,\\
-y &= 9-14t,
+x &= (-106) + 165t,\\\\ y &= 9-14t,
 \end{aligned}
 $$
 

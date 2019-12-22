@@ -5,7 +5,7 @@ subtitle: "Problema 44"
 summary: "Problema 44: uno de esos ejercicios que te tiene entretenido un rato."
 
 date: 2019-01-19T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-01-19T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -53,8 +53,7 @@ esto es, $17^{40} \equiv 1\pmod{100}$. Estudiemos pues el valor de la congruenci
 
 $$
 \begin{aligned}
-x&\equiv 2018^{2019} \pmod{5},\\
-x&\equiv 2018^{2019} \pmod{8},
+x&\equiv 2018^{2019} \pmod{5},\\\\ x&\equiv 2018^{2019} \pmod{8},
 \end{aligned}
 $$
 
@@ -74,10 +73,7 @@ Por otro lado, $2018 = 2\cdot1009$, por lo que,
 
 $$
 \begin{aligned}
-2018^{2019} &= (2\cdot1009)^{2019} \\
-&= 2^{2019} \cdot 1009^{2019} \\
-&= 2^3 \cdot 2^{2016} \cdot 1009^{2019} \\
-&= 8 \cdot 2^{2016} \cdot 1009^{2019},
+2018^{2019} &= (2\cdot1009)^{2019} \\\\ &= 2^{2019} \cdot 1009^{2019} \\\\ &= 2^3 \cdot 2^{2016} \cdot 1009^{2019} \\\\ &= 8 \cdot 2^{2016} \cdot 1009^{2019},
 \end{aligned}
 $$
 
@@ -85,8 +81,7 @@ y así, podemos concluir que $2018^{2019} \equiv 0\pmod{8}$. Por consiguiente, e
 
 $$
 \begin{aligned}
-x&\equiv 2\pmod{5},\\
-x&\equiv 0\pmod{8}.
+x&\equiv 2\pmod{5},\\\\ x&\equiv 0\pmod{8}.
 \end{aligned}
 $$
 
@@ -100,13 +95,7 @@ Ahora bien, $17^{32} = ( 17^2 )^{16} = 189^{16} \equiv 89^{16} \pmod{100}$. Apli
 
 $$
 \begin{aligned}
-17^{32} &\equiv 89^{16} \pmod{100} \\
-&\equiv (-11)^{16} \pmod{100} \\
-&\equiv 11^{16} \pmod{100} \\
-&\equiv 21^8 \pmod{100}\\
-&\equiv 41^4 \pmod{100} \\
-&\equiv 81^2 \pmod{100} \\
-&\equiv 61\pmod{100},
+17^{32} &\equiv 89^{16} \pmod{100} \\\\ &\equiv (-11)^{16} \pmod{100} \\\\ &\equiv 11^{16} \pmod{100} \\\\ &\equiv 21^8 \pmod{100}\\\\ &\equiv 41^4 \pmod{100} \\\\ &\equiv 81^2 \pmod{100} \\\\ &\equiv 61\pmod{100},
 \end{aligned}
 $$
 
@@ -126,8 +115,7 @@ es equivalente al sistema de ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-x&\equiv 2018^{2019^{2020}} \pmod{4},\\
-x&\equiv 2018^{2019^{2020}} \pmod{25},
+x&\equiv 2018^{2019^{2020}} \pmod{4},\\\\ x&\equiv 2018^{2019^{2020}} \pmod{25},
 \end{aligned}
 $$
 
@@ -159,9 +147,7 @@ Por consiguiente, únicamente nos resta explorar el valor de la congruencia mód
 
 $$
 \begin{aligned}
-2019^{2020} &\equiv (-1)^{2020} \pmod{20} \\
-&\equiv 1^{2020}\pmod{20} \\
-&\equiv 1\pmod{20},
+2019^{2020} &\equiv (-1)^{2020} \pmod{20} \\\\ &\equiv 1^{2020}\pmod{20} \\\\ &\equiv 1\pmod{20},
 \end{aligned}
 $$
 
@@ -175,8 +161,7 @@ Por tanto, el sistema de ecuaciones de congruencia lineales planteado queda
 
 $$
 \begin{aligned}
-x&\equiv 0\pmod{4},\\
-x&\equiv 18\pmod{25}.
+x&\equiv 0\pmod{4},\\\\ x&\equiv 18\pmod{25}.
 \end{aligned}
 $$
 
@@ -198,8 +183,7 @@ es equivalente al sistema de ecuaciones de congruencia lineales
 
 $$
 \begin{aligned}
-x&\equiv 2020^{2021} \pmod{5},\\
-x&\equiv 2020^{2021} \pmod{8},
+x&\equiv 2020^{2021} \pmod{5},\\\\ x&\equiv 2020^{2021} \pmod{8},
 \end{aligned}
 $$
 
@@ -207,8 +191,7 @@ pues $mcd(5,8)=1$ y $5\cdot8=40$. Ahora bien, como $2020 = 2^2 \cdot5\cdot101$, 
 
 $$
 \begin{aligned}
-x&\equiv 0\pmod{5},\\
-x&\equiv 0\pmod{8},
+x&\equiv 0\pmod{5},\\\\ x&\equiv 0\pmod{8},
 \end{aligned}
 $$
 
@@ -222,9 +205,7 @@ Recapitulando,
 
 $$
 \begin{aligned}
-2017^{2018^{2019}} &\equiv 61\pmod{100},\\
-2018^{2019^{2020}} &\equiv 68\pmod{100},\\
-2019^{2020^{2021}} &\equiv  1\pmod{100},
+2017^{2018^{2019}} &\equiv 61\pmod{100},\\\\ 2018^{2019^{2020}} &\equiv 68\pmod{100},\\\\ 2019^{2020^{2021}} &\equiv  1\pmod{100},
 \end{aligned}
 $$
 
@@ -232,8 +213,7 @@ luego
 
 $$
 \begin{aligned}
-\left(2017^{2018^{2019}} + 2018^{2019^{2020}} + 2019^{2020^{2021}} \right)&\equiv (61+68+1)\pmod{100}\\
-&\equiv 30\pmod{100},
+\left(2017^{2018^{2019}} + 2018^{2019^{2020}} + 2019^{2020^{2021}} \right)&\equiv (61+68+1)\pmod{100}\\\\ &\equiv 30\pmod{100},
 \end{aligned}
 $$
 

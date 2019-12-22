@@ -5,7 +5,7 @@ subtitle: "Problema 45"
 summary: "Problema 45: matemáticas de caballos y vacas."
 
 date: 2019-01-23T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-01-23T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -32,8 +32,7 @@ Para el apartado (a), como
 
 $$
 \begin{aligned}
- 84 &= 2^2 \cdot3\cdot7,\\
- 990 &= 2\cdot 3^2 \cdot5\cdot11,
+ 84 &= 2^2 \cdot3\cdot7,\\\\  990 &= 2\cdot 3^2 \cdot5\cdot11,
 \end{aligned}
 $$
 
@@ -49,8 +48,7 @@ Como $mcd(21,31) = 1$ y $1|1770$, estamos en condiciones de asegurar que la ante
 
 $$
 \begin{aligned}
-x &= 1770x^{\prime},\\
-y &= 1770y^{\prime},
+x &= 1770x^{\prime},\\\\ y &= 1770y^{\prime},
 \end{aligned}
 $$
 
@@ -78,9 +76,7 @@ ecuación para la que, por tanteo, rápidamente observamos que si $x^{\prime\pri
 
 $$
 \begin{aligned}
-x^{\prime} &= -y^{\prime} + x^{\prime\prime} = 2 + 1 = 3,\\
-x  &= 1770x^{\prime} = 1770\cdot3 = 5310,\\
-y  &= 1770y^{\prime} = 1770\cdot(-2) = -3540,
+x^{\prime} &= -y^{\prime} + x^{\prime\prime} = 2 + 1 = 3,\\\\ x  &= 1770x^{\prime} = 1770\cdot3 = 5310,\\\\ y  &= 1770y^{\prime} = 1770\cdot(-2) = -3540,
 \end{aligned}
 $$
 
@@ -88,8 +84,7 @@ llegamos a una solución particular de la ecuación diofántica propuesta. Así,
 
 $$
 \begin{aligned}
-x &= 5310 + 31t,\\
-y &= (-3540) - 21t,
+x &= 5310 + 31t,\\\\ y &= (-3540) - 21t,
 \end{aligned}
 $$
 
@@ -97,8 +92,7 @@ con $t$ número entero. El número de animales que ha comprado de cada clase ha 
 
 $$
 \begin{aligned}
-5310 + 31t &\geq 0\Rightarrow t\geq -\dfrac{5310}{31} = -171.29,\\
--3540-21t  &\geq 0\Rightarrow t\leq -\dfrac{3540}{21} = -168.57.
+5310 + 31t &\geq 0\Rightarrow t\geq -\dfrac{5310}{31} = -171.29,\\\\ -3540-21t  &\geq 0\Rightarrow t\leq -\dfrac{3540}{21} = -168.57.
 \end{aligned}
 $$
 

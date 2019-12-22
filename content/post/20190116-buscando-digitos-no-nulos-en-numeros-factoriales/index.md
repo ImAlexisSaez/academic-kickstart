@@ -5,7 +5,7 @@ subtitle: "Problema 43"
 summary: "Problema 43: sencillo de enunciar, muy entretenido de resolver."
 
 date: 2019-01-16T05:59:39+02:00
-lastmod: 2019-07-31T00:00:01+02:00
+lastmod: 2019-01-16T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,8 +35,7 @@ Para $n=2017$, tenemos que
 
 $$
 \begin{aligned}
-\left\lfloor\dfrac{2017}{5}\right\rfloor + \left\lfloor\dfrac{2017}{25}\right\rfloor + \left\lfloor\dfrac{2017}{125}\right\rfloor + \left\lfloor\dfrac{2017}{625}\right\rfloor &= 403 + 80 + 16 + 3 \\
-&= 502,
+\left\lfloor\dfrac{2017}{5}\right\rfloor + \left\lfloor\dfrac{2017}{25}\right\rfloor + \left\lfloor\dfrac{2017}{125}\right\rfloor + \left\lfloor\dfrac{2017}{625}\right\rfloor &= 403 + 80 + 16 + 3 \\\\ &= 502,
 \end{aligned}
 $$
 
@@ -68,8 +67,7 @@ Ahora bien, resulta que
 
 $$
 \begin{aligned}
-(5k+1)(5k+2)(5k+3)(5k+4)&= 625k^4 + 1250k^3 + 875k^2 + 250k + 24\\
-&\equiv (-1)\pmod{25},
+(5k+1)(5k+2)(5k+3)(5k+4)&= 625k^4 + 1250k^3 + 875k^2 + 250k + 24\\\\ &\equiv (-1)\pmod{25},
 \end{aligned}
 $$
 
@@ -77,9 +75,7 @@ hecho que nos permite escribir
 
 $$
 \begin{aligned}
-f(2017)&=\dfrac{2017!}{5^{502}}\pmod{25}\\
-&=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot403\cdot(16\cdot17)}{5^{99}}\pmod{25}\\
-&=(-1)^{403}\cdot22\cdot f(403)\pmod{25}.
+f(2017)&=\dfrac{2017!}{5^{502}}\pmod{25}\\\\ &=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot403\cdot(16\cdot17)}{5^{99}}\pmod{25}\\\\ &=(-1)^{403}\cdot22\cdot f(403)\pmod{25}.
 \end{aligned}
 $$
 
@@ -95,15 +91,7 @@ Razonando de manera similar,
 
 $$
 \begin{aligned}
-f(403)&=\dfrac{403!}{5^{99}}\pmod{25}\\
-&=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot80\cdot(1\cdot2\cdot3)}{5^{19}}\pmod{25}\\
-&=(-1)^{80}\cdot6\cdot f(80)\pmod{25},\\
-f(80)&=\dfrac{80!}{5^{19}}\pmod{25}\\
-&=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot16}{5^{3}}\pmod{25}\\
-&=(-1)^{16}\cdot f(16)\pmod{25},\\
-f(16)&=\dfrac{16!}{5^{3}}\pmod{25}\\
-&=((1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdot(1\cdot2\cdot3\cdot4)\cdot3\cdot16)\pmod{25}\\
-&=(-1)^{3}\cdot16\cdot 3!\pmod{25},
+f(403)&=\dfrac{403!}{5^{99}}\pmod{25}\\\\ &=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot80\cdot(1\cdot2\cdot3)}{5^{19}}\pmod{25}\\\\ &=(-1)^{80}\cdot6\cdot f(80)\pmod{25},\\\\ f(80)&=\dfrac{80!}{5^{19}}\pmod{25}\\\\ &=\dfrac{(1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdots(1\cdot2\cdot3\cdot4)\cdot16}{5^{3}}\pmod{25}\\\\ &=(-1)^{16}\cdot f(16)\pmod{25},\\\\ f(16)&=\dfrac{16!}{5^{3}}\pmod{25}\\\\ &=((1\cdot2\cdot3\cdot4)\cdot1\cdot(1\cdot2\cdot3\cdot4)\cdot2\cdot(1\cdot2\cdot3\cdot4)\cdot3\cdot16)\pmod{25}\\\\ &=(-1)^{3}\cdot16\cdot 3!\pmod{25},
 \end{aligned}
 $$
 
@@ -111,9 +99,7 @@ y realizando ahorra las correspondientes sustituciones,
 
 $$
 \begin{aligned}
-f(2017) &= (-1)^{502}\cdot22\cdot6\cdot16\cdot6\pmod{25}\\
-&\equiv 12672\pmod{25}\\
-&\equiv 22\pmod{25},
+f(2017) &= (-1)^{502}\cdot22\cdot6\cdot16\cdot6\pmod{25}\\\\ &\equiv 12672\pmod{25}\\\\ &\equiv 22\pmod{25},
 \end{aligned}
 $$
 
@@ -151,9 +137,7 @@ entre $25$ asciende a $22$. Como el número que nos interesa, en términos del r
 
 $$
 \begin{aligned}
-4a\equiv 22\pmod{25}&\Leftrightarrow 24a\equiv 132\pmod{25}\\
-&\Leftrightarrow (-a)\equiv 7\pmod{25}\\
-&\Leftrightarrow a\equiv 18\pmod{25},
+4a\equiv 22\pmod{25}&\Leftrightarrow 24a\equiv 132\pmod{25}\\\\ &\Leftrightarrow (-a)\equiv 7\pmod{25}\\\\ &\Leftrightarrow a\equiv 18\pmod{25},
 \end{aligned}
 $$
 
@@ -173,8 +157,7 @@ es equivalente al sistema de ecuaciones de congruencias lineales
 
 $$
 \begin{aligned}
-x&\equiv 0\pmod{4},\\
-x&\equiv 18\pmod{25}.
+x&\equiv 0\pmod{4},\\\\ x&\equiv 18\pmod{25}.
 \end{aligned}
 $$
 
