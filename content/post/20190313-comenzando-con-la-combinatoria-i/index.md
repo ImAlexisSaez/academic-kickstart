@@ -5,7 +5,7 @@ subtitle: "Problema 59"
 summary: "Problema 59: primeros pasos."
 
 date: 2019-03-13T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-13T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,7 +35,13 @@ image:
 
 Para el apartado (a), dado que el orden importa y utilizamos todos los elementos, sin que ninguno de ellos se repita, buscamos la cantidad de permutaciones de ocho elementos. Así, $P_8 = 8! = 40320$ es el número de formas en que se pueden sentar ocho personas en una fila de ocho asientos.
 
-En el apartado (b), el orden vuelve a importar y, obviamente, hemos de permitir la repetición de las letras para conformar las palabras, por lo que ahora la herramienta adecuada para contar será el total de variaciones de cuatro elementos tomadas de diez en diez. Por tanto, hay $VR_{4,10} = 4^{10} = 1048576$ palabras distintas de diez letras conformadas a partir de las letras $A$, $B$, $C$ y $D$.
+En el apartado (b), el orden vuelve a importar y, obviamente, hemos de permitir la repetición de las letras para conformar las palabras, por lo que ahora la herramienta adecuada para contar será el total de variaciones de cuatro elementos tomadas de diez en diez. Por tanto, hay 
+
+$$
+VR_{4,10} = 4^{10} = 1048576
+$$ 
+
+palabras distintas de diez letras conformadas a partir de las letras $A$, $B$, $C$ y $D$.
 
 En cuanto al apartado (c\), hemos de ser cautos a la hora de escoger quién juega el papel de los ''elementos'' para contabilizar el total de maneras en que realizar la acción. En esta ocasión, son las calles. Si consideramos un cruce estándar de cuatro de ellas (y las denotamos por $a$, $b$, $c$ y $d$), una posible forma de escapar de la policía consistiría en que todos los niños optasen por la calle $a$, generando así el valor $(a,a,\ldots,a)$. Si el primer niño escogiese la calle $b$ y el resto la $a$, tendríamos el valor $(b,a,a,\ldots,a)$, y así sucesivamente. Por tanto, como importa el orden y alguna de las calles estará repetida dentro de las opciones de la huida, buscamos el número de variaciones con repetición de cuatro elementos tomados de diez en diez. Como antes, $VR_{4,10} = 4^{10}$ es el número de formas en que pueden huir diez niños de la policía en un cruce de calles.
 

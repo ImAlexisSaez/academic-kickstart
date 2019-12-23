@@ -5,7 +5,7 @@ subtitle: "Problema 58"
 summary: "Problema 58: requiere andar con pies de plomo."
 
 date: 2019-03-09T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-09T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,8 +35,7 @@ Dado que un palmo equivale a $20$ centímetros, es cierto que $x = 20a$ e $y = 2
 
 $$
 \begin{aligned}
-a &= \dfrac{x}{20},\\
-b &= \dfrac{y}{20}.
+a &= \dfrac{x}{20},\\\\ b &= \dfrac{y}{20}.
 \end{aligned}
 $$
 
@@ -72,10 +71,30 @@ $$
 (1+2+2^2 +\cdots+2^6 )\cdot(1+5+5^2 ),
 $$ 
 
-de manera que si prescindimos de la operación suma, cada uno de los productos resulta ser un divisor de $1600$. Por ejemplo, multiplicando $1$ por $1,2,2^2,\ldots, 2^6$ aparecen los divisores $\\{1,2,4,8,16,32,64\\}$. Multiplicando ahora $5$ por $1,2,2^2,\ldots, 2^6$, obtenemos los divisores $\\{5,10,20,40,80,160,320\\}$. Finalmente, multiplicando $5^2$ por $1,2,2^2 ,\ldots,2^6$, encontramos los divisores $\\{25,50,100,200,400,800,1600\\}$. En definitiva, el conjunto de divisores de $1600$ es
+de manera que si prescindimos de la operación suma, cada uno de los productos resulta ser un divisor de $1600$. Por ejemplo, multiplicando $1$ por $1,2,2^2,\ldots, 2^6$ aparecen los divisores 
 
 $$
-\{1, 2, 4, 5, 8, 10, 16, 20, 25, 32, 40, 50, 64, 80, 100, 160, 200, 320, 400, 800, 1600\}.
+\\{1,2,4,8,16,32,64\\}.
+$$ 
+
+Multiplicando ahora $5$ por $1,2,2^2,\ldots, 2^6$, obtenemos los divisores 
+
+$$
+\\{5,10,20,40,80,160,320\\}.
+$$
+
+Finalmente, multiplicando $5^2$ por $1,2,2^2 ,\ldots,2^6$, encontramos los divisores 
+
+$$
+\\{25,50,100,200,400,800,1600\\}.
+$$
+
+En definitiva, el conjunto de divisores de $1600$ es
+
+$$
+\begin{aligned}
+\\{&1, 2, 4, 5, 8, 10, 16, 20, 25, 32, 40, 50,\\\\ &64, 80, 100, 160, 200, 320, 400, 800, 1600\\}.
+\end{aligned}
 $$
 
 A continuación, vemos que algunos casos los podemos descartar rápidamente. ¿Es válida la solución $y-40=20$? No, ya que implicaría $y=60 = 3\cdot20$, es decir, $y$ sería entonces un múltiplo entero de palmos, longitud no permitida por las restricciones que impone el enunciado del ejercicio. El mismo razonamiento es válido para los valores $40$, $80$, $160$, $320$, $100$, $200$, $400$, $800$ y $1600$. 

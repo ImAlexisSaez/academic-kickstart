@@ -5,7 +5,7 @@ subtitle: "Problema 63"
 summary: "Problema 63: un resultado útil donde los haya."
 
 date: 2019-03-27T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-27T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -47,9 +47,7 @@ A continuación, por el *Principio de inclusión-exclusión*,
 
 $$
 \begin{aligned}
-card(3\cup 5\cup 7) &= card(3) + card(5) + card(7)\\
-&\quad -card(3\cap 5) - card(3\cap 7) - card(5\cap 7)\\
-&\quad +card(3\cap 5\cap 7),
+card(3\cup 5\cup 7) &= card(3) + card(5) + card(7)\\\\ &\quad -card(3\cap 5) - card(3\cap 7) - card(5\cap 7)\\\\ &\quad +card(3\cap 5\cap 7),
 \end{aligned}
 $$
 

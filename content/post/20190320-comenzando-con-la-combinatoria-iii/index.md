@@ -5,7 +5,7 @@ subtitle: "Problema 61"
 summary: "Problema 61: dominó y soluciones enteras de una ecuación."
 
 date: 2019-03-20T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-20T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -40,19 +40,19 @@ fichas en el juego del dominó.
 A continuación, en el apartado (b), si representamos gráficamente nuestras siete urnas indistinguibles como sigue 
 
 $$
-(\ \ |\ \ |\ \ |\ \ |\ \ |\ \ |\ \ ),
+(\\ \\ |\\ \\ |\\ \\ |\\ \\ |\\ \\ |\\ \\ |\\ \\ ),
 $$ 
 
 esto es, como si pusiéramos seis rayas sobre la recta real y representamos las bolas como $*$, una posible configuración sería 
 
 $$
-(\ \ |*|\ \ |*|\ \ |\ \ |\ \ ).
+(\\ \\ | * |\\ \\ | * |\\ \\ |\\ \\ |\\ \\ ).
 $$ 
 
 No obstante, si ahora movemos la última raya al principio, la anterior configuración se convierte en 
 
 $$
-(\ \ |\ \ |*|\ \ |*|\ \ |\ \ ).
+(\\ \\ |\\ \\ | * |\\ \\ | * |\\ \\ |\\ \\ ).
 $$ 
 
 Así pues, observamos que, de cara a contar posibilidades en este apartado, es como si tuviéramos ocho elementos (las dos bolas, $*$, y las seis rayas, $|$) de dos tipos. Uno de ellos se repite dos veces (las bolas), mientras que el otro se repite en seis ocasiones (las rayas). Por tanto, hay 

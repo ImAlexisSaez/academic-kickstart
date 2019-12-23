@@ -5,7 +5,7 @@ subtitle: "Problema 56"
 summary: "Problema 56: un curioso juego de monedas."
 
 date: 2019-03-02T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-02T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -37,8 +37,7 @@ Como $23$ y $37$ son números primos, tenemos que $mcd(23,37)=1$, y dado que, tr
 
 $$
 \begin{aligned}
-x &= 1000x^{\prime},\\
-y &= 1000y^{\prime}
+x &= 1000x^{\prime},\\\\ y &= 1000y^{\prime}
 \end{aligned}
 $$
 
@@ -46,12 +45,7 @@ de manera que la ecuación diofántica se transforma en $37x^{\prime} + 23y^{\pr
 
 $$
 \begin{aligned}
-37 &= 23\cdot1 + 14,\\
-23 &= 14\cdot1 +  9,\\
-14 &=  9\cdot1 +  5,\\
- 9 &=  5\cdot1 +  4,\\
- 5 &=  4\cdot1 +  1,\\
- 4 &=  1\cdot4,
+37 &= 23\cdot1 + 14,\\\\ 23 &= 14\cdot1 +  9,\\\\ 14 &=  9\cdot1 +  5,\\\\  9 &=  5\cdot1 +  4,\\\\  5 &=  4\cdot1 +  1,\\\\  4 &=  1\cdot4,
 \end{aligned}
 $$
 
@@ -59,14 +53,7 @@ además de haber comprobado que $mcd(23,37)=1$, podemos encontrar una solución 
 
 $$
 \begin{aligned}
-1 &= 5 - 4\cdot1\\
-&= 5 - 1\cdot(9\cdot1 - 5) \\
-&= (-9) + 2\cdot5 = (-9) + 2(14\cdot1 - 9) \\
-&= 2\cdot14 - 3\cdot9 \\
-&= 2\cdot14 - 3(23\cdot1 - 14) \\
-&= (-3)\cdot23 + 5\cdot14 \\
-&= (-3)\cdot23 + 5(37 - 23\cdot1) \\
-&= 5\cdot37 - 8\cdot23,
+1 &= 5 - 4\cdot1\\\\ &= 5 - 1\cdot(9\cdot1 - 5) \\\\ &= (-9) + 2\cdot5 = (-9) + 2(14\cdot1 - 9) \\\\ &= 2\cdot14 - 3\cdot9 \\\\ &= 2\cdot14 - 3(23\cdot1 - 14) \\\\ &= (-3)\cdot23 + 5\cdot14 \\\\ &= (-3)\cdot23 + 5(37 - 23\cdot1) \\\\ &= 5\cdot37 - 8\cdot23,
 \end{aligned}
 $$
 
@@ -74,8 +61,7 @@ y dado que, recordemos, la ecuación diofántica es $37x^{\prime} +23y^{\prime} 
 
 $$
 \begin{aligned}
-x_0 &= 1000x^{\prime}_0 = 5000,\\
-y_0 &= 1000y^{\prime}_0 = (-8000),
+x_0 &= 1000x^{\prime}_0 = 5000,\\\\ y_0 &= 1000y^{\prime}_0 = (-8000),
 \end{aligned}
 $$
 
@@ -83,8 +69,7 @@ es una solución particular para la ecuación diofántica $37x+23y=1000$. Por ta
 
 $$
 \begin{aligned}
-x &= 5000 + 23t,\\
-y &= (-8000) - 37t,
+x &= 5000 + 23t,\\\\ y &= (-8000) - 37t,
 \end{aligned}
 $$
 
@@ -104,8 +89,7 @@ es decir, $(-217.4)\leq t\leq (-216.2)$ y como $t$ ha de ser un número entero, 
 
 $$
 \begin{aligned}
-x &= 5000 + 23\cdot(-217) = 9,\\ 
-y &= (-8000) - 37\cdot(-217) = 29,
+x &= 5000 + 23\cdot(-217) = 9,\\\\ y &= (-8000) - 37\cdot(-217) = 29,
 \end{aligned}
 $$
 

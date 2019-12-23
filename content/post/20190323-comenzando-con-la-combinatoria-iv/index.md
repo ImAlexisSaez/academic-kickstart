@@ -5,7 +5,7 @@ subtitle: "Problema 62"
 summary: "Problema 62: presentando la estrategia de barras y estrellas."
 
 date: 2019-03-23T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-23T05:59:39+02:00
 
 authors: ["admin"]
 math: true

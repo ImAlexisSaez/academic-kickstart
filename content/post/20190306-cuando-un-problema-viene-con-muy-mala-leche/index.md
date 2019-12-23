@@ -5,7 +5,7 @@ subtitle: "Problema 57"
 summary: "Problema 57: un enunciado sencillo que esconde una trampa inesperada."
 
 date: 2019-03-06T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-06T05:59:39+02:00
 
 authors: ["admin"]
 math: true

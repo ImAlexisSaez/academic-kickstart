@@ -5,7 +5,7 @@ subtitle: "Problema 60"
 summary: "Problema 60: obviamente, las barajas hacen su acto de presencia aquí."
 
 date: 2019-03-16T05:59:39+02:00
-lastmod: 2019-08-04T00:00:01+02:00
+lastmod: 2019-03-16T05:59:39+02:00
 
 authors: ["admin"]
 math: true
