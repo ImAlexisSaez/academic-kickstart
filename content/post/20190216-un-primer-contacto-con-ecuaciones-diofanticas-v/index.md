@@ -5,7 +5,7 @@ subtitle: "Problema 52"
 summary: "Problema 52: ¡y subimos el número de incógnitas hasta cuatro!."
 
 date: 2019-02-16T05:59:39+02:00
-lastmod: 2019-08-02T00:00:01+02:00
+lastmod: 2019-02-16T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -33,10 +33,7 @@ Como
 
 $$
 \begin{aligned}
-30 &= 2\cdot3\cdot5,\\
-42 &= 2\cdot3\cdot7,\\
-70 &= 2\cdot5\cdot7,\\
-105 &= 3\cdot5\cdot7,
+30 &= 2\cdot3\cdot5,\\\\ 42 &= 2\cdot3\cdot7,\\\\ 70 &= 2\cdot5\cdot7,\\\\ 105 &= 3\cdot5\cdot7,
 \end{aligned}
 $$
 
@@ -68,8 +65,7 @@ hallando que para $y^{\prime}_0 = (-2)$, entonces $x^{\prime}_0 = 3$. Deshaciend
 
 $$
 \begin{aligned}
-x &= 3v + 7t,\\
-y &= -2v - 5t,
+x &= 3v + 7t,\\\\ y &= -2v - 5t,
 \end{aligned}
 $$
 
@@ -97,8 +93,7 @@ Luego, para $u^{\prime}_0 =(-1)$ hallamos que $z^{\prime}_0 =(-2)$, y deshaciend
 
 $$
 \begin{aligned}
-u &= -w+2t^{\prime},\\ 
-z &= -2w+3t^{\prime},
+u &= -w+2t^{\prime},\\\\ z &= -2w+3t^{\prime},
 \end{aligned}
 $$
 
@@ -108,8 +103,7 @@ Finalmente, como definimos antes $$w = \dfrac{3+6v}{35},$$ generamos al ecuació
 
 $$
 \begin{aligned}
-v &= (-18)+35t^{\prime\prime},\\
-w &= 3+6t^{\prime\prime}
+v &= (-18)+35t^{\prime\prime},\\\\ w &= 3+6t^{\prime\prime}
 \end{aligned}
 $$
 
@@ -117,10 +111,7 @@ con $t^{\prime\prime}$ número entero. Únicamente nos resta reemplazar adecuada
 
 $$
 \begin{aligned}
-x &= 3v+7t = (-54) + 7t + 105t^{\prime\prime},\\
-y &= -2v-5t = 36 - 5t - 70t^{\prime\prime},\\
-z &= -2w + 3t^{\prime} = (-6) + 3t^{\prime} - 12t^{\prime\prime},\\ 
-u &= -w+2t^{\prime} = (-3) + 2t^{\prime} - 6t^{\prime\prime},
+x &= 3v+7t = (-54) + 7t + 105t^{\prime\prime},\\\\ y &= -2v-5t = 36 - 5t - 70t^{\prime\prime},\\\\ z &= -2w + 3t^{\prime} = (-6) + 3t^{\prime} - 12t^{\prime\prime},\\\\ u &= -w+2t^{\prime} = (-3) + 2t^{\prime} - 6t^{\prime\prime},
 \end{aligned}
 $$
 

@@ -5,7 +5,7 @@ subtitle: "Problema 53"
 summary: "Problema 53: un problema clásico fuera del contexto actual."
 
 date: 2019-02-20T05:59:39+02:00
-lastmod: 2019-08-02T00:00:01+02:00
+lastmod: 2019-02-20T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -37,8 +37,7 @@ Ahora bien, como $70 = 2\cdot5\cdot7$ y $180 = 2^2 \cdot 3^2 \cdot5$, $mcd(70, 1
 
 $$
 \begin{aligned}
-x &= 184x^{\prime},\\
-y &= 184y^{\prime}
+x &= 184x^{\prime},\\\\ y &= 184y^{\prime}
 \end{aligned}
 $$
 
@@ -52,8 +51,7 @@ por lo que basta probar, para $x^{\prime}$, valores pertenecientes al *menor sis
 
 $$
 \begin{aligned}
-x_0 &= 184x^{\prime} = 184\cdot2 = 368,\\
-y_0 &= 184y^{\prime} = 184\cdot(-5) = (-920),
+x_0 &= 184x^{\prime} = 184\cdot2 = 368,\\\\ y_0 &= 184y^{\prime} = 184\cdot(-5) = (-920),
 \end{aligned}
 $$
 
@@ -61,8 +59,7 @@ es una solución particular para la ecuación diofántica planteada. Su solució
 
 $$
 \begin{aligned}
-x &= 368 + 7t,\\ 
-y &= (-920) - 18t,
+x &= 368 + 7t,\\\\ y &= (-920) - 18t,
 \end{aligned}
 $$
 
@@ -78,8 +75,7 @@ es decir, $6624 + 126t \geq 184$. Por tanto, $126t \geq (-6498)$, luego $t\geq (
 
 $$
 \begin{aligned}
-x &= 368 + 7\cdot(-51) = 11,\\
-y &= (-920) - 18\cdot(-51) = -2,
+x &= 368 + 7\cdot(-51) = 11,\\\\ y &= (-920) - 18\cdot(-51) = -2,
 \end{aligned}
 $$
 

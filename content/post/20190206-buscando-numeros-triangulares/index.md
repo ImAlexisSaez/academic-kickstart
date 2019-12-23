@@ -5,7 +5,7 @@ subtitle: "Problema 49"
 summary: "Problema 49: un primer encuentro con la ecuación de Pell."
 
 date: 2019-02-06T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-02-06T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -65,8 +65,7 @@ luego
 
 $$
 \begin{aligned}
-p_{n+1} &= 3p_n + 8k_n,\\
-k_{n+1} &=  p_n + 3k_n.
+p_{n+1} &= 3p_n + 8k_n,\\\\ k_{n+1} &=  p_n + 3k_n.
 \end{aligned}
 $$
 
@@ -74,16 +73,13 @@ Utilizando notación matricial,
 
 $$
 \begin{bmatrix}
-p_{n+1}\\
-k_{n+1}
+p_{n+1}\\\\ k_{n+1}
 \end{bmatrix}
 = \begin{bmatrix}
-3 & 8\\
-1 & 3
+3 & 8\\\\ 1 & 3
 \end{bmatrix}
 \begin{bmatrix}
-p_n\\
-k_n
+p_n\\\\ k_n
 \end{bmatrix}.
 $$
 
@@ -91,39 +87,36 @@ Ahora, $$n = \dfrac{(-1) + p}{2},$$ por lo que la solución general del ejercici
 
 $$
 \begin{bmatrix}
-p_{n+1}\\
-k_{n+1}
+p_{n+1}\\\\ k_{n+1}
 \end{bmatrix}
 = \begin{bmatrix}
-3 & 8\\
-1 & 3
+3 & 8\\\\ 1 & 3
 \end{bmatrix}
 \begin{bmatrix}
-p_n\\
-k_n
+p_n\\\\ k_n
 \end{bmatrix},
 $$
 
-con $(p_1,k_1) = (3,1)$ y $$n = \dfrac{(-1) + p_n}{2}.$$
+con $(p_1,k_1) = (3,1)$ y 
+
+$$
+n = \dfrac{(-1) + p_n}{2}.
+$$
 
 Así, para $p_1 = 3$, tenemos que $n = ((-1)+3) / 2 = 1$. Obtengamos algunas soluciones adicionales,
 
 $$
 \begin{bmatrix}
-p_{2}\\
-k_{2}
+p_{2}\\\\ k_{2}
 \end{bmatrix}
 = \begin{bmatrix}
-3 & 8\\
-1 & 3
+3 & 8\\\\ 1 & 3
 \end{bmatrix}
 \begin{bmatrix}
-3\\
-1
+3\\\\ 1
 \end{bmatrix}
 = \begin{bmatrix}
-17 \\
-6
+17 \\\\ 6
 \end{bmatrix},
 $$
 
@@ -137,20 +130,16 @@ Ahora,
 
 $$
 \begin{bmatrix}
-p_3\\
-k_3
+p_3\\\\ k_3
 \end{bmatrix}
 = \begin{bmatrix}
-3 & 8\\
-1 & 3
+3 & 8\\\\ 1 & 3
 \end{bmatrix}
 \begin{bmatrix}
-17\\
-6
+17\\\\ 6
 \end{bmatrix}
 = \begin{bmatrix}
-99\\
-35
+99\\\\ 35
 \end{bmatrix},
 $$
 

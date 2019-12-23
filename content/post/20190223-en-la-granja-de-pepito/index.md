@@ -5,7 +5,7 @@ subtitle: "Problema 54"
 summary: "Problema 54: de vacas, cerdos y pollos."
 
 date: 2019-02-23T05:59:39+02:00
-lastmod: 2019-08-02T00:00:01+02:00
+lastmod: 2019-02-23T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -29,8 +29,7 @@ Sea $x$ el número de vacas, $y$ el total de cerdos y $z$ la cantidad de pollos 
 
 $$
 \begin{aligned}
-10x+3y+0.5z &= 100,\\ 
-x+y+z &= 100,
+10x+3y+0.5z &= 100,\\\\ x+y+z &= 100,
 \end{aligned}
 $$
 
@@ -50,8 +49,7 @@ por lo que basta probar, para $x$, valores pertenecientes al *menor sistema comp
 
 $$
 \begin{aligned}
-x &= 5t,\\
-y &= 20-19t,
+x &= 5t,\\\\ y &= 20-19t,
 \end{aligned}
 $$
 

@@ -5,7 +5,7 @@ subtitle: "Problema 55"
 summary: "Problema 55: aparece de nuevo la ecuación de Pell."
 
 date: 2019-02-27T05:59:39+02:00
-lastmod: 2019-08-02T00:00:01+02:00
+lastmod: 2019-02-27T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -35,8 +35,7 @@ Análogamente, la sucesión de soluciones enteras, que denotaremos por $(x_n,y_n
 
 $$
 \begin{aligned}
-x_{n+1} + y_{n+1}\sqrt{5} &= (x_n + y_n\sqrt{5})(9+4\sqrt{5})\\
-&= 9x_n + 4\sqrt{5}x_n + 9\sqrt{5}y_n + 20y_n,
+x_{n+1} + y_{n+1}\sqrt{5} &= (x_n + y_n\sqrt{5})(9+4\sqrt{5})\\\\ &= 9x_n + 4\sqrt{5}x_n + 9\sqrt{5}y_n + 20y_n,
 \end{aligned}
 $$
 
@@ -44,8 +43,7 @@ luego
 
 $$
 \begin{aligned}
-x_{n+1} &= 9x_n + 20y_n,\\ 
-y_{n+1} &= 4x_n + 9y_n.
+x_{n+1} &= 9x_n + 20y_n,\\\\ y_{n+1} &= 4x_n + 9y_n.
 \end{aligned}
 $$
 
@@ -53,16 +51,13 @@ Utilizando notación matricial,
 
 $$
 \begin{bmatrix}
-x_{n+1}\\
-y_{n+1}
+x_{n+1}\\\\ y_{n+1}
 \end{bmatrix}
 = \begin{bmatrix}
-9 & 20\\
-4 & 9
+9 & 20\\\\ 4 & 9
 \end{bmatrix}
 \begin{bmatrix}
-x_n\\ 
-y_n
+x_n\\\\ y_n
 \end{bmatrix},
 $$
 
@@ -70,20 +65,16 @@ con $(x_1,y_1) = (9,4)$. La solución particular hallada no cumple los requisito
 
 $$
 \begin{bmatrix}
-x_2\\
-y_2
+x_2\\\\ y_2
 \end{bmatrix}
 = \begin{bmatrix}
-9 & 20\\
-4 & 9
+9 & 20\\\\ 4 & 9
 \end{bmatrix}
 \begin{bmatrix}
-9\\
-4
+9\\\\ 4
 \end{bmatrix}
 = \begin{bmatrix}
-161\\
-72
+161\\\\ 72
 \end{bmatrix},
 $$
 

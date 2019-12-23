@@ -5,7 +5,7 @@ subtitle: "Problema 51"
 summary: "Problema 51: incrementamos el número de incógnitas."
 
 date: 2019-02-13T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-02-13T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -41,8 +41,7 @@ por lo que basta probar, para $x$, valores pertenecientes al *menor sistema comp
 
 $$
 \begin{aligned}
-x_0 &= 1\cdot(12-9z) = 12-9z,\\
-y_0 &= (-1)\cdot(12-9z) = (-12) + 9z,
+x_0 &= 1\cdot(12-9z) = 12-9z,\\\\ y_0 &= (-1)\cdot(12-9z) = (-12) + 9z,
 \end{aligned}
 $$
 
@@ -50,8 +49,7 @@ por lo que su solución general es
 
 $$
 \begin{aligned}
-x &= 12 - 9z + 2t,\\ 
-y &= (-12) + 9z - 3t,
+x &= 12 - 9z + 2t,\\\\ y &= (-12) + 9z - 3t,
 \end{aligned}
 $$
 

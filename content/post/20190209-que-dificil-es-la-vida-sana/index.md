@@ -5,7 +5,7 @@ subtitle: "Problema 50"
 summary: "Problema 50: cuando llenar la cesta de la compra se convierte en un acertijo."
 
 date: 2019-02-09T05:59:39+02:00
-lastmod: 2019-08-01T00:00:01+02:00
+lastmod: 2019-02-09T05:59:39+02:00
 
 authors: ["admin"]
 math: true
