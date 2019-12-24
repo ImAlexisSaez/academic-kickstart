@@ -5,7 +5,7 @@ subtitle: "Problema 75"
 summary: "Problema 75: un esbozo gráfico enseguida nos pone en la pista del patrón que se sigue."
 
 date: 2019-05-08T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-08T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -79,10 +79,7 @@ Por consiguiente, la sucesión $(R_n)$ es una progresión aritmética de orden d
 
 $$
 \begin{aligned}
-R_n &= \dbinom{n-1}{0}R_1 + \dbinom{n-1}{1}\Delta R_1 + \dbinom{n-1}{2}\Delta^2 R_1\\
-&= 1\cdot2 + (n-1)\cdot2 + \dfrac{(n-1)(n-2)}{2}\cdot1\\
-&= \dfrac{4 + 4(n-1) + (n-1)(n-2)}{2}\\
-&= \dfrac{n^2 +n+2}{2},
+R_n &= \dbinom{n-1}{0}R_1 + \dbinom{n-1}{1}\Delta R_1 + \dbinom{n-1}{2}\Delta^2 R_1\\\\ &= 1\cdot2 + (n-1)\cdot2 + \dfrac{(n-1)(n-2)}{2}\cdot1\\\\ &= \dfrac{4 + 4(n-1) + (n-1)(n-2)}{2}\\\\ &= \dfrac{n^2 +n+2}{2},
 \end{aligned}
 $$
 

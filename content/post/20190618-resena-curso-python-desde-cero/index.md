@@ -5,7 +5,7 @@ subtitle: "De principiante a nivel intermedio en unos ochenta vídeos"
 summary: "En este artículo, vamos a echar un vistazo a una interesante y más que recomendable lista de reproducción de YouTube, que contiene un curso de Python con secciones que van más allá de los páramos introductorios."
 
 date: 2019-06-18T00:00:01+01:00
-lastmod: 2019-08-07T00:00:01+01:00
+lastmod: 2019-06-18T00:00:01+01:00
 
 authors: ["admin"]
 math: false

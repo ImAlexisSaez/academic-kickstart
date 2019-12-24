@@ -43,7 +43,7 @@ $$
 **Ejercicio 3:** Sea $n$ un número natural y el conjunto de fracciones 
 
 $$
-A_n = \left\{\frac{1}{n},\frac{2}{n},\ldots,\frac{n}{n}\right\}.
+A_n = \left\\{\frac{1}{n},\frac{2}{n},\ldots,\frac{n}{n}\right\\}.
 $$ 
 
 Calcula el número de fracciones irreducibles y la suma de estas.
@@ -54,9 +54,7 @@ Calcula el número de fracciones irreducibles y la suma de estas.
 
 $$
 \begin{aligned}
-n&\equiv 4\pmod{5},\\
-n&\equiv 3\pmod{7},\\
-n&\equiv 1\pmod{9}.
+n&\equiv 4\pmod{5},\\\\ n&\equiv 3\pmod{7},\\\\ n&\equiv 1\pmod{9}.
 \end{aligned}
 $$
 

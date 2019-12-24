@@ -5,7 +5,7 @@ subtitle: "Problema 77"
 summary: "Problema 77: una vuelta de tuerca adicional."
 
 date: 2019-05-15T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-15T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -23,8 +23,17 @@ image:
 
 **Problema 77:** 
 
-- (a) Calcula el número de soluciones enteras no negativas de $$x_1+x_2+x_3+x_4+x_5+x_6=10.$$
-- (b) ¿Cuántas soluciones enteras no negativas posee la inecuación $$x_1+x_2+x_3+x_4+x_5+x_6 < 10 ?$$
+- (a) Calcula el número de soluciones enteras no negativas de 
+
+$$
+x_1+x_2+x_3+x_4+x_5+x_6=10.
+$$
+
+- (b) ¿Cuántas soluciones enteras no negativas posee la inecuación 
+
+$$
+x_1+x_2+x_3+x_4+x_5+x_6 < 10 ?
+$$
 
 ***
 

@@ -5,7 +5,7 @@ subtitle: "Problema 76"
 summary: "Problema 76: generalizando estrategias para inecuaciones."
 
 date: 2019-05-11T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-11T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -41,10 +41,7 @@ Ahora ya estamos en condiciones de volver a utilizar las estrategias vistas en e
 
 $$
 \begin{aligned}
-PR_{2005}^{4, 2001} &= CR_{5, 2001}\\
-&= \dbinom{2005}{2001}\\
-&= \dfrac{2005\cdot2004\cdot2003\cdot2002}{4!}\\
-&= 671345179505
+PR_{2005}^{4, 2001} &= CR_{5, 2001}\\\\ &= \dbinom{2005}{2001}\\\\ &= \dfrac{2005\cdot2004\cdot2003\cdot2002}{4!}\\\\ &= 671345179505
 \end{aligned}
 $$
 

@@ -48,10 +48,7 @@ Nueva entrega de enunciados propuestos de cara a la preparación de oposiciones 
 
 $$
 \begin{aligned}
-x + y + z + p + t &= 25,\\
-y - 2z - p &= 0,\\
-x - t &= 1,\\
--x + y + z &= 0.
+x + y + z + p + t &= 25,\\\\ y - 2z - p &= 0,\\\\ x - t &= 1,\\\\ -x + y + z &= 0.
 \end{aligned}
 $$
 

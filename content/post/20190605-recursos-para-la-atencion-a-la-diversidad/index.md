@@ -5,7 +5,7 @@ subtitle: "Orientaciones de cara al planteamiento de actuaciones en el aula"
 summary: "Listado de recursos disponibles, editados por Conselleria, enfocados hacia la atención al alumnado con necesidades específicas de apoyo educativo."
 
 date: 2019-06-05T05:59:39+02:00
-lastmod: 2019-08-07T00:00:01+02:00
+lastmod: 2019-06-05T05:59:39+02:00
 
 authors: ["admin"]
 math: false

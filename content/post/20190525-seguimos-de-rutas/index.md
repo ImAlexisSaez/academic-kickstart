@@ -5,7 +5,7 @@ subtitle: "Problema 80"
 summary: "Problema 80: presentando el Principio de reflexión de André."
 
 date: 2019-05-25T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-25T05:59:39+02:00
 
 authors: ["admin"]
 math: true

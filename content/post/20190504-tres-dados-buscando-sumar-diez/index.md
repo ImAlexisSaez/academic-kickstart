@@ -5,7 +5,7 @@ subtitle: "Problema 74"
 summary: "Problema 74: reforzando el Principio de inclusión-exclusión."
 
 date: 2019-05-04T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-04T05:59:39+02:00
 
 authors: ["admin"]
 math: true

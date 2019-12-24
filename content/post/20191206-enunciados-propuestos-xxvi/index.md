@@ -52,16 +52,13 @@ Nueva entrega de enunciados propuestos de cara a la preparación de oposiciones 
 
 ---
 
-**Ejercicio 6:**Dada la matriz
+**Ejercicio 6:** Dada la matriz
 
 $$
 \begin{aligned}
 A = 
 \begin{bmatrix}
-0 & 0 & 0 & 0\\
-2 & 0 & 0 & 0\\
-2 & 2 & 0 & 0\\
-2 & 2 & 0 & 0
+0 & 0 & 0 & 0\\\\ 2 & 0 & 0 & 0\\\\ 2 & 2 & 0 & 0\\\\ 2 & 2 & 0 & 0
 \end{bmatrix}.
 \end{aligned}
 $$

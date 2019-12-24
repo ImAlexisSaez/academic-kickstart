@@ -5,7 +5,7 @@ subtitle: "Problema 78"
 summary: "Problema 78: números combinatorios... ¿con valores negativos?"
 
 date: 2019-05-18T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-18T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -33,8 +33,7 @@ Utilizando la definición,
 
 $$
 \begin{aligned}
-\dbinom{-1 / 2}{n} &= \dfrac{\left(-\dfrac{1}{2}\right)\left(-\dfrac{1}{2}-1\right)\left(-\dfrac{1}{2}-2\right)\cdots\left(-\dfrac{1}{2} - (n-1)\right)}{n!}\\
-&= \dfrac{\left(-\dfrac{1}{2}\right)\left(-\dfrac{3}{2}\right)\left(-\dfrac{5}{2}\right)\cdots\left(\dfrac{1-2n}{2}\right)}{n!}.
+\dbinom{-1 / 2}{n} &= \dfrac{\left(-\dfrac{1}{2}\right)\left(-\dfrac{1}{2}-1\right)\left(-\dfrac{1}{2}-2\right)\cdots\left(-\dfrac{1}{2} - (n-1)\right)}{n!}\\\\ &= \dfrac{\left(-\dfrac{1}{2}\right)\left(-\dfrac{3}{2}\right)\left(-\dfrac{5}{2}\right)\cdots\left(\dfrac{1-2n}{2}\right)}{n!}.
 \end{aligned}
 $$
 
@@ -47,7 +46,9 @@ $$
 Ahora, multipliquemos y dividamos por el producto de números pares $2\cdot4\cdot6\cdots 2n$ (llegamos a $2n$ y no hasta $2n-2$ por la expresión a la que buscamos arribar), provocando así que en el numerador aparezca el factorial de $2n$,
 
 $$
-\dbinom{-1 / 2}{n} = (-1)^n\dfrac{1\cdot2\cdot3\cdot4\cdot5\cdots (2n-1)\cdot 2n}{(2\cdot4\cdot6\cdots 2n) 2^n n!} = (-1)^n\dfrac{(2n)!}{(2\cdot4\cdot6\cdots 2n) 2^n n!}.
+\begin{aligned}
+\dbinom{-1 / 2}{n} &= (-1)^n\dfrac{1\cdot2\cdot3\cdot4\cdot5\cdots (2n-1)\cdot 2n}{(2\cdot4\cdot6\cdots 2n) 2^n n!}\\\\ &= (-1)^n\dfrac{(2n)!}{(2\cdot4\cdot6\cdots 2n) 2^n n!}.
+\end{aligned}
 $$
 
 Además, sacando un dos de cada factor, y teniendo en cuenta que hay $n$ de ellos, es cierto que,

@@ -5,7 +5,7 @@ subtitle: "Problema 81"
 summary: "Problema 81: mezclando política y matemáticas, ¿qué podría salir mal?."
 
 date: 2019-05-29T05:59:39+02:00
-lastmod: 2019-08-06T00:00:01+02:00
+lastmod: 2019-05-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -63,9 +63,7 @@ es la probabilidad de que, en todo momento del escrutinio, $A$ vaya por delante 
 
 $$
 \begin{aligned}
-P &= \dfrac{\dfrac{(a+b-1)!}{b!(a-1)!} - \dfrac{(a+b-1)!}{a!(b-1)!}}{\dfrac{(a+b)!}{a!b!}}\\
-&= \dfrac{\dfrac{a(a+b-1)!}{a!b!} - \dfrac{b(a+b-1)!}{a!b!}}{\dfrac{(a+b)!}{a!b!}}\\
-&= \dfrac{(a-b)(a+b-1)!}{(a+b)(a+b-1)!} = \dfrac{a-b}{a+b},
+P &= \dfrac{\dfrac{(a+b-1)!}{b!(a-1)!} - \dfrac{(a+b-1)!}{a!(b-1)!}}{\dfrac{(a+b)!}{a!b!}}\\\\ &= \dfrac{\dfrac{a(a+b-1)!}{a!b!} - \dfrac{b(a+b-1)!}{a!b!}}{\dfrac{(a+b)!}{a!b!}}\\\\ &= \dfrac{(a-b)(a+b-1)!}{(a+b)(a+b-1)!} = \dfrac{a-b}{a+b},
 \end{aligned}
 $$
 

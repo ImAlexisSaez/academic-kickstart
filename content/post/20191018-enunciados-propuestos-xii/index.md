@@ -49,9 +49,7 @@ Nueva entrega de enunciados propuestos de cara a la preparación de oposiciones 
 
 $$
 \begin{aligned}
-x&\equiv 3\pmod{5},\\
-x&\equiv 4\pmod{7},\\
-x&\equiv 6\pmod{9}.
+x&\equiv 3\pmod{5},\\\\ x&\equiv 4\pmod{7},\\\\ x&\equiv 6\pmod{9}.
 \end{aligned}
 $$
 
