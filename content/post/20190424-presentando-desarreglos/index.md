@@ -5,7 +5,7 @@ subtitle: "Problema 71"
 summary: "Problema 71: una aplicación clásica del Principio de inclusión-exclusión."
 
 date: 2019-04-24T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-24T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -66,11 +66,7 @@ Por consiguiente, aplicando el *Principio de inclusión-exclusión*,
 
 $$
 \begin{aligned}
-D_n &= n! - card(A_1\cup A_2\cup\cdots\cup A_n)\\
-&= n!-\left(\dbinom{n}{1}(n-1)! - \dbinom{n}{2}(n-2)! + \cdots + (-1)^{n+1} \dbinom{n}{n}\right)\\
-&= n! - \left(\dfrac{n}{1}\cdot(n-1)! - \dfrac{n(n-1)}{2}\cdot(n-2)! + \cdots + (-1)^{n+1} \cdot 1\right)\\
-&= n! - \left(\dfrac{n!}{1} - \dfrac{n!}{2} + \cdots + (-1)^{n+1} \dfrac{n!}{n!}\right)\\
-&= n!\left(1 - \dfrac{1}{1!} + \dfrac{1}{2!} - \cdots + (-1)^n \dfrac{1}{n!}\right),
+D_n &= n! - card(A_1\cup A_2\cup\cdots\cup A_n)\\\\ &= n!-\left(\dbinom{n}{1}(n-1)! - \dbinom{n}{2}(n-2)! + \cdots + (-1)^{n+1} \dbinom{n}{n}\right)\\\\ &= n! - \left(\dfrac{n}{1}\cdot(n-1)! - \dfrac{n(n-1)}{2}\cdot(n-2)! + \cdots + (-1)^{n+1} \cdot 1\right)\\\\ &= n! - \left(\dfrac{n!}{1} - \dfrac{n!}{2} + \cdots + (-1)^{n+1} \dfrac{n!}{n!}\right)\\\\ &= n!\left(1 - \dfrac{1}{1!} + \dfrac{1}{2!} - \cdots + (-1)^n \dfrac{1}{n!}\right),
 \end{aligned}
 $$
 

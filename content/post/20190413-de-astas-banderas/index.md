@@ -5,7 +5,7 @@ subtitle: "Problema 68"
 summary: "Problema 68: una curiosa manera de transmitir señales."
 
 date: 2019-04-13T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-13T05:59:39+02:00
 
 authors: ["admin"]
 math: true

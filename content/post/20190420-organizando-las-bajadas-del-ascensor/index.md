@@ -5,7 +5,7 @@ subtitle: "Problema 70"
 summary: "Problema 70: de barras, estrellas y... ¿ascensores?"
 
 date: 2019-04-20T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-20T05:59:39+02:00
 
 authors: ["admin"]
 math: true

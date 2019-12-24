@@ -5,7 +5,7 @@ subtitle: "Problema 69"
 summary: "Problema 69: geometría y combinatoria de la mano."
 
 date: 2019-04-17T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-17T05:59:39+02:00
 
 authors: ["admin"]
 math: true

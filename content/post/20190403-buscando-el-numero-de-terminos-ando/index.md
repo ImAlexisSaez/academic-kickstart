@@ -5,7 +5,7 @@ subtitle: "Problema 65"
 summary: "Problema 65: trabajando con desarrollos de polinomios."
 
 date: 2019-04-03T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-03T05:59:39+02:00
 
 authors: ["admin"]
 math: true
@@ -47,8 +47,7 @@ Rápidamente observamos que cada uno de los sumandos del anterior desarrollo pos
 
 $$
 \begin{aligned}
-(x+y)^2 &= x^2 y^0 + y^2 x^0 + x^1 y^1,\\
-(x+y)^3 &= x^3 y^0 + 3x^2 y^1 + 3x^1 y^2 + y^3 x^0.
+(x+y)^2 &= x^2 y^0 + y^2 x^0 + x^1 y^1,\\\\ (x+y)^3 &= x^3 y^0 + 3x^2 y^1 + 3x^1 y^2 + y^3 x^0.
 \end{aligned}
 $$
 
@@ -70,8 +69,7 @@ esto es, el desarrollo de $(x+y+z)^2$ posee seis términos. Si lo escribimos com
 
 $$
 \begin{aligned}
-(x+y+z)^2 &= x^2 y^0 z^0 + x^0 y^2 z^0 + x^0 y^0 z^2\\
-&\quad + 2x^1 y^1 z^0 + 2x^1 y^0 z^1 + 2x^0 y^1 z^1,
+(x+y+z)^2 &= x^2 y^0 z^0 + x^0 y^2 z^0 + x^0 y^0 z^2\\\\ &\quad + 2x^1 y^1 z^0 + 2x^1 y^0 z^1 + 2x^0 y^1 z^1,
 \end{aligned}
 $$
 

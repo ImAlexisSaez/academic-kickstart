@@ -5,7 +5,7 @@ subtitle: "Problema 66"
 summary: "Problema 66: introduciendo las permutaciones circulares."
 
 date: 2019-04-06T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-06T05:59:39+02:00
 
 authors: ["admin"]
 math: true

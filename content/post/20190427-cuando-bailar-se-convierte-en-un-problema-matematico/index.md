@@ -5,7 +5,7 @@ subtitle: "Problema 72"
 summary: "Problema 72: arreglando parejas descontentas."
 
 date: 2019-04-27T05:59:39+02:00
-lastmod: 2019-08-05T00:00:01+02:00
+lastmod: 2019-04-27T05:59:39+02:00
 
 authors: ["admin"]
 math: true
