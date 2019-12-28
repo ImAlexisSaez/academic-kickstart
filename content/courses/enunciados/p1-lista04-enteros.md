@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-11-16T00:00:01+01:00"
+lastmod: "2019-12-28T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -63,6 +63,10 @@ weight: 4
 ---
 
 **Ejercicio:** Sabiendo que $7^4 = 2401$, halla los tres últimos dígitos de $7^{9999}$. ([Discusión](/2019/10/02/enunciados-propuestos-v/))
+
+---
+
+**Ejercicio:** Resuelve en $\mathbb{Z}$ la ecuación $x^2 + x - 2\equiv 0\pmod{13}$. ([Discusión](/2019/12/28/enunciados-propuestos-xxvii/))
 
 ---
 
@@ -547,5 +551,9 @@ $$
 - (b) Conocido dicho número mínimo, ¿cuántos piratas morirán hasta que, efectuado el reparto equitativo, no sobre ninguna moneda?
 
 ([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
+
+---
+
+**Ejercicio 6:** Una banda de piratas se apodera de un botín de piezas de oro iguales. Deciden repartírselo a partes iguales y el resto dárselo al cocinero chino, que recibe en este caso $3$ piezas. Los piratas pelean entre sí y mueren seis de ellos, con lo que en el nuevo reparto el cocinero chino se lleva $4$ piezas de oro. De regreso, el barco se hunde y se salvan el botín, seis piratas y el cocinero chino inmortal, con lo que el nuevo reparto le da ahora $5$ piezas al cocinero chino. ¿Cuál es la fortuna esperada por el cocinero chino cuando decide matar al resto de los piratas para quedarse el botín él solo si la banda era de $17$ piratas? ([Discusión](/2019/12/28/enunciados-propuestos-xxvii/))
 
 ---
