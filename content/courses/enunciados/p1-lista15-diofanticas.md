@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2019-12-06T00:00:01+01:00"
+lastmod: "2019-12-31T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -65,6 +65,24 @@ weight: 7
 
 ---
 
+**Ejercicio:** Halla las soluciones enteras de la ecuación $109x + 89y = 1$ utilizando el algoritmo de Euclides. ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
+
+---
+
+**Ejercicio:** Encuentra todas las soluciones positivas de 
+
+$$
+\frac{a}{13} + \frac{b}{19} = \frac{230}{247}.
+$$
+
+([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
+
+---
+
+**Ejercicio:** Encuentra el inverso de $46$ en $\mathbb{Z}_{53}$. ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
+
+---
+
 **Ejercicio:** Sea $c$ un número entero positivo tal que $10\leq c\leq 100$. ¿Cuál es el valor mínimo de $c$ para el cual la ecuación $84x + 990y = c$ admite soluciones enteras? ([Discusión](/2019/11/04/enunciados-propuestos-xix/))
 
 ---
@@ -83,6 +101,14 @@ weight: 7
 ---
 
 **Ejercicio:** Se dispone de un gran suministro de agua, un gran cubo con desagüe y dos garrafas que contienen $7$ y $9$ litros. ¿Cómo podría ponerse un litro de agua en el cubo? ([Discusión](/2019/11/06/enunciados-propuestos-xx/))
+
+---
+
+**Ejercicio:** Los precios de dos productos son $18$ y $33$ euros por unidad. ¿Cuál es el número mínimo y máximo de unidades que se pueden haber vendido si se han cobrado $639$ euros? ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
+
+---
+
+**Ejercicio:** Un sastre invierte $13$ horas en diseñar un pantalón y $37$ horas en diseñar un modelo de camisa. Si trabaja $2000$ horas, ¿cuántas camisas y pantalones debería diseñar para conseguir la mejor combinación entre pantalones y camisas? ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
 
 ---
 

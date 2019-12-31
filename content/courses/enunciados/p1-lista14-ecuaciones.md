@@ -4,7 +4,7 @@ linktitle: Ecuaciones
 toc: true
 type: docs
 date: "2019-11-18T00:00:01+01:00"
-lastmod: "2019-11-18T00:00:01+01:00"
+lastmod: "2019-12-31T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -21,5 +21,9 @@ weight: 6
 ---
 
 **Ejercicio:** Demuestra que $\sqrt[3]{45 + 29\sqrt{2}} + \sqrt[3]{45 - 29\sqrt{2}}$ es un número entero. ([Discusión](/2019/11/18/enunciados-propuestos-xxv/))
+
+---
+
+**Ejercicio:** Sean $a$ y $b$ dos números enteros. Demuestra que la ecuación $(x - a)(x - b)(x - 3) = (-1)$ tiene, a lo sumo, una solución entera. ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
 
 ---
