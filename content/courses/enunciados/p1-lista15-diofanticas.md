@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2019-12-31T00:00:01+01:00"
+lastmod: "2020-01-02T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -144,7 +144,17 @@ $$
 
 ---
 
+**Ejercicio:** Halla todos los números naturales menores que $1000$ que sean múltiplos de $28$ y que, divididos por $15$, den de resto $9$. ([Discusión](/2020/01/02/enunciados-propuestos-xxix/))
+
+---
+
 **Ejercicio:** Halla un número de seis cifras que es igual a las seis últimas cifras de su cuadrado. ([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
+**Ejercicio:** Halla las soluciones enteras de la ecuación $$\sqrt{(x+y)(x-y) + (2x+2y-3)y - 2(x-7)} = x+y+3.$$
+
+([Discusión](/2020/01/02/enunciados-propuestos-xxix/))
 
 ---
 
@@ -195,6 +205,10 @@ $$
 - (b) $x^2 - y^2 = 36$.
 
 ([Discusión](/2019/11/08/enunciados-propuestos-xxi/))
+
+---
+
+**Ejercicio 3:** Halla las soluciones enteras de la ecuación $x^2 - y^2 = 8$. ([Discusión](/2020/01/02/enunciados-propuestos-xxix/))
 
 ---
 

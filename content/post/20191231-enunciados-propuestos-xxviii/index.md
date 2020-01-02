@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (XXVIII)"
 slug: "enunciados-propuestos-xxviii"
-subtitle: ""
+subtitle: "De sastres y ecuaciones diofánticas"
 summary: "Entrega XXVIII de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2019-12-31T00:00:01+02:00
