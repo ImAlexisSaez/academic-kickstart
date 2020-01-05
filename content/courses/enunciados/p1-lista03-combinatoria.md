@@ -4,7 +4,7 @@ linktitle: Combinatoria
 toc: true
 type: docs
 date: "2020-01-02T00:00:01+01:00"
-lastmod: "2020-01-02T00:00:01+01:00"
+lastmod: "2020-01-05T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -34,5 +34,49 @@ weight: 3
 ---
 
 **Ejercicio:** ¿Cuántas quinielas de fútbol distintas se pueden hacer? ([Discusión](/2020/01/02/enunciados-propuestos-xxix/))
+
+---
+
+**Ejercicio:** Una mano de bridge consta de $13$ cartas de $52$ de una baraja francesa.
+
+- (a) ¿Cuántas manos de bridge son posibles? 
+- (b) ¿De cuántas formas se le pueden dar a una persona $6$ picas y $5$ corazones?
+
+([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:** $8$ componentes de un equipo se alojan en un hotel. Disponen de una habitación triple, dos dobles y una individual. ¿De cuántas formas pueden repartirse? ([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:**
+
+- (a) ¿Cuántos números de $3$ cifras hay? ¿Cuántos son pares?
+- (b) ¿Cuántos números capicúas de $5$ cifras hay? ¿Cuántos son pares? ¿Cuántos números capicúas de $6$ cifras existen?
+
+([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:**
+
+- (a) Un número telefónico tiene siete cifras enteras. Supongamos que la primera debe ser un número entre $2$ y $9$, ambos inclusive. La segunda y la tercera deben ser números entre $1$ y $9$, ambos inclusive. Cada una de las restantes cifras es un número entre $0$ y $9$, ambos inclusive. ¿Cuántos números de teléfono distintos pueden formarse con estas condiciones?
+- (b) Una empresa produce cerraduras de combinación. Cada combinación consta de $3$ números del $0$ al $99$, ambos inclusive. Por el proceso de construcción de las cerraduras, cada número no puede aparecer más de una sola vez en la combinación de la cerradura. ¿Cuántas cerraduras diferentes pueden construirse?
+
+([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:**
+
+- (a) ¿Cuántas tiras de longitud $n$, formadas por ceros y unos, contienen exactamente $k$ ceros?
+- (b) ¿Cuántas secuencias de $n$ dígitos decimales hay tales que dos dígitos consecutivos sean diferentes?
+
+([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:** ¿De cuántas formas se pueden sentar $8$ personas alrededor de una mesa? ([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
 
 ---
