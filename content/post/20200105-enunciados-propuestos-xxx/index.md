@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (XXX)"
 slug: "enunciados-propuestos-xxx"
-subtitle: ""
+subtitle: "Asentando técnicas básicas de recuento"
 summary: "Entrega XXX de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2020-01-05T00:00:01+02:00

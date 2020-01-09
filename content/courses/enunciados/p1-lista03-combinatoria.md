@@ -4,7 +4,7 @@ linktitle: Combinatoria
 toc: true
 type: docs
 date: "2020-01-02T00:00:01+01:00"
-lastmod: "2020-01-05T00:00:01+01:00"
+lastmod: "2020-01-09T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -78,5 +78,35 @@ weight: 3
 ---
 
 **Ejercicio:** ¿De cuántas formas se pueden sentar $8$ personas alrededor de una mesa? ([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:** En una clase hay $32$ chicos. Cada chico conoce a $5$ chicas de la clase y cada chica conoce a $8$ chicos. ¿Cuántas chicas hay? ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:** ¿De cuántas maneras pueden hacer cola siete ilicitanos y cinco santapoleros si dos santapoleros no pueden estar juntos? ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:** Tenemos $5$ libros de geografía, $7$ libros de lengua y $8$ libros de inglés.
+
+- (a) ¿De cuántas maneras se pueden colocar en una estantería?
+- (b) ¿De cuántas formas se pueden colocar si deben estar juntos los de la misma asignatura?
+- (c\) ¿De cuántas maneras se pueden poner si todos los libros de inglés deben estar juntos?
+
+([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:** Cada usuario de un ordenador tiene una contraseña con una longitud de entre seis y ocho caracteres, cada uno de los cuales es bien un dígito o bien una letra mayúscula. Cada contraseña debe contener al menos un dígito. ¿Cuántas contraseñas distintas admite el sistema? ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:** ¿Cuántos números de seis cifras decimales efectivas (sin ceros a la izquierda) pueden formarse de manera que contengan dos o más doses? ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:** Encuentra la suma de todos los números capicúas de $5$ cifras. ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
 
 ---
