@@ -154,3 +154,47 @@ weight: 3
 **Ejercicio:** Para escribir un libro hemos usado $1890$ cifras para numerar las páginas. ¿Cuántas páginas tiene el libro? ([Discusión](/2020/01/14/enunciados-propuestos-xxxii/))
 
 ---
+
+**Ejercicio:** ¿Es posible disponer sobre una circunferencia los números $0,1,\ldots,9$ de tal manera que la suma de tres números sucesivos cualesquiera sea, como mucho,
+
+- (a) $13$?
+- (b) $14$?
+- (c) $15$?
+
+([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+## III. Principio de inclusión-exclusión
+
+---
+
+**Ejercicio:**
+
+- (a) ¿Cuántos enteros entre $1$ y $1000$, ambos inclusive, son múltiplos de $2$ o de $5$?
+- (b) ¿Cuántos enteros entre $1$ y $1000$, ambos inclusive, son primos con $1000$?
+- (c) ¿Cuántos enteros entre $1$ y $600$, ambos inclusive, no son divisibles por $3$ ni por $5$ ni por $7$?
+
+([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+**Ejercicio:** Entre los números del $1$ al $2000$, halla los que son divisibles por $9$, $11$, $13$ o $15$. ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+## IV. Estrategia de barras y estrellas
+
+---
+
+**Ejercicio:** Se venden $4$ tipos diferentes de galletas en una tienda. Asumiendo que solo se tiene en cuenta el tipo de galleta y que el orden en que se seleccionan no importa, ¿de cuántas formas se pueden seleccionar $6$ galletas? ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+**Ejercicio:** ¿De cuántas maneras se pueden poner $9$ como suma de $3$ sumandos enteros positivos? ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+**Ejercicio:** ¿De cuántas maneras se puede escribir $100$ como suma de $4$ sumandos positivos? ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
