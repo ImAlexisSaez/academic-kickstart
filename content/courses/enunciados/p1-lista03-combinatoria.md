@@ -4,7 +4,7 @@ linktitle: Combinatoria
 toc: true
 type: docs
 date: "2020-01-02T00:00:01+01:00"
-lastmod: "2020-01-14T00:00:01+01:00"
+lastmod: "2020-01-22T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -126,6 +126,10 @@ weight: 3
 
 ---
 
+**Ejercicio:** Obtén el número de diagonales que se pueden trazar en un cuadrado, en un hexágono y en un polígono de $n$ lados. ¿Existe algún polígono tal que el número de lado coincida con el número de diagonales? ([Discusión](/2020/01/22/enunciados-propuestos-xxxiv/))
+
+---
+
 ## II. Principio del palomar
 
 ---
@@ -191,10 +195,43 @@ weight: 3
 
 ---
 
+**Ejercicio:** ¿De cuántas formas pueden distribuirse $12$ libros de idénticos de matemáticas discretas entre cuatro estudiantes? ([Discusión](/2020/01/22/enunciados-propuestos-xxxiv/))
+
+---
+
 **Ejercicio:** ¿De cuántas maneras se pueden poner $9$ como suma de $3$ sumandos enteros positivos? ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
 
 ---
 
 **Ejercicio:** ¿De cuántas maneras se puede escribir $100$ como suma de $4$ sumandos positivos? ([Discusión](/2020/01/18/enunciados-propuestos-xxxiii/))
+
+---
+
+**Ejercicio:** Halla el número de soluciones enteras de
+
+- (a) $x_1+x_2+\cdots+x_8=24$, con $x_i\geq 0$, para $i\in\{1,2,\ldots,8\}$.
+- (b) $x_1+x_2+\cdots+x_8=24$, con $x_i\geq 2$, para $i\in\{1,2,\ldots,8\}$.
+- (c) $x+y+z+t = 100$, con $x\geq 30$, $y>21$, $z\geq 1$ y $t\geq 1$.
+- (d) $x+y+z+t\leq 2001$, con $x\geq0$, $y\geq 0$, $z\geq 0$ y $t\geq 0$.
+
+([Discusión](/2020/01/22/enunciados-propuestos-xxxiv/))
+
+---
+
+**Ejercicio:** En una heladería se sirven $7$ tipos de helados.
+
+- (a) ¿De cuántas formas distintas se pueden elegir $12$ helados?
+- (b) ¿De cuántas maneras se pueden elegir $12$ helados si tiene que haber al menos uno de cada tipo?
+
+([Discusión](/2020/01/22/enunciados-propuestos-xxxiv/))
+
+---
+
+**Ejercicio:**
+
+- (a) En una tienda de material informático tienen monitores de $4$ marcas diferentes. ¿De cuántas maneras podemos escoger $6$ monitores?
+- (b) Queremos repartir $k$ objetos iguales entre los $n$ alumnos que aparecen en una lista. ¿De cuántas maneras podemos hacerlo si queremos que el primer alumno de la lista reciba, como mínimo, $4$ objetos? ¿Y si debe recibir exactamente $4$ objetos?
+
+([Discusión](/2020/01/22/enunciados-propuestos-xxxiv/))
 
 ---
