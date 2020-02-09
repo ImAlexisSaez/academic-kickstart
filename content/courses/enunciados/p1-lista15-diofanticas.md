@@ -4,7 +4,7 @@ linktitle: Diofánticas
 toc: true
 type: docs
 date: "2019-11-01T00:00:01+01:00"
-lastmod: "2020-01-02T00:00:01+01:00"
+lastmod: "2020-02-09T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -80,6 +80,10 @@ $$
 ---
 
 **Ejercicio:** Encuentra el inverso de $46$ en $\mathbb{Z}_{53}$. ([Discusión](/2019/12/31/enunciados-propuestos-xxviii/))
+
+---
+
+**Ejercicio:** Encuentra el inverso de $37$ en $\mathbb{Z}_{62}$. ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 
@@ -266,6 +270,10 @@ $$
 - (b) Demuestra que, si $a<b<c$, la ecuación $a^3 - c^3 + b^3 = 3b(a - c)(a + c - b)$ no tiene solución.
 
 ([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
+
+---
+
+**Ejercicio:** Encuentra un número natural $n$ tal que $n^2 + 10n$ es cuadrado perfecto. ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 

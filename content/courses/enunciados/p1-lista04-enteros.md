@@ -4,7 +4,7 @@ linktitle: Enteros
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-12-28T00:00:01+01:00"
+lastmod: "2019-02-09T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -105,6 +105,10 @@ weight: 4
 - (c\) La suma de dos números naturales es $5264$ y su mínimo común múltiplo es $200340$, ¿cuáles son estos números?
 
 ([Discusión](/2019/11/16/enunciados-propuestos-xxiv/))
+
+---
+
+**Ejercicio:** En una división, se conoce el dividendo, que es $258728$ y los restos sucesivos que se obtuvieron haciendo la división son $379$, $480$ y $392$. Halla el divisor y el cociente. ¿Existe más de una solución? ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 
@@ -271,6 +275,16 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 
 ---
 
+**Ejercicio:** ¿Cuántos números naturales $n$ cumplen que la expresión 
+
+$$
+\frac{n^2 + 2011}{n+1}
+$$ 
+
+es un número natural? ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
+
+---
+
 ## VI. Divisores
 
 ---
@@ -364,6 +378,10 @@ siempre es divisible por $24$. ([Discusión](/2019/10/25/enunciados-propuestos-x
 ---
 
 **Ejercicio:** Encuentra diez números compuestos consecutivos. ([Discusión](/2019/10/10/enunciados-propuestos-viii/))
+
+---
+
+**Ejercicio:** Demuestra que $8^n + 1$ no es un número primo, para cada número natural $n$. ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 

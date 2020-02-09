@@ -4,7 +4,7 @@ linktitle: Combinatoria
 toc: true
 type: docs
 date: "2020-01-02T00:00:01+01:00"
-lastmod: "2020-01-22T00:00:01+01:00"
+lastmod: "2020-02-09T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -46,7 +46,24 @@ weight: 3
 
 ---
 
+**Ejercicio:** Una mano de bridge consta de $13$ cartas de $52$ de una baraja francesa. ¿De cuántas formas repartiremos el juego entre cuatro personas? ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
+
+---
+
+**Ejercicio:** Dada una baraja española de $40$ cartas, halla el número de maneras de conseguir las manos especiales del póker. ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
+
+---
+
 **Ejercicio:** $8$ componentes de un equipo se alojan en un hotel. Disponen de una habitación triple, dos dobles y una individual. ¿De cuántas formas pueden repartirse? ([Discusión](/2020/01/05/enunciados-propuestos-xxx/))
+
+---
+
+**Ejercicio:** Una clase está compuesta por $7$ chicas y $9$ chicos. ¿De cuánta maneras pueden hacer un comité de $5$ personas de forma que
+
+- (a) haya al menos una chica?
+- (b) haya como mínimo una chica y un chico?
+
+([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 
@@ -107,7 +124,20 @@ weight: 3
 
 ---
 
+**Ejercicio:** Encuentra la suma de los dígitos de los números del $1$ hasta el $1000$. ([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
+
+---
+
 **Ejercicio:** Encuentra la suma de todos los números capicúas de $5$ cifras. ([Discusión](/2020/01/09/enunciados-propuestos-xxxi/))
+
+---
+
+**Ejercicio:**
+
+- (a) Encuentra la suma de todos los números capicúas impares de $3$ cifras.
+- (b) Encuentra la suma de todos los números capicúas impares de $5$ cifras.
+
+([Discusión](/2020/02/09/enunciados-propuestos-xxxv/))
 
 ---
 

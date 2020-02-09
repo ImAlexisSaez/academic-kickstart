@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (XXXIV)"
 slug: "enunciados-propuestos-xxxiv"
-subtitle: ""
+subtitle: "Seguimos repartiendo sin parar"
 summary: "Entrega XXXIV de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2020-01-22T00:00:01+02:00
