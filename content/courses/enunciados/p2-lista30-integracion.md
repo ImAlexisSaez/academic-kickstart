@@ -4,7 +4,7 @@ linktitle: Integración
 toc: true
 type: docs
 date: "2019-09-23T00:00:01+01:00"
-lastmod: "2019-10-14T00:00:01+01:00"
+lastmod: "2020-02-26T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -20,12 +20,10 @@ weight: 9
 
 ---
 
-**Ejercicio:** Dado $x>0$, calcula
+**Ejercicio 1.1:** Dado $x>0$, calcula
 
 $$
 \int{\sqrt{\frac{x^2+1}{x^2}}dx}.
 $$
-
-([Discusión](/2019/09/23/comenzamos-nuevo-proyecto-de-problemas-de-oposicion/))
 
 ---

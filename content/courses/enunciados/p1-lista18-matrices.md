@@ -4,7 +4,7 @@ linktitle: Matrices
 toc: true
 type: docs
 date: "2019-12-06T00:00:01+01:00"
-lastmod: "2019-12-06T00:00:01+01:00"
+lastmod: "2020-02-26T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -20,7 +20,7 @@ weight: 8
 
 ---
 
-**Ejercicio:** Dada la matriz
+**Ejercicio 1.1:** Dada la matriz
 
 $$
 \begin{aligned}
@@ -34,7 +34,5 @@ $$
 - (b) Si $B = I + A$, expresa $B^n$ en función de $I$, $A$ y $A^2$.
 - (c\) Demuestra que la inversa de $B$ es $I - A + A^2$.
 - (d) Expresa $B^{-n}$ en función de $I$, $A$ y $A^2$.
-
-([Discusión](/2019/12/06/enunciados-propuestos-xxvi/))
 
 ---

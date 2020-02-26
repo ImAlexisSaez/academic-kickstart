@@ -1,7 +1,7 @@
 ---
 title: "Enunciados propuestos (XXXVI)"
 slug: "enunciados-propuestos-xxxvi"
-subtitle: ""
+subtitle: "Buscando la combinación ganadora en la Comunidad Valenciana"
 summary: "Entrega XXXVI de enunciados propuestos de cara a la preparación de oposiciones en la especialidad de matemáticas."
 
 date: 2020-02-20T00:00:01+02:00
