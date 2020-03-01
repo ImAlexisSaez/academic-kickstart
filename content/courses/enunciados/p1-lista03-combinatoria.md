@@ -4,7 +4,7 @@ linktitle: Combinatoria
 toc: true
 type: docs
 date: "2020-01-02T00:00:01+01:00"
-lastmod: "2020-02-26T00:00:01+01:00"
+lastmod: "2020-03-01T00:00:01+01:00"
 math: true
 draft: false
 menu:
@@ -368,5 +368,22 @@ $$
 No obstante, en la compañía nadie ha reparado en que el avión no soporta una carga mayor de $k$ toneladas, con $k$ número natural entre $n$ y $m+n$, y las escalas de carga y descarga se reparten al azar. 
 
 Si el avión sale con $n$ toneladas de mercancía, calcula la probabilidad de que llegue a su destino.
+
+---
+
+**Ejercicio 6.9:** La Rana Gustavo, ''el reportero más dicharachero'', se encuentra en su hogar (muy coqueto este y ubicado, por cierto, en el origen de coordenadas, $(0,0)$, de una cuadrícula plana) disfrutando de su serie favorita. De repente, recibe una notificación en su móvil: ha de acudir, ipso facto, a cubrir una importante noticia que ha tenido lugar en la panadería de Barrio Sésamo, que se halla, según el GPS, en el punto de la cuadrícula de coordenadas $(5,5)$. 
+
+Por ciertos problemas acotencidos durante la última retransmisión, la Rana Gustavo únicamente puede desplazarse mediante saltos de longitud unitaria bien hacia la derecha, bien hacia arriba.
+
+- (a) Calcula el número total de rutas existentes entre su casa y la panadería de Barrio Sésamo.
+- (b) En el punto de la cuadrícula de coordenadas $(2,2)$, está plácidamente Espinete tomando el sol. La Rana Gustavo no quiere entretenerse hablando con él, pues tiene mucha prisa por cubrir la noticia, ¿de cuántas maneras puede llegar a la panadería sin pasar por donde está Espinete?
+- (c) Resulta, además, que Coco está esperando, en el punto de la cuadrícula de coordenadas $(3,3)$, a la primera persona que pase por allí para jugar una partida de ajedrez. Como la Rana Gustavo no está por la labor de tales entretenimientos, ¿de cuántas formas puede llegar a la panadería sin pasar por donde está Espinete ni por donde está Coco?
+
+---
+
+**Ejercicio 6.10:** Un jugador lanza una moneda. Si sale cara obtiene un punto positivo y si saca cruz un punto negativo. Supuesto que de entrada se le da un punto positivo y perderá cuando alcance una puntuación nula, calcula la probabilidad de perder:
+
+- (a) antes del lanzamiento $12$.
+- (b) en el lanzamiento $17$.
 
 ---
