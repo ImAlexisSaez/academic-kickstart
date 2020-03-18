@@ -10,10 +10,10 @@ draft: false
 menu:
   enunciados:
     parent: Enunciados
-    weight: 9
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 9
+weight: 10
 ---
 
 ## I. Cambio de variable

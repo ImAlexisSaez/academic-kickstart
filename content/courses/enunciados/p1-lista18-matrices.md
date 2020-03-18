@@ -10,10 +10,10 @@ draft: false
 menu:
   enunciados:
     parent: Enunciados
-    weight: 8
+    weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 8
+weight: 9
 ---
 
 ## I. Potencias

@@ -4,16 +4,16 @@ linktitle: Ecuaciones
 toc: true
 type: docs
 date: "2019-11-18T00:00:01+01:00"
-lastmod: "2020-03-11T00:00:01+01:00"
+lastmod: "2020-03-18T00:00:01+01:00"
 math: true
 draft: false
 menu:
   enunciados:
     parent: Enunciados
-    weight: 6
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 7
 ---
 
 ## I. Cuadráticas, cúbicas...
@@ -69,5 +69,38 @@ weight: 6
 ---
 
 **Ejercicio 2.10:** Resuelve $a_{n+2} - 5a_{n+1} + 6a_n = 2n + 3$.
+
+---
+
+**Ejercicio 2.11:** Resuelve $a_{n+2} - 7a_{n+1} + 6a_n = 2n + 3$.
+
+---
+
+**Ejercicio 2.12:** Dada la sucesión definida por
+
+$$
+\begin{aligned}
+a_1 &= 2,\\\\ \forall n\in\mathbb{N}-\{1\}: a_n &= 5a_{n-1} + 3,
+\end{aligned}
+$$
+
+calcula
+
+$$
+\lim_{n\rightarrow\infty}{\frac{a_n}{5^n}}.
+$$
+
+---
+
+**Ejercicio 2.13:** Los cuatro primeros términos de una sucesión son $a_0 = a_1 = a_2 = a_3 = 0$ y la ley que cumplen es
+
+$$
+a_{n+4} + a_{n+3} + 2a_{n+2} + a_{n+1} + a_n = 12n.
+$$
+
+- (a) Halla $a_n$.
+- (b) Halla $a_{90}$.
+
+*Ayuda:* $x^4 + x^3 + 2x^2 + x + 1 = (x^2 + 1)(x^2 + x + 1)$.
 
 ---
