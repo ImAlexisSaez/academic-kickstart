@@ -139,8 +139,8 @@ address_format = "en-us"
 ## Advanced
 ############################
 
-# Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -154,6 +154,9 @@ sharing = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true
+
+# Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
+abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -215,6 +218,11 @@ plugins_js  = []
     shortname = "infinitos-contrastes"  # Paste the shortname from your Disqus dashboard.
     show_count = false  # Show comment count in page header? (true/false)
 
+  # Configuration of Commento.
+  [comments.commento]
+    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
+    url = ""
+
 ############################
 ## Search
 ############################
@@ -261,3 +269,10 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-88993800-1"
   google_tag_manager = "GTM-MV828K8"
+
+############################
+## Content Management System
+############################
+[cms]
+  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+  netlify_cms = false
