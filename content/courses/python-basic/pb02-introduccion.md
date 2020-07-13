@@ -33,4 +33,4 @@ Durante su instalación:
 - Activamos la casilla que añade la ruta de *Python* al `PATH`.
 - Pulsamos, al final de la instalación, sobre la opción que elimina la restricción de longitud máxima sobre las rutas del `PATH`.
 
-Con respecto a los IDE, en el curso se utilizará [Sublime Text 3](https://www.sublimetext.com/3), aunque se ofrecen como alternativas [Eclipse](https://www.eclipse.org/ide/) y [Notepad++](https://notepad-plus-plus.org/download/v7.6.6.html).
+Con respecto a los IDE, en el curso se utilizará [Sublime Text 3](https://www.sublimetext.com/3), aunque se ofrecen como alternativas [Eclipse](https://www.eclipse.org/ide/) y [Notepad++](https://notepad-plus-plus.org/).
