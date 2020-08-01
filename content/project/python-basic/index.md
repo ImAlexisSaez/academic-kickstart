@@ -8,7 +8,7 @@ draft: false
 tags: ["Python"]
 summary: "Notas personales del curso 'Python desde 0' ofrecido por 'Píldoras Informáticas'."
 
-external_link: "/courses/python-basic/"
+external_link: "/python-basic/"
 
 image:
   focal_point: "Smart"

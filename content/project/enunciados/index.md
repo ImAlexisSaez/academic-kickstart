@@ -8,7 +8,7 @@ draft: false
 tags: ["Matemáticas"]
 summary: "Problemas matemáticos propuestos para la preparación de las Oposiciones de 2020."
 
-external_link: "/courses/enunciados/"
+external_link: "/enunciados-19/"
 
 image:
   focal_point: "Smart"
