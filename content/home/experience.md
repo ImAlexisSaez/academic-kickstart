@@ -19,11 +19,23 @@ date_format = "2006-01-02"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Profesor de matemáticas"
+  company = "IES La Torreta"
+  company_url = "https://mestreacasa.gva.es/web/ieslatorreta"
+  location = "Elda"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  Cursos impartidos:
+  
+  * Por determinar.
+  """
+[[experience]]
+  title = "Profesor de matemáticas"
   company = "IES Montserrat Roig"
   company_url = "http://www.iesmontserratroig.es/"
   location = "Elche"
   date_start = "2019-11-20"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
   Cursos impartidos:
   
