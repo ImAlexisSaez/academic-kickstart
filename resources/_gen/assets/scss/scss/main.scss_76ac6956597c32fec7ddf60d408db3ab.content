@@ -7173,6 +7173,9 @@ body {
     margin-top: 50px;
     /* Offset body content by navbar height. */ } }
 
+body.no-navbar {
+  margin-top: 0 !important; }
+
 .max-width-640 {
   max-width: 640px; }
 
@@ -7256,6 +7259,10 @@ video {
   height: auto;
   max-width: 100%;
   display: block; }
+
+audio {
+  width: 100%;
+  margin-bottom: 20px; }
 
 video {
   width: 100%;
@@ -8924,6 +8931,7 @@ ul.ul-edu li .description p.institution {
   background-color: transparent; }
 
 .docs-sidebar .docs-toc-item.active a,
+.docs-sidebar .docs-toc-item a.active,
 .docs-sidebar .nav > .active:hover > a,
 .docs-sidebar .nav > .active > a {
   font-weight: bold;
