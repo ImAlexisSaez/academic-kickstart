@@ -27,7 +27,9 @@ date_format = "2006-01-02"
   description = """
   Cursos impartidos:
   
-  * Por determinar.
+  * 2º de ESO: grupos F y G.
+  * 3º de ESO: grupos A, B y E.
+  * 4º de ESO: grupos D y E.
   """
 [[experience]]
   title = "Profesor de matemáticas"
