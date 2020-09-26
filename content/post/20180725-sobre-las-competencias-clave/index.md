@@ -76,10 +76,6 @@ Ahora bien, en el real decreto apenas aparecen listadas y poco más. ¿Dónde po
 - f) [Sentido de la iniciativa y espíritu emprendedor (SIEE)](https://www.mecd.gob.es/educacion/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/i.html).
 - g) [Conciencia y expresiones culturales (CEC)](https://www.mecd.gob.es/educacion/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/cultura.html).
 
-Son muy interesantes las infografías que acompañan a las anteriores páginas y que recopilo en la siguiente galería de imágenes:
-
-{{< gallery album="1" >}}
-
 En la mencionada introducción hay un detalle que conviene advirtamos, la referencia a la *Orden ECD / 65 / 2015*, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato. En este artículo no comentaré nada de ella, ya que me gustaría dedicarle por completo una entrada a dicha orden.
 
 Ahora bien, ¿cómo puedo contribuir con mi materia al desarrollo de las anteriores competencias clave? La legislación autonómica acude a nuestro rescate en esta ocasión. Por ejemplo, para las asignaturas de matemáticas de la modalidad de ciencias del Bachillerato, el *Decreto 87 / 2015*, de 5 de junio, del Consell, por el que establece el currículo y desarrolla la ordenación general de la Educación Secundaria Obligatoria y del Bachillerato en la Comunitat Valenciana, figura:
