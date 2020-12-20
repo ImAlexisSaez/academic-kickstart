@@ -7690,6 +7690,12 @@ div.alert a {
   margin-left: var(--button-group-margin);
   margin-right: var(--button-group-margin); }
 
+details {
+  margin-bottom: 1rem; }
+
+summary:focus {
+  outline: none; }
+
 .svg-icon {
   display: inline-flex;
   align-self: center; }
