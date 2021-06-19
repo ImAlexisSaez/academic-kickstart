@@ -1,31 +1,23 @@
 ---
-title: "Mezclando determinantes y números combinatorios"
-slug: "mezclando-determinantes-y-numeros-combinatorios"
-subtitle: "Problema 2"
-summary: "Problema 2: una combinación peligrosa."
+# Book
+title: Determinantes
+linktitle: Determinantes
+summary: Problemas matemáticos de determinantes para la preparación de oposiciones al cuerpo de profesores de Enseñanza Secundaria, en la especialidad de matemáticas.
 
-date: 2018-07-16T05:59:39+02:00
-lastmod: 2018-07-16T05:59:39+02:00
-
-authors: ["admin"]
+date: "2021-06-19T00:00:01+01:00"
+lastmod: "2021-06-19T00:00:01+01:00"
+draft: false # Is this a draft? true/false
+toc: true # Show table of contents? true/false
+type: book # Do not modify.
 math: true
-draft: false
-featured: false
-
-tags: ["Combinatoria", "Determinantes", "Problemas", "Teorema del binomio"]
-categories: ["Oposiciones"]
-projects: ["problemas"]
-
-image:
-  focal_point: "Smart"
-  caption: "Fotografía de [Danielle MacInnes](https://unsplash.com/@dsmacinnes), disponible en [Unsplash](https://unsplash.com/photos/IuLgi9PWETU)."
+weight: 190
 ---
 
-En esta entrada abordaremos un precioso problema de determinantes, propuesto durante la convocatoria de oposiciones de Aragón de este mismo año 2018, para la especialidad de matemáticas.
+## Problemas resueltos
 
-***
+### Problema 1
 
-**Problema 2:** Sea $k$ un número natural no nulo y sea $f$ la función real de variable real dada por:
+Sea $k$ un número natural no nulo y sea $f$ la función real de variable real dada por:
 
 $$
 f(x) = 
@@ -38,9 +30,7 @@ a) Calcular $f(x + 1) - f(x)$.
 
 b) Expresar la suma $1^k + 2^k + \cdots + n^k$ mediante esta función.
 
-***
-
-En lugar de abordar directamente la resolución del primer apartado, detengámonos por un instante a analizar la expresión del determinante dado por la función $f(x)$. Los números combinatorios que aparecen y, sobre todo, la forma en que lo hacen, seguramente hayan captado nuestra atención. Resulta, cuanto menos, familiar ese patrón, ¿verdad? Parte de él es el que aparece en el famoso *triángulo de Pascal*, si expresamos sus componentes utilizando números combinatorios.
+{{< hl >}}Solución:{{< /hl >}} en lugar de abordar directamente la resolución del primer apartado, detengámonos por un instante a analizar la expresión del determinante dado por la función $f(x)$. Los números combinatorios que aparecen y, sobre todo, la forma en que lo hacen, seguramente hayan captado nuestra atención. Resulta, cuanto menos, familiar ese patrón, ¿verdad? Parte de él es el que aparece en el famoso *triángulo de Pascal*, si expresamos sus componentes utilizando números combinatorios.
 
 Ahora bien, de manera automática, y supongo que por deformación matemática, cuando viene a nuestra cabeza el *triángulo de Pascal*, enseguida pensamos en el *teorema del binomio*, que recordemos afirma que
 
@@ -223,3 +213,10 @@ $$
 $$ 
 
 expresión que da respuesta a la cuestión planteada en el segundo apartado del problema.
+
+
+## Problemas propuestos
+
+{{% callout note %}}
+Pendiente de recopilación.
+{{% /callout %}}
