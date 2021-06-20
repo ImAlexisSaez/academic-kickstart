@@ -1,12 +1,12 @@
 ---
-title: 8. Tuplas
-linktitle: 8. Tuplas
+title: Tuplas
+linktitle: Tuplas
 toc: true
 type: book
 date: "2019-04-30T00:01:00+01:00"
 lastmod: "2019-04-30T00:01:00+01:00"
 draft: false
-weight: 8
+weight: 4
 ---
 
 ## Vídeo

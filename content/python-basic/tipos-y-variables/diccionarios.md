@@ -1,12 +1,12 @@
 ---
-title: 9. Diccionarios
-linktitle: 9. Diccionarios
+title: Diccionarios
+linktitle: Diccionarios
 toc: true
 type: book
 date: "2019-04-30T00:01:01+01:00"
 lastmod: "2019-04-30T00:01:01+01:00"
 draft: false
-weight: 9
+weight: 5
 ---
 
 ## Vídeo

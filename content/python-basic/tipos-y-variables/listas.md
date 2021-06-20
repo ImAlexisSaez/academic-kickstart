@@ -1,12 +1,12 @@
 ---
-title: 7. Listas
-linktitle: 7. Listas
+title: Listas
+linktitle: Listas
 toc: true
 type: book
 date: "2019-04-29T00:01:04+01:00"
 lastmod: "2019-04-29T00:01:04+01:00"
 draft: false
-weight: 7
+weight: 3
 ---
 
 ## Vídeo

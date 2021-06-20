@@ -1,12 +1,14 @@
 ---
-title: 1. Presentación del curso
-linktitle: 1. Presentación del curso
-toc: true
-type: book
+title: Introducción del curso
+linktitle: Introducción
+summary: Primeros pasos con Python
+
 date: "2019-04-28T00:00:01+01:00"
 lastmod: "2019-04-28T00:00:01+01:00"
 draft: false
-weight: 1
+toc: true
+type: book
+weight: 10
 ---
 
 ## Vídeo

@@ -1,12 +1,12 @@
 ---
-title: 3. Sintaxis básica
-linktitle: 3. Sintaxis básica
+title: Sintaxis básica
+linktitle: Sintaxis básica
 toc: true
 type: book
 date: "2019-04-28T00:01:01+01:00"
 lastmod: "2019-04-28T00:01:01+01:00"
 draft: false
-weight: 3
+weight: 2
 ---
 
 ## Vídeo

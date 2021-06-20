@@ -1,12 +1,12 @@
 ---
-title: 5. Funciones I
-linktitle: 5. Funciones I
+title: Funciones I
+linktitle: Funciones I
 toc: true
 type: book
 date: "2019-04-29T00:01:02+01:00"
 lastmod: "2019-04-29T00:01:02+01:00"
 draft: false
-weight: 5
+weight: 1
 ---
 
 ## Vídeo

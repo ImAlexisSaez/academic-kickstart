@@ -1,12 +1,13 @@
 ---
-title: 4. Tipos, operadores y variables
-linktitle: 4. Tipos y variables
-toc: true
-type: book
+title: Tipos, operadores y variables
+linktitle: Tipos y variables
+summary: Introducción al estudio de los tipos, los operadores y las variables en Python.
 date: "2019-04-29T00:01:01+01:00"
 lastmod: "2019-04-29T00:01:01+01:00"
 draft: false
-weight: 4
+toc: true
+type: book
+weight: 20
 ---
 
 ## Vídeo

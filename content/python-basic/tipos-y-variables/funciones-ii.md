@@ -1,12 +1,12 @@
 ---
-title: 6. Funciones II
-linktitle: 6. Funciones II
+title: Funciones II
+linktitle: Funciones II
 toc: true
 type: book
 date: "2019-04-29T00:01:03+01:00"
 lastmod: "2019-04-29T00:01:03+01:00"
 draft: false
-weight: 6
+weight: 2
 ---
 
 ## Vídeo

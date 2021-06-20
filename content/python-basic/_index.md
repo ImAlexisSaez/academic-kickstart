@@ -1,7 +1,7 @@
 ---
 # Book
 title: Python (Básico)
-linktitle: Presentación
+linktitle: Presentación del proyecto
 summary: Notas personales para el curso 'Python desde 0' ofrecido por 'Píldoras Informáticas'.
 weight: 1
 
