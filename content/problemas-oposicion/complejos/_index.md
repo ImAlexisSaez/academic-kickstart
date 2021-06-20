@@ -1,27 +1,23 @@
 ---
-title: "Jugando con las propiedades del conjugado"
-slug: "jugando-con-las-propiedades-del-conjugado"
-subtitle: "Problema 4"
-summary: "Problema 4: cómo una buena simplificación te facilita enormemente la vida."
+# Book
+title: Números complejos
+linktitle: Números complejos
+summary: Problemas matemáticos de números complejos para la preparación de oposiciones al cuerpo de profesores de Enseñanza Secundaria, en la especialidad de matemáticas.
 
-date: 2018-08-11T05:59:39+02:00
-lastmod: 2018-08-11T05:59:39+02:00
-
-authors: ["admin"]
+date: "2021-06-20T00:00:01+01:00"
+lastmod: "2021-06-20T00:00:01+01:00"
+draft: false # Is this a draft? true/false
+toc: true # Show table of contents? true/false
+type: book # Do not modify.
 math: true
-draft: false
-featured: false
-
-tags: ["Números complejos", "Problemas"]
-categories: ["Oposiciones"]
-projects: ["problemas"]
-
-image:
-  focal_point: "Smart"
-  caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
+weight: 90
 ---
 
-**Problema 4:** Dada una constante real positiva, $a$, y el conjunto 
+## Problemas resueltos
+
+### Problema 1
+
+Dada una constante real positiva, $a$, y el conjunto 
 
 $$
 M\_a = \left\\{z\in\mathbb{C}^* : \left|z+\dfrac{1}{z}\right|=a \right\\},
@@ -29,9 +25,7 @@ $$
 
 donde $\mathbb{C}^* = \mathbb{C}\backslash\{(0,0)\}$, encuentre los valores mínimo y máximo de $|z|$ cuando $z\in M_a$. 
 
-***
-
-Hemos de ser capaces de extraer información sobre el módulo de $z$, $|z|$, a partir de la expresión de la ecuación que define al conjunto $M_a$. Por las propiedades de la conjugación, sabemos que $z\overline{z} = |z|^2$, de manera que una posible estrategia a seguir sería elevar al cuadrado ambos miembros de la ecuación que define a $M_a$ y desarrollar la expresión resultante mediante las propiedades de la conjugación. Así,
+{{< hl >}}Solución:{{< /hl >}} hemos de ser capaces de extraer información sobre el módulo de $z$, $|z|$, a partir de la expresión de la ecuación que define al conjunto $M_a$. Por las propiedades de la conjugación, sabemos que $z\overline{z} = |z|^2$, de manera que una posible estrategia a seguir sería elevar al cuadrado ambos miembros de la ecuación que define a $M_a$ y desarrollar la expresión resultante mediante las propiedades de la conjugación. Así,
 
 $$
 \begin{aligned}
@@ -121,6 +115,8 @@ $$
 
 y los valores extremos se alcanzarán cuando se dé la igualdad en la inecuación considerada, es decir, cuando $-(z+\overline{z})^2 = 0$, que equivale a la condición $z=-\overline{z}$. Así pues, los valores extremos se alcanzarán para los números complejos $z\in M_a$ tales que $z=-\overline{z}$.
 
-Referencia:
+## Problemas propuestos
 
-- Andreescu, T., & Andrica, D., (2006), *Complex Numbers from A to... Z*, Boston: Birkhäuser.
+{{% callout note %}}
+Pendiente de recopilación.
+{{% /callout %}}
