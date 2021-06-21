@@ -7,7 +7,7 @@ lastmod: "2019-04-29T00:01:01+01:00"
 draft: false
 toc: true
 type: book
-weight: 20
+weight: 2
 ---
 
 ## Tipos, operadores y variables
