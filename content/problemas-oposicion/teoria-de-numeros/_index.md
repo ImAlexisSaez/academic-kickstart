@@ -1898,6 +1898,47 @@ es decir, las dos últimas cifras de la operación indicada en el enunciado del 
 
 ## Problemas propuestos
 
-{{% callout note %}}
-Pendiente de recopilación.
-{{% /callout %}}
+**Problema 31:** calcula las dos últimas cifras de $2^{390}$.
+
+**Problema 32:** calcula las dos últimas cifras de $3^{390}$.
+
+**Problema 33:** Determina todos los números naturales $m$ tales que $1066\equiv 1776\pmod{m}$.
+
+**Problema 34:** Dado $(1! + 2! + \cdots + 100!)\pmod{45}$, encuentra el menor resto no negativo.
+
+**Problema 35:** Sea $n$ un número natural y $A_n = 2^n + 2^{2n} + 2^{3n}$.
+
+- (a) Demuestra que $A_{n+3}\equiv A_n\pmod{2}$.
+- (b) ¿Para qué valores de $n$ es $A_n$ múltiplo de $7$?
+- (c) Los números, en base $2$, $1110$, $1010100$ y $1001001000$, ¿son divisibles por $7$?
+
+**Problema 36:** Determina todos los pares de números naturales $(a,b)$ tales que $mcd(a,b) = 18$ y $mcm(a,b) = 540$.
+
+**Problema 37:** Halla dos números naturales sabiendo que su máximo común divisor es $120$ y la diferencia de sus cuadrados asciende a $345600$.
+
+**Problema 38:** Demuestra que $mcd(14n+3, 21n+4)=1$, para cada número natural $n$.
+
+**Problema 39:** Determina todos los posibles valores de $mcd(3n+1, n^2+1)$, donde $n$ es un número natural.
+
+**Problema 40:** Si a un número de $3$ cifras le quitamos la cifra central, resulta la séptima parte del número inicial. ¿De qué número se trata?
+
+**Problema 41:** ¿Cuál es el número de tres cifras que es igual a doce veces la suma de sus cifras?
+
+**Problema 42:** Halla el dígito final de $9^{9 ^ 9}$.
+
+**Problema 43:** Sabiendo que $7^4 = 2401$, halla los tres últimos dígitos de $7^{9999}$.
+
+**Problema 44:** Demuestra que
+
+- (a) un número en base $7$ es par si, y solo si, la suma de sus cifras es par.
+- (b) un número es divisible por $25$ si, y solo si, acaba en $00$, $25$, $50$ o $75$.
+
+**Problema 45:** Halla el criterio de divisibilidad por $5$ en base $12$ y aplícalo al número $12x75_{(12}$ para que sea divisible por $5$.
+
+**Problema 46:** Prueba que, si $n$ es un número natural, $3^{2 ^ n}+1$ es divisible por $2$, pero no por $4$.
+
+**Problema 47:** Dado el número $123456789101112\cdots100$, donde los números escritos son los naturales sin espacios, estudia si es múltiplo de $9$.
+
+**Problema 48:** Calcula el menor múltiplo de $23$ cuyas cifras son todas nueves.
+
+**Problema 49:** *(Murcia (2002))* Demuestra que $A_n = 2903^n - 803^n - 464^n + 261^n$ es divisible por $1897$, para cada número natural $n$.
