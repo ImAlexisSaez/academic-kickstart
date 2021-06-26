@@ -51,3 +51,5 @@ Pendiente de resolución.
 **Problema 8:** halla un número natural, cuadrado perfecto, tal que en base $7$ se escribe como $ab0cb$, siendo $a = c + 1$.
 
 **Problema 9:** en un sistema de numeración, cuya base se desconoce, dos números se escriben $302$ y $402$. El producto de ambos números es $75583$ en el sistema de numeración en base $9$. Halla la base desconocida.
+
+**Problema 10:** encuentra, en el sistema decimal, todos los números que en base $7$ se escriben con tres cifras y en base $9$ con las mismas cifras en orden inverso.

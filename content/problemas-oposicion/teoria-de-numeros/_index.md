@@ -1986,3 +1986,157 @@ es decir, las dos últimas cifras de la operación indicada en el enunciado del 
 **Problema 65:** calcula el resto cuando $90!$ se divide por $97$.
 
 **Problema 66:** calcula las dos últimas cifras de $31^{263}$.
+
+**Problema 67:** para cada entero no negativo $n$, se considera 
+
+$$
+P(n) = \frac{n^7}{7} + \frac{n^3}{3} + \frac{11n}{21}.
+$$
+
+- (a) Demuestra que $3n^7 + 7n^3 + 11n = 0$ en $\mathbb{Z}_3$ y en $\mathbb{Z}_7$.
+- (b) Demuestra que $P(n)$ es un número entero.
+
+**Problema 68:** dado un número primo $p\geq 7$, prueba que el número $111\cdots111$ (formado por $p-1$ unos) es divisible por $p$.
+
+**Problema 69:** sea $n$ un número natural y el conjunto de fracciones 
+
+$$
+A_n = \left\\{\frac{1}{n},\frac{2}{n},\ldots,\frac{n}{n}\right\\}.
+$$ 
+
+Calcula el número de fracciones irreducibles y la suma de estas.
+
+**Problema 70:** calcula el menor número natural $n$ tal que se cumpla que
+
+$$
+\begin{aligned}
+n&\equiv 4\pmod{5},\\\\ n&\equiv 3\pmod{7},\\\\ n&\equiv 1\pmod{9}.
+\end{aligned}
+$$
+
+**Problema 71:** ¿cuántas cifras tiene el menor número que cumple que, cuando la primera cifra de la izquierda se coloca en el último lugar de la derecha, el número que resulta es una vez y media el número inicial?
+
+**Problema 72:** encuentra el número natural más pequeño, con $6$ como cifra de las unidades, de manera que, si el $6$ se mueve al principio, el número queda multiplicado por cuatro.
+
+**Problema 73:** halla un número de cinco cifras diferentes de manera que es igual a la suma de todos los de tres cifras que se pueden obtener con las variaciones ordinarias de dichas cifras tomadas de tres en tres.
+
+**Problema 74:** se consideran los números naturales escritos del modo usual en base $10$. Se pide:
+
+- (a) Encuentra el menor número tal que, al suprimir la primera cifra de la izquierda, quede reducido a su quinta parte.
+- (b) Demuestre que no existe ningún número que, al suprimirle su primera cifra de la izquierda, quede reducido a su doceava parte.
+
+**Problema 75:** halla un número con $15$ divisores tal que la suma de todos estos divisores sea igual a $1767$.
+
+**Problema 76:** un número natural $A$, descompuesto en producto de factores primos, es de la forma $A = a^x b^y c^z$. El número de divisores de $A$, $A^2$ y $A^3$ es, respectivamente, $60$, $315$ y $910$. El máximo común divisor de todos los posibles valores de $A$ es $900$. Hállalos.
+
+**Problema 77:** halla un número de cuatro cifras tal que sea igual al cubo de la suma de sus cifras.
+
+**Problema 78:** encuentra un número de cuatro cifras $abcd$ de manera que $abcd = 11(a+b+c+d)^2$.
+
+**Problema 79:** determina los números $n$ de tres cifras, divisibles por $11$, de manera que $n / 11$ es igual a la suma de los cuadrados de los dígitos de $n$.
+
+**Problema 80:** resuelve la ecuación en congruencias $7x\equiv 6\pmod{100}$.
+
+**Problema 81:** ¿existe algún entero positivo $x$ tal que cuando $x$ se divide entre 3, se obtiene un residuo igual a $2$; cuando $x$ se divide entre $5$, se obtiene de resto $4$; y cuando $x$ se divide entre $7$, el resto es igual a $6$?
+
+**Problema 82:** encuentra las soluciones del siguiente sistema de ecuaciones en congruencias lineales:
+
+$$
+\begin{aligned}
+x&\equiv 3\pmod{5},\\\\ x&\equiv 4\pmod{7},\\\\ x&\equiv 6\pmod{9}.
+\end{aligned}
+$$
+
+**Problema 83:** determina el entero positivo más pequeño que deja de resto $1$, $2$, $3$ y $4$ cuando se divide, respectivamente, por $2$, $3$, $5$ y $11$.
+
+---
+
+**Problema 84:** el matemático y poeta chino *Sun Tsu* planteó, hace alrededor de $1800$ años, el siguiente problema: ''Tengo un conjunto de objetos. Cuando los cuanto de tres en tres, me sobran dos; cuando los cuento de cinco en cinco, me sobran tres; y cuando los cuento de siete en siete, me sobran dos. ¿Cuántos objetos poseo?''.
+
+**Problema 85:** resuelve la ecuación en congruencias $91x\equiv 419\pmod{440}$.
+
+**Problema 86:** resuelve la ecuación en congruencias $3x\equiv 11\pmod{2275}$.
+
+**Problema 87:** demuestra que $3\cdot 5^{2n+1} + 2^{3n+1}$ es divisible por $17$, para cada número natural $n$.
+
+**Problema 88:** demuestra que $4^n \equiv(1+3n)\pmod{9}$, para cada número natural $n$.
+
+**Problema 89:** divide el número $101$ en dos partes tales que una sea múltiplo de $11$ y la otra sea múltiplo de $17$.
+
+**Problema 90:** la suma de dos números vale $371$ y el cociente entre su mínimo común múltiplo y su máximo común divisor es $430$. Halla dichos números.
+
+**Problema 91:**
+
+- (a) Halla el exponente de $2$ en la factorización de $10!$. ¿Cuál sería en el caso de $11!$?
+- (b) Halla el exponente de $3$ en la factorización de $212!$.
+
+**Problema 92:**
+
+- (a) ¿En cuántos ceros acaba el número $1000!$?
+- (b) Demuestra que $1000!$ no es divisible por $2^{995}$, pero sí por $2^{994}$.
+
+**Problema 93:** convierte $100!$ a base octal. ¿En cuántos ceros termina $100!$ en base octal?
+
+**Problema 94:** ¿en cuántos ceros acaba $438_{(15}!$?
+
+**Problema 95:**
+
+- (a) ¿En cuántos ceros acaba $438_{(40}!$?
+- (b) ¿En cuántos ceros acaba $(55555_{(6}!)^3$?
+
+**Problema 96:** calcula el número de ceros en que acaba $(15348_{(16}!)^5$, con la condición de que debe operarse en base $16$, sin pasar a base decimal, hasta el final.
+
+**Problema 97:** halla el criterio de divisibilidad por $5$ y por $10$ de un número en base $9$. ¿Es múltiplo de $5$ el número $213246_{(9}$?
+
+**Problema 98:** halla el conjunto de los divisores del número $1001$. Sean $N = a_0 + a_1t + \cdots + a_nt^n$ y $S = a_0 - a_1 + a_2 - \cdots + (-1)^na_n$, donde $t=1000$ y $a_n$ es un número entero, para cada $n\in\mathbb{N}\cup\{0\}$. Demuestra que $N\equiv S\pmod{1001}$. Deduce de ello un criterio de divisibilidad por $7$, por $11$ o por $13$, y aplícalo al número $312879645$. 
+
+**Problema 99:** demuestra que, siendo $n$ un número entero, la expresión 
+
+$$
+\frac{n^5 - 5n^3 + 4n}{n+2}
+$$ 
+
+siempre es divisible por $24$.
+
+**Problema 100:** demuestra que, si el número natural $p=abc_{(10}$ es divisible por $37$, los números $bca_{(10}$ y $cab_{(10}$ son divisibles por $37$.
+
+**Problema 101:** sean $a$, $b$, $c$ y $d$ números enteros cualesquiera. Prueba que 
+
+$$
+abcd(a^2 - b^2)(a^2 - c^2)(a^2 - d^2)(b^2 - c^2)(b^2 - d^2)(c^2 - d^2)
+$$ 
+
+es divisible por $7$.
+
+**Problema 102:** encuentra los números de cuatro cifras, de la forma $abab$, que, disminuidos en una unidad, sean cuadrados perfectos.
+
+**Problema 103:** se tienen los números $49$, $4489$, $444889$, $\ldots$ obtenido cada uno intercalando $48$ en el centro del anterior. Demuestra que todos estos números son cuadrados perfectos y halla la raíz cuadrada del que consta de $2n$ cifras.
+
+**Problema 104:** halla el resto de la división por $11$ de $37^{437}$.
+
+**Problema 105:** demuestra que si $p$ es un número primo impar, se cumple que $p$ divide a $2^{p-1}-2$.
+
+**Problema 106:** sea $p$ un número primo impar. Demuestra que
+
+- (a) $(1^{p-1} + 2^{p-1} + \cdots + (p-1)^{p-1})\equiv (-1)\pmod {p}$.
+- (b) $(1^p + 2^p + \cdots + (p-1)^p)\equiv 0\pmod{p}$.
+
+**Problema 107:** prueba que 
+
+$$
+A_k = 2^{2^{6k+2}}+3
+$$ 
+
+es múltiplo de $19$, para todo número natural $k$.
+
+**Problema 108:** demuestra que el número $n(n^2 + 5)$ es divisible por $6$, para cada número natural $n$.
+
+**Problema 109:** ¿qué enteros positivos, menores que $15$, tienen inverso módulo $15$? Encuentra los correspondientes inversos.
+
+**Problema 110:** demuestra que $n^5 - 5n^3 + 4n$ es múltiplo de $120$, para cada número natural $n$.
+
+**Problema 111:** si $a=11\cdots 11$ es un número con $2n$ dígitos y $b=22\cdots 22$ es uno que posee $n$ dígitos, prueba que $a-b$ es un cuadrado perfecto.
+
+**Problema 112:** demuestra que $2222^{5555} + 5555^{2222}$ es múltiplo de $7$.
+
+**Problema 113:** halla todos los números naturales $n$ tales que $2^n + 3^n$ es un múltiplo de $7$.
