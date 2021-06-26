@@ -2140,3 +2140,30 @@ es múltiplo de $19$, para todo número natural $k$.
 **Problema 112:** demuestra que $2222^{5555} + 5555^{2222}$ es múltiplo de $7$.
 
 **Problema 113:** halla todos los números naturales $n$ tales que $2^n + 3^n$ es un múltiplo de $7$.
+
+**Problema 114:** encuentra todos los números naturales $n$ para los cuales se satisface que $1^n + 9^n + 10^n = 5^n + 6^n + 11^n$.
+
+**Problema 115:** en una batalla, en la que participaron entre $10000$ y $11000$ soldados, resultaron muertos $23 / 165$ del total y heridos $35 / 143$ del total. Halla cuántos resultaron ilesos.
+
+**Problema 116:**
+
+- (a) Dados dos números $x$ e $y$, coprimos entre sí, prueba que $mcd(x+y, xy) = 1$.
+- (b) Dados dos números enteros $a$ y $b$, prueba que $mcd(a,b) = mcd(a+b, mcm(a, b))$.
+- (c) La suma de dos números naturales es $5264$ y su mínimo común múltiplo es $200340$, ¿cuáles son estos números?
+
+**Problema 117:**
+
+- (a) Estudia, según los valores del número natural $n$, el resto de la división de $7^n$ entre $9$.
+- (b) ¿Para qué valores de $n$ se cumple que $16^{3n} + 16^n - 2$ es múltiplo de $9$?
+- (c) Permutando las cifras del número $1223334444555556666667777777$, ¿podrá obtenerse un cuadrado perfecto?
+
+**Problema 118:** halla los números enteros positivos $n$ tal que $n^4+2$ es divisible por $n+2$.
+
+**Problema 119:** determina todos los valores de $k$ para los cuales el número $11\cdots 11$, compuesto por $k$ unos, es un cuadrado perfecto.
+
+**Problema 120:** una mujer tiene un cesto de manzanas. Haciendo grupos de $3$ sobran $2$ y haciendo grupos de $4$ sobran $3$. Halla el número de manzanas que contiene el cesto sabiendo que están entre $100$ y $110$.
+
+**Problema 121:** A una isla llegan $17$ piratas para repartirse un botín que consiste en un saco con más de $100$ monedas de oro. Efectuado el reparto equitativo, sobra una moneda. Con el objetivo de que no sobre ninguna, los piratas deciden matar a uno de ellos y efectuar nuevamente el reparto equitativo, pero vuelve a sobrar una moneda.
+
+- (a) ¿Cuál es el número mínimo de monedas que contiene el saco?
+- (b) Conocido dicho número mínimo, ¿cuántos piratas morirán hasta que, efectuado el reparto equitativo, no sobre ninguna moneda?

@@ -1247,3 +1247,86 @@ Por tanto, las dimensiones del rectángulo vienen dadas por los pares $(104, 65)
 
 **Problema 24:** halla el menor número natural $m$ de manera que la ecuación $533x + 299y = 20000 + m$ tenga soluciones enteras y calcúlalas.
 
+**Problema 25:** halla
+
+- (a) el menor entero positivo $a$ tal que la ecuación $1001x + 770y = 10^6 + a$ admite soluciones naturales.
+- (b) para dicho valor de $a$, determina las soluciones naturales de dicha ecuación.
+
+**Problema 26:** se dispone de un gran suministro de agua, un gran cubo con desagüe y dos garrafas que contienen $7$ y $9$ litros. ¿Cómo podría ponerse un litro de agua en el cubo?
+
+**Problema 27:** un hombre compra caballos y vacas, pagando $1770$ euros. Una vaca cuesta $21$ euros y un caballo $31$ euros, ¿cuántos caballos y vacas ha comprado?
+
+**Problema 28:** para abonar una factura de $1840$ pesetas, se entregan libras esterlinas y dan la vuelta en marcos. Calcula las libras esterlinas entregadas y los marcos devueltos, suponiendo que se ha entregado la cantidad mínima de libras necesarias para pagar y que la devolución sea en marcos ($1$ marco $=70$ pesetas, $1$ libra esterlina $=180$ pesetas).
+
+**Problema 29:** se compran manzanas y naranjas. En total, $12$ piezas de fruta, que cuestan $1.32$ euros. Si una manzana vale $3$ céntimos más que una naranja y hay más manzanas que naranjas, ¿cuántas piezas de cada fruta se han comprado?
+
+**Problema 30:** una persona va a un supermercado y compra $12$ litros de leche, unos de leche entera y otros de desnatada, por $1200$ pesetas. Si la leche entera vale $30$ pesetas más por litro que la desnatada y ha comprado el mínimo posible de leche desnatada, ¿cuántos litros habrá comprado de cada una?
+
+**Problema 31:** halla las soluciones enteras de las ecuaciones diofánticas
+
+- (a) $6x + 8y + 14z = 22$.
+- (b) $6x + 10y + 15z = 31$.
+
+**Problema 32:** encuentra todas las soluciones enteras positivas de la ecuación $43x + 7y + 17z = 400$.
+
+**Problema 33:** un granjero compró vacas, cerdos y pollos. En total, $100$ animales por $100$ euros. Hay al menos uno de cada. Si una vaca cuesta $10$ euros, un cerdo $3$ euros y un pollo $0.50$ euros, ¿cuántos animales de cada clase compró?
+
+**Problema 34:** en una tienda de animales los loros cuestan $5$ euros, los periquitos $3$ euros cada uno y los canarios $10$ céntimos cada uno. Compramos $100$ animales y pagamos $100$ euros. ¿Cuántos compramos de cada clase?
+
+**Problema 35:** resuelve, en los números naturales, el siguiente sistema, demostrando que tiene una única solución:
+
+$$
+\begin{aligned}
+x + y + z + p + t &= 25,\\\\ y - 2z - p &= 0,\\\\ x - t &= 1,\\\\ -x + y + z &= 0.
+\end{aligned}
+$$
+
+**Problema 36:** halla las soluciones naturales de las ecuaciones
+
+- (a) $x^2 - y^2 = 46$.
+- (b) $x^2 - y^2 = 36$.
+
+**Problema 37:** halla las soluciones enteras de la ecuación $x^2 - y^2 = 24$.
+
+**Problema 38:** encuentra todas las soluciones naturales de la ecuación $x^2 - y^2 = 252$.
+
+**Problema 39:** halla soluciones enteras no triviales para la ecuación $x^2 - 7y^2 = 1$.
+
+**Problema 40:** halla soluciones enteras no triviales para la ecuación $x^2 - 3y^2 = 1$.
+
+**Problema 41:** halla las soluciones enteras no triviales para la ecuación $x^2 - 15y^2 = 1$.
+
+**Problema 42:** prueba que $3$, $4$ y $5$ es la única solución de $x^2 + y^2 = z^2$ en enteros positivos consecutivos.
+
+**Problema 43:** ¿qué cuadrado de cinco cifras, al quitarle una unidad, se puede descomponer en suma de cinco cuadrados idénticos?
+
+**Problema 44:** halla los números naturales $n$ de manera que se cumpla que $1+2+\cdots+n = k^2$, con $k$ número natural.
+
+**Problema 45:** ¿cuál es el menor triángulo cuyos lados son números enteros consecutivos y su área es múltiplo de $20$?
+
+**Problema 46:** halla todos los triángulos cuyos lados son tres números enteros consecutivos y su área es asimismo un número entero.
+
+**Problema 47:** determina las dimensiones de un rectángulo sabiendo que sus lados miden un número entero de centímetros, pero no un número entero de palmos; y que su área, expresada en palmos cuadrados, es igual a su perímetro, expresado en palmos lineales. Considera que un palmo equivale a $20$ centímetros.
+
+**Problema 48:** en su último viaje a Estados Unidos, el señor Martínez cambió un cheque de viaje. El cajero, al pagarle, confundió el número de dólares con el de centavos y viceversa. El señor Martínez gastó $68$ centavos en sellos y comprobó que el dinero que le quedaba era el doble del importe del cheque de viaje que había cambiado. ¿Qué valor mínimo tenía el cheque de viaje?
+
+**Problema 49:** una persona ha comprado entradas para el cine para personas adultas por un precio de $640$ u. m. cada una y para menores de edad a $330$ u. m. Sabiendo que invirtió $7140$ u. m. y que compró menos entradas de adultos que de menores, halla el número de entradas que adquirió.
+
+**Problema 50:** los lados de un rectángulo vienen dados por números naturales. ¿Cuál será la longitud de dichos lados para que el perímetro y la superficie de dicha figura se expresen con el mismo número?
+
+**Problema 51:** halla un número de seis cifras que es igual a las seis últimas cifras de su cuadrado.
+
+**Problema 52:** halla dos números enteros tales que la suma de sus cuadrados es el doble de su suma.
+
+**Problema 53:** prueba que existen cuadrados de la forma $1 + 2 ^ {x^2} + 2 ^ {y^2}$.
+
+**Problema 54:** sean $a$, $b$ y $c$ números naturales distintos.
+
+- (a) Halla un conjunto infinito de soluciones de la ecuación $a^2 + b^2 + c^2 = 2c(a + b)$.
+- (b) Demuestra que, si $a<b<c$, la ecuación $a^3 - c^3 + b^3 = 3b(a - c)(a + c - b)$ no tiene solución.
+
+**Problema 55:** Halla las soluciones enteras de las ecuaciones diofánticas:
+
+- (a) $2x^2 + x - 3y = 7$.
+- (b) $x^2 + x + 2y = 3$.
+- (c) $x^2 + x + 3y = 2$.

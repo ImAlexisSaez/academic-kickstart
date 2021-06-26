@@ -523,6 +523,4 @@ esto es, $20$ serán las vacas que consuman el verde prado en $96$ días.
 
 ## Problemas propuestos
 
-{{% callout note %}}
-Pendiente de recopilación.
-{{% /callout %}}
+**Problema  7:** demuestra que $\sqrt[3]{45 + 29\sqrt{2}} + \sqrt[3]{45 - 29\sqrt{2}}$ es un número entero.

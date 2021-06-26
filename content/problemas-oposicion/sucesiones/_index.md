@@ -22,3 +22,5 @@ Pendiente de resolución.
 ## Problemas propuestos
 
 **Problema 1**: con un solo corte recto puedes dividir un pastel circular en dos partes. Un segundo corte, que atraviese al primero, producirá probablemente cuatro partes, y un tercer corte puede llegar a producir siete partes. ¿Cuál es el mayor número de trozos que puedes lograr con seis cortes rectos? ¿Y, en general, cuántos pedazos de tarta se obtienen con $n$ cortes?
+
+**Problema 2:** halla la suma de todas las fracciones irreducibles de denominador $3$ comprendidas entre $3$ y $6$. Generaliza el resultado para la suma de todas las fracciones irreducibles de denominador $3$ comprendidas entre los enteros $m$ y $n$, con $m < n$.
