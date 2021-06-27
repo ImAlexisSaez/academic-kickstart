@@ -1248,3 +1248,108 @@ llegamos a una sencilla expresión para rápidamente calcular la probabilidad de
 **Problema 25:** seis ladrones tienen a su disposición cuatro calles por las que escapar de la policía, ¿de cuántas maneras pueden hacerlo?
 
 **Problema 26:** ¿cuántas quinielas de fútbol distintas se pueden hacer?
+
+**Problema 27:** una mano de bridge consta de $13$ cartas de $52$ de una baraja francesa.
+
+- (a) ¿Cuántas manos de bridge son posibles? 
+- (b) ¿De cuántas formas se le pueden dar a una persona $6$ picas y $5$ corazones?
+
+**Problema 28:** $8$ componentes de un equipo se alojan en un hotel. Disponen de una habitación triple, dos dobles y una individual. ¿De cuántas formas pueden repartirse?
+
+**Problema 29:**
+
+- (a) ¿Cuántos números de $3$ cifras hay? ¿Cuántos son pares?
+- (b) ¿Cuántos números capicúas de $5$ cifras hay? ¿Cuántos son pares? ¿Cuántos números capicúas de $6$ cifras existen?
+
+**Problema 30:**
+
+- (a) Un número telefónico tiene siete cifras enteras. Supongamos que la primera debe ser un número entre $2$ y $9$, ambos inclusive. La segunda y la tercera deben ser números entre $1$ y $9$, ambos inclusive. Cada una de las restantes cifras es un número entre $0$ y $9$, ambos inclusive. ¿Cuántos números de teléfono distintos pueden formarse con estas condiciones?
+- (b) Una empresa produce cerraduras de combinación. Cada combinación consta de $3$ números del $0$ al $99$, ambos inclusive. Por el proceso de construcción de las cerraduras, cada número no puede aparecer más de una sola vez en la combinación de la cerradura. ¿Cuántas cerraduras diferentes pueden construirse?
+
+**Problema 31:**
+
+- (a) ¿Cuántas tiras de longitud $n$, formadas por ceros y unos, contienen exactamente $k$ ceros?
+- (b) ¿Cuántas secuencias de $n$ dígitos decimales hay tales que dos dígitos consecutivos sean diferentes?
+
+**Problema 32:** ¿de cuántas formas se pueden sentar $8$ personas alrededor de una mesa?
+
+**Problema 33:** en una clase hay $32$ chicos. Cada chico conoce a $5$ chicas de la clase y cada chica conoce a $8$ chicos. ¿Cuántas chicas hay?
+
+**Problema 34:** ¿de cuántas maneras pueden hacer cola siete ilicitanos y cinco santapoleros si dos santapoleros no pueden estar juntos?
+
+**Problema 35:** tenemos $5$ libros de geografía, $7$ libros de lengua y $8$ libros de inglés.
+
+- (a) ¿De cuántas maneras se pueden colocar en una estantería?
+- (b) ¿De cuántas formas se pueden colocar si deben estar juntos los de la misma asignatura?
+- (c\) ¿De cuántas maneras se pueden poner si todos los libros de inglés deben estar juntos?
+
+**Problema 36:** cada usuario de un ordenador tiene una contraseña con una longitud de entre seis y ocho caracteres, cada uno de los cuales es bien un dígito o bien una letra mayúscula. Cada contraseña debe contener al menos un dígito. ¿Cuántas contraseñas distintas admite el sistema?
+
+**Problema 37:** ¿cuántos números de seis cifras decimales efectivas (sin ceros a la izquierda) pueden formarse de manera que contengan dos o más doses?
+
+**Problema 38:** encuentra la suma de todos los números capicúas de $5$ cifras.
+
+**Problema 39:** dados los códigos ordenados de cinco letras entre las ocho: $A$, $B$, $C$, $D$, $E$, $F$, $G$ y $H$ (repetidas o no), se pide
+
+- (a) Número total de códigos.
+- (b) Número de ellos con una sola letra repetida dos veces (ejemplo: $ABACH$).
+- (c) Número de ellos con dos letras repetidas dos veces cada una (ejemplo: $ABBCA$).
+- (d) Número de ellos con una letra repetida tres veces (ejemplo: $AABAE$).
+- (e) Número de ellos con una letra repetida tres veces y otra dos (ejemplo: $AABAB$).
+- (f) Número de ellos con una letra repetida cuatro veces.
+- (g) Número de ellos con una letra repetida cinco veces.
+- (h) Número de los que no estén comprendidos entre los apartados (b) a (g).
+
+**Problema 40:**
+
+- (a) Demuestra que, dadas $367$ personas, al menos dos de ellas cumplen años el mismo día.
+- (b) Dados veinte números naturales cualquiera, demuestra que hay al menos dos números cuya diferencia es un múltiplo de $19$.
+
+**Problema 41:** demuestra que todo número entero $n$ tiene un múltiplo cuya expresión decimal está compuesta de ceros y unos.
+
+**Problema 42:** en clase, Ana ha dicho $600000$ palabras que tiene entre una y cuatro letras. Dado que el abecedario con el que se expresa posee $27$ letras, ¿ha repetido alguna palabra en su discurso?
+
+**Problema 43:** demuestra que si repartimos $100$ naranjas en $14$ montones, necesariamente tiene que haber al menos dos montones con el mismo número de naranjas.
+
+**Problema 44:** para escribir un libro hemos usado $1890$ cifras para numerar las páginas. ¿Cuántas páginas tiene el libro?
+
+**Problema 45:** ¿es posible disponer sobre una circunferencia los números $0,1,\ldots,9$ de tal manera que la suma de tres números sucesivos cualesquiera sea, como mucho,
+
+- (a) $13$?
+- (b) $14$?
+- (c) $15$?
+
+**Problema 46:**
+
+- (a) ¿Cuántos enteros entre $1$ y $1000$, ambos inclusive, son múltiplos de $2$ o de $5$?
+- (b) ¿Cuántos enteros entre $1$ y $1000$, ambos inclusive, son primos con $1000$?
+- (c) ¿Cuántos enteros entre $1$ y $600$, ambos inclusive, no son divisibles por $3$ ni por $5$ ni por $7$?
+
+**Problema 47:** entre los números del $1$ al $2000$, halla los que son divisibles por $9$, $11$, $13$ o $15$. 
+
+**Problema 48:** se venden $4$ tipos diferentes de galletas en una tienda. Asumiendo que solo se tiene en cuenta el tipo de galleta y que el orden en que se seleccionan no importa, ¿de cuántas formas se pueden seleccionar $6$ galletas?
+
+**Problema 49:** ¿de cuántas maneras se pueden poner $9$ como suma de $3$ sumandos enteros positivos?
+
+**Problema 50:** ¿De cuántas maneras se puede escribir $100$ como suma de $4$ sumandos positivos?
+
+**Problema 51:** halla el número de soluciones enteras de
+
+- (a) $x_1+x_2+\cdots+x_8=24$, con $x_i\geq 0$, para $i\in\{1,2,\ldots,8\}$.
+- (b) $x_1+x_2+\cdots+x_8=24$, con $x_i\geq 2$, para $i\in\{1,2,\ldots,8\}$.
+- (c) $x+y+z+t = 100$, con $x\geq 30$, $y>21$, $z\geq 1$ y $t\geq 1$.
+- (d) $x+y+z+t\leq 2001$, con $x\geq0$, $y\geq 0$, $z\geq 0$ y $t\geq 0$.
+
+**Problema 52:** en una heladería se sirven $7$ tipos de helados.
+
+- (a) ¿De cuántas formas distintas se pueden elegir $12$ helados?
+- (b) ¿De cuántas maneras se pueden elegir $12$ helados si tiene que haber al menos uno de cada tipo?
+
+**Problema 53:**
+
+- (a) En una tienda de material informático tienen monitores de $4$ marcas diferentes. ¿De cuántas maneras podemos escoger $6$ monitores?
+- (b) Queremos repartir $k$ objetos iguales entre los $n$ alumnos que aparecen en una lista. ¿De cuántas maneras podemos hacerlo si queremos que el primer alumno de la lista reciba, como mínimo, $4$ objetos? ¿Y si debe recibir exactamente $4$ objetos?
+
+**Problema 54:** obtén el número de diagonales que se pueden trazar en un cuadrado, en un hexágono y en un polígono de $n$ lados. ¿Existe algún polígono tal que el número de lado coincida con el número de diagonales?
+
+**Problema 55:** ¿de cuántas formas pueden distribuirse $12$ libros de idénticos de matemáticas discretas entre cuatro estudiantes?

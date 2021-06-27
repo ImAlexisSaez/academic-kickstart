@@ -342,3 +342,8 @@ con $k^\prime=4k + 5^{2n-1}\in\mathbb{Z}$ y, por tanto, la identidad se verifica
 **Problema 9:** demuestra que $(6^n - 1)(7^n - 1)$ es múltiplo de $30$, para cada número natural $n$.
 
 **Problema 10:** demuestra que $3^{3n+3} - 26n - 27$ es múltiplo de $169$, para cada número natural $n$.
+
+**Problema 11:**
+
+-  (a) Prueba que, para cada número natural $n$, $(3^n - 2n^2 - 1)\equiv 0\pmod{8}$.
+-  (b) Prueba que, si $n$ es un número natural que no es múltiplo de $3$, entonces $(3^n - 2n^2 - 1)\equiv 0\pmod{24}$.
