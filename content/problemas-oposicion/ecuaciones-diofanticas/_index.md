@@ -1325,8 +1325,28 @@ $$
 - (a) Halla un conjunto infinito de soluciones de la ecuación $a^2 + b^2 + c^2 = 2c(a + b)$.
 - (b) Demuestra que, si $a<b<c$, la ecuación $a^3 - c^3 + b^3 = 3b(a - c)(a + c - b)$ no tiene solución.
 
-**Problema 55:** Halla las soluciones enteras de las ecuaciones diofánticas:
+**Problema 55:** halla las soluciones enteras de las ecuaciones diofánticas:
 
 - (a) $2x^2 + x - 3y = 7$.
 - (b) $x^2 + x + 2y = 3$.
 - (c) $x^2 + x + 3y = 2$.
+
+**Problema 56:** halla las soluciones enteras de la ecuación $109x + 89y = 1$ utilizando el algoritmo de Euclides.
+
+**Problema 57:** encuentra todas las soluciones positivas de 
+
+$$
+\frac{a}{13} + \frac{b}{19} = \frac{230}{247}.
+$$
+
+**Problema 58:** encuentra el inverso de $46$ en $\mathbb{Z}_{53}$.
+
+**Problema 59:** los precios de dos productos son $18$ y $33$ euros por unidad. ¿Cuál es el número mínimo y máximo de unidades que se pueden haber vendido si se han cobrado $639$ euros?
+
+**Problema 60:** un sastre invierte $13$ horas en diseñar un pantalón y $37$ horas en diseñar un modelo de camisa. Si trabaja $2000$ horas, ¿cuántas camisas y pantalones debería diseñar para conseguir la mejor combinación entre pantalones y camisas?
+
+**Problema 61:** halla todos los números naturales menores que $1000$ que sean múltiplos de $28$ y que, divididos por $15$, den de resto $9$.
+
+**Problema 62:** halla las soluciones enteras de la ecuación $$\sqrt{(x+y)(x-y) + (2x+2y-3)y - 2(x-7)} = x+y+3.$$
+
+**Problema 63:** halla las soluciones enteras de la ecuación $x^2 - y^2 = 8$.

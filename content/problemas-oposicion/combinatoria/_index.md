@@ -1240,6 +1240,11 @@ llegamos a una sencilla expresión para rápidamente calcular la probabilidad de
 
 ## Problemas propuestos
 
-{{% callout note %}}
-Pendiente de recopilación.
-{{% /callout %}}
+**Problema 24:**
+- (a) ¿Cuántas formas hay de seleccionar $5$ cartas de una baraja de $48$ cartas con reemplazamiento? ¿Y sin reemplazamiento?
+- (b) Dadas las letras $a$, $b$, $c$, $d$, $e$, $f$ y $g$, ¿cuántas palabras de cinco letras se pueden formar repitiendo las letras? ¿Y sin repetir?
+- (c\) Un test consta de $20$ cuestiones con $4$ respuestas cada una, ¿cuántos resultados posibles hay?
+
+**Problema 25:** seis ladrones tienen a su disposición cuatro calles por las que escapar de la policía, ¿de cuántas maneras pueden hacerlo?
+
+**Problema 26:** ¿cuántas quinielas de fútbol distintas se pueden hacer?

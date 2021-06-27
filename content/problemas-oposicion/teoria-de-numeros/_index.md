@@ -2167,3 +2167,7 @@ es múltiplo de $19$, para todo número natural $k$.
 
 - (a) ¿Cuál es el número mínimo de monedas que contiene el saco?
 - (b) Conocido dicho número mínimo, ¿cuántos piratas morirán hasta que, efectuado el reparto equitativo, no sobre ninguna moneda?
+
+**Problema 122:** resuelve en $\mathbb{Z}$ la ecuación $x^2 + x - 2\equiv 0\pmod{13}$.
+
+**Problema 123:** una banda de piratas se apodera de un botín de piezas de oro iguales. Deciden repartírselo a partes iguales y el resto dárselo al cocinero chino, que recibe en este caso $3$ piezas. Los piratas pelean entre sí y mueren seis de ellos, con lo que en el nuevo reparto el cocinero chino se lleva $4$ piezas de oro. De regreso, el barco se hunde y se salvan el botín, seis piratas y el cocinero chino inmortal, con lo que el nuevo reparto le da ahora $5$ piezas al cocinero chino. ¿Cuál es la fortuna esperada por el cocinero chino cuando decide matar al resto de los piratas para quedarse el botín él solo si la banda era de $17$ piratas?
