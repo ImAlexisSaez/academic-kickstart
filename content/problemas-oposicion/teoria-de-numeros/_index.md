@@ -2171,3 +2171,16 @@ es múltiplo de $19$, para todo número natural $k$.
 **Problema 122:** resuelve en $\mathbb{Z}$ la ecuación $x^2 + x - 2\equiv 0\pmod{13}$.
 
 **Problema 123:** una banda de piratas se apodera de un botín de piezas de oro iguales. Deciden repartírselo a partes iguales y el resto dárselo al cocinero chino, que recibe en este caso $3$ piezas. Los piratas pelean entre sí y mueren seis de ellos, con lo que en el nuevo reparto el cocinero chino se lleva $4$ piezas de oro. De regreso, el barco se hunde y se salvan el botín, seis piratas y el cocinero chino inmortal, con lo que el nuevo reparto le da ahora $5$ piezas al cocinero chino. ¿Cuál es la fortuna esperada por el cocinero chino cuando decide matar al resto de los piratas para quedarse el botín él solo si la banda era de $17$ piratas?
+
+**Problema 124:** en una división, se conoce el dividendo, que es $258728$ y los restos sucesivos que se obtuvieron haciendo la división son $379$, $480$ y $392$. Halla el divisor y el cociente. ¿Existe más de una solución?
+
+**Problema 125:** ¿cuántos números naturales $n$ cumplen que la expresión 
+
+$$
+\frac{n^2 + 2011}{n+1}
+$$ 
+
+es un número natural?
+
+**Problema 126:** demuestra que $8^n + 1$ no es un número primo, para cada número natural $n$.
+

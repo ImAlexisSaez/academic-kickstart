@@ -1350,3 +1350,7 @@ $$
 **Problema 62:** halla las soluciones enteras de la ecuación $$\sqrt{(x+y)(x-y) + (2x+2y-3)y - 2(x-7)} = x+y+3.$$
 
 **Problema 63:** halla las soluciones enteras de la ecuación $x^2 - y^2 = 8$.
+
+**Problema 64:** encuentra el inverso de $37$ en $\mathbb{Z}_{62}$.
+
+**Problema 65:** encuentra un número natural $n$ tal que $n^2 + 10n$ es cuadrado perfecto.

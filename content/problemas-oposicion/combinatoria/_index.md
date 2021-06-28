@@ -1353,3 +1353,19 @@ llegamos a una sencilla expresión para rápidamente calcular la probabilidad de
 **Problema 54:** obtén el número de diagonales que se pueden trazar en un cuadrado, en un hexágono y en un polígono de $n$ lados. ¿Existe algún polígono tal que el número de lado coincida con el número de diagonales?
 
 **Problema 55:** ¿de cuántas formas pueden distribuirse $12$ libros de idénticos de matemáticas discretas entre cuatro estudiantes?
+
+**Problema 56:** encuentra la suma de los dígitos de los números del $1$ hasta el $1000$.
+
+**Problema 57:**
+
+- (a) Encuentra la suma de todos los números capicúas impares de $3$ cifras.
+- (b) Encuentra la suma de todos los números capicúas impares de $5$ cifras.
+
+**Problema 58:** una clase está compuesta por $7$ chicas y $9$ chicos. ¿De cuánta maneras pueden hacer un comité de $5$ personas de forma que
+
+- (a) haya al menos una chica?
+- (b) haya como mínimo una chica y un chico?
+
+**Problema 59:** una mano de bridge consta de $13$ cartas de $52$ de una baraja francesa. ¿De cuántas formas repartiremos el juego entre cuatro personas?
+
+**Problema 60:** dada una baraja española de $40$ cartas, halla el número de maneras de conseguir las manos especiales del póker.
