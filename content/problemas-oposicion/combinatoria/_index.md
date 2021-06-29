@@ -1369,3 +1369,92 @@ llegamos a una sencilla expresión para rápidamente calcular la probabilidad de
 **Problema 59:** una mano de bridge consta de $13$ cartas de $52$ de una baraja francesa. ¿De cuántas formas repartiremos el juego entre cuatro personas?
 
 **Problema 60:** dada una baraja española de $40$ cartas, halla el número de maneras de conseguir las manos especiales del póker.
+
+**Problema 61:** en un puesto de mando, para transmitir señales, hay en línea recta cuatro astas. En cada asta solamente se puede colocar una bandera. Las señales consisten en colocar banderas de distintos colores en dichas astas. Según el número de banderas colocadas, colores de las mismas y lugar que ocupen, la señal será distinta. Halla el número de señales que se pueden transmitir si se posee un juego de siete banderas con los colores del arco iris.
+
+**Problema 62:** la lotería primitiva consta de $49$ números. El día del sorteo se eligen $7$ distintos: los $6$ que forman la combinación ganadora y el complementario. En un boleto se pueden marcar $r$ de los $49$ números.
+
+- (a) Marcando $6$ números, ¿cuál es la probabilidad de acertar la combinación ganadora?
+- (b) Marcando $6$ números, ¿cuál es la probabilidad de acertar $5$? Realiza la discusión en función del complementario.
+- (c) Halla la probabilidad de acertar $5$ números de la combinación ganadora en el caso que haya marcado $10$ de los $49$ posibles.
+
+**Problema 63:** un desarreglo es una permutación de objetos en la que ningún objeto está en su posición original. Por ejemplo, $234561$ es una permutación de $123456$, pero $213645$ no, ya que $3$ está en su posición original.
+
+- (a) Escribe los desarreglos de $123$.
+- (b) Demuestra que, dados $n$ objetos, el total de desarreglos asciende a 
+
+$$
+D_n = n!\left(1 - \frac{1}{1!} + \frac{1}{2!} - \frac{1}{3!} + \cdots + (-1)^n\cdot\frac{1}{n!}\right).
+$$
+
+**Problema 64:** en una fiesta, a la que acuden seis chicos y seis chicas, comienza a sonar la primera canción.
+
+- (a) ¿De cuántas formas pueden organizarse para bailar todos ellos por parejas? Asume que cada pareja está formada por un chico y una chica.
+- (b) Como ninguna de las chicas ha quedado contenta con el desempeño en el baile de su pareja, de cara a la segunda canción, ¿de cuántas maneras pueden organizarse para bailar por parejas de forma que no repitan con la anterior?
+
+**Problema 65:** halla el número de soluciones enteras de la ecuación $x+y+z+t=100$, con $1\leq x\leq 10$, $y\geq 0$, $z\geq 2$ y $20\leq t\leq 30$.
+
+**Problema 66:** ¿de cuántas maneras podemos sumar $13$ al lanzar $3$ dados?
+
+**Problema 67:** halla cuántos números de cuatro cifras existen cuya suma de sus cifras ascienda a $27$.
+
+**Problema 68:** suben dos mujeres y tres hombres a un ascensor en la planta baja de un edificio de seis pisos. Averigua de cuántas maneras se pueden bajar del ascensor, sabiendo que, en un mismo piso, no pueden bajar personas de distinto sexo.
+
+**Problema 69:** ¿cuántos términos tiene la expansión de $(x_1+x_2+\cdots+x_s)^n$?
+
+**Problema 70:** calcula 
+
+$$
+\binom{-2}{3}.
+$$
+
+**Problema 71:**
+
+- (a) Calcula, para cada número natural $k$, 
+
+$$
+\binom{-1}{k}.
+$$
+
+- (b) Demuestra que, para cada número natural $n$, 
+
+$$
+\binom{-\frac{1}{2}}{n} = \binom{2n}{n}\cdot\left(-\frac{1}{4}\right)^n.
+$$
+
+**Problema 72:** ¿cuántas rutas existen, desde la esquina inferior izquierda de una cuadrícula $n\times n$ a la esquina superior derecha, si los viajes se restringen solo a pasos de longitud unitaria a la derecha o hacia arriba?
+
+**Problema 73:** dada una cuadrícula $n\times n$, sobre la que nos podemos desplazar con pasos unitarios hacia la derecha o hacia arriba, se dice que una ruta es ''buena'' si va por debajo de la diagonal y la toca.
+
+- (a) ¿Cuántas rutas ''buenas'' hay?
+- (b) Escogida una ruta al azar de la cuadrícula, ¿cuál es la probabilidad de que sea ''buena''?
+
+**Problema 74:** sea el plano $E$ cuadriculado por las rectas $x=m$ e $y=n$, con $m$ y $n$ números enteros. El punto $P(m,n)$ es un nudo de la cuadrícula. Una sucesión de nudos se llama trayectoria. Se consideran las trayectorias ascendentes $T_a$ en las que se pasa de un nudo al siguiente por la traslación $u$ o por la traslación $v$, donde $(O,u,v)$ es un sistema ortogonal. La longitud de una trayectoria es el número de traslaciones $u$ o $v$ que tiene.
+
+- (a) Determina el número $T_a(O,P)$ que van del origen $O$ al punto $P(m,n)$ ($m\geq0, n\geq0$) y el número de trayectorias $T'_a(P',P)$ que van del punto $P'(m',n')$ al punto $P(m,n)$ con $m'\leq m$ y $n'\leq n$.
+- (b) Calcula el número de trayectorias de longitud $h$, $T_a$, que parten del origen. 
+- (c) Sea $P(m,n)$, con $m>n$. Calcula el número $T_{a_1}(O,P)$ de trayectorias que van de $O$ a $P$ por debajo de la diagonal $y=x$. 
+- (d) Sea $P(n,n)$. Halla el número de trayectorias $T_{a_2}(O,P)$ que van de $O$ a $P$ por encima o por debajo de la diagonal principal sin tocarla más que en los puntos $O$ y $P$. 
+- (e) Se lanza una moneda $2n$ veces, ¿cuál es la probabilidad de obtener $n$ caras y $n$ cruces? Se supone que la igualdad no se alcanza antes del último lanzamiento.
+
+**Problema 75:** en la cola del cine hay $2n$ personas que deben comprar una entrada de $5$ euros. Hay $n$ personas que tienen un billete de $5$ euros y hay $n$ personas que tienen un billete de $10$ euros. Si la persona que está en caja no dispone de cambio al principio, determina la probabilidad de que ningún cliente tenga que esperar para recibir la vuelta.
+
+**Problema 76:** un grupo de $n+m$ personas se alinean frente a las taquillas de un teatro para comprar una entrada cuyo precio es de $50$ euros. De entre ellas, $m$ poseen un billete de $50$ euros, mientras que $n$ poseen un billete de $100$ euros ($m\geq n$). Al abrir la taquilla, el cajero no tiene cambio. ¿Cuál es la probabilidad de que estas personas se alineen de manera que el cajero siempre tenga cambio?
+
+**Problema 77:** dos candidatos $A$ y $B$ se presentan a una elección. Si $A$ recibe $a$ votos y $B$ recibe $b$ votos, con $a>b$, 
+
+- (a) ¿cuál es la probabilidad de que, en todo momento del escrutinio, $A$ vaya por delante de $B$?
+- (b) ¿Cuál es la probabilidad de que, a lo largo del escrutinio, la diferencia de votos a favor de $A$ no haya sido mayor que $a-b$?
+
+**Problema 78:** se sabe que una elección, para la cual hay dos candidatos $A$ y $B$, ha terminado con el resultado de $9$ votos a favor de $A$ y $6$ a favor de $B$. Calcula:
+
+- (a) la probabilidad de que, durante el escrutinio de los votos, siempre haya ido por delante el candidato $A$.
+- (b) la probabilidad de que, a lo largo del escrutinio, la diferencia entre los dos candidatos no haya sido superior a $3$.
+
+**Problema 79:** en una cuadrícula de tamaño $8\times 8$ hay dos hormigas, $A$ y $B$, ubicadas en las esquinas opuestas. La hormiga $A$ (situada en la esquina inferior izquierda) se mueve en pasos de longitud unitaria hacia la derecha o hacia arriba, mientras que la hormiga $B$ hace lo propio hacia la izquierda o hacia abajo. ¿Cuál es la probabilidad de que se encuentren? Asume que ambas caminan a la misma velocidad y empiezan a hacerlo simultáneamente.
+
+**Problema 80:** un avión, de una determinada compañía, debe realizar un viaje entre dos ciudades, con un total de $m+n$ escalas, donde $m$ y $n$ son números naturales. En cada escala el avión ha de cargar o descargar una tonelada de cierta mercancía, realizando cargas en $m$ de las escalas y descargas en las $n$ restantes.
+
+No obstante, en la compañía nadie ha reparado en que el avión no soporta una carga mayor de $k$ toneladas, con $k$ número natural entre $n$ y $m+n$, y las escalas de carga y descarga se reparten al azar. 
+
+Si el avión sale con $n$ toneladas de mercancía, calcula la probabilidad de que llegue a su destino.
