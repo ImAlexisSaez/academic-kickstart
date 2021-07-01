@@ -1354,3 +1354,9 @@ $$
 **Problema 64:** encuentra el inverso de $37$ en $\mathbb{Z}_{62}$.
 
 **Problema 65:** encuentra un número natural $n$ tal que $n^2 + 10n$ es cuadrado perfecto.
+
+**Problema 66:** encuentra el inverso de $7$ en $\mathbb{Z}_{31}$.
+
+**Problema 67:** una mujer compra $12$ vestidos, unos rojos y otros blancos, gastándose $1200$ euros. Si los trajes rojos valen $30$ euros más que los blancos, ¿cuántos vestidos ha comprado de cada color?
+
+**Problema 68:** en un corral hay conejos y gallinas, contándose $22$ patas. ¿Cuántas gallinas y conejos hay?

@@ -526,3 +526,50 @@ esto es, $20$ serán las vacas que consuman el verde prado en $96$ días.
 **Problema 7:** demuestra que $\sqrt[3]{45 + 29\sqrt{2}} + \sqrt[3]{45 - 29\sqrt{2}}$ es un número entero.
 
 **Problema 8:** sean $a$ y $b$ dos números enteros. Demuestra que la ecuación $(x - a)(x - b)(x - 3) = (-1)$ tiene, a lo sumo, una solución entera.
+
+**Problema 9:** resuelve $a_{n} = 2a_{n-1}$, sabiendo que $a_1 = 3$.
+
+**Problema 10:** resuelve $a_{n+1} - 2a_n = 0$.
+
+**Problema 11:** resuelve $a_{n+2} - 5a_{n+1} + 6a_n = 0$.
+
+**Problema 12:** resuelve $a_{n+3} - 5a_{n+2} + 3a_{n+1} + 9a_n = 0$.
+
+**Problema 13:** resuelve $a_{n+2} - a_{n+1} - 2a_n = 0$, sabiendo que $a_1 = 0$ y $a_2 = 5$.
+
+**Problema 14:** resuelve $a_{n+2} + a_n = 0$.
+
+**Problema 15:** resuelve $a_{n+2} + a_{n+1} + a_n = 0$.
+
+**Problema 16:** resuelve $a_{n+2} - 5a_{n+1} + 6a_n = 3\cdot 5^n$.
+
+**Problema 17:** resuelve $a_{n+2} - 5a_{n+1} + 6a_n = 7\cdot 2^n$.
+
+**Problema 18:** resuelve $a_{n+2} - 5a_{n+1} + 6a_n = 2n + 3$.
+
+**Problema 19:** resuelve $a_{n+2} - 7a_{n+1} + 6a_n = 2n + 3$.
+
+**Problema 20:** dada la sucesión definida por
+
+$$
+\begin{aligned}
+a_1 &= 2,\\\\ \forall n\in\mathbb{N}-\{1\}: a_n &= 5a_{n-1} + 3,
+\end{aligned}
+$$
+
+calcula
+
+$$
+\lim_{n\rightarrow\infty}{\frac{a_n}{5^n}}.
+$$
+
+**Problema 21:** los cuatro primeros términos de una sucesión son $a_0 = a_1 = a_2 = a_3 = 0$ y la ley que cumplen es
+
+$$
+a_{n+4} + a_{n+3} + 2a_{n+2} + a_{n+1} + a_n = 12n.
+$$
+
+- (a) Halla $a_n$.
+- (b) Halla $a_{90}$.
+
+*Ayuda:* $x^4 + x^3 + 2x^2 + x + 1 = (x^2 + 1)(x^2 + x + 1)$.

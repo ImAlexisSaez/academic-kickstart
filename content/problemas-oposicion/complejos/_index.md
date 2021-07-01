@@ -117,6 +117,93 @@ y los valores extremos se alcanzarán cuando se dé la igualdad en la inecuació
 
 ## Problemas propuestos
 
-{{% callout note %}}
-Pendiente de recopilación.
-{{% /callout %}}
+**Problema 2:** halla el conjunto de puntos de la variable compleja $z$ tal que $RE(z^2) > 2$.
+
+**Problema 3:** halla la curva definida por
+
+$$
+RE\left(\frac{1}{z}\right) = \frac{1}{4}.
+$$
+
+**Problema 4:** calcula $\sqrt{-15-8i}$.
+
+**Problema 5:** resuelve $z^2 + (2i - 3)z + 5-i = 0$.
+
+**Problema 6:** halla las raíces quintas de la unidad.
+
+**Problema 7:** sean $r_i$, con $i=1,\ldots,5$, las raíces quintas de la unidad. Halla el valor de 
+
+$$
+A = r_1^n + r_2^n + r_3^n + r_4^n + r_5^n.
+$$
+
+**Problema 8:** calcula $(1+\sqrt{3}i)^n + (1-\sqrt{3}i)^n$.
+
+**Problema 9:** sea
+
+$$
+z = \left(\frac{-1+\sqrt{3}i}{2}\right)^n + \left(\frac{-1-\sqrt{3}i}{2}\right)^n.
+$$
+
+Prueba que $z=2$ si $n$ es múltiplo de $3$ y $z=-1$ en cualquier otro caso.
+
+**Problema 10:** escribe en forma binómica $e^{\sqrt{i}}$.
+
+**Problema 11:** si 
+
+$$
+z + \frac{1}{z} = 2\cos{t},
+$$ 
+
+calcula 
+
+$$
+z^n + \frac{1}{z^n}.
+$$
+
+**Problema 12:** halla un número complejo que cumpla $z^5 = \overline{z}$.
+
+**Problema 13:** calcula $3^i$.
+
+**Problema 14:** calcula $\log_{1 + i}{(8 - 8i)}$.
+
+**Problema 15:** resuelve
+
+- (a) $\cos{(z)} = 2$.
+- (b) $\sin{(z)} = 4$.
+
+**Problema 16:** resuelve $\cosh^2{(z)} - 3\sinh{(z)} + 1 = 0$.
+
+**Problema 17:** dados los puntos $A(1, 2)$ y $B(3,3)$, determina, como número complejo en forma binómica, los vértices de un triángulo equilátero con centro $A$, sabiendo que $B$ es uno de sus vértices.
+
+**Problema 18:** determine los vértices de un cuadrado sabiendo que
+
+- (a) Su centro es el punto $(2, 3)$.
+- (b) Si se traslada el centro al origen, se gira un ángulo de $60$ grados, en sentido positivo, y se reducen los lados del cuadrado a la mitad; los vértices del nuevo cuadrado son los afijos de las raíces de un polinomio de grado cuatro, con coeficientes reales, que tiene la raíz $x = 1$.
+
+**Problema 19:** los afijos $z_1, z_2, z_3, z_4, z_5$ y $z_6$ son los vértices consecutivos de un hexágono regular. Sabiendo que $z_1 = 0$ y que $z_4 = 4 + 6i$, halla $z_2, z_3, z_5$ y $z_6$.
+
+**Problema 20:** dados tres complejos $z_1, z_2$ y $z_3$, demuestra que si forman un triángulo equilátero, se cumple que
+
+$$
+z_1^2 + z_2^2 + z_3^2 = z_1z_2 + z_1z_3 + z_2z_3.
+$$
+
+**Problema 21:** siendo $a$ un número complejo fijo, determina (en función de $a$) los posibles números complejos $z$, tales que las imágenes en el plano complejo de los afijos $a^2z, az^2$ y $z^3$ son vértices de un triángulo equilátero.
+
+**Problema 22:** calcula
+
+- (a) $\prod_{k=1}^{n-1}{\left(e^{\frac{2k\pi i}{n}} - 1\right)}$.
+- (b) $\prod_{k=1}^{n-1}{\sin{\left(\frac{k\pi}{n}\right)}}$.
+
+**Problema 23:** dado un número real $a$ y un número natural $n$, calcula
+
+$$
+\cos{(a)} + \cos{(2a)} + \cos{(3a)} + \cdots + \cos{(na)}.
+$$
+
+**Problema 24:** calcula
+
+$$
+\sum_{n=0}^{\infty}{\frac{\cos{(n\alpha)}}{2^n}}.
+$$
