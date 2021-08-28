@@ -18,7 +18,7 @@ projects: []
 
 image:
    focal_point: "Smart"
-   caption: "Fotografía de [Mark Rivera](https://unsplash.com/@_photosbymr), disponible en [Unsplash](https://unsplash.com/photos/pBfc6h7MU1w)."
+   caption: "Fotografía disponible en [Unsplash](https://unsplash.com/)."
 ---
 
 A través de *YouTube*, tenemos la oportunidad de disfrutar de las ponencias que se han desarrollado en la XXI edición del *Encuentro Nacional de Estudiantes de Matemáticas* (ENEM). Podemos acceder al canal desde [este enlace](https://www.youtube.com/c/asociacionanem/playlists) y a la página web del evento desde [este enlace](http://enem.anem.es/).

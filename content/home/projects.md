@@ -30,6 +30,10 @@ subtitle = "" #"A la búsqueda del conocimiento"
     tag  = "Desarrollo web"
 
   [[content.filter_button]]
+    name = "Educación"
+    tag  = "Educación"
+
+  [[content.filter_button]]
     name = "Matemáticas"
     tag  = "Matemáticas"
 
