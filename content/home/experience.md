@@ -30,7 +30,10 @@ experience:
   date_end: ""
   date_start: "2020-09-01"
   description: |-
-    Cursos impartidos:  
+    *Curso académico 2021/21*:
+    * Por determinar.
+
+    *Curso académico 2020/21*:
 
     * 2º de ESO: grupos F y G.
     * 3º de ESO: grupos A, B y E.
@@ -42,7 +45,7 @@ experience:
   date_end: "2020-08-31"
   date_start: "2019-11-20"
   description: |-
-    Cursos impartidos:
+    *Curso académico 2019/20*:
   
     * 1º de ESO: grupos A, D, E y F.
     * 2º de ESO: grupo C.
