@@ -29,6 +29,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 29/08/2021 | [Pilar Alegría, nueva ministra de Educación: “Tenemos que reducir los decibelios del debate educativo”](https://elpais.com/educacion/2021-08-29/pilar-alegria-nueva-ministra-de-educacion-tenemos-que-reducir-los-decibelios-del-debate-educativo.html) |
 | 21/08/2021 | [Papanatismo tecnológico en educación](https://xarxatic.com/papanatismo-tecnologico-en-educacion/) |
 | 21/08/2021 | [Por qué la perspectiva de género y emocional en las Matemáticas no consiste en "ablandarlas"](https://www.eldiario.es/sociedad/perspectiva-genero-emocional-matematicas_1_8227956.html) |
 | 19/08/2021 | [«Las Matemáticas no son machistas ni feministas; la ciencia es ciencia»](https://www.abc.es/sociedad/abci-matematicas-no-machistas-feministas-ciencia-ciencia-202108182124_noticia.html) |
