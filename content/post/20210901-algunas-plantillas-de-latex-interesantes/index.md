@@ -21,11 +21,11 @@ image:
    caption: "Fotografía de [Marek Piwnicki](https://unsplash.com/@marekpiwnicki), disponible en [Unsplash](https://unsplash.com/photos/JNiYQHi5Hjc)."
 ---
 
-Durante estas vacaciones de verano he dedicado algunos momentos a investigar las posibilidades de algunas plantillas y clases de *LaTeX* de cara a elaborar materiales para mis cursos. Si por algo se caracteriza este lenguaje de marcado es por brindarte la excusa perfecta para procrastinar, pues siempre existe algún detalle a modificar o cierta característica que admite margen de mejora en nuestros documentos.
+Durante estas vacaciones de verano, de cara a elaborar materiales para mis cursos, he dedicado algunos momentos a investigar las posibilidades de ciertas plantillas y clases de *LaTeX*. Si por algo se caracteriza este lenguaje de marcado es por brindarte la excusa perfecta para procrastinar, pues siempre existe algún detalle a modificar o cierta característica que admite margen de mejora en nuestros documentos.
 
 ### Exámenes
 
-Por lo que respecta a la elaboración de exámenes, me han resultado extremadamente atractivas las posibilidades que ofrece la clase [*exam*](https://www.ctan.org/pkg/exam). Su [documentación](https://ctan.javinator9889.com/macros/latex/contrib/exam/examdoc.pdf) es maravillosa, con multitud de ejemplos para la miríada de opciones que nos ofrece a la hora de generar un examen en *LaTeX*. De entre ellas destacaría:
+Por lo que respecta a la elaboración de exámenes, me han resultado extremadamente atractivas las posibilidades que ofrece la clase [*exam*](https://www.ctan.org/pkg/exam). Su [documentación](https://ctan.javinator9889.com/macros/latex/contrib/exam/examdoc.pdf) es maravillosa, con multitud de ejemplos para la miríada de opciones que nos presenta a la hora de generar un examen en *LaTeX*. De entre ellas destacaría:
 
 - La tabla de puntuaciones, gestionada automáticamente a través de la propia clase.
 - Las posibilidades de personalización de los distintos tipos de preguntas, incluyendo los entornos de solución de cuestiones.
