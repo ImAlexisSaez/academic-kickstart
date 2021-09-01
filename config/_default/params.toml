@@ -214,7 +214,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  provider = "disqus"
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = false}
@@ -237,7 +237,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "wowchemy"
   [search.wowchemy]
     min_length = 1  # Only the matches whose length exceeds this value will be returned.
     threshold = 0.3  # Where 0 requires a perfect match and 1 matches anything. 
