@@ -27,6 +27,12 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* una serie
 
 En la medida de lo posible, intentaré incluir únicamente aquellos que puedan consultarse libremente o bien los pertenecientes a sitios webs con restricciones, pero que ofrezcan la posibilidad de acceder gratuitamente a cierto número de artículos en un período de tiempo dado.
 
+### Septiembre de 2021
+
+| Fecha | Artículo |
+| ------- | ------ |
+| 10/09/2021 | [Cosas que, como docentes, jamás deberíais publicar en vuestras redes sociales](https://xarxatic.com/cosas-que-como-docentes-jamas-deberiais-publicar-en-vuestras-redes-sociales/) |
+
 ### Agosto de 2021
 
 | Fecha | Artículo |
@@ -58,6 +64,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | ------- | ------ |
 | 30/06/2021 | [Desconexión](https://elpais.com/educacion/2021-06-30/desconexion.html) |
 | 29/06/2021 | [Andreu Navarra: "La escuela es un laboratorio de conformismo"](https://www.magisnet.com/2021/06/andreu-navarra-la-escuela-es-un-laboratorio-de-conformismo/) |
+| 20/06/2021 | [Prevenir l’abandonament escolar… del professorat](https://diarieducacio.cat/prevenir-labandonament-escolar-del-professorat/) |
 
 ### Anteriores a 2021
 
