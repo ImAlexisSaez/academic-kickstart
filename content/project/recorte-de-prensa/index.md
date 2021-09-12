@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 11/09/2021 | [ADIÓS A SEPTIEMBRE. El maquillaje como fenómeno educativo.](https://jamunozandrade.wordpress.com/2021/09/11/adios-a-septiembre-el-maquillaje-como-fenomeno-educativo/) |
+| 11/09/2021 | [Estancados desde la LOGSE](https://xarxatic.com/estancados-desde-la-logse/) |
 | 10/09/2021 | [Cosas que, como docentes, jamás deberíais publicar en vuestras redes sociales](https://xarxatic.com/cosas-que-como-docentes-jamas-deberiais-publicar-en-vuestras-redes-sociales/) |
 
 ### Agosto de 2021
