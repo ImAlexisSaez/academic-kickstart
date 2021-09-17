@@ -31,6 +31,9 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 15/09/2021 | [A Castells le gustan los granujas que copian y odia a los buenos estudiantes](https://blogs.elconfidencial.com/cultura/mala-fama/2021-09-15/todo-favor-malos-estudiantes_3288902/) 
+| 13/09/2021 | [¿Quién está imponiendo la ‘nueva’ pedagogía?](https://www.levante-emv.com/opinion/2021/09/13/imponiendo-nueva-pedagogia-57216815.html) |
+| 12/09/2021 | [“La educación ha fracasado por empeñarse en negar sus límites”](https://www.farodevigo.es/faroeduca/foro-de-educacion/2021/09/12/educacion-fracasado-empenarse-negar-limites-57189270.html) |
 | 11/09/2021 | [ADIÓS A SEPTIEMBRE. El maquillaje como fenómeno educativo.](https://jamunozandrade.wordpress.com/2021/09/11/adios-a-septiembre-el-maquillaje-como-fenomeno-educativo/) |
 | 11/09/2021 | [Estancados desde la LOGSE](https://xarxatic.com/estancados-desde-la-logse/) |
 | 10/09/2021 | [Cosas que, como docentes, jamás deberíais publicar en vuestras redes sociales](https://xarxatic.com/cosas-que-como-docentes-jamas-deberiais-publicar-en-vuestras-redes-sociales/) |
