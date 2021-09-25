@@ -31,6 +31,11 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 23/09/2021 | [Catherine L’Ecuyer: “Hay que desconfiar de los métodos educativos que venden un aprendizaje fácil y acelerado”](https://elpais.com/economia/formacion/2021-09-23/catherine-lecuyer-hay-que-desconfiar-de-los-metodos-educativos-que-venden-un-aprendizaje-facil-y-acelerado.html) |
+| 23/09/2021 | [Catherine L'Ecuyer: "Las redes son, en mentes inmaduras, una incubadora de fanáticos"](https://www.elespanol.com/enclave-ods/referentes/20210923/catherine-lecuyer-redes-mentes-inmaduras-incubadora-fanaticos/613689520_0.html) |
+| 22/09/2021 | [El engaño de los foros de educación](https://www.vigoe.es/opinion/el-engano-de-los-foros-de-educacion/) |
+| 20/09/2021 | ["La introducció de les pedagogies alternatives a l'escola pública representa un perill per a la classe obrera"](https://directa.cat/la-introduccio-de-les-pedagogies-alternatives-a-lescola-publica-representa-un-perill-per-a-la-classe-obrera/) |
+| 19/09/2021 | [La primera calculadora capaz de realizar multiplicaciones la creó un español para intentar demostrar que no había que envidiar a los americanos](https://www.xataka.com/historia-tecnologica/primera-calculadora-capaz-realizar-multiplicaciones-creo-espanol-para-intentar-demostrar-que-no-habia-que-envidiar-a-americanos) |
 | 15/09/2021 | [A Castells le gustan los granujas que copian y odia a los buenos estudiantes](https://blogs.elconfidencial.com/cultura/mala-fama/2021-09-15/todo-favor-malos-estudiantes_3288902/) 
 | 13/09/2021 | [¿Quién está imponiendo la ‘nueva’ pedagogía?](https://www.levante-emv.com/opinion/2021/09/13/imponiendo-nueva-pedagogia-57216815.html) |
 | 12/09/2021 | [“La educación ha fracasado por empeñarse en negar sus límites”](https://www.farodevigo.es/faroeduca/foro-de-educacion/2021/09/12/educacion-fracasado-empenarse-negar-limites-57189270.html) |
@@ -78,4 +83,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 19/12/2020 | [El profesor vencido](https://www.xlsemanal.com/firmas/20201219/el-profesor-vencido-perez-reverte.html) |
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
 | 01/09/2020 | [Catherine L’Ecuyer: águila contra los mitos educativos](https://www.thegodmothermag.eu/post/catherine-l-ecuyer-%C3%A1guila-contra-los-mitos-educativos) |
+| 07/12/2018 | ["Os habéis callado, cómplices": la indignada carta de un maestro abre el debate](https://www.huffingtonpost.es/2018/12/07/os-habeis-callado-complices-la-indignada-carta-de-un-maestro-abre-el-debate_a_23611473/) |
+| 11/11/2017 | [Uno de tantos: crónica de un fracaso educativo](https://discursiones2.blogspot.com/2017/11/uno-de-tantos-cronica-de-un-fracaso.html) |
 | 01/05/2014 | [Fobia a las matemáticas](https://www.investigacionyciencia.es/revistas/mente-y-cerebro/estudiar-mejor-600/fobia-a-las-matemticas-12049) |
