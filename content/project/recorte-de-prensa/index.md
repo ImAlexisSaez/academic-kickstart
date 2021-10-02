@@ -31,8 +31,15 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 30/09/2021 | [La Escuela no es un parque de atracciones](https://xarxatic.com/la-escuela-no-es-un-parque-de-atracciones/) |
+| 27/09/2021 | [¿Por qué algunos alumnos se nos duermen?](https://www.catalunyavanguardista.com/por-que-algunos-alumnos-se-nos-duermen/) |
+| 27/09/2021 | [Andreu Navarra: “Estamos viviendo una etapa de iconoclastia antiintelectual”](https://cronicaglobal.elespanol.com/letra-global/la-charla/andreu-navarra-iconoclastia-antiintelectual-npfb_541011_102.html) |
+| 27/09/2021 | [La escuela que se ríe de sus alumnos](https://www.vozpopuli.com/opinion/escuela-alumno-urkullu.html) |
+| 27/09/2021 | [Más optativas en la ESO y dos nuevas modalidades en Bachillerato: así cambian los institutos con la reorganización que prepara el Gobierno](https://elpais.com/educacion/2021-09-27/mas-optativas-en-la-eso-y-dos-nuevas-modalidades-en-bachillerato-asi-cambian-los-institutos-con-la-reorganizacion-que-prepara-el-gobierno.html) |
+| 27/09/2021 | [Para lo que me queda en el convento…](https://xarxatic.com/para-lo-que-me-queda-en-el-convento/) |
 | 23/09/2021 | [Catherine L’Ecuyer: “Hay que desconfiar de los métodos educativos que venden un aprendizaje fácil y acelerado”](https://elpais.com/economia/formacion/2021-09-23/catherine-lecuyer-hay-que-desconfiar-de-los-metodos-educativos-que-venden-un-aprendizaje-facil-y-acelerado.html) |
 | 23/09/2021 | [Catherine L'Ecuyer: "Las redes son, en mentes inmaduras, una incubadora de fanáticos"](https://www.elespanol.com/enclave-ods/referentes/20210923/catherine-lecuyer-redes-mentes-inmaduras-incubadora-fanaticos/613689520_0.html) |
+| 23/09/2021 | [La educación fracasa: pero ¿y si no fuera un error, sino una característica de nuestro sistema?](https://theobjective.com/elsubjetivo/educacion-fracaso-error-caracteristica-sistema) |
 | 22/09/2021 | [El engaño de los foros de educación](https://www.vigoe.es/opinion/el-engano-de-los-foros-de-educacion/) |
 | 20/09/2021 | ["La introducció de les pedagogies alternatives a l'escola pública representa un perill per a la classe obrera"](https://directa.cat/la-introduccio-de-les-pedagogies-alternatives-a-lescola-publica-representa-un-perill-per-a-la-classe-obrera/) |
 | 19/09/2021 | [La primera calculadora capaz de realizar multiplicaciones la creó un español para intentar demostrar que no había que envidiar a los americanos](https://www.xataka.com/historia-tecnologica/primera-calculadora-capaz-realizar-multiplicaciones-creo-espanol-para-intentar-demostrar-que-no-habia-que-envidiar-a-americanos) |
