@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2021-08-28T00:00:01+01:00
+lastmod: 2021-10-02T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -27,6 +27,16 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* una serie
 
 En la medida de lo posible, intentaré incluir únicamente aquellos que puedan consultarse libremente o bien los pertenecientes a sitios webs con restricciones, pero que ofrezcan la posibilidad de acceder gratuitamente a cierto número de artículos en un período de tiempo dado.
 
+### Octubre de 2021
+
+| Fecha | Artículo |
+| ------- | ------ |
+| 08/10/2021 | [El borrador del nuevo diseño de la ESO: más práctica, más autonomía para los institutos y con perspectiva de género](https://elpais.com/educacion/2021-10-08/el-borrador-del-nuevo-diseno-de-la-eso-mas-practica-mas-autonomia-para-los-institutos-y-con-perspectiva-de-genero.html) |
+| 08/10/2021 | [Estos son los contenidos y horas que tendrán todas las asignaturas de la ESO: de feminismo y derechos LGTBI a alfabetización digital](https://elpais.com/educacion/2021-10-08/feminismo-derechos-lgtbiq-y-alfabetizacion-digital-los-contenidos-y-las-horas-de-todas-las-asignaturas-que-se-estudiaran-en-el-instituto.html) |
+| 04/10/2021 | [¿Democracia o “dictablanda” en el aula?](https://www.catalunyavanguardista.com/democracia-o-dictablanda-en-el-aula/) |
+| 04/10/2021 | [El Bachillerato «Peter Pan»](https://xavier-masso.blogspot.com/2021/10/el-bachillerato-peter-pan.html?m=1)|
+| 04/10/2021 | [La reforma del Bachillerato llega con polémica: "conservadora" y pensada para las grandes ciudades](https://www.eldiario.es/sociedad/reforma-bachillerato-llega-polemica-conservadora-pensada-grandes-ciudades_1_8365881.html) |
+
 ### Septiembre de 2021
 
 | Fecha | Artículo |
@@ -46,7 +56,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 15/09/2021 | [A Castells le gustan los granujas que copian y odia a los buenos estudiantes](https://blogs.elconfidencial.com/cultura/mala-fama/2021-09-15/todo-favor-malos-estudiantes_3288902/) 
 | 13/09/2021 | [¿Quién está imponiendo la ‘nueva’ pedagogía?](https://www.levante-emv.com/opinion/2021/09/13/imponiendo-nueva-pedagogia-57216815.html) |
 | 12/09/2021 | [“La educación ha fracasado por empeñarse en negar sus límites”](https://www.farodevigo.es/faroeduca/foro-de-educacion/2021/09/12/educacion-fracasado-empenarse-negar-limites-57189270.html) |
-| 11/09/2021 | [ADIÓS A SEPTIEMBRE. El maquillaje como fenómeno educativo.](https://jamunozandrade.wordpress.com/2021/09/11/adios-a-septiembre-el-maquillaje-como-fenomeno-educativo/) |
+| 11/09/2021 | [Adiós a septiembre. El maquillaje como fenómeno educativo.](https://jamunozandrade.wordpress.com/2021/09/11/adios-a-septiembre-el-maquillaje-como-fenomeno-educativo/) |
 | 11/09/2021 | [Estancados desde la LOGSE](https://xarxatic.com/estancados-desde-la-logse/) |
 | 10/09/2021 | [Cosas que, como docentes, jamás deberíais publicar en vuestras redes sociales](https://xarxatic.com/cosas-que-como-docentes-jamas-deberiais-publicar-en-vuestras-redes-sociales/) |
 
