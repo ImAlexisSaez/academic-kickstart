@@ -93,6 +93,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 30/06/2021 | [Desconexión](https://elpais.com/educacion/2021-06-30/desconexion.html) |
 | 29/06/2021 | [Andreu Navarra: "La escuela es un laboratorio de conformismo"](https://www.magisnet.com/2021/06/andreu-navarra-la-escuela-es-un-laboratorio-de-conformismo/) |
 | 20/06/2021 | [Prevenir l’abandonament escolar… del professorat](https://diarieducacio.cat/prevenir-labandonament-escolar-del-professorat/) |
+| 01/06/2021 | [Los padres de la LOGSE contra la LOGSE](https://xarxatic.com/los-padres-de-la-logse-contra-la-logse/) |
 
 ### Anteriores a 2021
 
