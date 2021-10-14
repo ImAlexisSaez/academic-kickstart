@@ -30,7 +30,7 @@ experience:
   date_end: ""
   date_start: "2020-09-01"
   description: |-
-    *Curso académico 2021/21:*
+    *Curso académico 2021/22:*
     * 2º de ESO: grupos A y B. Taller de refuerzo.
     * 2º de ESO: grupos E y F.
     * 3º de ESO: grupo D.
