@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 15/10/2021 | [Propuestas para mejorar los estudios de Matemáticas](https://www.catalunyavanguardista.com/propuestas-para-mejorar-los-estudios-de-matematicas/) |
 | 11/10/2021 | [El modelo educativo de Estonia y Finlandia](https://www.catalunyavanguardista.com/el-modelo-educativo-de-estonia-y-finlandia/) |
 | 08/10/2021 | [El borrador del nuevo diseño de la ESO: más práctica, más autonomía para los institutos y con perspectiva de género](https://elpais.com/educacion/2021-10-08/el-borrador-del-nuevo-diseno-de-la-eso-mas-practica-mas-autonomia-para-los-institutos-y-con-perspectiva-de-genero.html) |
 | 08/10/2021 | [Estos son los contenidos y horas que tendrán todas las asignaturas de la ESO: de feminismo y derechos LGTBI a alfabetización digital](https://elpais.com/educacion/2021-10-08/feminismo-derechos-lgtbiq-y-alfabetizacion-digital-los-contenidos-y-las-horas-de-todas-las-asignaturas-que-se-estudiaran-en-el-instituto.html) |
