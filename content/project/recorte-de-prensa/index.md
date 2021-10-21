@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 18/10/2021 | [Finlandia, un sistema educativo en caída libre](https://www.catalunyavanguardista.com/finlandia-un-sistema-educativo-en-caida-libre/) |
 | 15/10/2021 | [Propuestas para mejorar los estudios de Matemáticas](https://www.catalunyavanguardista.com/propuestas-para-mejorar-los-estudios-de-matematicas/) |
 | 11/10/2021 | [El modelo educativo de Estonia y Finlandia](https://www.catalunyavanguardista.com/el-modelo-educativo-de-estonia-y-finlandia/) |
 | 08/10/2021 | [El borrador del nuevo diseño de la ESO: más práctica, más autonomía para los institutos y con perspectiva de género](https://elpais.com/educacion/2021-10-08/el-borrador-del-nuevo-diseno-de-la-eso-mas-practica-mas-autonomia-para-los-institutos-y-con-perspectiva-de-genero.html) |
@@ -104,5 +105,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
 | 01/09/2020 | [Catherine L’Ecuyer: águila contra los mitos educativos](https://www.thegodmothermag.eu/post/catherine-l-ecuyer-%C3%A1guila-contra-los-mitos-educativos) |
 | 07/12/2018 | ["Os habéis callado, cómplices": la indignada carta de un maestro abre el debate](https://www.huffingtonpost.es/2018/12/07/os-habeis-callado-complices-la-indignada-carta-de-un-maestro-abre-el-debate_a_23611473/) |
+| 04/04/2018 | [El hombre que ha desmontado la educación finlandesa: "Es un peligro imitarla"](https://www.elconfidencial.com/alma-corazon-vida/2018-04-04/hombre-educacion-finlandesa-peligro-imitarla_1544856/) |
 | 11/11/2017 | [Uno de tantos: crónica de un fracaso educativo](https://discursiones2.blogspot.com/2017/11/uno-de-tantos-cronica-de-un-fracaso.html) |
 | 01/05/2014 | [Fobia a las matemáticas](https://www.investigacionyciencia.es/revistas/mente-y-cerebro/estudiar-mejor-600/fobia-a-las-matemticas-12049) |
