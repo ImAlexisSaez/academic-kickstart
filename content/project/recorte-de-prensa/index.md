@@ -31,7 +31,9 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 21/10/2021 | [Los nuevos currículos de Secundaria, una "revolución" que deja elegir a los docentes el contenido de las asignaturas](https://www.eldiario.es/sociedad/nuevos-curriculos-secundaria-revolucion-deja-elegir-docentes-contenido-asignaturas_1_8399075.html) |
 | 18/10/2021 | [Finlandia, un sistema educativo en caída libre](https://www.catalunyavanguardista.com/finlandia-un-sistema-educativo-en-caida-libre/) |
+| 15/10/2021 | [El nuevo currículo de la ESO no menciona los logaritmos en Matemáticas y reduce la historia literaria](https://www.elmundo.es/espana/2021/10/15/616869d9fdddff2c728b45ab.html) |
 | 15/10/2021 | [Propuestas para mejorar los estudios de Matemáticas](https://www.catalunyavanguardista.com/propuestas-para-mejorar-los-estudios-de-matematicas/) |
 | 11/10/2021 | [El modelo educativo de Estonia y Finlandia](https://www.catalunyavanguardista.com/el-modelo-educativo-de-estonia-y-finlandia/) |
 | 08/10/2021 | [El borrador del nuevo diseño de la ESO: más práctica, más autonomía para los institutos y con perspectiva de género](https://elpais.com/educacion/2021-10-08/el-borrador-del-nuevo-diseno-de-la-eso-mas-practica-mas-autonomia-para-los-institutos-y-con-perspectiva-de-genero.html) |
