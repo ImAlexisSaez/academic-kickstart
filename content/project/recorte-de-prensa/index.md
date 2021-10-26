@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 26/10/2021 | [Arte y matemáticas en los mosaicos de la Alhambra](https://blogs.20minutos.es/ciencia-para-llevar-csic/2021/10/26/arte-y-matematicas-en-los-mosaicos-de-la-alhambra/) |
+| 26/10/2021 | [Kurt Gödel: racionalidad inconsistente](https://institucional.us.es/blogimus/2021/10/kurt-godel-racionalidad-inconsistente/) |
 | 21/10/2021 | [Los nuevos currículos de Secundaria, una "revolución" que deja elegir a los docentes el contenido de las asignaturas](https://www.eldiario.es/sociedad/nuevos-curriculos-secundaria-revolucion-deja-elegir-docentes-contenido-asignaturas_1_8399075.html) |
 | 18/10/2021 | [Finlandia, un sistema educativo en caída libre](https://www.catalunyavanguardista.com/finlandia-un-sistema-educativo-en-caida-libre/) |
 | 15/10/2021 | [El nuevo currículo de la ESO no menciona los logaritmos en Matemáticas y reduce la historia literaria](https://www.elmundo.es/espana/2021/10/15/616869d9fdddff2c728b45ab.html) |
