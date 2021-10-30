@@ -31,8 +31,12 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 30/10/2021 | [La vida es lo que empieza después del trabajo](https://xarxatic.com/la-vida-es-lo-que-empieza-despues-del-trabajo/) |
+| 30/10/2021 | [“Por el camino se quedan más mujeres matemáticas que hombres”](https://elpais.com/ciencia/2021-10-30/por-el-camino-se-quedan-mas-mujeres-matematicas-que-hombres.html) |
+| 28/10/2021 | [Desaparece Filosofía en la ESO, aparecen los siervos](https://www.zendalibros.com/desaparece-filosofia-en-la-eso-aparecen-los-siervos/) |
 | 28/10/2021 | [Los alumnos podrán hacer el Bachillerato en tres cursos y llegar con un suspenso a Selectividad](https://elpais.com/educacion/2021-10-28/los-alumnos-podran-hacer-el-bachillerato-en-tres-cursos-y-llegar-con-un-suspenso-a-selectividad.html) |
 | 28/10/2021 | [Menos Filosofía, menos Historia de España, menos Matemáticas, menos Educación Física,… así será la nueva distribución de Bachillerato](https://xarxatic.com/menos-filosofia-menos-historia-de-espana-menos-matematicas-menos-educacion-fisica-asi-sera-la-nueva-distribucion-de-bachillerato/?fbclid=IwAR1fUl8YcVrRCT8q59m1VPaJ9Vr9SG0SFjlSgmwodgExCXL-oSdrMjBmtwg) |
+| 28/10/2021 | [Nace "ARRECIFE", la revista digital de APIA](https://www.aso-apia.org/nace-arrecife-la-revista-digital-de-apia) |
 | 28/10/2021 | [Todo lo que se va a estudiar en bachillerato: así son las 42 asignaturas y el reparto de horarios diseñado por el Gobierno](https://elpais.com/educacion/2021-10-28/estos-son-todos-los-cambios-en-el-bachillerato-que-ha-disenado-el-gobierno-y-su-nuevo-horario.html) |
 | 27/10/2021 | [Axiomas naturales para las matemáticas y el problema del continuo](https://elpais.com/ciencia/cafe-y-teoremas/2021-10-27/axiomas-naturales-para-las-matematicas-y-el-problema-del-continuo.html) |
 | 26/10/2021 | [Arte y matemáticas en los mosaicos de la Alhambra](https://blogs.20minutos.es/ciencia-para-llevar-csic/2021/10/26/arte-y-matematicas-en-los-mosaicos-de-la-alhambra/) |
