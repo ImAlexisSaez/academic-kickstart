@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 31/10/2021 | [Igualitarismo educativo](https://xarxatic.com/igualitarismo-educativo/) |
 | 30/10/2021 | [La vida es lo que empieza después del trabajo](https://xarxatic.com/la-vida-es-lo-que-empieza-despues-del-trabajo/) |
 | 30/10/2021 | [“Por el camino se quedan más mujeres matemáticas que hombres”](https://elpais.com/ciencia/2021-10-30/por-el-camino-se-quedan-mas-mujeres-matematicas-que-hombres.html) |
 | 28/10/2021 | [Desaparece Filosofía en la ESO, aparecen los siervos](https://www.zendalibros.com/desaparece-filosofia-en-la-eso-aparecen-los-siervos/) |
