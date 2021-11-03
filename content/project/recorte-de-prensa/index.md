@@ -27,6 +27,13 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* una serie
 
 En la medida de lo posible, intentaré incluir únicamente aquellos que puedan consultarse libremente o bien los pertenecientes a sitios webs con restricciones, pero que ofrezcan la posibilidad de acceder gratuitamente a cierto número de artículos en un período de tiempo dado.
 
+### Noviembre de 2021
+
+| Fecha | Artículo |
+| ------- | ------ |
+| 03/11/2021 | [Catherine L’Ecuyer: «Cuanta más educación hay en las aulas parece que menos haya en los alumnos»](https://exitoeducativo.net/catherine-lecuyer-cuanta-mas-educacion-hay-en-las-aulas-parece-que-menos-haya-en-los-alumnos/) |
+| 01/11/2021 | [¿Expertos educativos o fugitivos de la tiza?](https://www.catalunyavanguardista.com/expertos-educativos-o-fugitivos-de-la-tiza/) |
+
 ### Octubre de 2021
 
 | Fecha | Artículo |
