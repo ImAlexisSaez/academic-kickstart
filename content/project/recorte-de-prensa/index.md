@@ -123,6 +123,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | ------- | ------ |
 | 19/12/2020 | [El profesor vencido](https://www.xlsemanal.com/firmas/20201219/el-profesor-vencido-perez-reverte.html) |
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
+| 30/11/2020 | [El final de la era pedagogista](https://elpais.com/educacion/2020-11-30/el-final-de-la-era-pedagogista.html) |
 | 01/09/2020 | [Catherine L’Ecuyer: águila contra los mitos educativos](https://www.thegodmothermag.eu/post/catherine-l-ecuyer-%C3%A1guila-contra-los-mitos-educativos) |
 | 07/12/2018 | ["Os habéis callado, cómplices": la indignada carta de un maestro abre el debate](https://www.huffingtonpost.es/2018/12/07/os-habeis-callado-complices-la-indignada-carta-de-un-maestro-abre-el-debate_a_23611473/) |
 | 04/04/2018 | [El hombre que ha desmontado la educación finlandesa: "Es un peligro imitarla"](https://www.elconfidencial.com/alma-corazon-vida/2018-04-04/hombre-educacion-finlandesa-peligro-imitarla_1544856/) |
