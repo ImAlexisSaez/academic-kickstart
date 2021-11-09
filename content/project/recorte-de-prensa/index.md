@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 09/11/2021 | [Deseducación y determinismo social](https://eldiariodelaeducacion.com/2021/11/09/deseducacion-y-determinismo-social/) |
+| 08/11/2021 | [¿Por qué los buenos docentes no son asesores educativos?](https://www.catalunyavanguardista.com/por-que-los-buenos-docentes-no-son-asesores-educativos/) |
 | 03/11/2021 | [Catherine L’Ecuyer: «Cuanta más educación hay en las aulas parece que menos haya en los alumnos»](https://exitoeducativo.net/catherine-lecuyer-cuanta-mas-educacion-hay-en-las-aulas-parece-que-menos-haya-en-los-alumnos/) |
 | 01/11/2021 | [¿Expertos educativos o fugitivos de la tiza?](https://www.catalunyavanguardista.com/expertos-educativos-o-fugitivos-de-la-tiza/) |
 
