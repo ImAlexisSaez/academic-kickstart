@@ -31,7 +31,10 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 15/11/2021 | [Gregorio Luri: “Creo que en pedagogía reflexionamos mal”](https://es.fundacioepisteme.cat/2021/11/15/gregorio-luri-creo-que-en-pedagogia-reflexionamos-mal/) |
+| 14/11/2021 | [Qué está pasando con la educación en Finlandia: "Los profesores piensan en dejarlo"](https://www.elconfidencial.com/mundo/europa/2021-11-14/educacion-finlandesa-profesores-dejarlo_3318724/) |
 | 09/11/2021 | [Deseducación y determinismo social](https://eldiariodelaeducacion.com/2021/11/09/deseducacion-y-determinismo-social/) |
+| 08/11/2021 | [Las matemáticas del ojo: un estudio descubre que la pupila percibe información numérica](https://www.elconfidencial.com/alma-corazon-vida/2021-11-08/las-matematicas-del-ojo-un-estudio-descubre-que-la-pupila-percibe-informacion-numerica_3317211/) |
 | 08/11/2021 | [¿Por qué los buenos docentes no son asesores educativos?](https://www.catalunyavanguardista.com/por-que-los-buenos-docentes-no-son-asesores-educativos/) |
 | 03/11/2021 | [Catherine L’Ecuyer: «Cuanta más educación hay en las aulas parece que menos haya en los alumnos»](https://exitoeducativo.net/catherine-lecuyer-cuanta-mas-educacion-hay-en-las-aulas-parece-que-menos-haya-en-los-alumnos/) |
 | 01/11/2021 | [¿Expertos educativos o fugitivos de la tiza?](https://www.catalunyavanguardista.com/expertos-educativos-o-fugitivos-de-la-tiza/) |
