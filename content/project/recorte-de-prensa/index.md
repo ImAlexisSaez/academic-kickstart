@@ -31,13 +31,17 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 21/11/2021 | [Pasar de curso](https://www.diariocordoba.com/opinion/2021/11/21/pasar-curso-59755682.html) |
 | 20/11/2021 | [Las inteligencias múltiples, con las evidencias que tenemos actualmente, NO existen](https://xarxatic.com/las-inteligencias-multiples-con-las-evidencias-que-tenemos-actualmente-no-existen/) |
+| 19/11/2021 | [Así se contiene ahora la tensión en las aulas](https://www.elcorreo.com/vivir/relaciones-humanas/contiene-tension-aulas-20211120114911-ntrc.html) |
+| 19/11/2021 | [Manadas en el aula](https://www.levante-emv.com/opinion/2021/11/19/manadas-aula-59692018.html) |
 | 19/11/2021 | [Las otras consecuencias de pasar de curso con suspensos: «Estamos generando una sociedad manipulable»](https://www.eldebate.com/sociedad/20211119/consecuencias-pasar-curso-suspensos-generando-sociedad-manipulable.html) |
 | 18/11/2021 | [Pascual Gil: «Hay que vaciar las facultades de Educación de pseudociencias»](https://eldiariodelaeducacion.com/2021/11/18/pascual-gil-hay-que-vaciar-las-facultades-de-educacion-de-pseudociencias/) |
 | 17/11/2021 | [Evaluación, promoción (y si se tercia, titulación) en Primaria, ESO, Bachillerato y FP](https://xarxatic.com/evaluacion-promocion-y-si-se-tercia-titulacion-en-primaria-eso-bachillerato-y-fp/) |
 | 15/11/2021 | [Gregorio Luri: “Creo que en pedagogía reflexionamos mal”](https://es.fundacioepisteme.cat/2021/11/15/gregorio-luri-creo-que-en-pedagogia-reflexionamos-mal/) |
 | 15/11/2021 | [Los padres abandonan la pedagogía moderna](https://theobjective.com/elsubjetivo/opinion/2021-11-15/padres-abandonan-pedagogia-moderna/) |
 | 14/11/2021 | [Qué está pasando con la educación en Finlandia: "Los profesores piensan en dejarlo"](https://www.elconfidencial.com/mundo/europa/2021-11-14/educacion-finlandesa-profesores-dejarlo_3318724/) |
+| 12/11/2021 | [La imposició dels àmbits al País Valencià](https://revistamirall.com/2021/11/12/la-imposicio-dels-ambits-al-pais-valencia/) |
 | 09/11/2021 | [Deseducación y determinismo social](https://eldiariodelaeducacion.com/2021/11/09/deseducacion-y-determinismo-social/) |
 | 08/11/2021 | [Las matemáticas del ojo: un estudio descubre que la pupila percibe información numérica](https://www.elconfidencial.com/alma-corazon-vida/2021-11-08/las-matematicas-del-ojo-un-estudio-descubre-que-la-pupila-percibe-informacion-numerica_3317211/) |
 | 08/11/2021 | [¿Por qué los buenos docentes no son asesores educativos?](https://www.catalunyavanguardista.com/por-que-los-buenos-docentes-no-son-asesores-educativos/) |
