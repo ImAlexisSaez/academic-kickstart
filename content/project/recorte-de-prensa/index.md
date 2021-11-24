@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 22/11/2021 | [Educar en una sociedad crédula](https://es.fundacioepisteme.cat/2021/11/22/educar-en-una-sociedad-credula/) |
 | 21/11/2021 | [Pasar de curso](https://www.diariocordoba.com/opinion/2021/11/21/pasar-curso-59755682.html) |
 | 20/11/2021 | [Las inteligencias múltiples, con las evidencias que tenemos actualmente, NO existen](https://xarxatic.com/las-inteligencias-multiples-con-las-evidencias-que-tenemos-actualmente-no-existen/) |
 | 19/11/2021 | [Así se contiene ahora la tensión en las aulas](https://www.elcorreo.com/vivir/relaciones-humanas/contiene-tension-aulas-20211120114911-ntrc.html) |
