@@ -27,10 +27,18 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* una serie
 
 En la medida de lo posible, intentaré incluir únicamente aquellos que puedan consultarse libremente o bien los pertenecientes a sitios webs con restricciones, pero que ofrezcan la posibilidad de acceder gratuitamente a cierto número de artículos en un período de tiempo dado.
 
+### Dociembre de 2021
+
+| Fecha | Artículo |
+| ------- | ------ |
+| 02/12/2021 | [Problemas educativos más importantes que el currículo y las ratios: Bitcoins, NFT, Instagram y acoso en red](https://xarxatic.com/problemas-educativos-mas-importantes-que-el-curriculo-y-las-ratios-bitcoins-nft-instagram-y-acoso-en-red/) |
+| 01/12/2021 | [Paseando entre árboles de Pitágoras](https://culturacientifica.com/2021/12/01/paseando-entre-arboles-de-pitagoras/) |
+
 ### Noviembre de 2021
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 25/11/2021 | [Trabajo por ámbitos: el destrozo educativo de la Comunitat Valenciana](https://eldiariodelaeducacion.com/2021/11/25/trabajo-por-ambitos-el-destrozo-educativo-de-la-comunitat-valenciana/) |
 | 22/11/2021 | [Educar en una sociedad crédula](https://es.fundacioepisteme.cat/2021/11/22/educar-en-una-sociedad-credula/) |
 | 21/11/2021 | [Pasar de curso](https://www.diariocordoba.com/opinion/2021/11/21/pasar-curso-59755682.html) |
 | 20/11/2021 | [Las inteligencias múltiples, con las evidencias que tenemos actualmente, NO existen](https://xarxatic.com/las-inteligencias-multiples-con-las-evidencias-que-tenemos-actualmente-no-existen/) |
