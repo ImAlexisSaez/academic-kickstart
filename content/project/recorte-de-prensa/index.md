@@ -31,7 +31,9 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 03/12/2021 | [Innovadoramente tradicionales](https://es.fundacioepisteme.cat/2021/12/03/innovadoramente-tradicionales/) |
 | 02/12/2021 | [Problemas educativos más importantes que el currículo y las ratios: Bitcoins, NFT, Instagram y acoso en red](https://xarxatic.com/problemas-educativos-mas-importantes-que-el-curriculo-y-las-ratios-bitcoins-nft-instagram-y-acoso-en-red/) |
+| 02/12/2021 | [Sobre el nuevo ‘curriculum’: ¿qué pasará con la sintaxis en la clase de lengua de secundaria?](https://letraslibres.com/uncategorized/sobre-el-nuevo-emcurriculumemnbsp-que-pasara-con-la-sintaxis-en-la-clase-de-lengua-de-secundaria/) |
 | 01/12/2021 | [Paseando entre árboles de Pitágoras](https://culturacientifica.com/2021/12/01/paseando-entre-arboles-de-pitagoras/) |
 
 ### Noviembre de 2021
@@ -74,6 +76,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 26/10/2021 | [Kurt Gödel: racionalidad inconsistente](https://institucional.us.es/blogimus/2021/10/kurt-godel-racionalidad-inconsistente/) |
 | 21/10/2021 | [Los nuevos currículos de Secundaria, una "revolución" que deja elegir a los docentes el contenido de las asignaturas](https://www.eldiario.es/sociedad/nuevos-curriculos-secundaria-revolucion-deja-elegir-docentes-contenido-asignaturas_1_8399075.html) |
 | 18/10/2021 | [Finlandia, un sistema educativo en caída libre](https://www.catalunyavanguardista.com/finlandia-un-sistema-educativo-en-caida-libre/) |
+| 18/10/2021 | [Lista de evidencias que sugieren que las pantallas no mejoran la educación (de hecho, la empeoran)](https://diariodeuninterino.wordpress.com/2021/10/18/lista-de-evidencias-que-sugieren-que-las-pantallas-no-mejoran-la-educacion-la-empeoran/) |
 | 15/10/2021 | [El nuevo currículo de la ESO no menciona los logaritmos en Matemáticas y reduce la historia literaria](https://www.elmundo.es/espana/2021/10/15/616869d9fdddff2c728b45ab.html) |
 | 15/10/2021 | [Propuestas para mejorar los estudios de Matemáticas](https://www.catalunyavanguardista.com/propuestas-para-mejorar-los-estudios-de-matematicas/) |
 | 11/10/2021 | [El modelo educativo de Estonia y Finlandia](https://www.catalunyavanguardista.com/el-modelo-educativo-de-estonia-y-finlandia/) |
