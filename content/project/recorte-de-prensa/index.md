@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 05/12/2021 | [Así se ha convertido Estonia en la nueva Finalandia](https://www.abc.es/xlsemanal/a-fondo/educacion-estonia-mejor-sistema-educativo-informe-pisa.html)|
+| 05/12/2021 | [Becky Francis: "Si dejas una clase de 30 alumnos en 15 ves un gran impacto en el resultado de los estudiantes"](https://www.eldiario.es/sociedad/becky-francis-si-dejas-clase-30-alumnos-15-ves-gran-impacto-resultado-estudiantes_128_8547651.html) |
 | 03/12/2021 | [Innovadoramente tradicionales](https://es.fundacioepisteme.cat/2021/12/03/innovadoramente-tradicionales/) |
 | 02/12/2021 | [Problemas educativos más importantes que el currículo y las ratios: Bitcoins, NFT, Instagram y acoso en red](https://xarxatic.com/problemas-educativos-mas-importantes-que-el-curriculo-y-las-ratios-bitcoins-nft-instagram-y-acoso-en-red/) |
 | 02/12/2021 | [Sobre el nuevo ‘curriculum’: ¿qué pasará con la sintaxis en la clase de lengua de secundaria?](https://letraslibres.com/uncategorized/sobre-el-nuevo-emcurriculumemnbsp-que-pasara-con-la-sintaxis-en-la-clase-de-lengua-de-secundaria/) |
@@ -40,6 +42,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 26/11/2021 | [El “acoso” de las familias es la principal preocupación de los docentes](https://www.levante-emv.com/comunitat-valenciana/2021/11/26/acoso-familias-principal-preocupacion-docentes-59999995.html) |
 | 25/11/2021 | [Trabajo por ámbitos: el destrozo educativo de la Comunitat Valenciana](https://eldiariodelaeducacion.com/2021/11/25/trabajo-por-ambitos-el-destrozo-educativo-de-la-comunitat-valenciana/) |
 | 22/11/2021 | [Educar en una sociedad crédula](https://es.fundacioepisteme.cat/2021/11/22/educar-en-una-sociedad-credula/) |
 | 21/11/2021 | [Pasar de curso](https://www.diariocordoba.com/opinion/2021/11/21/pasar-curso-59755682.html) |
