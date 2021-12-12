@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2021-10-02T00:00:01+01:00
+lastmod: 2021-12-12T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,10 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 11/12/2021 | [Granada desvela los secretos matemáticos del Al-Ándalus](https://www.ideal.es/culturas/secretos-matematicos-alandalus-20211211155527-nt.html) |
+| 09/12/2021 | [«Hay que empezar a pensar en nuestro renacimiento intelectual»](https://www.catalunyavanguardista.com/hay-que-empezar-a-pensar-en-nuestro-renacimiento-intelectual/)|
+| 09/12/2021 | [Los nuevos currículos priorizan la educación socioemocional en la escuela: "El que se siente bien, aprende mejor"](https://www.20minutos.es/noticia/4910217/0/educacion-socioemocional-colegios-eje-sistema-bienestar-alumnos/) |
+| 06/12/2021 | [La clave del éxito de la educación en Estonia no es la innovación](https://diariodeuninterino.wordpress.com/2021/12/06/la-clave-del-exito-de-la-educacion-en-estonia-no-es-la-innovacion/) |
 | 05/12/2021 | [Así se ha convertido Estonia en la nueva Finalandia](https://www.abc.es/xlsemanal/a-fondo/educacion-estonia-mejor-sistema-educativo-informe-pisa.html)|
 | 05/12/2021 | [Becky Francis: "Si dejas una clase de 30 alumnos en 15 ves un gran impacto en el resultado de los estudiantes"](https://www.eldiario.es/sociedad/becky-francis-si-dejas-clase-30-alumnos-15-ves-gran-impacto-resultado-estudiantes_128_8547651.html) |
 | 03/12/2021 | [Innovadoramente tradicionales](https://es.fundacioepisteme.cat/2021/12/03/innovadoramente-tradicionales/) |
@@ -150,6 +154,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 26/03/2021 | [Joaquim Prats: “Hemos logrado una escuela de mínimos”](https://www.catalunyavanguardista.com/joaquim-prats-hemos-logrado-una-escuela-de-minimos/) |
 | 19/12/2020 | [El profesor vencido](https://www.xlsemanal.com/firmas/20201219/el-profesor-vencido-perez-reverte.html) |
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
 | 30/11/2020 | [El final de la era pedagogista](https://elpais.com/educacion/2020-11-30/el-final-de-la-era-pedagogista.html) |
