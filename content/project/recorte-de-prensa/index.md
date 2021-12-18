@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2021-12-12T00:00:01+01:00
+lastmod: 2021-12-18T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 15/12/2021 | [Contra el nuevo absolutismo educativo](https://www.levante-emv.com/opinion/2021/12/15/nuevo-absolutismo-educativo-60673116.html) |
+| 13/12/2021 | [Trigonometría, el puente que une todas las matemáticas](https://www.abc.es/ciencia/abci-trigonometria-puente-todas-matematicas-202112130247_noticia.html) |
 | 11/12/2021 | [Granada desvela los secretos matemáticos del Al-Ándalus](https://www.ideal.es/culturas/secretos-matematicos-alandalus-20211211155527-nt.html) |
 | 09/12/2021 | [«Hay que empezar a pensar en nuestro renacimiento intelectual»](https://www.catalunyavanguardista.com/hay-que-empezar-a-pensar-en-nuestro-renacimiento-intelectual/)|
 | 09/12/2021 | [Los nuevos currículos priorizan la educación socioemocional en la escuela: "El que se siente bien, aprende mejor"](https://www.20minutos.es/noticia/4910217/0/educacion-socioemocional-colegios-eje-sistema-bienestar-alumnos/) |
