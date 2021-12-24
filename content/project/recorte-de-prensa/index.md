@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2021-12-18T00:00:01+01:00
+lastmod: 2021-12-24T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 21/12/2021 | [Contra la LOMLOE/1: Titular Bachillerato con suspensos y la nueva dominación social](https://epmesa.blogspot.com/2021/12/contra-la-lomloe1-titular-bachillerato.html) |
 | 15/12/2021 | [Contra el nuevo absolutismo educativo](https://www.levante-emv.com/opinion/2021/12/15/nuevo-absolutismo-educativo-60673116.html) |
 | 13/12/2021 | [Trigonometría, el puente que une todas las matemáticas](https://www.abc.es/ciencia/abci-trigonometria-puente-todas-matematicas-202112130247_noticia.html) |
 | 11/12/2021 | [Granada desvela los secretos matemáticos del Al-Ándalus](https://www.ideal.es/culturas/secretos-matematicos-alandalus-20211211155527-nt.html) |
@@ -162,6 +163,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 30/11/2020 | [El final de la era pedagogista](https://elpais.com/educacion/2020-11-30/el-final-de-la-era-pedagogista.html) |
 | 01/09/2020 | [Catherine L’Ecuyer: águila contra los mitos educativos](https://www.thegodmothermag.eu/post/catherine-l-ecuyer-%C3%A1guila-contra-los-mitos-educativos) |
 | 07/12/2018 | ["Os habéis callado, cómplices": la indignada carta de un maestro abre el debate](https://www.huffingtonpost.es/2018/12/07/os-habeis-callado-complices-la-indignada-carta-de-un-maestro-abre-el-debate_a_23611473/) |
+| 18/05/2018 | [Matemáticas y literatura: una fecunda combinación](https://www.nuevatribuna.es/articulo/cultura---ocio/matematicas-literatura-fecunda-combinacion/20180518191307152071.html) |
 | 04/04/2018 | [El hombre que ha desmontado la educación finlandesa: "Es un peligro imitarla"](https://www.elconfidencial.com/alma-corazon-vida/2018-04-04/hombre-educacion-finlandesa-peligro-imitarla_1544856/) |
 | 11/11/2017 | [Uno de tantos: crónica de un fracaso educativo](https://discursiones2.blogspot.com/2017/11/uno-de-tantos-cronica-de-un-fracaso.html) |
 | 01/05/2014 | [Fobia a las matemáticas](https://www.investigacionyciencia.es/revistas/mente-y-cerebro/estudiar-mejor-600/fobia-a-las-matemticas-12049) |
