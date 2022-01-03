@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2021-12-24T00:00:01+01:00
+lastmod: 2022-01-03T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -27,10 +27,20 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* una serie
 
 En la medida de lo posible, intentaré incluir únicamente aquellos que puedan consultarse libremente o bien los pertenecientes a sitios webs con restricciones, pero que ofrezcan la posibilidad de acceder gratuitamente a cierto número de artículos en un período de tiempo dado.
 
-### Dociembre de 2021
+### 2022
 
 | Fecha | Artículo |
 | ------- | ------ |
+
+### Anteriores a 2022
+
+| Fecha | Artículo |
+| ------- | ------ |
+| 31/12/2021 | [Existen infinitos más grandes que otros: Las desconcertantes propiedades del infinito](https://www.larazon.es/ciencia/20211231/k5usej5b7recla3xztkmsrpwiq.html) |
+| 31/12/2021 | [¡¡Felices Fiestas y Feliz Año Esfénico 2022!!](https://www.gaussianos.com/felices-fiestas-y-feliz-ano-esfenico-2022/) |
+| 30/12/2021 | [Acosados por ser educados](https://eldiariocantabria.publico.es/opinion/lorena-barquin/acosados-ser-educados/20211230204147109087.html) |
+| 26/12/2021 | [L'educació per àmbits punxa en segon d'ESO](https://www.apuntmedia.es/noticies/societat/l-educacio-ambits-punxa-segon-d-eso_1_1476191.html) |
+| 24/12/2021 | [¿Cómo calcular el volumen de un cubo? Un viaje a la cuarta dimensión](https://www.larazon.es/ciencia/20211224/3t4onfzslzbj5ox7kdoy4ecvru.html) |
 | 21/12/2021 | [Contra la LOMLOE/1: Titular Bachillerato con suspensos y la nueva dominación social](https://epmesa.blogspot.com/2021/12/contra-la-lomloe1-titular-bachillerato.html) |
 | 15/12/2021 | [Contra el nuevo absolutismo educativo](https://www.levante-emv.com/opinion/2021/12/15/nuevo-absolutismo-educativo-60673116.html) |
 | 13/12/2021 | [Trigonometría, el puente que une todas las matemáticas](https://www.abc.es/ciencia/abci-trigonometria-puente-todas-matematicas-202112130247_noticia.html) |
@@ -44,11 +54,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 02/12/2021 | [Problemas educativos más importantes que el currículo y las ratios: Bitcoins, NFT, Instagram y acoso en red](https://xarxatic.com/problemas-educativos-mas-importantes-que-el-curriculo-y-las-ratios-bitcoins-nft-instagram-y-acoso-en-red/) |
 | 02/12/2021 | [Sobre el nuevo ‘curriculum’: ¿qué pasará con la sintaxis en la clase de lengua de secundaria?](https://letraslibres.com/uncategorized/sobre-el-nuevo-emcurriculumemnbsp-que-pasara-con-la-sintaxis-en-la-clase-de-lengua-de-secundaria/) |
 | 01/12/2021 | [Paseando entre árboles de Pitágoras](https://culturacientifica.com/2021/12/01/paseando-entre-arboles-de-pitagoras/) |
-
-### Noviembre de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 26/11/2021 | [El “acoso” de las familias es la principal preocupación de los docentes](https://www.levante-emv.com/comunitat-valenciana/2021/11/26/acoso-familias-principal-preocupacion-docentes-59999995.html) |
 | 25/11/2021 | [Trabajo por ámbitos: el destrozo educativo de la Comunitat Valenciana](https://eldiariodelaeducacion.com/2021/11/25/trabajo-por-ambitos-el-destrozo-educativo-de-la-comunitat-valenciana/) |
 | 22/11/2021 | [Educar en una sociedad crédula](https://es.fundacioepisteme.cat/2021/11/22/educar-en-una-sociedad-credula/) |
@@ -68,11 +73,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 08/11/2021 | [¿Por qué los buenos docentes no son asesores educativos?](https://www.catalunyavanguardista.com/por-que-los-buenos-docentes-no-son-asesores-educativos/) |
 | 03/11/2021 | [Catherine L’Ecuyer: «Cuanta más educación hay en las aulas parece que menos haya en los alumnos»](https://exitoeducativo.net/catherine-lecuyer-cuanta-mas-educacion-hay-en-las-aulas-parece-que-menos-haya-en-los-alumnos/) |
 | 01/11/2021 | [¿Expertos educativos o fugitivos de la tiza?](https://www.catalunyavanguardista.com/expertos-educativos-o-fugitivos-de-la-tiza/) |
-
-### Octubre de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 31/10/2021 | [Igualitarismo educativo](https://xarxatic.com/igualitarismo-educativo/) |
 | 30/10/2021 | [La vida es lo que empieza después del trabajo](https://xarxatic.com/la-vida-es-lo-que-empieza-despues-del-trabajo/) |
 | 30/10/2021 | [“Por el camino se quedan más mujeres matemáticas que hombres”](https://elpais.com/ciencia/2021-10-30/por-el-camino-se-quedan-mas-mujeres-matematicas-que-hombres.html) |
@@ -95,11 +95,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 04/10/2021 | [¿Democracia o “dictablanda” en el aula?](https://www.catalunyavanguardista.com/democracia-o-dictablanda-en-el-aula/) |
 | 04/10/2021 | [El Bachillerato «Peter Pan»](https://xavier-masso.blogspot.com/2021/10/el-bachillerato-peter-pan.html?m=1)|
 | 04/10/2021 | [La reforma del Bachillerato llega con polémica: "conservadora" y pensada para las grandes ciudades](https://www.eldiario.es/sociedad/reforma-bachillerato-llega-polemica-conservadora-pensada-grandes-ciudades_1_8365881.html) |
-
-### Septiembre de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 30/09/2021 | [La Escuela no es un parque de atracciones](https://xarxatic.com/la-escuela-no-es-un-parque-de-atracciones/) |
 | 27/09/2021 | [¿Por qué algunos alumnos se nos duermen?](https://www.catalunyavanguardista.com/por-que-algunos-alumnos-se-nos-duermen/) |
 | 27/09/2021 | [Andreu Navarra: “Estamos viviendo una etapa de iconoclastia antiintelectual”](https://cronicaglobal.elespanol.com/letra-global/la-charla/andreu-navarra-iconoclastia-antiintelectual-npfb_541011_102.html) |
@@ -118,11 +113,6 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 11/09/2021 | [Adiós a septiembre. El maquillaje como fenómeno educativo.](https://jamunozandrade.wordpress.com/2021/09/11/adios-a-septiembre-el-maquillaje-como-fenomeno-educativo/) |
 | 11/09/2021 | [Estancados desde la LOGSE](https://xarxatic.com/estancados-desde-la-logse/) |
 | 10/09/2021 | [Cosas que, como docentes, jamás deberíais publicar en vuestras redes sociales](https://xarxatic.com/cosas-que-como-docentes-jamas-deberiais-publicar-en-vuestras-redes-sociales/) |
-
-### Agosto de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 30/08/2021 | [Los cuatro rasgos de los profesores que dejan huella según la ciencia](https://www.lavanguardia.com/que-estudiar/20210830/7672977/cuatro-rasgos-profesores-dejan-huella-ciencia-brl.html) |
 | 30/08/2021 | [Sergi del Moral: "Tras la llamada cultura del esfuerzo en la escuela se esconden métodos que exigen sacrificio sin sentido"](https://www.eldiario.es/catalunya/sergi-moral-llamada-cultura-esfuerzo-escuela-esconden-metodos-exigen-sacrificio-sentido_1_8256458.html) |
 | 30/08/2021 | [Un baño de realidad](https://elpais.com/educacion/2021-08-30/un-bano-de-realidad.html) |
@@ -134,29 +124,14 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 05/08/2021 | [El deber moral de ser inteligente](https://theobjective.com/elsubjetivo/el-deber-moral-de-ser-inteligente-2) |
 | 05/08/2021 | [Hacer los deberes mejoraba la nota final del 86% de los alumnos. Hasta que llegó Google](https://magnet.xataka.com/en-diez-minutos/hacer-deberes-mejoraba-nota-final-86-alumnos-que-llego-google) |
 | 01/08/2021 | [Gregorio Luri, pedagogo: "El fracaso escolar es un fracaso lingüístico"](https://www.heraldo.es/noticias/sociedad/2021/08/01/gregorio-luri-pedagogo-el-gran-problema-de-espana-es-la-doble-velocidad-de-la-escuela-1510213.html) |
-
-### Julio de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 23/07/2021 | [Michel Desmurget: “Las pantallas afectan el lenguaje, la concentración, la memoria y el aprendizaje”](https://www.latercera.com/la-tercera-sabado/noticia/michel-desmurget-las-pantallas-afectan-el-lenguaje-la-concentracion-la-memoria-y-el-aprendizaje/6XAW32E2OZACJC36LC4EQBWIHI/) |
 | 21/07/2021 | [Aquí está (casi) todo](https://trescatorce15926.wordpress.com/2021/07/21/aqui-esta-casi-todo/) |
 | 05/07/2021 | [El SOS de la educación: hablan los profesores](https://elcultural.com/el-sos-de-la-educacion-hablan-los-profesores) |
 | 05/07/2021 | [Ser profesaurio en la escuela del siglo XXI](https://xarxatic.com/ser-profesaurio-en-la-escuela-del-siglo-xxi/) |
-
-### Junio de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 30/06/2021 | [Desconexión](https://elpais.com/educacion/2021-06-30/desconexion.html) |
 | 29/06/2021 | [Andreu Navarra: "La escuela es un laboratorio de conformismo"](https://www.magisnet.com/2021/06/andreu-navarra-la-escuela-es-un-laboratorio-de-conformismo/) |
 | 20/06/2021 | [Prevenir l’abandonament escolar… del professorat](https://diarieducacio.cat/prevenir-labandonament-escolar-del-professorat/) |
 | 01/06/2021 | [Los padres de la LOGSE contra la LOGSE](https://xarxatic.com/los-padres-de-la-logse-contra-la-logse/) |
-
-### Anteriores a junio de 2021
-
-| Fecha | Artículo |
-| ------- | ------ |
 | 26/03/2021 | [Joaquim Prats: “Hemos logrado una escuela de mínimos”](https://www.catalunyavanguardista.com/joaquim-prats-hemos-logrado-una-escuela-de-minimos/) |
 | 19/12/2020 | [El profesor vencido](https://www.xlsemanal.com/firmas/20201219/el-profesor-vencido-perez-reverte.html) |
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
