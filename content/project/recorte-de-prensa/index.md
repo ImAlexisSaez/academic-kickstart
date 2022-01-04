@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-03T00:00:01+01:00
+lastmod: 2022-01-04T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 02/01/2022 | ["Lo que cambia la vida de un estudiante es un buen profesor"](https://www.diariodesevilla.es/delibros/nuccio-ordine-escritor-profeso_0_1643835602.html) |
 
 ### Anteriores a 2022
 
