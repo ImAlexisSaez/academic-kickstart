@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-04T00:00:01+01:00
+lastmod: 2022-01-11T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 10/01/2022 | [Decálogo para la transformación educativa](https://xarxatic.com/decalogo-para-la-transformacion-educativa/) |
+| 05/01/2022 | [LOMLOE: ¿son las competencias básicas la solución o el problema educativo?](https://www.eldiario.es/opinion/tribuna-abierta/lomloe-son-competencias-basicas-solucion-problema-educativo_129_8607886.html) |
 | 02/01/2022 | ["Lo que cambia la vida de un estudiante es un buen profesor"](https://www.diariodesevilla.es/delibros/nuccio-ordine-escritor-profeso_0_1643835602.html) |
 
 ### Anteriores a 2022
@@ -138,6 +140,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
 | 30/11/2020 | [El final de la era pedagogista](https://elpais.com/educacion/2020-11-30/el-final-de-la-era-pedagogista.html) |
 | 01/09/2020 | [Catherine L’Ecuyer: águila contra los mitos educativos](https://www.thegodmothermag.eu/post/catherine-l-ecuyer-%C3%A1guila-contra-los-mitos-educativos) |
+| 09/01/2019 | [Las dos culturas de las matemáticas: construir teorías o resolver problemas](https://culturacientifica.com/2019/01/09/las-dos-culturas-de-las-matematicas-construir-teorias-o-resolver-problemas/) |
 | 07/12/2018 | ["Os habéis callado, cómplices": la indignada carta de un maestro abre el debate](https://www.huffingtonpost.es/2018/12/07/os-habeis-callado-complices-la-indignada-carta-de-un-maestro-abre-el-debate_a_23611473/) |
 | 18/05/2018 | [Matemáticas y literatura: una fecunda combinación](https://www.nuevatribuna.es/articulo/cultura---ocio/matematicas-literatura-fecunda-combinacion/20180518191307152071.html) |
 | 04/04/2018 | [El hombre que ha desmontado la educación finlandesa: "Es un peligro imitarla"](https://www.elconfidencial.com/alma-corazon-vida/2018-04-04/hombre-educacion-finlandesa-peligro-imitarla_1544856/) |
