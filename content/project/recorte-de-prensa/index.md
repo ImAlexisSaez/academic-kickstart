@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-11T00:00:01+01:00
+lastmod: 2022-01-22T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,11 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 19/01/2022 | [Así serán los maestros del futuro: los seis retos a los que se enfrentan](https://www.eleconomista.es/ecoaula/noticias/11572698/01/22/Asi-seran-los-maestros-del-futuro-los-seis-retos-a-los-que-se-enfrentan.html) |
+| 19/01/2022 | [La función f(x)=1/x y una discusión continua](https://www.gaussianos.com/la-funcion-fx1-x-y-una-discusion-continua/) |
+| 18/01/2022 | [Educación y disciplina](https://www.bloghemia.com/2022/01/educacion-y-disciplina-por-bertrand.html) |
+| 18/01/2022 | [«El pacto educativo existe: izquierda y derecha van de la mano»](https://es.fundacioepisteme.cat/2022/01/18/el-pacto-educativo-existe-izquierda-y-derecha-van-de-la-mano/) |
+| 16/01/2022 | [Los estilos de aprendizaje son un mito, por lo tanto, ¿qué es lo cierto?](https://unestelalalba.blogspot.com/2022/01/los-estilos-de-aprendizaje-son-un-mito.html) |
 | 10/01/2022 | [Decálogo para la transformación educativa](https://xarxatic.com/decalogo-para-la-transformacion-educativa/) |
 | 05/01/2022 | [LOMLOE: ¿son las competencias básicas la solución o el problema educativo?](https://www.eldiario.es/opinion/tribuna-abierta/lomloe-son-competencias-basicas-solucion-problema-educativo_129_8607886.html) |
 | 02/01/2022 | ["Lo que cambia la vida de un estudiante es un buen profesor"](https://www.diariodesevilla.es/delibros/nuccio-ordine-escritor-profeso_0_1643835602.html) |
