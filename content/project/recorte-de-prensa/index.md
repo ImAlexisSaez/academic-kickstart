@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-22T00:00:01+01:00
+lastmod: 2022-01-24T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 23/01/2022 | [Las clases particulares, el oscuro camino al éxito para las nuevas generaciones](https://www.elconfidencial.com/cultura/2022-01-23/educacion-clases-particulares-nuevas-generaciones_3362324/) |
+| 21/01/2022 | [El odio a las matemáticas se transmite: los docentes tienen la clave](https://formacionib.org/noticias/?El-odio-a-las-matematicas-se-transmite-los-docentes-tienen-la-clave) |
 | 19/01/2022 | [Así serán los maestros del futuro: los seis retos a los que se enfrentan](https://www.eleconomista.es/ecoaula/noticias/11572698/01/22/Asi-seran-los-maestros-del-futuro-los-seis-retos-a-los-que-se-enfrentan.html) |
 | 19/01/2022 | [La función f(x)=1/x y una discusión continua](https://www.gaussianos.com/la-funcion-fx1-x-y-una-discusion-continua/) |
 | 18/01/2022 | [Educación y disciplina](https://www.bloghemia.com/2022/01/educacion-y-disciplina-por-bertrand.html) |
