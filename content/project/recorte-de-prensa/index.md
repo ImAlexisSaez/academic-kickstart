@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-24T00:00:01+01:00
+lastmod: 2022-01-31T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,13 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 29/01/2022 | [Cambios en el oficio de enseñar. Sensaciones al vuelo](https://www.lavozdeasturias.es/noticia/opinion/2022/01/28/cambios-oficio-ensenar-sensaciones-vuelo/00031643393660705307233.htm) |
+| 29/01/2022 | [Mitos sobre aprendizaje y educación (volumen IV)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-iv/) |
+| 28/01/2022 | [Mitos sobre aprendizaje y educación (volumen III)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-iii/) |
+| 27/01/2022 | [Mitos sobre aprendizaje y educación (volumen II)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-ii/) |
+| 26/01/2022 | [Els deu enemics del nostre sistema educatiu](https://revistamirall.com/2022/01/26/els-deu-enemics-del-nostre-sistema-educatiu/) |
+| 26/01/2022 | [Mitos sobre aprendizaje y educación (volumen I)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-i/) |
+| 26/01/2022 | [¿Por qué la política educativa española va en sentido contrario a la de todos los países europeos?](https://xarxatic.com/por-que-la-politica-educativa-espanola-va-en-sentido-contrario-a-la-de-todos-los-paises-europeos/) |
 | 23/01/2022 | [Las clases particulares, el oscuro camino al éxito para las nuevas generaciones](https://www.elconfidencial.com/cultura/2022-01-23/educacion-clases-particulares-nuevas-generaciones_3362324/) |
 | 21/01/2022 | [El odio a las matemáticas se transmite: los docentes tienen la clave](https://formacionib.org/noticias/?El-odio-a-las-matematicas-se-transmite-los-docentes-tienen-la-clave) |
 | 19/01/2022 | [Así serán los maestros del futuro: los seis retos a los que se enfrentan](https://www.eleconomista.es/ecoaula/noticias/11572698/01/22/Asi-seran-los-maestros-del-futuro-los-seis-retos-a-los-que-se-enfrentan.html) |
