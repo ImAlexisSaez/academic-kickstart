@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-01-31T00:00:01+01:00
+lastmod: 2022-02-05T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 02/02/2022 | [La (de)formación del profesorado y el alargamiento del máster pedagógico](https://es.fundacioepisteme.cat/2022/02/02/la-deformacion-del-profesorado-y-el-alargamiento-del-master-pedagogico/) |
 | 29/01/2022 | [Cambios en el oficio de enseñar. Sensaciones al vuelo](https://www.lavozdeasturias.es/noticia/opinion/2022/01/28/cambios-oficio-ensenar-sensaciones-vuelo/00031643393660705307233.htm) |
 | 29/01/2022 | [Mitos sobre aprendizaje y educación (volumen IV)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-iv/) |
 | 28/01/2022 | [Mitos sobre aprendizaje y educación (volumen III)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-iii/) |
