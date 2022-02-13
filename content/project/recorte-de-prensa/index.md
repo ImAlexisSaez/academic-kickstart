@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-02-12T00:00:01+01:00
+lastmod: 2022-02-13T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,9 +31,11 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 12/02/2022 | [¿Ha bajado el nivel del alumnado?](https://xarxatic.com/ha-bajado-el-nivel-del-alumnado/) |
 | 11/02/2022 | [Alarma por la brecha de género educativa: la proporción de mujeres cae cada curso en Matemáticas, Informática y Tecnología](https://elpais.com/educacion/2022-02-11/alarma-por-la-brecha-de-genero-educativa-la-proporcion-de-mujeres-cae-cada-curso-en-matematicas-informatica-y-tecnologia.html) |
 | 11/02/2022 | [¿Por qué Castilla y León tiene la mejor educación de España?](https://www.elconfidencial.com/espana/2022-02-11/por-que-castilla-leon-mejor-educacion-espana_3373857/) |
 | 11/02/2022 | [Sin estereotipos y con referentes femeninos: así se fomentan las vocaciones científicas en niñas y adolescentes](https://elpais.com/economia/formacion/2022-02-11/sin-estereotipos-y-con-referentes-femeninos-asi-se-fomentan-las-vocaciones-cientificas-en-ninas-y-adolescentes.html) |
+| 07/02/2022 | [Los deberes excesivos ahondan en la brecha social de los alumnos: "Hay padres que pueden ayudar; otros, no"](https://www.niusdiario.es/sociedad/educacion/deberes-excesivos-ahondan-brecha-social-alumnos-padres-ayudar_18_3277322167.html) |
 | 02/02/2022 | [La (de)formación del profesorado y el alargamiento del máster pedagógico](https://es.fundacioepisteme.cat/2022/02/02/la-deformacion-del-profesorado-y-el-alargamiento-del-master-pedagogico/) |
 | 29/01/2022 | [Cambios en el oficio de enseñar. Sensaciones al vuelo](https://www.lavozdeasturias.es/noticia/opinion/2022/01/28/cambios-oficio-ensenar-sensaciones-vuelo/00031643393660705307233.htm) |
 | 29/01/2022 | [Mitos sobre aprendizaje y educación (volumen IV)](https://xarxatic.com/mitos-sobre-aprendizaje-y-educacion-volumen-iv/) |
