@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-02-13T00:00:01+01:00
+lastmod: 2022-02-21T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,10 +31,15 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 20/02/2022 | ["El fin de la educación" de Xavier Massó Aguadé](https://mesecosicas.blogspot.com/2022/02/el-fin-de-la-educacion-de-xavier-masso.html) |
+| 20/02/2022 | [Ojalá fueran malvados](https://www.abc.es/xlsemanal/firmas/ojala-fueran-malvados-arturo-perez-reverte.html) |
+| 17/02/2022 | ["La LOMLOE tiene muy preocupado a buena parte del profesorado"](https://www.levante-emv.com/lectores/2022/02/17/lomloe-preocupado-buena-parte-profesorado-62824671.html) |
+| 13/02/2022 | [A vueltas con la evaluación: la obsesión de los ideólogos de la 'nueva educación' con las notas y los exámenes](https://unestelalalba.blogspot.com/2022/02/a-vueltas-con-la-evaluacion-la-obsesion.html) |
 | 12/02/2022 | [¿Ha bajado el nivel del alumnado?](https://xarxatic.com/ha-bajado-el-nivel-del-alumnado/) |
 | 11/02/2022 | [Alarma por la brecha de género educativa: la proporción de mujeres cae cada curso en Matemáticas, Informática y Tecnología](https://elpais.com/educacion/2022-02-11/alarma-por-la-brecha-de-genero-educativa-la-proporcion-de-mujeres-cae-cada-curso-en-matematicas-informatica-y-tecnologia.html) |
 | 11/02/2022 | [¿Por qué Castilla y León tiene la mejor educación de España?](https://www.elconfidencial.com/espana/2022-02-11/por-que-castilla-leon-mejor-educacion-espana_3373857/) |
 | 11/02/2022 | [Sin estereotipos y con referentes femeninos: así se fomentan las vocaciones científicas en niñas y adolescentes](https://elpais.com/economia/formacion/2022-02-11/sin-estereotipos-y-con-referentes-femeninos-asi-se-fomentan-las-vocaciones-cientificas-en-ninas-y-adolescentes.html) |
+| 09/02/2022 | [Entrevista | Catherine L'Ecuyer: "Creo en la educación basada en las evidencias y no en las ocurrencias"](https://www.20minutos.es/noticia/4952988/0/entrevista-catherine-l-ecuyer-creo-en-la-educacion-basada-en-las-evidencias-y-no-en-las-ocurrencias/) |
 | 07/02/2022 | [Los deberes excesivos ahondan en la brecha social de los alumnos: "Hay padres que pueden ayudar; otros, no"](https://www.niusdiario.es/sociedad/educacion/deberes-excesivos-ahondan-brecha-social-alumnos-padres-ayudar_18_3277322167.html) |
 | 02/02/2022 | [La (de)formación del profesorado y el alargamiento del máster pedagógico](https://es.fundacioepisteme.cat/2022/02/02/la-deformacion-del-profesorado-y-el-alargamiento-del-master-pedagogico/) |
 | 29/01/2022 | [Cambios en el oficio de enseñar. Sensaciones al vuelo](https://www.lavozdeasturias.es/noticia/opinion/2022/01/28/cambios-oficio-ensenar-sensaciones-vuelo/00031643393660705307233.htm) |
@@ -156,6 +161,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 20/06/2021 | [Prevenir l’abandonament escolar… del professorat](https://diarieducacio.cat/prevenir-labandonament-escolar-del-professorat/) |
 | 01/06/2021 | [Los padres de la LOGSE contra la LOGSE](https://xarxatic.com/los-padres-de-la-logse-contra-la-logse/) |
 | 26/03/2021 | [Joaquim Prats: “Hemos logrado una escuela de mínimos”](https://www.catalunyavanguardista.com/joaquim-prats-hemos-logrado-una-escuela-de-minimos/) |
+| 04/02/2021 | [Cómo educar a una generación de tontos](https://valenciaplaza.com/como-educar-a-una-generacion-de-tontos) |
 | 19/12/2020 | [El profesor vencido](https://www.xlsemanal.com/firmas/20201219/el-profesor-vencido-perez-reverte.html) |
 | 14/12/2020 | [Marina Garcés: «Se intenta reducir el aprendizaje a una flexibilidad adaptativa»](https://eldiariodelaeducacion.com/2020/12/14/marina-garces-se-intenta-reducir-el-aprendizaje-a-una-flexibilidad-adaptativa/) |
 | 30/11/2020 | [El final de la era pedagogista](https://elpais.com/educacion/2020-11-30/el-final-de-la-era-pedagogista.html) |
