@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-02-21T00:00:01+01:00
+lastmod: 2022-02-26T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,10 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 26/02/2022 | [La educación devastada](https://theobjective.com/elsubjetivo/opinion/2022-02-26/educacion-devastada/) |
+| 25/02/2022 | [Macrogranjas de alumnado](https://xarxatic.com/macrogranjas-de-alumnado/) |
+| 23/02/2022 | [Sacad vuestra sucia burocracia de nuestras escuelas](https://migijon.com/sacad-vuestra-sucia-burocracia-de-nuestras-escuelas/) |
+| 23/02/2022 | [Un manifest contra el populisme antipedagògic](https://revistamirall.com/2022/02/23/manifest-contra-el-populisme-antipedagogic/) |
 | 20/02/2022 | ["El fin de la educación" de Xavier Massó Aguadé](https://mesecosicas.blogspot.com/2022/02/el-fin-de-la-educacion-de-xavier-masso.html) |
 | 20/02/2022 | [Ojalá fueran malvados](https://www.abc.es/xlsemanal/firmas/ojala-fueran-malvados-arturo-perez-reverte.html) |
 | 17/02/2022 | ["La LOMLOE tiene muy preocupado a buena parte del profesorado"](https://www.levante-emv.com/lectores/2022/02/17/lomloe-preocupado-buena-parte-profesorado-62824671.html) |
