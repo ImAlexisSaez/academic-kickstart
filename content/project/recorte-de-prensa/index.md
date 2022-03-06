@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-02-26T00:00:01+01:00
+lastmod: 2022-03-06T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 05/03/2022 | [¿Qué significa realmente la autonomía curricular de centro?](https://xarxatic.com/que-significa-realmente-la-autonomia-curricular-de-centro/) |
+| 04/03/2022 | [Educación 451](https://es.fundacioepisteme.cat/2022/03/04/educacion-451/) |
 | 26/02/2022 | [La educación devastada](https://theobjective.com/elsubjetivo/opinion/2022-02-26/educacion-devastada/) |
 | 25/02/2022 | [Macrogranjas de alumnado](https://xarxatic.com/macrogranjas-de-alumnado/) |
 | 23/02/2022 | [Sacad vuestra sucia burocracia de nuestras escuelas](https://migijon.com/sacad-vuestra-sucia-burocracia-de-nuestras-escuelas/) |
