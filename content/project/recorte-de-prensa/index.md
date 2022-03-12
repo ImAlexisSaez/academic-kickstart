@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-03-06T00:00:01+01:00
+lastmod: 2022-03-12T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 10/03/2022 | [¿Y si la inclusión educativa fuera algo muy diferente a lo que se nos obliga a hacer en los centros educativos?](https://xarxatic.com/y-si-la-inclusion-educativa-fuera-algo-muy-diferente-a-lo-que-se-nos-obliga-a-hacer-en-los-centros-educativos/) |
+| 06/03/2022 | [Sobre las ideas que expuso Carlos Monereo en el 'Planta Baixa' de TV3](https://unestelalalba.blogspot.com/2022/03/sobre-las-ideas-que-expuso-carlos.html) |
 | 05/03/2022 | [¿Qué significa realmente la autonomía curricular de centro?](https://xarxatic.com/que-significa-realmente-la-autonomia-curricular-de-centro/) |
 | 04/03/2022 | [Educación 451](https://es.fundacioepisteme.cat/2022/03/04/educacion-451/) |
 | 26/02/2022 | [La educación devastada](https://theobjective.com/elsubjetivo/opinion/2022-02-26/educacion-devastada/) |
