@@ -1,6 +1,6 @@
 ---
 # An instance of the Experience widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
 # Activate this widget? true/false
@@ -15,15 +15,15 @@ weight: 50
 title: "Experiencia laboral"
 subtitle: ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: 2006-01-02
 
 # Experiences.
-#   Add/remove as many `experience` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   You can begin a multiline `description` using YAML's `|-`.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - company: "IES La Torreta"
   company_url: "https://mestreacasa.gva.es/web/ieslatorreta"
@@ -54,4 +54,7 @@ experience:
     * 2º de ESO: grupo C.
   location: "Elche"
   title: "Profesor de matemáticas"
+
+design:
+  columns: '2'
 ---

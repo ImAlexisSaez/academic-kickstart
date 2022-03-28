@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-03-12T00:00:01+01:00
+lastmod: 2022-03-13T00:00:01+01:00
 draft: false
 
 tags: ["Educación", "Matemáticas"]
@@ -31,6 +31,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 11/03/2022 | [La decadencia de la educación](https://www.libertaddigital.com/opinion/amando-de-miguel/la-decadencia-de-la-educacion-6874544/) |
 | 10/03/2022 | [¿Y si la inclusión educativa fuera algo muy diferente a lo que se nos obliga a hacer en los centros educativos?](https://xarxatic.com/y-si-la-inclusion-educativa-fuera-algo-muy-diferente-a-lo-que-se-nos-obliga-a-hacer-en-los-centros-educativos/) |
 | 06/03/2022 | [Sobre las ideas que expuso Carlos Monereo en el 'Planta Baixa' de TV3](https://unestelalalba.blogspot.com/2022/03/sobre-las-ideas-que-expuso-carlos.html) |
 | 05/03/2022 | [¿Qué significa realmente la autonomía curricular de centro?](https://xarxatic.com/que-significa-realmente-la-autonomia-curricular-de-centro/) |
@@ -47,7 +48,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 | 11/02/2022 | [Alarma por la brecha de género educativa: la proporción de mujeres cae cada curso en Matemáticas, Informática y Tecnología](https://elpais.com/educacion/2022-02-11/alarma-por-la-brecha-de-genero-educativa-la-proporcion-de-mujeres-cae-cada-curso-en-matematicas-informatica-y-tecnologia.html) |
 | 11/02/2022 | [¿Por qué Castilla y León tiene la mejor educación de España?](https://www.elconfidencial.com/espana/2022-02-11/por-que-castilla-leon-mejor-educacion-espana_3373857/) |
 | 11/02/2022 | [Sin estereotipos y con referentes femeninos: así se fomentan las vocaciones científicas en niñas y adolescentes](https://elpais.com/economia/formacion/2022-02-11/sin-estereotipos-y-con-referentes-femeninos-asi-se-fomentan-las-vocaciones-cientificas-en-ninas-y-adolescentes.html) |
-| 09/02/2022 | [Entrevista | Catherine L'Ecuyer: "Creo en la educación basada en las evidencias y no en las ocurrencias"](https://www.20minutos.es/noticia/4952988/0/entrevista-catherine-l-ecuyer-creo-en-la-educacion-basada-en-las-evidencias-y-no-en-las-ocurrencias/) |
+| 09/02/2022 | [Catherine L'Ecuyer: "Creo en la educación basada en las evidencias y no en las ocurrencias"](https://www.20minutos.es/noticia/4952988/0/entrevista-catherine-l-ecuyer-creo-en-la-educacion-basada-en-las-evidencias-y-no-en-las-ocurrencias/) |
 | 07/02/2022 | [Los deberes excesivos ahondan en la brecha social de los alumnos: "Hay padres que pueden ayudar; otros, no"](https://www.niusdiario.es/sociedad/educacion/deberes-excesivos-ahondan-brecha-social-alumnos-padres-ayudar_18_3277322167.html) |
 | 02/02/2022 | [La (de)formación del profesorado y el alargamiento del máster pedagógico](https://es.fundacioepisteme.cat/2022/02/02/la-deformacion-del-profesorado-y-el-alargamiento-del-master-pedagogico/) |
 | 29/01/2022 | [Cambios en el oficio de enseñar. Sensaciones al vuelo](https://www.lavozdeasturias.es/noticia/opinion/2022/01/28/cambios-oficio-ensenar-sensaciones-vuelo/00031643393660705307233.htm) |

@@ -1,6 +1,6 @@
 ---
 # An instance of the About widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
 
 # Activate this widget? true/false
@@ -10,12 +10,12 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
-title: "Acerca de"
+title: 'Acerca de'
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
