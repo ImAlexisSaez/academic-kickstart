@@ -1,7 +1,7 @@
 ---
 title: "Valencià"
 slug: "valenciano"
-date: 2019-07-21T00:00:01+01:00
+date: 2019-07-20T00:00:01+01:00
 lastmod: 2019-07-21T00:00:01+01:00
 draft: false
 

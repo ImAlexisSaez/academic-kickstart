@@ -1,7 +1,7 @@
 ---
 title: "Problemas (Oposición)"
 slug: "problemas-de-oposicion"
-date: 2021-06-20T00:00:01+01:00
+date: 2021-06-19T00:00:01+01:00
 lastmod: 2021-06-20T00:00:01+01:00
 draft: false
 
