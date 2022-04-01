@@ -68,7 +68,11 @@ related:
       weight: 100
     - name: categories
       weight: 70
-security:
+security:  
   _merge: deep
+  funcs: # Arregla error del PATH provocado por Hugo 0.91 en adelante
+    getenv:
+      - ^HUGO_
+      - ^WC_
 sitemap:
   _merge: deep
