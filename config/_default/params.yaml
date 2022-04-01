@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/ImAlexisSaez/academic-kickstart'
+    url: ''
     content_dir: content
     branch: master
   avatar:

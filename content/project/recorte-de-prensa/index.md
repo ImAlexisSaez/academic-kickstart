@@ -2,21 +2,11 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-03-13T00:00:01+01:00
-draft: false
+lastmod: 2022-04-01T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
 summary: "Recopilación cronológica de diversos artículos publicados en la prensa digital o en blogs personales relacionados bien con las matemáticas (tanto en su faceta educativa como en la divulgativa), bien con la educación en general."
-
-slides: ""
-external_link: ""
-url_pdf: ""
-url_code: ""
-url_dataset: ""
-url_slides: ""
-url_video: ""
-url_poster: ""
 
 image:
   focal_point: "Smart"
@@ -31,6 +21,14 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 01/04/2022 | [«Tirar la toalla de educar es el preámbulo a todos los desastres sociales»](https://www.periodicodeibiza.es/pitiusas/ibiza/2022/04/01/1717255/tirar-toalla-educar-preambulo-todos-desastres-sociales.html) |
+| 31/03/2022 | [Cuando el conocimiento es magistral](https://theobjective.com/elsubjetivo/opinion/2022-03-31/educacion-conocimiento-magistral/) |
+| 27/03/2022 | [Altas capacidades: una condición llena de estereotipos, de casos sin identificar y donde también hay sesgo de género](https://www.eldiario.es/cantabria/ultimas-noticias/altas-capacidades-condicion-llena-estereotipos-casos-identificar-hay-sesgo-genero_1_8861336.html) |
+| 25/03/2022 | [Aquello que no les damos](https://es.fundacioepisteme.cat/2022/03/25/aquello-que-no-les-damos/) |
+| 24/03/2022 | [Privatització encoberta](https://revistamirall.com/2022/03/24/privatitzacio-encoberta/) |
+| 22/03/2022 | [La «Flipped Education» o el vuelco educativo](https://es.fundacioepisteme.cat/2022/03/22/la-flipped-education-o-el-vuelco-educativo/) |
+| 15/03/2022 | [Educación: ¿dónde están los héroes?](https://www.larazon.es/sociedad/20220315/bmypdvkpsjdy3hnynbdlzwkut4.html) |
+| 14/03/2022 | [Onofre Monzó, presidente de la FESPM: «Para enseñar matemáticas tienes que saber bastante más de lo que tienes que enseñar»](https://actualidaddocente.cece.es/hablamos-con/onofre-monzo-presidente-de-la-fespm-para-ensenar-matematicas-tienes-que-saber-bastante-mas-de-lo-que-tienes-que-ensenar/) |
 | 11/03/2022 | [La decadencia de la educación](https://www.libertaddigital.com/opinion/amando-de-miguel/la-decadencia-de-la-educacion-6874544/) |
 | 10/03/2022 | [¿Y si la inclusión educativa fuera algo muy diferente a lo que se nos obliga a hacer en los centros educativos?](https://xarxatic.com/y-si-la-inclusion-educativa-fuera-algo-muy-diferente-a-lo-que-se-nos-obliga-a-hacer-en-los-centros-educativos/) |
 | 06/03/2022 | [Sobre las ideas que expuso Carlos Monereo en el 'Planta Baixa' de TV3](https://unestelalalba.blogspot.com/2022/03/sobre-las-ideas-que-expuso-carlos.html) |
