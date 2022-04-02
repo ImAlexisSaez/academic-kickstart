@@ -1,31 +1,12 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 60
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: "Logros"
+widget: accomplishments # An instance of the Accomplishments widget. Documentation: https://wowchemy.com/docs/page-builder/
+active: true # Activate this widget? true/false
+headless: true # This file represents a page section.
+weight: 60 # Order that this section appears on the page.
+title: "Logros" # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 subtitle: "Pequeñas gestas superadas por el camino"
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: "2006"
-
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+date_format: "2006" # Date format. Refer to https://wowchemy.com/docs/customization/#date-format
+item: # Accomplishments.
 - certificate_url: ""
   date_end: ""
   date_start: "2019-07-05"
@@ -50,7 +31,6 @@ item:
   organization_url: https://www.cambridgeenglish.org/
   title: "Preliminary English Test"
   url: ""
-
 design:
   columns: '2' 
 ---

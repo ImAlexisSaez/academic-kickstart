@@ -1,30 +1,12 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 50
-
+widget: experience # An instance of the Experience widget. Documentation: https://wowchemy.com/docs/page-builder/
+active: true # Activate this widget? true/false
+headless: true # This file represents a page section.
+weight: 50 # Order that this section appears on the page.
 title: "Experiencia laboral"
 subtitle: ""
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006-01-02
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+date_format: 2006-01-02 # Date format for experience. Refer to https://wowchemy.com/docs/customization/#date-format
+experience: # Experiences.
 - company: "IES La Torreta"
   company_url: "https://mestreacasa.gva.es/web/ieslatorreta"
   date_end: ""
@@ -54,7 +36,6 @@ experience:
     * 2º de ESO: grupo C.
   location: "Elche"
   title: "Profesor de matemáticas"
-
 design:
   columns: '2'
 ---

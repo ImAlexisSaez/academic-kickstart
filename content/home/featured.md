@@ -1,39 +1,21 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
-
-# Activate this widget? true/false
-active: false
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
+widget: featured # An instance of the Featured widget. Documentation: https://wowchemy.com/docs/page-builder/
+active: false # Activate this widget? true/false
+headless: true # This file represents a page section.
+weight: 40 # Order that this section appears on the page.
 title: "Destacados"
 subtitle: ""
-
 content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: post
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  page_type: post # Page type to display. E.g. post, talk, publication...
+  count: 0 # Choose how many pages you would like to display (0 = all pages)
   # Filter on criteria
   filters:
     author: ""
     category: ""
     publication_type: ""
     tag: ""
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: desc # Page order: descending (desc) or ascending (asc) date.
 
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 3
+  view: 3 #   1 = List  #   2 = Compact  #   3 = Card  #   4 = Citation (publication only)
 ---

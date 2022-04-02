@@ -1,34 +1,20 @@
 ---
-# An instance of the Contact widget.
-widget: contact
-
-# Activate this widget? true/false
-active: false
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
-title: Contact
+widget: contact # An instance of the Contact widget.
+active: false # Activate this widget? true/false
+headless: true # This file represents a page section.
+weight: 130 # Order that this section appears on the page.
+title: Contacto
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
+  autolink: true # Automatically link email and phone or display as text?
+  form: # Email form provider
     provider: netlify
     formspree:
       id:
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-  # Contact details (edit or remove options as required)
-  email: test@example.org
+      captcha: false # Enable CAPTCHA challenge to reduce spam?
+  email: test@example.org # Contact details (edit or remove options as required)
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
@@ -54,7 +40,6 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-
 design:
   columns: '2'
 ---
