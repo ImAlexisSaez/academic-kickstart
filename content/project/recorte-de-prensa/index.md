@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-04-01T00:00:01+01:00
+lastmod: 2022-04-04T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 04/04/2022 | [Catherine L'Ecuyer: "La escuela no es una agencia de colocación laboral"](https://www.lavanguardia.com/vida/20220404/8168790/entrevista-catherine-l-ecuyer-escuela-no-agencia-colocacion-laboral.html) |
+| 02/04/2022 | [Gauss en la ESO: en torno a un decreto](https://theobjective.com/elsubjetivo/opinion/2022-04-02/gauss-educacion-eso/) |
 | 01/04/2022 | [«Tirar la toalla de educar es el preámbulo a todos los desastres sociales»](https://www.periodicodeibiza.es/pitiusas/ibiza/2022/04/01/1717255/tirar-toalla-educar-preambulo-todos-desastres-sociales.html) |
 | 31/03/2022 | [Cuando el conocimiento es magistral](https://theobjective.com/elsubjetivo/opinion/2022-03-31/educacion-conocimiento-magistral/) |
 | 27/03/2022 | [Altas capacidades: una condición llena de estereotipos, de casos sin identificar y donde también hay sesgo de género](https://www.eldiario.es/cantabria/ultimas-noticias/altas-capacidades-condicion-llena-estereotipos-casos-identificar-hay-sesgo-genero_1_8861336.html) |
