@@ -3,6 +3,7 @@ title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
 lastmod: 2022-04-03T00:00:01+02:00
+draft: true
 
 tags: ["Educación"]
 
