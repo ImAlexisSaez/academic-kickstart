@@ -2,7 +2,7 @@
 title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
-lastmod: 2022-04-03T00:00:01+02:00
+lastmod: 2022-04-14T00:00:01+02:00
 draft: true
 
 tags: ["Educación"]
@@ -18,7 +18,18 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* las disti
 
 ### Estatal
 
+#### Acceso
+
+- [Real Decreto 270/2022](https://www.boe.es/eli/es/rd/2022/04/12/270), de 12 de abril, por el que se modifica el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes...
+- [Ley 20/2021](https://www.boe.es/eli/es/l/2021/12/28/20/con), de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público.
+
+#### Currículo
+
+- [Real Decreto 243/2022](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-5521), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 - [Real Decreto 217/2022](https://www.boe.es/eli/es/rd/2022/03/29/217), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
+
+#### Leyes educativas
+
 - [Ley Orgánica 3/2020](https://www.boe.es/eli/es/lo/2020/12/29/3), de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 - [Ley Orgánica 2/2006](https://www.boe.es/eli/es/lo/2006/05/03/2/con), de 3 de mayo, de Educación.
 
