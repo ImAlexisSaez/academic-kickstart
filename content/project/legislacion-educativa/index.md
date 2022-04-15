@@ -2,19 +2,19 @@
 title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
-lastmod: 2022-04-14T00:00:01+02:00
+lastmod: 2022-04-15T00:00:01+02:00
 draft: true
 
 tags: ["Educación"]
 
-summary: "Recopilación cronológica de las distintas leyes, decretos y órdenes, tanto a nivel estatal como autonómico, que componen el marco legal del sistema educativo asociado a la ESO y al Bachillerato."
+summary: "Recopilación cronológica de las distintas leyes, decretos y órdenes, tanto a nivel estatal como autonómico (particularizado a la *Comunidad Valenciana*), que componen el marco legal del sistema educativo asociado a la ESO y al Bachillerato."
 
 image:
   focal_point: "Smart"
   caption: "Fotografía de [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm), disponible en [Unsplash](https://unsplash.com/photos/DZpc4UY8ZtY)."
 ---
 
-El objetivo de este proyecto no es otro que listar *cronológicamente* las distintas leyes, decretos y órdenes, tanto a nivel estatal como autonómico, que componen el marco legal del sistema educativo asociado a la ESO y al Bachillerato.
+El objetivo de este proyecto no es otro que listar *cronológicamente* las distintas leyes, decretos y órdenes, tanto a nivel estatal como autonómico (particularizado a la *Comunidad Valenciana*), que componen el marco legal del sistema educativo asociado a la ESO y al Bachillerato.
 
 ### Estatal
 

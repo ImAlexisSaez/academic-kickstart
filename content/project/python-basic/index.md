@@ -6,7 +6,7 @@ lastmod: 2019-07-22T00:00:01+01:00
 draft: false
 
 tags: ["Python"]
-summary: "Recopilación de las notas personales (con códigos fuente incluidos) tomadas durante la realización del más que recomendable curso 'Python desde 0', disponible en la plataforma YouTube y ofrecido por el canal 'Píldoras Informáticas'."
+summary: "Recopilación de las notas personales (con códigos fuente incluidos) tomadas durante la realización del recomendable curso 'Python desde 0', disponible en la plataforma YouTube y ofrecido por el canal 'Píldoras Informáticas'."
 
 external_link: "/python-basic/"
 
