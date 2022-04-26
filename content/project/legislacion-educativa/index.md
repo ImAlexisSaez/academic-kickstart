@@ -2,7 +2,7 @@
 title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
-lastmod: 2022-04-15T00:00:01+02:00
+lastmod: 2022-04-26T00:00:01+02:00
 draft: true
 
 tags: ["Educación"]
@@ -34,3 +34,7 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* las disti
 - [Ley Orgánica 2/2006](https://www.boe.es/eli/es/lo/2006/05/03/2/con), de 3 de mayo, de Educación.
 
 ### Autonómico
+
+#### Evaluación
+
+- [Resolución](https://dogv.gva.es/datos/2022/04/26/pdf/2022_3449.pdf) de 20 de abril de 2022, ... por la que se dictan instrucciones relativas a la evaluación final y la promoción en Educación Primaria, así como a la evaluación final, la promoción y la titulación en Educación Secundaria Obligatoria, en Bachillerato...
