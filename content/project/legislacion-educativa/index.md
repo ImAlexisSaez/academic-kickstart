@@ -2,7 +2,7 @@
 title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
-lastmod: 2022-04-26T00:00:01+02:00
+lastmod: 2022-04-28T00:00:01+02:00
 draft: true
 
 tags: ["Educación"]
@@ -35,6 +35,7 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* las disti
 
 ### Autonómico
 
-#### Evaluación
+#### Evaluación, promoción y titulación
 
 - [Resolución](https://dogv.gva.es/datos/2022/04/26/pdf/2022_3449.pdf) de 20 de abril de 2022, ... por la que se dictan instrucciones relativas a la evaluación final y la promoción en Educación Primaria, así como a la evaluación final, la promoción y la titulación en Educación Secundaria Obligatoria, en Bachillerato...
+  + [Corrección de errores](https://dogv.gva.es/datos/2022/04/28/pdf/2022_3560.pdf).
