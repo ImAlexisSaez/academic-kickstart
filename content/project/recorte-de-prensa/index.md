@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-04-14T00:00:01+01:00
+lastmod: 2022-05-30T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 30/05/2022 | [Un fin de curso esperpéntico](https://xarxatic.com/un-fin-de-curso-esperpentico/) |
 | 11/04/2022 | [Los principios educativos de la UNESCO](https://xarxatic.com/los-principios-educativos-de-la-unesco/) |
 | 04/04/2022 | [Catherine L'Ecuyer: "La escuela no es una agencia de colocación laboral"](https://www.lavanguardia.com/vida/20220404/8168790/entrevista-catherine-l-ecuyer-escuela-no-agencia-colocacion-laboral.html) |
 | 02/04/2022 | [Gauss en la ESO: en torno a un decreto](https://theobjective.com/elsubjetivo/opinion/2022-04-02/gauss-educacion-eso/) |
