@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-05-30T00:00:01+01:00
+lastmod: 2022-06-19T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,9 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 18/06/2022 | [Sin plan para septiembre: los retrasos con la Ley de Educación dejan en el aire las novedades del próximo curso](https://www.eldiario.es/sociedad/plan-septiembre-retrasos-ley-educacion-dejan-aire-novedades-proximo-curso_1_9071514.html) |
+| 17/06/2022 | [Edujugadores de doble baraja](https://xarxatic.com/edujugadores-de-doble-baraja/) |
+| 13/06/2022 | [Informe EE. La brecha de género invertida: por qué los chicos son peores estudiantes que las chicas y a nadie le importa](https://exitoeducativo.net/informe-exito-educativo-la-brecha-de-genero-invertida-por-que-los-chicos-son-peores-estudiantes-que-las-chicas/) |
 | 30/05/2022 | [Un fin de curso esperpéntico](https://xarxatic.com/un-fin-de-curso-esperpentico/) |
 | 11/04/2022 | [Los principios educativos de la UNESCO](https://xarxatic.com/los-principios-educativos-de-la-unesco/) |
 | 04/04/2022 | [Catherine L'Ecuyer: "La escuela no es una agencia de colocación laboral"](https://www.lavanguardia.com/vida/20220404/8168790/entrevista-catherine-l-ecuyer-escuela-no-agencia-colocacion-laboral.html) |

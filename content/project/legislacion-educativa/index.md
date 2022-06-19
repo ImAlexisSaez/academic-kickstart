@@ -2,7 +2,7 @@
 title: "Legislación educativa"
 slug: "legislacion-educativa"
 date: 2022-04-03T00:00:01+01:00
-lastmod: 2022-04-28T00:00:01+02:00
+lastmod: 2022-06-02T00:00:01+02:00
 draft: true
 
 tags: ["Educación"]
@@ -34,6 +34,10 @@ El objetivo de este proyecto no es otro que listar *cronológicamente* las disti
 - [Ley Orgánica 2/2006](https://www.boe.es/eli/es/lo/2006/05/03/2/con), de 3 de mayo, de Educación.
 
 ### Autonómico
+
+#### Acceso
+
+- [Decreto 70/2022](https://dogv.gva.es/datos/2022/05/31/pdf/2022_4937.pdf), de 27 de mayo, por el que se aprueba la oferta de empleo público de personal docente no universitario... en lo que se refiere a los procesos de estabilización previstos en la Ley 20/2021.
 
 #### Evaluación, promoción y titulación
 
