@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-06-19T00:00:01+01:00
+lastmod: 2022-07-22T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 21/07/2022 | [¿Por qué me inspira más el Panfleto Antipedagógico de Ricardo Moreno que una charla de alguno de esos que todos conocemos?](https://xarxatic.com/por-que-me-inspira-mas-el-panfleto-antipedagogico-de-ricardo-moreno-que-una-charla-de-alguno-de-esos-que-todos-conocemos/) |
 | 18/06/2022 | [Sin plan para septiembre: los retrasos con la Ley de Educación dejan en el aire las novedades del próximo curso](https://www.eldiario.es/sociedad/plan-septiembre-retrasos-ley-educacion-dejan-aire-novedades-proximo-curso_1_9071514.html) |
 | 17/06/2022 | [Edujugadores de doble baraja](https://xarxatic.com/edujugadores-de-doble-baraja/) |
 | 13/06/2022 | [Informe EE. La brecha de género invertida: por qué los chicos son peores estudiantes que las chicas y a nadie le importa](https://exitoeducativo.net/informe-exito-educativo-la-brecha-de-genero-invertida-por-que-los-chicos-son-peores-estudiantes-que-las-chicas/) |
