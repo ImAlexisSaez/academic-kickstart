@@ -12,6 +12,9 @@ experience: # Experiences.
   date_end: ""
   date_start: "2020-09-01"
   description: |-
+    *Curso académico 2022/23:*
+    * Grupos por determinar.
+
     *Curso académico 2021/22:*
     * 2º de ESO: grupos A y B. Taller de refuerzo.
     * 2º de ESO: grupos E y F.
@@ -19,7 +22,6 @@ experience: # Experiences.
     * 4º de ESO: grupo C.
 
     *Curso académico 2020/21:*
-
     * 2º de ESO: grupos F y G.
     * 3º de ESO: grupos A, B y E.
     * 4º de ESO: grupos A, B, C, D y E. Taller de profundización de matemáticas.
