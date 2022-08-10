@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-08-02T00:00:01+01:00
+lastmod: 2022-08-10T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,11 +21,15 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 04/08/2022 | [Debate: ¿Por qué las matemáticas son tan difíciles de aprender?](https://www.lavozdegalicia.es/noticia/opinion/2022/08/04/matematicas-dificiles-aprender/00031659612768635841439.htm) |
+| 01/08/2022 | [La Educación que viene (y no deseo) (3)](https://portfoliodeaula.blogspot.com/2022/08/la-educacion-que-viene-y-no-deseo-3.html) |
 | 31/07/2022 | [Una Selectividad que dé sentido a lo aprendido: compleja de diseñar e igual de exigente para los alumnos](https://elpais.com/educacion/2022-07-31/una-selectividad-que-de-sentido-a-lo-aprendido-compleja-de-disenar-e-igual-de-exigente-para-los-alumnos.html) |
 | 27/07/2022 | [Así es la nueva selectividad (EBAU) que propone Educación: menos exámenes y un ejercicio de madurez que llegará a contar un 75%](https://cadenaser.com/nacional/2022/07/27/asi-es-la-nueva-evau-que-propone-educacion-menos-examenes-y-un-ejercicio-especifico-de-madurez-que-llegara-a-contar-un-75-de-la-nota-cadena-ser/) |
 | 27/07/2022 | [El Gobierno diseña una nueva Selectividad más fácil para los alumnos, con menos exámenes y una prueba de "madurez académica"](https://www.elmundo.es/espana/2022/07/27/62e043cefc6c83eb388b4609.html) |
 | 27/07/2022 | [El Gobierno revoluciona la Selectividad con la mitad de exámenes y una prueba de madurez académica](https://elpais.com/educacion/2022-07-27/el-gobierno-disena-una-nueva-selectividad-con-la-mitad-de-examenes-y-una-prueba-de-madurez-academica.html) |
 | 21/07/2022 | [¿Por qué me inspira más el Panfleto Antipedagógico de Ricardo Moreno que una charla de alguno de esos que todos conocemos?](https://xarxatic.com/por-que-me-inspira-mas-el-panfleto-antipedagogico-de-ricardo-moreno-que-una-charla-de-alguno-de-esos-que-todos-conocemos/) |
+| 15/07/2022 | [La Educación que viene (y no deseo) (2)](https://portfoliodeaula.blogspot.com/2022/07/la-educacion-que-viene-y-no-deseo-2.html) |
+| 01/07/2022 | [La Educación que viene (y no deseo) (1)](https://portfoliodeaula.blogspot.com/2022/07/la-educacion-que-viene-y-no-deseo-1.html) |
 | 18/06/2022 | [Sin plan para septiembre: los retrasos con la Ley de Educación dejan en el aire las novedades del próximo curso](https://www.eldiario.es/sociedad/plan-septiembre-retrasos-ley-educacion-dejan-aire-novedades-proximo-curso_1_9071514.html) |
 | 17/06/2022 | [Edujugadores de doble baraja](https://xarxatic.com/edujugadores-de-doble-baraja/) |
 | 13/06/2022 | [Informe EE. La brecha de género invertida: por qué los chicos son peores estudiantes que las chicas y a nadie le importa](https://exitoeducativo.net/informe-exito-educativo-la-brecha-de-genero-invertida-por-que-los-chicos-son-peores-estudiantes-que-las-chicas/) |
