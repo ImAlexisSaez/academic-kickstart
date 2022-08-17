@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-08-10T00:00:01+01:00
+lastmod: 2022-08-17T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 15/08/2022 | [Ahora somos un país de genios](https://www.zendalibros.com/perez-reverte-ahora-somos-un-pais-de-genios/) |
+| 10/08/2022 | [Selectividad 'woke'](https://theobjective.com/elsubjetivo/opinion/2022-08-10/selectividad-woke/) |
 | 04/08/2022 | [Debate: ¿Por qué las matemáticas son tan difíciles de aprender?](https://www.lavozdegalicia.es/noticia/opinion/2022/08/04/matematicas-dificiles-aprender/00031659612768635841439.htm) |
 | 01/08/2022 | [La Educación que viene (y no deseo) (3)](https://portfoliodeaula.blogspot.com/2022/08/la-educacion-que-viene-y-no-deseo-3.html) |
 | 31/07/2022 | [Una Selectividad que dé sentido a lo aprendido: compleja de diseñar e igual de exigente para los alumnos](https://elpais.com/educacion/2022-07-31/una-selectividad-que-de-sentido-a-lo-aprendido-compleja-de-disenar-e-igual-de-exigente-para-los-alumnos.html) |
