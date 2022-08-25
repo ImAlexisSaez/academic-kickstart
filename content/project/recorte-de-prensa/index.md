@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-08-17T00:00:01+01:00
+lastmod: 2022-08-25T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,11 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 24/08/2022 | [El TSJ mantiene la suspensión cautelar de la obligatoriedad de los ámbitos en 1º de ESO](https://www.levante-emv.com/comunitat-valenciana/2022/08/24/tsjcv-mantiene-suspension-cautelar-obligatoriedad-73805824.html) |
+| 22/08/2022 | [Educación por ámbitos: La cruzada contra las explicaciones](https://www.levante-emv.com/opinion/2022/08/22/educacion-ambitos-cruzada-explicaciones-73764259.html) |
+| 21/08/2022 | [Analiza en su trabajo fin de grado la diferencia entre las matemáticas de Bachillerato y las impartidas en universidad](https://www.europapress.es/navarra/noticia-analiza-trabajo-fin-grado-diferencia-matematicas-bachillerato-impartidas-universidad-20220821161649.html) |
+| 20/08/2022 | [Antes de jugar el comodín de la educación en Finlandia… ¡informaos!](https://xarxatic.com/antes-de-jugar-el-comodin-de-la-educacion-en-finlandia-informaos/) |
+| 19/08/2022 | [Sobre los ámbitos en 1º de la ESO](https://www.informacion.es/opinion/cartas-de-los-lectores/2022/08/19/ambitos-1o-73701182.html) |
 | 15/08/2022 | [Ahora somos un país de genios](https://www.zendalibros.com/perez-reverte-ahora-somos-un-pais-de-genios/) |
 | 10/08/2022 | [Selectividad 'woke'](https://theobjective.com/elsubjetivo/opinion/2022-08-10/selectividad-woke/) |
 | 04/08/2022 | [Debate: ¿Por qué las matemáticas son tan difíciles de aprender?](https://www.lavozdegalicia.es/noticia/opinion/2022/08/04/matematicas-dificiles-aprender/00031659612768635841439.htm) |
