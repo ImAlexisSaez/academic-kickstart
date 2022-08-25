@@ -21,6 +21,8 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 25/08/2022 | [Amenazas y coacciones en la educación valenciana](https://xarxatic.com/amenazas-y-coacciones-en-la-educacion-valenciana/) |
+| 25/08/2022 | [El "efecto dominó" de la decisión judicial sobre los ámbitos en la ESO](https://www.levante-emv.com/comunitat-valenciana/2022/08/25/efecto-domino-decision-judicial-ambitos-73830804.html) |
 | 24/08/2022 | [El TSJ mantiene la suspensión cautelar de la obligatoriedad de los ámbitos en 1º de ESO](https://www.levante-emv.com/comunitat-valenciana/2022/08/24/tsjcv-mantiene-suspension-cautelar-obligatoriedad-73805824.html) |
 | 22/08/2022 | [Educación por ámbitos: La cruzada contra las explicaciones](https://www.levante-emv.com/opinion/2022/08/22/educacion-ambitos-cruzada-explicaciones-73764259.html) |
 | 21/08/2022 | [Analiza en su trabajo fin de grado la diferencia entre las matemáticas de Bachillerato y las impartidas en universidad](https://www.europapress.es/navarra/noticia-analiza-trabajo-fin-grado-diferencia-matematicas-bachillerato-impartidas-universidad-20220821161649.html) |
