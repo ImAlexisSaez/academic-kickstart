@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-08-25T00:00:01+01:00
+lastmod: 2022-09-05T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,8 +21,12 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 04/09/2022 | [¿Quién está destrozando la enseñanza secundaria?](https://www.levante-emv.com/opinion/2022/09/04/destrozando-ensenanza-secundaria-75010944.html) |
+| 02/09/2022 | [El método cooperativo en la enseñanza de Matemáticas funciona… en Nigeria](https://xarxatic.com/el-metodo-cooperativo-en-la-ensenanza-de-matematicas-funciona-en-nigeria/) |
+| 30/08/2022 | [La justicia paraliza la obligación de los ámbitos en Valencia y Educación intenta una solución de compromiso](https://eldiariodelaeducacion.com/2022/08/30/la-justicia-paraliza-la-obligacion-de-los-ambitos-en-valencia-y-educacion-intenta-una-solucion-de-compromiso/) |
 | 25/08/2022 | [Amenazas y coacciones en la educación valenciana](https://xarxatic.com/amenazas-y-coacciones-en-la-educacion-valenciana/) |
 | 25/08/2022 | [El "efecto dominó" de la decisión judicial sobre los ámbitos en la ESO](https://www.levante-emv.com/comunitat-valenciana/2022/08/25/efecto-domino-decision-judicial-ambitos-73830804.html) |
+| 25/08/2022 | [El imperio de los mediocres](https://www.levante-emv.com/opinion/2022/08/25/imperio-mediocres-73845319.html) |
 | 24/08/2022 | [El TSJ mantiene la suspensión cautelar de la obligatoriedad de los ámbitos en 1º de ESO](https://www.levante-emv.com/comunitat-valenciana/2022/08/24/tsjcv-mantiene-suspension-cautelar-obligatoriedad-73805824.html) |
 | 22/08/2022 | [Educación por ámbitos: La cruzada contra las explicaciones](https://www.levante-emv.com/opinion/2022/08/22/educacion-ambitos-cruzada-explicaciones-73764259.html) |
 | 21/08/2022 | [Analiza en su trabajo fin de grado la diferencia entre las matemáticas de Bachillerato y las impartidas en universidad](https://www.europapress.es/navarra/noticia-analiza-trabajo-fin-grado-diferencia-matematicas-bachillerato-impartidas-universidad-20220821161649.html) |
