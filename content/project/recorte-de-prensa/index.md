@@ -2,7 +2,7 @@
 title: "Recorte de prensa"
 slug: "recorte-de-prensa"
 date: 2019-08-22T00:00:01+01:00
-lastmod: 2022-09-05T00:00:01+01:00
+lastmod: 2022-09-09T00:00:01+01:00
 
 tags: ["Educación", "Matemáticas"]
 
@@ -21,6 +21,7 @@ En la medida de lo posible, intentaré incluir únicamente aquellos que puedan c
 
 | Fecha | Artículo |
 | ------- | ------ |
+| 04/09/2022 | [Currículo de mínimos y competencias básicas](https://es.fundacioepisteme.cat/2022/09/04/curriculo-de-minimos-y-competencias-basicas/) |
 | 04/09/2022 | [¿Quién está destrozando la enseñanza secundaria?](https://www.levante-emv.com/opinion/2022/09/04/destrozando-ensenanza-secundaria-75010944.html) |
 | 02/09/2022 | [El método cooperativo en la enseñanza de Matemáticas funciona… en Nigeria](https://xarxatic.com/el-metodo-cooperativo-en-la-ensenanza-de-matematicas-funciona-en-nigeria/) |
 | 30/08/2022 | [La justicia paraliza la obligación de los ámbitos en Valencia y Educación intenta una solución de compromiso](https://eldiariodelaeducacion.com/2022/08/30/la-justicia-paraliza-la-obligacion-de-los-ambitos-en-valencia-y-educacion-intenta-una-solucion-de-compromiso/) |
