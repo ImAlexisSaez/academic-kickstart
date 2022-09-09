@@ -13,7 +13,9 @@ experience: # Experiences.
   date_start: "2020-09-01"
   description: |-
     *Curso académico 2022/23:*
-    * Grupos por determinar.
+    * 1º de ESO: grupo A (codocencia).
+    * 2º de ESO: grupos A y E.
+    * 3º de ESO: grupos C y D.
 
     *Curso académico 2021/22:*
     * 2º de ESO: grupos A y B. Taller de refuerzo.
