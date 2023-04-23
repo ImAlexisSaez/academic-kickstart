@@ -13,8 +13,8 @@ content:
     tag: '*'
   #- name: "Desarrollo web"
   #  tag: "Desarrollo web"
-  - name: "Educación"
-    tag: "Educación"
+  #- name: "Educación"
+  #  tag: "Educación"
   - name: "Matemáticas"
     tag: "Matemáticas"
   - name: "Python"
