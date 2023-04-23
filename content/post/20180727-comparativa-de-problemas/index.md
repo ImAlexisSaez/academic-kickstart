@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Problemas", "TFM"]
 categories: ["Oposiciones"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

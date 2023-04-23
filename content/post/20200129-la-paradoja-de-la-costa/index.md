@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Fractales", "LemnisMath", "Método exhaustivo", "YouTube"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

@@ -14,7 +14,7 @@ featured: false
 
 tags: ["ENEM", "Valladolid", "YouTube"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

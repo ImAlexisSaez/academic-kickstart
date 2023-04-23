@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Incidencia", "Markdown"]
 categories: ["Reflexiones"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Legislación", "Plurilingüismo"]
 categories: ["Oposiciones"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

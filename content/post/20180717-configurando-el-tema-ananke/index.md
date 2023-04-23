@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["Hugo", "Ananke"]
+tags: ["Ananke", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -23,7 +23,7 @@ image:
 
 En la [anterior entrada](/2018/07/11/creando-un-sitio-web-con-hugo/) generamos, ¡solucionando incluso un pequeño *bug*!, nuestro primer sitio web con *Hugo*, utilizando para ello el tema *Ananke*. Veamos qué opciones de configuración nos ofrece dicho tema a continuación.
 
-Así pues, dedicaremos única y exclusivamente este cuarto artículo del [Proyecto Metablog](/proyecto/metablog/) a examinar con detalle el contenido del archivo `config.toml`, que se ubica en la raíz del directorio donde hayamos decidido almacenar nuestro sitio web.
+Así pues, dedicaremos única y exclusivamente este cuarto artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) a examinar con detalle el contenido del archivo `config.toml`, que se ubica en la raíz del directorio donde hayamos decidido almacenar nuestro sitio web.
 
 Si en su momento nos decantamos por seguir, al pie de la letra, el contenido de la [anterior entrada](/2018/07/11/creando-un-sitio-web-con-hugo/), dicho fichero debería figurar en el interior de la ruta `C:\Hugo\Sites\prueba`. Desde el *explorador de archivos* de *Windows*, lo seleccionamos con el botón derecho del ratón y escogemos la opción `Open with Sublime Text`.
 
@@ -168,4 +168,4 @@ Estas líneas facilitan la configuración de algunas características de la web,
 
 En esta serie de artículos no entraré en detalle en la modificación de las plantillas del tema *Ananke*. No obstante, en breve pasaremos a estudiar con profundidad el tema *Beautiful Hugo* y las ideas que exploremos, de cara a modificar diversos aspectos de un sitio web, se podrán extrapolar a cualquier tema, *Ananke* incluido.
 
-Así pues, seguramente, en la próxima entrada del [Proyecto Metablog](/proyecto/metablog/) instalaremos el tema *Beautiful Hugo* y echaremos un vistazo por encima a su correspondiente archivo de configuración `config.toml`.
+Así pues, seguramente, en la próxima entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) instalaremos el tema *Beautiful Hugo* y echaremos un vistazo por encima a su correspondiente archivo de configuración `config.toml`.

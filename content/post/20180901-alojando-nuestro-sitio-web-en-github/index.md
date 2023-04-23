@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["Hugo", "GitHub"]
+tags: ["GitHub", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -118,4 +118,4 @@ En mi caso, no me suelo esforzar mucho en declarar mensajes óptimamente descrip
 
 Con esto, damos por finalizado el proceso y nuestro sitio web será ahora accesible para todo el mundo a través de la dirección web que proporciona el segundo repositorio que hemos creado (en mi caso `https://imalexissaez.github.io/`).
 
-En la siguiente entrada del [Proyecto Metablog](/proyecto/metablog/) posiblemente empecemos a realizar cambios en la hoja de estilos *CSS* y personalizar todavía más el tema *Beautiful Hugo*.
+En la siguiente entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) posiblemente empecemos a realizar cambios en la hoja de estilos *CSS* y personalizar todavía más el tema *Beautiful Hugo*.

@@ -14,7 +14,7 @@ featured: false
 
 tags: ["11F", "YouTube"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

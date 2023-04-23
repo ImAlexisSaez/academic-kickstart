@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Markdown", "Sublime Text 3"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

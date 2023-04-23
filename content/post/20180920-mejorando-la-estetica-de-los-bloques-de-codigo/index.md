@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["css", "Beautiful Hugo", "Hugo"]
+tags: ["css", "Beautiful Hugo", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -66,4 +66,4 @@ pre code {
 
 El único inconveniente de este enfoque es que solo afecta a los bloques de código escritos usando *fences* y no a los que generamos mediante el *shortcode* `highlight` de *Hugo*. No obstante, como habitualmente no recurro a este último, no he decido indagar más al respecto.
 
-En los próximos artículos del [Proyecto Metablog](/proyecto/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.
+En los próximos artículos correspondientes a la etiqueta [Metablog](/etiqueta/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.

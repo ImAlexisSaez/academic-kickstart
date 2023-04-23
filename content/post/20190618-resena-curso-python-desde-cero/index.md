@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Python", "YouTube"]
 categories: ["Reseñas"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

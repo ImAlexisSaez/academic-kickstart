@@ -14,7 +14,7 @@ featured: false
 
 tags: ["AANEAE", "Programación didáctica"]
 categories: ["Oposiciones"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

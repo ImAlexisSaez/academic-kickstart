@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["Git", "GitHub", "Sublime Text 3"]
+tags: ["Git", "GitHub", "Metablog", "Sublime Text 3"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -23,7 +23,7 @@ image:
 
 Antes de lanzarnos, sin más, a generar sitios web con *Hugo*, conviene que instalemos una serie de herramientas que nos facilitarán la vida: un sistema de control de versiones (*Git* + *GitHub*) y un editor de texto plano (*Sublime Text 3*).
 
-Tal es el propósito de esta primera entrada del [Proyecto Metablog](/proyecto/metablog/), que consistirá en una serie de artículos que documentarán todo el proceso de instalación de *Hugo*, el de la creación del propio sitio web empleando dicho generador y el de la personalización de la plantilla que actualmente estoy utilizando: [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
+Tal es el propósito de esta primera entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/), que consistirá en una serie de artículos que documentarán todo el proceso de instalación de *Hugo*, el de la creación del propio sitio web empleando dicho generador y el de la personalización de la plantilla que actualmente estoy utilizando: [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
 
 ## 1. Git
 
@@ -61,4 +61,4 @@ Nos podemos hacer con él a través de [este enlace](https://www.sublimetext.com
 
 Además de cumplir de manera excelente sus labores a la hora de editar cualquier archivo de texto plano, *Sublime Text 3* me encanta como herramienta para trabajar con archivos de tipo *markdown*, que será el formato que vamos a emplear para redactar el contenido de nuestro sitio web. En un futuro no muy lejano tengo pensado escribir un artículo explicando cómo llevar a cabo la configuración de este programa para lidiar de forma agradable con dicho tipo de ficheros.
 
-Y hasta aquí el primer artículo del [Proyecto Metablog](/proyecto/metablog/), que deja nuestros equipos a punto para proceder a la instalación de *Hugo* y generar un sitio web.
+Y hasta aquí el primer artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/), que deja nuestros equipos a punto para proceder a la instalación de *Hugo* y generar un sitio web.

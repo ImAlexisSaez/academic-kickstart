@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Divulgación", "Lecturas"]
 categories: ["Reseñas"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

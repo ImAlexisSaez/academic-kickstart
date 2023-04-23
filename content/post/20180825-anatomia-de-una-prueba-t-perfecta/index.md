@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Prueba T", "R"]
 categories: ["Estadística"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

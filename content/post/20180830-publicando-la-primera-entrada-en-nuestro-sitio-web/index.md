@@ -12,16 +12,16 @@ math: false
 draft: false
 featured: false
 
-tags: ["Hugo", "Beautiful Hugo"]
+tags: ["Beautiful Hugo", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
   caption: "Fotografía de [Aaron Burden](https://unsplash.com/@aaronburden), disponible en [Unsplash](https://unsplash.com/photos/xG8IQMqMITM)."
 ---
 
-Tras haber recorrido, en el [Proyecto Metablog](/proyecto/metablog/), las seis estaciones del vía crucis asociado al calvario de la instalación de *Hugo* y la personalización del tema *Beautiful Hugo*, llega el momento más anhelado por todos: generar contenido para el sitio web.
+Tras haber recorrido, en la etiqueta [Metablog](/etiqueta/metablog/), las seis estaciones del vía crucis asociado al calvario de la instalación de *Hugo* y la personalización del tema *Beautiful Hugo*, llega el momento más anhelado por todos: generar contenido para el sitio web.
 
 A continuación, examinaremos, con sumo detalle, todo el proceso de elaboración y revisión local de artículos para nuestra página web. Para empezar, me gustaría comentar que, en el apartado de la [guía oficial](https://gohugo.io/getting-started/quick-start/#step-4-add-some-content) asociado a este asunto, se utiliza la combinación de la terminal del sistema y el comando `hugo new` para dar a luz, de manera automática, una nueva entrada en el sitio web.
 
@@ -91,4 +91,4 @@ Tras declarar la cabecera, redactaremos un párrafo (o varios) de introducción 
 
 Tras dicha instrucción, finalmente, ya solo nos restará explayarnos tanto como deseemos en el cuerpo de la entrada. *The sky is the limit!*
 
-En el próximo artículo del [Proyecto Metablog](/proyecto/metablog/) estudiaremos cómo utilizar *GitHub* para alojar nuestra página web en *Internet*.
+En el próximo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) estudiaremos cómo utilizar *GitHub* para alojar nuestra página web en *Internet*.

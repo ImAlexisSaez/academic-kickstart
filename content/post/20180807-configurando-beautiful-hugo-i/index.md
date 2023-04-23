@@ -12,16 +12,16 @@ math: false
 draft: false
 featured: false
 
-tags: ["Hugo", "Beautiful Hugo"]
+tags: ["Beautiful Hugo", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
   caption: "Fotografía de [Willian Justen de Vasconcellos](https://unsplash.com/@willianjusten), disponible en [Unsplash](https://unsplash.com/photos/Cdb3-cWZBeo)."
 ---
 
-Continuemos esta serie de artículos, pertenecientes al [Proyecto Metablog](/proyecto/metablog/), donde examinamos con detalle la creación de sitios web utilizando *Hugo*. Hoy veremos cómo instalar y configurar el tema [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
+Continuemos esta serie de artículos, pertenecientes a la etiqueta [Metablog](/etiqueta/metablog/), donde examinamos con detalle la creación de sitios web utilizando *Hugo*. Hoy veremos cómo instalar y configurar el tema [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/).
 
 En la [anterior entrada](/2018/07/17/configurando-el-tema-ananke/) vimos el proceso a seguir para el tema *Anake*. No obstante, como ya comenté entonces, algunos detalles de dicha plantilla no terminaban de convencerme para la idea que tenía en mente para *Infinitos Contrastes*. Así pues, tras invertir una considerable cantidad de tiempo en navegar por la [sección de temas](https://themes.gohugo.io/) de la web oficial de *Hugo*, encontré, para mi fortuna, el tema *Beautiful Hugo*, una adaptación del tema *Beautiful Jekyll* que ya utilicé en su momento como plantilla para mi sitio web.
 
@@ -171,4 +171,4 @@ ya que:
 - La variable `commit` nos permite insertar el código SHA correspondiente al *commit* que generó la última versión del sitio web. No he considerado que dicha información fuera a proporcionar demasiada utilidad para una página como la mía, así que he declarado su valor como `false`.
 - El resto de las variables activan, pues su valor es `true`, respectivamente, la sindicación vía *RSS*, la posibilidad de realizar comentarios en los distintos artículos de la web (vía *Disqus*), una estimación del tiempo de lectura para cada entrada (utilizando como referencia 200 palabras por minuto), el uso de la librería *highlight.js* para resaltar código y el acceso a compartir nuestro contenido en distintas redes sociales.
 
-Como la entrada está empezando a adquirir una extensión considerable. Vamos a poner aquí un punto y seguido, dejando para el próximo artículo del [Proyecto Metablog](/proyecto/metablog/) el análisis del resto de la configuración del archivo `config.toml`.
+Como la entrada está empezando a adquirir una extensión considerable. Vamos a poner aquí un punto y seguido, dejando para el próximo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) el análisis del resto de la configuración del archivo `config.toml`.

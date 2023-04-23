@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Grados de libertad", "Papers"]
 categories: ["Estadística"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

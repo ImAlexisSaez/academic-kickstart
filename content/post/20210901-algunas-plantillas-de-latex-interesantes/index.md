@@ -14,7 +14,7 @@ featured: false
 
 tags: ["LaTeX"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

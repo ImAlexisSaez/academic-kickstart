@@ -14,7 +14,7 @@ featured: false
 
 tags: ["R", "readr"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

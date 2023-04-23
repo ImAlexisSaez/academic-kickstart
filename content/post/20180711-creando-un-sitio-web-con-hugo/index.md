@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["Hugo", "Ananke"]
+tags: ["Ananke", "Hugo", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: ["metablog"]
 
 image:
   focal_point: "Smart"
@@ -23,7 +23,7 @@ image:
 
 ¡Ha llegado el momento que todos estábamos esperando! Tras un par de artículos en los que hemos preparado nuestros equipos instalando las herramientas necesarias, hoy veremos cómo generar nuestro primer sitio web con *Hugo*.
 
-Esta tercera entrada del [Proyecto Metablog](/proyecto/metablog/) se va a apoyar en la guía de inicio recogida en la documentación oficial de *Hugo*, a la que podemos acceder a través de [este enlace](https://gohugo.io/getting-started/quick-start/).
+Esta tercera entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) se va a apoyar en la guía de inicio recogida en la documentación oficial de *Hugo*, a la que podemos acceder a través de [este enlace](https://gohugo.io/getting-started/quick-start/).
 
 En primer lugar, abrimos la terminal *Git Bash* y nos dirigimos al directorio de nuestro disco duro donde tengamos pensado almacenar localmente el sitio web. En la mencionada guía recomiendan ubicar las páginas en la ruta `C:\Hugo\Sites\`, aunque ya comenté en la [anterior entrada](/2018/07/08/instalando-hugo-en-windows/) que no era estrictamente necesario proceder de tal forma.
 
@@ -119,4 +119,4 @@ Tras recibir cierta información sobre el sitio, únicamente nos resta abrir nue
 
 Es el momento de navegar por la página, estudiar si nos complace estéticamente y comprobar si la manera en la que se organizan los contenidos es la apropiada para el sitio web que teníamos en mente. Cuando hayamos terminado el paseo, volvemos a la terminal y cerramos el servidor local utilizando la combinación de teclas `Ctrl + C`.
 
-En el próximo artículo del [Proyecto Metablog](/proyecto/metablog/) exploraremos, ahora sí y con mucho más detalle, la configuración básica del sitio web, que reside en el fichero `config.toml`.
+En el próximo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) exploraremos, ahora sí y con mucho más detalle, la configuración básica del sitio web, que reside en el fichero `config.toml`.

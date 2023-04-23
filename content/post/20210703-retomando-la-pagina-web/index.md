@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Blog", "Proyectos"]
 categories: ["Reflexiones"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

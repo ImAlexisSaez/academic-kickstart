@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Calendario", "FECYT"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

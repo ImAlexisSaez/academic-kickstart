@@ -12,9 +12,9 @@ math: false
 draft: false
 featured: false
 
-tags: ["Beautiful Hugo", "Hugo", "KaTeX"]
+tags: ["Beautiful Hugo", "Hugo", "KaTeX", "Metablog"]
 categories: ["Tutoriales"]
-projects: ["metablog"]
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -65,4 +65,4 @@ La solución pasa por modificar la hoja de estilos del tema *Beautiful Hugo*, al
 .katex { font-size: 1.1em !important; }
 ```
 
-En los próximos artículos del [Proyecto Metablog](/proyecto/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.
+En los próximos artículos correspondientes a la etiqueta [Metablog](/etiqueta/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.

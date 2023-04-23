@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Papers"]
 categories: ["Estadística"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

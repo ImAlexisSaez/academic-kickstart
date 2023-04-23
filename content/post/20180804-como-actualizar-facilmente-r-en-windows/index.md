@@ -14,7 +14,7 @@ featured: false
 
 tags: ["R", "Windows"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

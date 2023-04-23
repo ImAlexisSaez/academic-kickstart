@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Legislación", "Temarios"]
 categories: ["Oposiciones"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

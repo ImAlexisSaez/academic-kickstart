@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Al-Khwarizmi", "GeoGebra", "SEMCV", "YouTube"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

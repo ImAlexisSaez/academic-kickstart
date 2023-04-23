@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Machine Learning", "Python", "SciPy"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

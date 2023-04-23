@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Python", "Udemy"]
 categories: ["Reflexiones"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"

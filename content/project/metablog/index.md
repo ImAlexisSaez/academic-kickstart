@@ -3,7 +3,7 @@ title: "Metablog (Hugo)"
 slug: "metablog"
 date: 2018-07-05T15:57:28+01:00
 lastmod: 2019-07-22T15:57:28+01:00
-draft: false
+draft: true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

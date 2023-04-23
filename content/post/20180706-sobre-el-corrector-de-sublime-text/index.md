@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Sublime Text 3"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"
@@ -40,4 +40,3 @@ En apenas unos minutos podemos ampliar el número de listado de palabras siguien
 6. Los pasos 3 y 4 podemos repetirlos tantas veces como necesitemos en función del distinto número de diccionarios que estimemos que vayamos a emplear. El proceso que seguir es siempre el indicado, con los correspondientes cambios lógicos que cada nuevo idioma incorpora al procedimiento.
 
 Dejo pendiente para una futura entrada explicar cómo he configurado *Sublime Text 3* para convertirlo en un más que agradable editor de texto plano orientado a trabajar con documentos de tipo *markdown*.
-

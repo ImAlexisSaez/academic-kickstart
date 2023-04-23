@@ -14,7 +14,7 @@ featured: false
 
 tags: ["NumPy", "Python"]
 categories: ["Tutoriales"]
-projects: []
+# projects: []
 
 image:
   focal_point: "Smart"

@@ -14,7 +14,7 @@ featured: false
 
 tags: ["Cómic", "Teatro", "Universidad de Sevilla", "YouTube"]
 categories: ["Recursos"]
-projects: []
+# projects: []
 
 image:
    focal_point: "Smart"
