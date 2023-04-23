@@ -11,16 +11,16 @@ content:
   filter_button:
   - name: "Todos"
     tag: '*'
-  - name: "Desarrollo web"
-    tag: "Desarrollo web"
+  #- name: "Desarrollo web"
+  #  tag: "Desarrollo web"
   - name: "Educación"
     tag: "Educación"
   - name: "Matemáticas"
     tag: "Matemáticas"
   - name: "Python"
     tag: "Python"
-  - name: "Valencià"
-    tag: "Valencià"
+  #- name: "Valencià"
+  #  tag: "Valencià"
 design:
   columns: '1'
   view: 3   #   1 = List  #   2 = Compact  #   3 = Card  #   5 = Showcase  
