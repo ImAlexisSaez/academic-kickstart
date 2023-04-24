@@ -17,8 +17,8 @@ content:
   #  tag: "Educación"
   - name: "Matemáticas"
     tag: "Matemáticas"
-  - name: "Python"
-    tag: "Python"
+  #- name: "Python"
+  #  tag: "Python"
   #- name: "Valencià"
   #  tag: "Valencià"
 design:
