@@ -5,7 +5,7 @@ subtitle: "Ponencias variadas para amenizar olas de calor"
 summary: "En este artículo se enlazan diferentes vídeos correspondientes a las ponencias de este año del Encuentro Nacional de Estudiantes de Matemáticas celebrado en Valladolid."
 
 date: 2020-08-02T00:00:01+02:00
-#lastmod: 2020-08-02T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: true

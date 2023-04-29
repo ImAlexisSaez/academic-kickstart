@@ -5,7 +5,7 @@ subtitle: "Tan sencillo como útil"
 summary: "Es habitual en estadística que trabajemos con tablas de contingencia, que se caracterizan por tener la celda que ocupa la esquina superior izquierda dividida diagonalmente."
 
 date: 2018-07-20T05:59:39+02:00
-lastmod: 2018-07-20T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true

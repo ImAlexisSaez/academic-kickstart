@@ -5,7 +5,7 @@ subtitle: "Aprende Hugo en un suspiro"
 summary: "Presentación de la lista de reproducción, compuesta por la nada desdeñable cifra de 23 vídeos, que viene de la mano de Giraffe Academy."
 
 date: 2018-07-15T05:59:39+02:00
-lastmod: 2018-07-15T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -23,7 +23,7 @@ image:
 
 A estas alturas, estimo que nadie pondrá en duda que la plataforma audiovisual [YouTube](https://www.youtube.com/) es una colosal mina de recursos de aprendizaje, con auténticos diamantes por descubrir y al alcance de cualquier estudiante.
 
-Como iré publicando los artículos correspondientes a la etiqueta [Metablog](/etiqueta/metablog/) a un ritmo pausado, que seguramente no convenza a quien descubra la serie de entradas en este instante, me he animado a compartir un excelente recurso que he encontrado en *YouTube*.
+Como iré publicando los artículos catalogados bajo la etiqueta [Metablog](/etiqueta/metablog/) a un ritmo pausado, que seguramente no convenza a quien descubra la serie de entradas en este instante, me he animado a compartir un excelente recurso que he encontrado en *YouTube*.
 
 Se trata de una lista de reproducción, compuesta por la nada desdeñable cifra de 23 vídeos, que viene de la mano de [Giraffe Academy](https://www.giraffeacademy.com/). Me gustaría destacar que, además de este curso de *Hugo*, ponen a nuestra disposición toda una serie de tutoriales sobre bases de datos, distintos lenguajes de programación, desarrollo web y generadores de páginas web estáticas. Es más que recomendable que le echemos un vistazo a su sección [Courses](https://www.giraffeacademy.com/#courses).
 

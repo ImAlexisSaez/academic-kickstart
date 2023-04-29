@@ -5,7 +5,7 @@ subtitle: "Retocando algunos de los proyectos existentes"
 summary: "Tras un período de inactividad bastante prolongado, me he animado a retomar Infinitos Contrastes y dedicarle un poco tiempo durante las próximas semanas. Así pues, he revisado qué novedades ha ido introduciendo la plantilla que empleo para generarla y ha habido una que ha llamado poderosamente mi atención: la página tipo book."
 
 date: 2021-07-03T00:00:01+02:00
-#lastmod: 2021-07-03T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

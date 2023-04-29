@@ -5,7 +5,7 @@ subtitle: "¡Que aparezca una barra horizontal, por favor!"
 summary: "Lección 10: mejorando la legibilidad de los bloques de código fuente."
 
 date: 2018-09-20T05:59:39+02:00
-lastmod: 2018-09-20T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -66,4 +66,4 @@ pre code {
 
 El único inconveniente de este enfoque es que solo afecta a los bloques de código escritos usando *fences* y no a los que generamos mediante el *shortcode* `highlight` de *Hugo*. No obstante, como habitualmente no recurro a este último, no he decido indagar más al respecto.
 
-En los próximos artículos correspondientes a la etiqueta [Metablog](/etiqueta/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.
+En los próximos artículos catalogados bajo la etiqueta [Metablog](/etiqueta/metablog/) continuaremos con la edición de diversas plantillas del tema *Beautiful Hugo*, para terminar de aprender cómo adaptarlo a nuestro gusto.

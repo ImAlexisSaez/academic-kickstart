@@ -5,7 +5,7 @@ subtitle: "Terminando de ajustar parámetros"
 summary: "Lección 6: finalizamos la edición del archivo de configuración del tema Beautiful Hugo."
 
 date: 2018-08-09T05:59:39+02:00
-lastmod: 2018-08-09T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -21,7 +21,7 @@ image:
   caption: "Fotografía de [Andrew Charney](https://unsplash.com/@theandrewwilliam), disponible en [Unsplash](https://unsplash.com/photos/UsbMGphPWw4)."
 ---
 
-Nos quedamos, en la [anterior entrada](/2018/08/07/configurando-el-tema-beautiful-hugo-i/) de la etiqueta [Metablog](/etiqueta/metablog/), a falta de revisar la parte final del archivo de configuración `config.toml`. Terminemos pues de echarle un vistazo a dicho fichero en este artículo.
+Nos quedamos, en la [anterior entrada](/2018/08/07/configurando-el-tema-beautiful-hugo-i/) catalogada bajo la etiqueta [Metablog](/etiqueta/metablog/), a falta de revisar la parte final del archivo de configuración `config.toml`. Terminemos pues de echarle un vistazo a dicho fichero en este artículo.
 
 Al finalizar la personalización de los parámetros básicos del sitio web, se asomaba ante nosotros el siguiente, y muy extraño, bloque de código:
 
@@ -189,4 +189,4 @@ Así pues, mi archivo `config.toml` finaliza con el siguiente bloque código:
   post = "/:year/:month/:day/:slug/"
 ```
 
-En el siguiente artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) dejaremos a un lado, de momento, la configuración de la plantilla para estudiar cómo generar contenido (en forma de artículos) para nuestro sitio web.
+En el siguiente artículo catalogado bajo la etiqueta [Metablog](/etiqueta/metablog/) dejaremos a un lado, de momento, la configuración de la plantilla para estudiar cómo generar contenido (en forma de artículos) para nuestro sitio web.

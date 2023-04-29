@@ -5,7 +5,7 @@ subtitle: "Añadiendo un diccionario en español a este editor de texto"
 summary: "Trabajar con Sublime Text 3 no implica renunciar al uso de un buen corrector ortográfico."
 
 date: 2018-07-06T07:59:39+02:00
-lastmod: 2018-07-06T07:59:39+02:00
+lastmod: 2023-04-29T07:59:39+02:00
 
 authors: ["admin"]
 math: false

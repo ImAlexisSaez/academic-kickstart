@@ -5,7 +5,7 @@ subtitle: "It's globally alive!"
 summary: "Lección 8: analizamos cómo utilizar GitHub para publicar nuestra página web."
 
 date: 2018-09-01T05:59:39+02:00
-lastmod: 2018-09-01T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -45,7 +45,7 @@ A continuación, de las tres opciones que nos ofrece la página que aparece ante
 
 Así pues, abrimos la terminal del sistema, nos desplazamos hasta el directorio raíz donde hayamos decidido almacenar localmente nuestro sitio web y tecleamos:
 
-```bash
+```
 git remote add origin https://github.com/<USERNAME>/sitio-web.git
 ```
 
@@ -53,7 +53,7 @@ En mi caso, en lugar de `<USERNAME>`, aparece directamente `ImAlexisSaez`. Cada 
 
 Acto seguido, escribimos en la terminal:
 
-```bash
+```
 git push -u origin master
 ```
 
@@ -65,7 +65,7 @@ Volvemos a la terminal del sistema y tecleamos `hugo server`, para poder dar as�
 
 Acto seguido, escribimos:
 
-```bash
+```
 rm -rf public
 ```
 
@@ -73,7 +73,7 @@ Este comando borra por completo la carpeta `public`, que se encuentra en el dire
 
 El siguiente paso, precisamente, es crear un submódulo de manera que la carpeta `public` apunte a otra dirección de *GitHub*. Para ello, desde la terminal del sistema, tecleamos
 
-```bash
+```
 git submodule add -b master git@github.com:<USERNAME>/<USERNAME>.github.io.git public
 ```
 
@@ -81,7 +81,7 @@ donde sustituiremos `<USERNAME>` por el nombre de nuestra cuenta de usuario en *
 
 ¡Ya casi tenemos todo a punto! Únicamente hemos de abrir *Sublime Text 3* y en un archivo, que guardaremos como `deploy.sh` en el directorio raíz donde hayamos almacenado localmente nuestro sitio web, copiamos el siguiente bloque de código:
 
-```bash
+```
 #!/bin/bash
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
@@ -110,7 +110,7 @@ cd ..
 
 El anterior bloque de código se encarga, de manera automática, del proceso de subida de nuestro sitio web a *GitHub*. Para utilizarlo, desde la terminal del sistema, nos situaremos en el directorio raíz donde hayamos decidido almacenar nuestro sitio web y teclearemos
 
-```bash
+```
 ./deploy.sh "Mensaje que resuma los cambios"
 ```
 
@@ -118,4 +118,4 @@ En mi caso, no me suelo esforzar mucho en declarar mensajes óptimamente descrip
 
 Con esto, damos por finalizado el proceso y nuestro sitio web será ahora accesible para todo el mundo a través de la dirección web que proporciona el segundo repositorio que hemos creado (en mi caso `https://imalexissaez.github.io/`).
 
-En la siguiente entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) posiblemente empecemos a realizar cambios en la hoja de estilos *CSS* y personalizar todavía más el tema *Beautiful Hugo*.
+En la siguiente entrada catalogada bajo la etiqueta [Metablog](/etiqueta/metablog/) posiblemente empecemos a realizar cambios en la hoja de estilos *CSS* y personalizar todavía más el tema *Beautiful Hugo*.

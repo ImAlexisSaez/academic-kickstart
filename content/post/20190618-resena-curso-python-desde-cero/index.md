@@ -5,7 +5,7 @@ subtitle: "De principiante a nivel intermedio en unos ochenta vídeos"
 summary: "En este artículo, vamos a echar un vistazo a una interesante y más que recomendable lista de reproducción de YouTube, que contiene un curso de Python con secciones que van más allá de los páramos introductorios."
 
 date: 2019-06-18T00:00:01+01:00
-lastmod: 2019-06-18T00:00:01+01:00
+lastmod: 2023-04-29T00:00:01+01:00
 
 authors: ["admin"]
 math: false
@@ -33,4 +33,4 @@ Por otro lado, es una bendición que no se detenga en los clásicos parajes de l
 
 Sin embargo, por añadir una insignificante tara a este maravilloso recurso, la cantidad de ejercicios propuestos es ciertamente reducida y solo aparecen en los primeros estadios del curso. En mi opinión, un lenguaje de programación se aprende de manera práctica, desafiando los conceptos estudiados mediante retos de dificultad adecuada. Sí que es verdad que cada uno, a través de los campos de su interés, puede plantearse sus propias actividades; pero considero que se ha perdido un tanto la oportunidad de hacer de este curso de *Python* una herramienta de aprendizaje más activa.
 
-Para finalizar, me gustaría comentar que he recogido mis notas personales, tomadas durante la visualización de la lista de reproducción, en uno de los proyectos de la web: [Python (Básico)](/courses/python-basic/), por si alguna persona las pudiera encontrar de utilidad en cualquier momento.
+Para finalizar, me gustaría comentar que publicaré mis notas personales, tomadas durante la visualización de la lista de reproducción, en futuras entradas del blog, por si alguna persona las pudiera encontrar de utilidad en cualquier momento.

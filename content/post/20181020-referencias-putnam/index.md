@@ -5,7 +5,7 @@ subtitle: "Docenas de recursos"
 summary: "En los últimos días he dado, por casualidad, con una serie de problemas que pertenecen a esta competición matemática y que me han resultado ciertamente curiosos, tanto por su complejidad como por la creatividad puesta en escena a la hora de resolverlos."
 
 date: 2018-10-20T05:59:39+02:00
-lastmod: 2018-10-20T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true

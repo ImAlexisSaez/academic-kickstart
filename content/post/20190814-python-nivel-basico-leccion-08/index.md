@@ -1,11 +1,11 @@
 ---
 title: "Curso de Python #08 (Nivel básico)"
 slug: "curso-de-python-08-nivel-basico"
-subtitle: "Lección 08: Métodos y archivos"
-summary: "Recopilación de las notas personales (con códigos fuente incluidos) tomadas durante la realización del recomendable curso 'Python desde 0', disponible en la plataforma YouTube y ofrecido por el canal 'Píldoras Informáticas'."
+subtitle: "Métodos y archivos"
+summary: "Métodos y archivos"
 
 date: 2019-08-14T05:59:39+02:00
-lastmod: 2019-08-14T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

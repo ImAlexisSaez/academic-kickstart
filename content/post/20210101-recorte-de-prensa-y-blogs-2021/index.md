@@ -5,7 +5,7 @@ subtitle: "Artículos de interés sobre educación y matemáticas"
 summary: "El objetivo de esta entrada no es otro que listar *cronológicamente* una serie de artículos publicados en la prensa digital o en blogs personales relacionados bien con las matemáticas (tanto en su faceta educativa como en la divulgativa), bien con la educación en general."
 
 date: 2021-01-01T00:00:01+02:00
-lastmod: 2021-01-01T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

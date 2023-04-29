@@ -5,7 +5,7 @@ subtitle: "Un soplo de aire fresco en comparación con Jekyll"
 summary: "Lección 2: cómo instalar Hugo en Windows sin morir en el intento."
 
 date: 2018-07-08T05:59:39+02:00
-lastmod: 2018-07-08T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -23,14 +23,14 @@ image:
 
 Llevar a cabo la instalación de *Hugo* en *Windows* es extremadamente fácil, hecho que nos permite empezar a experimentar con esta tecnología en apenas unos minutos. Veamos, sin más dilación, todo el proceso en detalle.
 
-Así pues, en este segundo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/), retomaremos la senda en el lugar que nos quedamos al finalizar la [primera entrada](/2018/07/05/preparando-el-equipo-para-hugo/). Recuerdo que, en ella, instalamos un par de útiles herramientas en nuestro equipo (*git* y *Sublime Text 3*) y nos creamos una cuenta en el portal *GitHub*, que será donde alojemos tanto el código fuente de nuestros futuros sitios web, como los propios sitios web en sí.
+Así pues, en este segundo artículo catalogado bajo la etiqueta [Metablog](/etiqueta/metablog/), retomaremos la senda en el lugar que nos quedamos al finalizar la [primera entrada](/2018/07/05/preparando-el-equipo-para-hugo/). Recuerdo que, en ella, instalamos un par de útiles herramientas en nuestro equipo (*git* y *Sublime Text 3*) y nos creamos una cuenta en el portal *GitHub*, que será donde alojemos tanto el código fuente de nuestros futuros sitios web, como los propios sitios web en sí.
 
 En la documentación oficial de *Hugo*, existe una extensa página dedicada a su instalación, con una sección que orienta específicamente a los usuarios de *Windows* y a la que podemos acceder directamente a través de [este enlace](https://gohugo.io/getting-started/installing#windows).
 
 Los desarrolladores han intentado que la experiencia de instalación sea muy intuitiva, pero, en mi opinión, alguna de las indicaciones puede no ser coherente con la estructura de archivos y carpetas que hayamos decidido implementar en nuestros equipos. ¿A qué se debe esta afirmación? Por ejemplo:
 
 - *Hugo* no deja de ser simplemente un programa, por lo que en lugar de instalarlo donde indica la guía, quizá sería mejor opción ubicarlo en la carpeta `Archivos de programa`.
-- Nos señalan, en la menciona guía, un directorio muy específico donde almacenar nuestros sitios web. No obstante, aunque vayamos a utilizar la pareja *git* + *GitHub*, es posible que nos interese, además, utilizar un servicio de alojamiento de archivos y, por tanto, ubicar las páginas en otra ruta diferente.
+- Nos señalan, en la menciona guía, un directorio muy específico donde almacenar nuestros sitios web. No obstante, aunque vayamos a utilizar la pareja *git + GitHub*, es posible que nos interese, además, utilizar un servicio de alojamiento de archivos y, por tanto, ubicar las páginas en otra ruta diferente.
 
 Simplemente lo comento para que quede claro que las instrucciones que, a continuación, compartiré admiten cierta flexibilidad a la hora de llevarlas a cabo. Dicho esto, sin más preámbulos, veamos cómo instalar *Hugo* en *Windows*.
 
@@ -41,19 +41,19 @@ En primer lugar, bien desde la terminal, bien desde el explorador de archivos de
 
 Para ir acostumbrándonos al uso de la terminal *Git Bash*, todo el anterior proceso lo podíamos haber conseguido escribiendo en ella la siguiente serie de comandos:
 
-```bash
+```
 cd c:
 ```
 
-```bash
+```
 mkdir Hugo
 ```
 
-```bash
+```
 cd Hugo
 ```
 
-```bash
+```
 mkdir bin Sites
 ```
 
@@ -85,4 +85,4 @@ Surge, cual capricho de un diabólico destino que parece que quiere poner nuestr
 
 Así, si en cualquier ruta del sistema ahora tecleamos en la terminal `hugo version`, no aparecerá el anterior mensaje de comando desconocido, sino la versión de la aplicación instalada, tal y como pretendíamos.
 
-En el próximo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) exploraremos el proceso de creación de un sitio web utilizando *Hugo*.
+En el próximo artículo catalogado bajo la etiqueta [Metablog](/etiqueta/metablog/) exploraremos el proceso de creación de un sitio web utilizando *Hugo*.

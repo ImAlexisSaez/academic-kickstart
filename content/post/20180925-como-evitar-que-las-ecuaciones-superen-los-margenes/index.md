@@ -5,7 +5,7 @@ subtitle: "Intentando mejorar la legibilidad de nuestros documentos"
 summary: "Cierto es que LaTeX genera unos documentos matemáticos realmente vistosos. No menos cierto es que el comportamiento de LaTeX, en ocasiones, es un tanto peculiar, ofreciendo duras batallas para solventar ciertos problemas."
 
 date: 2018-09-25T05:59:39+02:00
-lastmod: 2018-09-25T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: true

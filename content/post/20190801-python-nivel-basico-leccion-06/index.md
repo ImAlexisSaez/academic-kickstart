@@ -1,11 +1,11 @@
 ---
 title: "Curso de Python #06 (Nivel básico)"
 slug: "curso-de-python-06-nivel-basico"
-subtitle: "Lección 06: Excepciones"
-summary: "Recopilación de las notas personales (con códigos fuente incluidos) tomadas durante la realización del recomendable curso 'Python desde 0', disponible en la plataforma YouTube y ofrecido por el canal 'Píldoras Informáticas'."
+subtitle: "Excepciones"
+summary: "Excepciones"
 
 date: 2019-08-01T05:59:39+02:00
-lastmod: 2019-08-01T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

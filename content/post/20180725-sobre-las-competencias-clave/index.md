@@ -5,7 +5,7 @@ subtitle: "Aspectos fundamentales"
 summary: "Abordemos, en este artículo, algunos aspectos fundamentales a tener en cuenta sobre las competencias clave, a las que dedicaremos uno de los apartados de nuestra programación didáctica."
 
 date: 2018-07-25T05:59:39+02:00
-lastmod: 2018-07-25T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -95,3 +95,5 @@ Ahora bien, ¿cómo puedo contribuir con mi materia al desarrollo de las anterio
 > Las matemáticas contribuyen a la conciencia y expresión cultural porque el mismo conocimiento matemático es expresión universal de la cultura. En toda conciencia y expresión cultural hay un planteamiento que incluye multitud de aspectos matemáticos, desde la medida hasta la geometría, pasando por la resolución de problemas, que permite al alumnado apreciar la importancia de la expresión creativa de ideas, experiencias y emociones a través de distintos medios, incluida la música, las artes escénicas, la literatura y las artes plásticas. En particular, la geometría es parte integral de la expresión artística de la humanidad y ofrece medios para describir y comprender el mundo que nos rodea, y apreciar la belleza de las estructuras realizadas.
 
 Únicamente nos resta la labor de redactar un apartado para nuestra programación didáctica que no resulte extremadamente abstracto y que, de alguna forma, permita entrever de una manera práctica cómo procederemos a desarrollar las competencias clave en el aula.
+
+*Nota*: este artículo podríamos decir que ha quedado "parcialmente derogado" con la nueva ley educativa, pues algunos elementos han desaparecido por completo y en otros se han introducido nuevos matices en sus definiciones.

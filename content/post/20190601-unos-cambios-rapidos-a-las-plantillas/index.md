@@ -5,7 +5,7 @@ subtitle: "¡Nos metemos a fondo en la hoja de estilos CSS!"
 summary: "Lección 11: implementando la localización al español de ciertos elementos de la web."
 
 date: 2019-06-01T05:59:39+02:00
-lastmod: 2019-06-01T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

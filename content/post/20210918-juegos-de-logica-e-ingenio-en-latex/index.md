@@ -5,7 +5,7 @@ subtitle: "Generando material para los talleres de matemáticas..."
 summary: "¿Buscas cómo desarrollar el pensamiento lógico-deductivo en tu alumnado? ¿Qué te parecería conseguirlo a través de clásicos pasatiempos? ¿Y si, además, puedes hacerlo fácilmente empleando LaTeX?"
 
 date: 2021-09-18T00:00:01+02:00
-#lastmod: 2021-09-18T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

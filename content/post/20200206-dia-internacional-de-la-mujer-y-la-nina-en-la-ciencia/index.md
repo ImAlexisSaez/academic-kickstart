@@ -5,7 +5,7 @@ subtitle: "Impidiendo que caigan en el olvido"
 summary: "En este artículo se enlazan diferentes recursos interesantes relacionados con la celebración del 11F."
 
 date: 2020-02-06T00:00:01+02:00
-#lastmod: 2020-02-06T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

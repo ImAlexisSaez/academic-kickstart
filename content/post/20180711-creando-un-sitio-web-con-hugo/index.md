@@ -5,7 +5,7 @@ subtitle: "It's alive!"
 summary: "Lección 3: damos a luz un sitio web de prueba y lo revisamos localmente."
 
 date: 2018-07-11T05:59:39+02:00
-lastmod: 2018-07-11T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -23,13 +23,13 @@ image:
 
 ¡Ha llegado el momento que todos estábamos esperando! Tras un par de artículos en los que hemos preparado nuestros equipos instalando las herramientas necesarias, hoy veremos cómo generar nuestro primer sitio web con *Hugo*.
 
-Esta tercera entrada correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) se va a apoyar en la guía de inicio recogida en la documentación oficial de *Hugo*, a la que podemos acceder a través de [este enlace](https://gohugo.io/getting-started/quick-start/).
+Esta tercera entrada, catalogada bajo la etiqueta [Metablog](/etiqueta/metablog/), se va a apoyar en la guía de inicio recogida en la documentación oficial de *Hugo*, a la que podemos acceder a través de [este enlace](https://gohugo.io/getting-started/quick-start/).
 
 En primer lugar, abrimos la terminal *Git Bash* y nos dirigimos al directorio de nuestro disco duro donde tengamos pensado almacenar localmente el sitio web. En la mencionada guía recomiendan ubicar las páginas en la ruta `C:\Hugo\Sites\`, aunque ya comenté en la [anterior entrada](/2018/07/08/instalando-hugo-en-windows/) que no era estrictamente necesario proceder de tal forma.
 
 Dicho esto, en este artículo seguiremos al dedillo las indicaciones dadas en la guía, de manera que en la terminal tecleamos:
 
-```bash
+```
 cd c:/Hugo/Sites/
 ```
 
@@ -37,7 +37,7 @@ El comando para generar un nuevo sitio web es `hugo new site [path] [flags]`, do
 
 Así pues, generemos un primer sitio de prueba y, en un alarde de extrema originalidad, ubiquémoslo en el directorio `\prueba\`. Para ello, escribimos en la terminal:
 
-```bash
+```
 hugo new site prueba
 ```
 
@@ -51,21 +51,21 @@ En un futuro exploraremos con detalle el cometido de algunos de esos directorios
 
 Volvemos a la terminal, nos movemos hacia el directorio `\prueba\` e iniciamos un repositorio *Git*, acciones que requieren teclear los dos siguientes comandos:
 
-```bash
+```
 cd prueba
 ```
 
-```bash
+```
 git init
 ```
 
 En el siguiente paso de la guía nos invitan a instalar un tema para la web, [Ananke](https://themes.gohugo.io/gohugo-theme-ananke/), utilizando `submodule` (un comando de *Git*). No obstante, en este momento, me voy a desviar de las indicaciones dadas y optar por un método diferente de instalación de temas. A continuación, nos moveremos a la carpeta `\themes\` y clonaremos en nuestro disco duro el propio repositorio del tema. Para ello, escribimos en la terminal:
 
-```bash
+```
 cd themes
 ```
 
-```bash
+```
 git clone https://github.com/budparr/gohugo-theme-ananke.git
 ```
 
@@ -79,13 +79,13 @@ Copiamos tanto las dos carpetas, como el archivo `config.toml`, y pegamos todo e
 
 Ahora volvemos a la terminal, que todavía está apuntando a la carpeta `\themes\` y tecleamos
 
-```bash
-cd ...
+```
+cd ..
 ```
 
 para volver al directorio raíz de nuestro sitio web. A continuación, para revisar el sitio web localmente escribimos
 
-```bash
+```
 hugo server
 ```
 
@@ -109,7 +109,7 @@ y guardamos los cambios.
 
 Volvemos ahora a la terminal y tecleamos de nuevo
 
-```bash
+```
 hugo server
 ```
 
@@ -119,4 +119,4 @@ Tras recibir cierta información sobre el sitio, únicamente nos resta abrir nue
 
 Es el momento de navegar por la página, estudiar si nos complace estéticamente y comprobar si la manera en la que se organizan los contenidos es la apropiada para el sitio web que teníamos en mente. Cuando hayamos terminado el paseo, volvemos a la terminal y cerramos el servidor local utilizando la combinación de teclas `Ctrl + C`.
 
-En el próximo artículo correspondiente a la etiqueta [Metablog](/etiqueta/metablog/) exploraremos, ahora sí y con mucho más detalle, la configuración básica del sitio web, que reside en el fichero `config.toml`.
+En el próximo artículo catalogado bajo la etiqueta [Metablog](/etiqueta/metablog/) exploraremos, ahora sí y con mucho más detalle, la configuración básica del sitio web, que reside en el fichero `config.toml`.

@@ -5,7 +5,7 @@ subtitle: "Tentaciones a evitar"
 summary: "Breve análisis del artículo 'Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking'."
 
 date: 2018-08-02T05:59:39+02:00
-lastmod: 2018-08-02T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -22,7 +22,6 @@ image:
 ---
 
 Hace unos días, completé la lectura del estupendo artículo *"Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking"*, cuya lista de autores es casi tan extensa como el propio título, y de acceso abierto a través de [este enlace](http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01832/abstract). 
-<!--more--> 
 
 En la línea de la famosa idea conocida como *"The Garden of Forking Paths"*, acuñada por *Andrew Gelman*, el mencionado documento lista los múltiples grados de libertad existentes en todas y cada una de las fases de un estudio. Ahora bien, ¿a qué nos referimos cuando hablamos de los grados de libertad de un estudio? 
 

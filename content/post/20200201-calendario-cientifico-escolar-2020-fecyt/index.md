@@ -5,7 +5,7 @@ subtitle: "Acercando la cultura científica a las aulas"
 summary: "Recurso muy completo (y publicado en varias lenguas) para divulgar la ciencia a través del uso de un calendario."
 
 date: 2020-02-01T00:00:01+02:00
-#lastmod: 2020-02-01T00:00:01+02:00
+lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -31,4 +31,3 @@ Podemos acceder a él a través de [este enlace](http://www.igm.ule-csic.es/cale
 - La guía didáctica que lo acompaña, que cuenta con diferentes actividades sugeridas. Están organizadas en función de la etapa educativa en la que se encuentre el alumnado con el que deseemos trabajar este recurso.
 
 No obstante, en mi opinión, tras una rápida primera visualización, encuentro que la organización del calendario presenta una considerable cantidad de espacio desaprovechado (sobre todo en la parte asociada al final de cada mes). De cara a su posible impresión, me habría gustado un enfoque más clásico, que utilizara únicamente una página por mes.
-

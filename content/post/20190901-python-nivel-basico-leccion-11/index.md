@@ -1,11 +1,11 @@
 ---
 title: "Curso de Python #11 (Nivel básico)"
 slug: "curso-de-python-11-nivel-basico"
-subtitle: "Lección 11: Práctica guiada"
-summary: "Recopilación de las notas personales (con códigos fuente incluidos) tomadas durante la realización del recomendable curso 'Python desde 0', disponible en la plataforma YouTube y ofrecido por el canal 'Píldoras Informáticas'."
+subtitle: "Práctica guiada"
+summary: "Práctica guiada"
 
 date: 2019-09-01T05:59:39+02:00
-lastmod: 2019-09-01T05:59:39+02:00
+lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

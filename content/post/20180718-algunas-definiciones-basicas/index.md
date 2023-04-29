@@ -5,7 +5,7 @@ subtitle: "Asentando los conceptos principales"
 summary: "¿Qué es un contenido? ¿Y un criterio de evaluación? ¿Cómo se define un estándar de aprendizaje evaluable? La legislación nos da una respuesta rigurosa a cada una de las anteriores cuestiones."
 
 date: 2018-07-18T05:59:39+02:00
-lastmod: 2018-07-18T05:59:39+02:00
+lastmod: 2023-04-23T05:59:39+02:00
 
 authors: ["admin"]
 math: false
@@ -33,3 +33,5 @@ currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, e
 - *Estándares de aprendizaje evaluables*: especificaciones de los criterios de evaluación que permiten definir los resultados de aprendizaje, y que concretan lo que el estudiante debe saber, comprender y saber hacer en cada asignatura; deben ser observables, medibles y evaluables y permitir graduar el rendimiento o logro alcanzado. Su diseño debe contribuir y facilitar el diseño de pruebas estandarizadas y comparables.
 - *Criterios de evaluación*: son el referente específico para evaluar el aprendizaje del alumnado. Describen aquello que se quiere valorar y que el alumnado debe lograr, tanto en conocimientos como en competencias; responden a lo que se pretende conseguir en cada asignatura.
 - *Metodología didáctica*: conjunto de estrategias, procedimientos y acciones organizadas y planificadas por el profesorado, de manera consciente y reflexiva, con la finalidad de posibilitar el aprendizaje del alumnado y el logro de los objetivos planteados.
+
+*Nota*: este artículo podríamos decir que ha quedado "parcialmente derogado" con la nueva ley educativa, pues algunos elementos han desaparecido por completo y en otros se han introducido nuevos matices en sus definiciones. 
