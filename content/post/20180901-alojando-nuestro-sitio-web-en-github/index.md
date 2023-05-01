@@ -5,7 +5,7 @@ subtitle: "It's globally alive!"
 summary: "Lección 8: analizamos cómo utilizar GitHub para publicar nuestra página web."
 
 date: 2018-09-01T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Tipos y variables"
 summary: "Tipos y variables"
 
 date: 2019-07-07T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

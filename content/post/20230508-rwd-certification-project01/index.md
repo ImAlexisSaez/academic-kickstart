@@ -5,7 +5,7 @@ subtitle: "Empezando con los elementos básicos de HTML"
 summary: "Project 1: Learn HTML by Building a Cat Photo App"
 
 date: 2023-05-08T00:00:01+02:00
-lastmod: 2023-05-08T00:00:01+02:00
+# lastmod: 2023-05-08T00:00:01+02:00
 
 authors: ["admin"]
 math: false

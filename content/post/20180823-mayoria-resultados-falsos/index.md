@@ -5,7 +5,7 @@ subtitle: "Una serie de corolarios a tener en cuenta"
 summary: "Cuanto menos, es ciertamente llamativo, así como invita con fuerza a su lectura, el título de uno de los artículos de John P. A. Ioannidis: 'Why Most Published Research Findings Are False'."
 
 date: 2018-08-23T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

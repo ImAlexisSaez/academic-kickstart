@@ -5,7 +5,7 @@ subtitle: "Métodos y archivos"
 summary: "Métodos y archivos"
 
 date: 2019-08-14T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

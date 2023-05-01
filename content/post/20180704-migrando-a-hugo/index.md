@@ -5,7 +5,7 @@ subtitle: "Justificando cambios"
 summary: "La falta de agilidad de Jekyll, a la hora de experimentar con la página web, me ha obligado a explorar alternativas."
 
 date: 2018-07-04T07:59:39+02:00
-lastmod: 2023-04-29T07:59:39+02:00
+# lastmod: 2023-04-29T07:59:39+02:00
 
 authors: ["admin"]
 math: false

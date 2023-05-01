@@ -5,7 +5,7 @@ subtitle: "Los problemas de estar al día"
 summary: "La última actualización ha cambiado la versión de Markdown utilizada y ahora las expresiones matemáticas no se muestran adecuadamente."
 
 date: 2019-12-14T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

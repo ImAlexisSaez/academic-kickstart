@@ -5,7 +5,7 @@ subtitle: "Perlas de sabiduría"
 summary: "Por recomendación, el otro día puse las manos sobre el artículo de Jacob Cohen: 'Things I Have Learned (So Far)', publicado originalmente en diciembre de 1990 en la revista American Psychologist."
 
 date: 2018-08-21T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

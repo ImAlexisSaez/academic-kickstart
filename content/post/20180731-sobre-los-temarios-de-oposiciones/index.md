@@ -5,7 +5,7 @@ subtitle: "Listando los 71 temas"
 summary: "En este artículo señalaremos la legislación vigente al respecto de los temarios de oposiciones para el acceso al cuerpo de profesores de Enseñanza Secundaria, listando completamente el asociado a la especialidad de matemáticas."
 
 date: 2018-07-31T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Retomando Python por enésima vez..."
 summary: "Una conversación, un libro y unas *Navidades* llenas de código."
 
 date: 2023-01-08T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

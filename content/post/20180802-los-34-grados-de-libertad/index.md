@@ -5,7 +5,7 @@ subtitle: "Tentaciones a evitar"
 summary: "Breve análisis del artículo 'Degrees of freedom in planning, running, analyzing, and reporting psychological studies. A checklist to avoid p-hacking'."
 
 date: 2018-08-02T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

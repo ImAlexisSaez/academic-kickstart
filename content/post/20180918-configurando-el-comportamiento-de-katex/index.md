@@ -5,7 +5,7 @@ subtitle: "Adecuando el estilo de las expresiones matemáticas"
 summary: "Lección 9: revisamos cómo añadir ecuaciones en línea y, además, modificamos el tamaño de la letra para las expresiones matemáticas."
 
 date: 2018-09-18T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

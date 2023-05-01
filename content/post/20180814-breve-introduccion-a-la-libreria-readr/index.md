@@ -5,7 +5,7 @@ subtitle: "Una gran herramienta para trabajar con ficheros de datos"
 summary: "En este artículo exploraremos las posibilidades que nos ofrece una librería de R, readr, integrante del famoso 'tidyverso', de cara a la importación y exportación de nuestros conjuntos de datos."
 
 date: 2018-08-14T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

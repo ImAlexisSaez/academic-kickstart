@@ -5,7 +5,7 @@ subtitle: "Acercando la cultura científica a las aulas"
 summary: "Recurso muy completo (y publicado en varias lenguas) para divulgar la ciencia a través del uso de un calendario."
 
 date: 2020-02-01T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

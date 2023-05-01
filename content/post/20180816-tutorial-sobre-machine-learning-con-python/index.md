@@ -5,7 +5,7 @@ subtitle: "Un paseo por SciPy"
 summary: "¿Qué tal invertir las próximas seis horas y media de tu vida disfrutando de un tutorial sobre Machine Learning con Python? Suena interesante, ¿verdad? Al menos es así en esta especie de universo paralelo donde parece que vivo últimamente."
 
 date: 2018-08-16T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

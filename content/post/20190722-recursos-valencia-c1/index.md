@@ -5,7 +5,7 @@ subtitle: "Per superar les proves del nivell C1"
 summary: "En aquesta pàgina compilaré recursos útils a l'hora d'estudiar valencià per superar les proves que avaluen el nivell C1 del *Marc Europeu Comú de Referència* (MECR d'ara endavant) per a les llengües."
 
 date: 2019-07-22T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

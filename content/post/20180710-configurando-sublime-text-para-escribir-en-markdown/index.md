@@ -5,7 +5,7 @@ subtitle: "Se convierte así en mi herramienta favorita"
 summary: "Analicemos cómo configurar un interesante complemento de Sublime Text 3 para trabajar con Markdown."
 
 date: 2018-07-10T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Introducción a Python"
 summary: "Introducción a Python"
 
 date: 2019-07-01T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

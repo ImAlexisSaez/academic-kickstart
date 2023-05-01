@@ -5,7 +5,7 @@ subtitle: "Profundizando en el uso de GeoGebra"
 summary: "En este artículo se enlazan diferentes vídeos correspondientes a los talleres de este año sobre GeoGebra que ha organizado la SEMCV."
 
 date: 2020-07-29T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

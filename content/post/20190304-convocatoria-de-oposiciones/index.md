@@ -5,7 +5,7 @@ subtitle: "Tan esperada como temida"
 summary: "Breve análisis de la convocatoria de oposiciones, destacando algunas de sus principales características."
 
 date: 2019-03-04T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Del teatro a las aulas"
 summary: "Gran iniciativa de la Universidad de Sevilla para dar visibilidad a la presencia de mujeres en la ciencia en todas las épocas."
 
 date: 2020-01-30T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "It's alive!"
 summary: "Lección 3: damos a luz un sitio web de prueba y lo revisamos localmente."
 
 date: 2018-07-11T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

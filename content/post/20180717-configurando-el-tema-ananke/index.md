@@ -5,7 +5,7 @@ subtitle: "Entablando amistad con los ficheros TOML"
 summary: "Lección 4: analicemos cómo configurar algunos de los parámetros básicos del tema Ananke para personalizar el sitio web."
 
 date: 2018-07-17T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

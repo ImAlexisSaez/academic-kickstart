@@ -5,7 +5,7 @@ subtitle: "Primeros pasos con el tema"
 summary: "Lección 5: instalamos el tema Beautiful Hugo y editamos en detalle su archivo de configuración."
 
 date: 2018-08-07T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

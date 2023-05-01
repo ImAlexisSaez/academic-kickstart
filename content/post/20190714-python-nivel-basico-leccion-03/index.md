@@ -5,7 +5,7 @@ subtitle: "Condicionales"
 summary: "Condicionales"
 
 date: 2019-07-14T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

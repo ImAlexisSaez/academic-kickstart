@@ -5,7 +5,7 @@ subtitle: "Exámenes, listas de ejercicios, apuntes..."
 summary: "Recopilación de enlaces a diferentes plantillas (o clases) interesantes para elaborar exámenes, listas de ejercicios o apuntes utilizando LaTeX."
 
 date: 2021-09-01T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: true

@@ -5,7 +5,7 @@ subtitle: "Práctica guiada"
 summary: "Práctica guiada"
 
 date: 2019-09-01T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Introduciendo el tema de los fractales"
 summary: "En este artículo se recoge un más que interesante vídeo que podemos utilizar en el aula para introducir el método exhaustivo y el tema de los fractales."
 
 date: 2020-01-29T00:00:01+02:00
-lastmod: 2023-04-29T00:00:01+02:00
+# lastmod: 2023-04-29T00:00:01+02:00
 
 authors: ["admin"]
 math: false

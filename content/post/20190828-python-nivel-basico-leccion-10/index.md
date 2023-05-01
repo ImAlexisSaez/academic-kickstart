@@ -5,7 +5,7 @@ subtitle: "Bases de datos"
 summary: "Bases de datos"
 
 date: 2019-08-28T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

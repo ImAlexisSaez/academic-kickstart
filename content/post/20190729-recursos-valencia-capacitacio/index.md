@@ -5,7 +5,7 @@ subtitle: "Per superar les proves de capacitació en valencià"
 summary: "En aquesta pàgina compilaré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (CC d'ara endavant)."
 
 date: 2019-07-29T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

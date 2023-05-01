@@ -5,7 +5,7 @@ subtitle: "Un tema para nuestros sitios web tan interesante como potente"
 summary: "En este artículo, comento las razones que me han llevado a abandonar el tema Beautiful Hugo en favor de Academic."
 
 date: 2019-07-02T00:00:01+01:00
-lastmod: 2023-04-29T00:00:01+01:00
+# lastmod: 2023-04-29T00:00:01+01:00
 
 authors: ["admin"]
 math: false

@@ -5,7 +5,7 @@ subtitle: "Potenciando el uso del valenciano en las aulas"
 summary: "Breve análisis de una ley que pretende normalizar el uso del valenciano y potenciar el del inglés."
 
 date: 2018-07-09T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false

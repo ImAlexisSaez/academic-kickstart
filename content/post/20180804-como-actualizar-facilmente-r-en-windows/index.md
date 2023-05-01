@@ -5,7 +5,7 @@ subtitle: "Realizando el proceso en un suspiro"
 summary: "El proceso de actualización de la versión del lenguaje de programación *R* puede resultar un tanto tedioso si lo llevamos a cabo de forma manual. Veamos cómo hacer más liviana esta pesada carga."
 
 date: 2018-08-04T05:59:39+02:00
-lastmod: 2023-04-29T05:59:39+02:00
+# lastmod: 2023-04-29T05:59:39+02:00
 
 authors: ["admin"]
 math: false
