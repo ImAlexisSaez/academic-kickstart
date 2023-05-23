@@ -89,7 +89,7 @@ mv test3.txt abc.txt
 ls -l
 ```
 
-Con este comando también hemos de ser cautos para no renombrar un archivo con el nombre de un fichero existente, pues podemos sobreescribirlo. En algunas distribuciones de *Linux* esto sucede directamente (*Xubuntu* es un ejemplo de esta forma de proceder) y en otras pregunta si deseamos realizar dicha acción.
+Con este comando también hemos de ser cautos para no renombrar un archivo con el nombre de un fichero existente, pues podemos sobrescribirlo. En algunas distribuciones de *Linux* esto sucede directamente (*Xubuntu* es un ejemplo de esta forma de proceder) y en otras pregunta si deseamos realizar dicha acción.
 
 ```bash
 mv abc.txt test4.txt

@@ -41,7 +41,7 @@ Así pues, si ejecutamos `ls -la` en la carpeta `/home` y observamos el principi
 nano .bashrc
 ```
 
-podemos acceder a su contenido. Las líneas que comienzan con el símbolo `#` son comentarios. Por otra parte, hemos de llevar cuidado de realizar modificaciones en este archivo y luego sobreescribir, pues las consecuencias pueden distar de ser deseables.
+podemos acceder a su contenido. Las líneas que comienzan con el símbolo `#` son comentarios. Por otra parte, hemos de llevar cuidado de realizar modificaciones en este archivo y luego sobrescribir, pues las consecuencias pueden distar de ser deseables.
 
 *Nota*: en caso de realizar alguna modificación con catastróficas consecuencias, podemos recuperar una especie de configuración por defecto en `/etc/skel/.bashrc`. La carpeta `skel` `contiene ciertos ficheros de configuración por defecto para asignarlos cuando creamos un nuevo usuario en el sistema. Por otro lado, si en *Google* buscamos *Xubuntu .bashrc*, el primer resultado contiene las líneas de la configuración por defecto de la terminal en *Xubuntu*.
 
