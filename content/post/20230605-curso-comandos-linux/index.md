@@ -5,7 +5,7 @@ subtitle: "Aprendiendo a manejar la terminal de Linux desde cero"
 summary: "En este curso aprenderemos a utilizar la terminal de *Linux* empezando desde los comandos más básicos y con el objetivo de emplear esta herramienta de una forma eficiente para realizar las operaciones cotidianas."
 
 date: 2023-06-05T00:00:01+02:00
-# lastmod: 2023-04-29T00:00:01+02:00
+lastmod: 2023-06-07T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -76,7 +76,6 @@ Para cambiar de directorio y navegar por el sistema de archivos utilizamos el co
 {{% callout note %}}
 La tilde o virgulilla, `~`, actúa como atajo hacia la carpeta del usuario. Así, con `cd ~` acudimos directamente a nuestra carpeta de usuario.
 {{% /callout %}}
-
 
 ## 3. Edición básica de archivos
 
@@ -878,13 +877,55 @@ No obstante, este comportamiento depende de la distribución de Linux empleada. 
 
 Finalmente, el historial también es una herramienta útil para averiguar cómo se han resueltos incidencias en el pasado (por otras personas, si es la primera vez que administramos cierto servidor que lleva operativo un tiempo).
 
-## 16. Referencias
+## 16. Redirecciones
+
+En esta sección abordaremos cómo redirigir la salida de ciertos comandos para que esta asuma el papel de entrada para otras instrucciones.
+
+Empecemos redirigiendo la salida de un comando hacia un archivo, acción que nos puede resultar de gran utilidad para almacenar, por ejemplo, cierta información del sistema o de sus usuarios. Para llevar a cabo dicha acción, utilizamos el símbolo `>`:
+
+```bash
+ls -l > file.txt
+cat file.txt
+```
+
+A continuación, si volvemos a ejecutar el comando `ls -l > file.txt`, no observaremos cambio alguno, pues el archivo se sobrescribe. Podemos modificar este comportamiento (un tanto peligroso y desaconsejable si no actuamos con extrema cautela) utilizando `>>`, pues añade la salida del comando al final del archivo en lugar de sobrescribirlo:
+
+```bash
+ls -l >> file.txt
+```
+
+{{% callout note %}}
+En general, se recomienda el uso de `>>` para evitar la pérdida de información que provoca `>`.
+{{% /callout %}}
+
+Por otra parte, podemos encadenar comandos con el símbolo `|` (''pipe''). Por ejemplo, imaginemos que queremos listar los contenidos de un directorio, pero filtrar (a través del comando `grep`) solo aquellos elementos que contengan la palabra `file`:
+
+```bash
+ls -l | grep file
+```
+
+Como no podía ser de otra manera, podemos emplear esta filosofía a la hora de examinar ''logs'':
+
+```bash
+cat file.txt | sort | uniq
+```
+
+A primera vista, aunque hayamos usado el comando `uniq`, apreciamos elementos repetidos. No obstante, el diablo está en los detalles, pues a medida que hemos ido incorporando listados al archivo `file.txt` su tamaño ha ido incrementándose y de ahí que aparezca en varias ocasiones.
+
+Finalmente, para contar el número de elementos aproximadamente, puede resultar de utilidad la siguiente instrucción:
+
+```bash
+ls -l | wc -l
+```
+
+## 17. Referencias
 
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [The Odin Project](https://www.theodinproject.com/)
 
-## 17. Historial de versiones del artículo
+## 18. Historial de versiones del artículo
 
+- 2023.06.07: Escribe la sección sobre redirecciones
 - 2023.06.05: Reunifica las doce primeras lecciones en un único artículo
 - 2023.06.01: Escribe la sección sobre el historial de la terminal
 - 2023.05.31: Escribe la sección sobre la gestión de usuarios
