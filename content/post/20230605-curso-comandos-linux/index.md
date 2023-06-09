@@ -5,7 +5,7 @@ subtitle: "Aprendiendo a manejar la terminal de Linux desde cero"
 summary: "En este curso aprenderemos a utilizar la terminal de *Linux* empezando desde los comandos más básicos y con el objetivo de emplear esta herramienta de una forma eficiente para realizar las operaciones cotidianas."
 
 date: 2023-06-05T00:00:01+02:00
-lastmod: 2023-06-07T00:00:01+02:00
+lastmod: 2023-06-09T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -918,13 +918,81 @@ Finalmente, para contar el número de elementos aproximadamente, puede resultar 
 ls -l | wc -l
 ```
 
-## 17. Referencias
+## 17. Streams
+
+En esta sección abordaremos los ''streams'', un concepto relacionado con la redirección de la salida de comandos hacia la entrada de otros. Hay tres tipos de ''streams'' en Linux que conviene conocer:
+
+- ''standard input'' (`stdin`)
+- ''standard output'' (`stdout`)
+- ''standard error'' (`stderr`)
+
+Entre los tres anteriores, el más sencilla de entender es ''standard output'', pues es el ''stream'' que se genera al emplear comandos que producen cierta salida a la terminal. Por ejemplo, `ls -l`.
+
+A continuación, el ''stream'' de ''standard error'' aparece cuando los comandos que empleamos arrojan errores en la terminal (aunque produzca información, como en el caso anterior, no hemos de confundir este ''stream'' con ''standard output'', pues se trata de un mensaje de error). Por ejemplo, si en nuestro sistema no disponemos de ningún directorio denominado `Turtles`, el siguiente comando produciría una salida al ''stream'' de ''standard error'': `ls /Turtles`.
+
+Acto seguido, en el siguiente ejemplo, listemos los contenidos del directorio del usuario (en mi caso, `alexis`):
+
+```bash
+ls -l /home/alexis/
+```
+
+Si ahora tecleamos `echo $?`, la terminal arroja `0` (que hemos de interpretar como que la operación ha sido llevada a cabo con éxito). La combinación `$?` es una variable asociada a la salida producida por el comando anterior, mientras que `echo` nos permite transmitir información a la consola (por ejemplo, `echo "Hola mundo"` imprime en la terminal el mensaje `Hola mundo`).
+
+No obstante, si ahora escribimos:
+
+```bash
+ls -l /Turtles/
+echo $?
+```
+
+En esta ocasión, la terminal arroja `2`, que al ser un número distinto de cero hemos de interpretar como un error. Así, a la hora de escribir programas (conocidos generalmente como ''bash scripts''), este comportamiento nos puede resultar de utilidad para distinguir ''standard output'' de ''standard error'' y actuar de manera acorde a cada uno.
+
+Al hilo de la anterior idea, el uso del comando `find`, que se emplea para buscar archivos, aporta también buenos ejemplos para entender la distinción de los anteriores ''streams''. Por ejemplo, si tecleamos:
+
+```bash
+find / -name *.log
+```
+
+En el extenso listado observamos la presencia de numerosos errores (`Permission denied`). Una vía de escape a esta situación es ejecutar el anterior comando bajo el auspicio de `sudo`, aunque recurrir al usuario `root` para evitar errores no es una buena práctica y únicamente deberíamos emplearlo cuando no existe alternativa posible. Así pues, en su lugar, escribimos:
+
+```bash
+find / -name *.log 2> /dev/null
+```
+
+Esto es, buscamos por nombre todos los archivos desde la raíz del sistema cuya extensión sea `log`, capturamos los errores (de ahí el código `2`) y los redirigimos a `/dev/null`, que es una suerte de purgatorio.
+
+Actuando de tal forma, observamos únicamente los ''logs'' para los cuales tenemos permisos. No quiere decir esto que hayan desaparecido el resto de los anteriores ''logs'', sino que han sido desviados a `/dev/null`, en lugar de aparecer en el ''standard output''.
+
+{{% callout note %}}
+No hemos hablado todavía del ''stream'' de ''standard input'', pero hace referencia a todo ''input'' o entrada del usuario. Por ejemplo, se trata de ''standard input'' cuando recogemos en variables para un programa datos que el usuario introduce de alguna manera.
+{{% /callout %}}
+
+En nuestros programas, podemos hacer referencia a cada uno de los ''streams'' por número:
+
+- `stdin`, mediante `0`.
+- `stdout`, mediante `1`.
+- `stderr`, mediante `2`.
+
+Así, podemos modificar el anterior comando, de forma que los errores los almacene en un archivo, `errors.txt`, y en la terminal aparezcan únicamente aquellos ''logs'' para los cuales disponemos de permisos:
+
+```bash
+find / -name *.log 2> errors.txt
+```
+
+Análogamente, podemos recopilar aquellos ''logs'' para los cuales tenemos permisos en un archivo, `success.txt`, sin más que capturar el ''standard output'':
+
+```bash
+find / -name *.log 1> success.txt
+```
+
+## 18. Referencias
 
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [The Odin Project](https://www.theodinproject.com/)
 
-## 18. Historial de versiones del artículo
+## 19. Historial de versiones del artículo
 
+- 2023.06.09: Escribe la sección sobre ''streams''
 - 2023.06.07: Escribe la sección sobre redirecciones
 - 2023.06.05: Reunifica las doce primeras lecciones en un único artículo
 - 2023.06.01: Escribe la sección sobre el historial de la terminal
