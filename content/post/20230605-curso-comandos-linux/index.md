@@ -5,7 +5,7 @@ subtitle: "Aprendiendo a manejar la terminal de Linux desde cero"
 summary: "En este curso aprenderemos a utilizar la terminal de *Linux* empezando desde los comandos más básicos y con el objetivo de emplear esta herramienta de una forma eficiente para realizar las operaciones cotidianas."
 
 date: 2023-06-05T00:00:01+02:00
-lastmod: 2023-06-09T00:00:01+02:00
+lastmod: 2023-06-10T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -985,13 +985,77 @@ Análogamente, podemos recopilar aquellos ''logs'' para los cuales tenemos permi
 find / -name *.log 1> success.txt
 ```
 
-## 18. Referencias
+## 18. Variables
+
+En esta sección abordaremos el concepto de variable en Linux. Estudiaremos cómo crear una variable y cómo leer su contenido. Su uso está más enfocado a la programación de *scripts*, pero ocasionalmente pueden surgir a la hora de manejar comandos en la terminal.
+
+Para empezar, recodemos que el comando `echo` devuelve a la terminal el contenido de una cadena de texto o, en este caso particular, de una variable:
+
+```bash
+echo "Hello world!"
+```
+
+A continuación, estudiemos cómo crear una variable. Por convención, el nombre de estas se suele escribir en mayúsculas:
+
+```bash
+HELLOMSG="Hello world!"
+```
+
+De esta manera, hemos creado la variable `HELLOMSG`, que contiene el mensaje `"Hello world!"`. Para leer su contenido, accedemos a ella en la terminal a través del comando `echo` y antecediendo el nombre de la variable con el símbolo `$`:
+
+```bash
+echo $HELLOMSG
+```
+
+Por otra parte, las variables no tienen por qué siempre cadenas de texto:
+
+```bash
+MY_NUM=3
+MY_NUM2=10
+```
+
+```bash
+echo $MY_NUM
+echo $MY_NUM2
+```
+
+{{% callout note %}}
+Las variables son específicas a la sesión de la terminal. Su alcance está limitado a la terminal en concreto donde se han definido y se perderán una vez esta se cierre. Una forma de solventar esta situación es añadiéndolas al archivo de configuración `.bashrc`.
+{{% /callout %}}
+
+Además, podemos insertar variables dentro de cadenas de texto, para así personalizar mensajes. Por ejemplo:
+
+```bash
+MY_NAME="Alexis"
+echo $MY_NAME
+echo "My name es $MY_NAME"
+```
+
+Por otra parte, también podemos emplear variables como argumentos de comandos que hemos visto en lecciones anteriores:
+
+```bash
+MY_DIR="/etc/"
+ls $MY_DIR
+```
+
+{{% callout note %}}
+Si nos encontramos en la tesitura de tener que escribir repetidamente largas cadenas de texto, el uso de variables nos puede ahorrar mucho tiempo.
+{{% /callout %}}
+
+Finalmente, a través del comando `env` tenemos acceso al listado de variables de entorno definidas en el sistema.
+
+{{% callout note %}}
+Las que hemos definido anteriormente no aparecen en el anterior listado, pues no están definidas como variables de entorno. Para ello, deberíamos teclear `export MY_NAME="Alexis"`.
+{{% /callout %}}
+
+## 19. Referencias
 
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [The Odin Project](https://www.theodinproject.com/)
 
-## 19. Historial de versiones del artículo
+## 20. Historial de versiones del artículo
 
+- 2023.06.10: Escribe la sección sobre variables 
 - 2023.06.09: Escribe la sección sobre ''streams''
 - 2023.06.07: Escribe la sección sobre redirecciones
 - 2023.06.05: Reunifica las doce primeras lecciones en un único artículo
