@@ -5,7 +5,7 @@ subtitle: "Aprendiendo a manejar la terminal de Linux desde cero"
 summary: "En este curso aprenderemos a utilizar la terminal de *Linux* empezando desde los comandos más básicos y con el objetivo de emplear esta herramienta de una forma eficiente para realizar las operaciones cotidianas."
 
 date: 2023-06-05T00:00:01+02:00
-lastmod: 2023-06-10T00:00:01+02:00
+lastmod: 2023-06-11T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -1048,13 +1048,68 @@ Finalmente, a través del comando `env` tenemos acceso al listado de variables d
 Las que hemos definido anteriormente no aparecen en el anterior listado, pues no están definidas como variables de entorno. Para ello, deberíamos teclear `export MY_NAME="Alexis"`.
 {{% /callout %}}
 
-## 19. Referencias
+## 19. El comando `find`
+
+En esta sección abordaremos un comando de extrema utilidad en Linux, `find`, encargado de buscar archivos en el sistema.
+
+Para empezar, si no indicamos un directorio como argumento del comando `find`, este asume como valor por defecto el actual directorio de trabajo. Así, si queremos buscar por nombre el directorio `Music`, basta con que escribamos:
+
+```bash
+find -name Music
+```
+
+De esta forma, obtenemos como salida la ruta `./Music`, que nos ubica el mencionado directorio. Ahora, actuando de manera análoga:
+
+```bash
+cd /var/
+find -name log
+```
+
+En esta ocasión, aparece un listado de extensión considerable (la mayoría compuesto por errores debidos a faltas de permisos) que podemos filtrar mediante el uso de otros parámetros. Por ejemplo, si únicamente estamos interesados en encontrar directorios, podemos añadir `-type d` (el valor `f` correspondería al tipo asociado a archivos):
+
+```bash
+find -type d -name log
+```
+
+Por otra parte, recordemos que podemos redirigir los errores que aparecen en la salida hacia `/dev/null`, para que así no se muestren en el listado de la terminal:
+
+```bash
+find -type d -name log 2> /dev/null
+```
+
+A continuación, volvamos al directorio de usuario y desde allí busquemos en la carpeta `/var` aquellos archivos terminados en `log` (enviando cualquier error a `/dev/null`):
+
+```bash
+cd ~
+find /var -type f -name "*log" 2> /dev/null
+```
+
+{{% callout note %}}
+Es una buena práctica escribir la cadena a buscar entrecomillada.
+{{% /callout %}}
+
+Además, con el uso de comodines, es fácil modificar el comando anterior para que muestre los archivos que en su nombre contengan el texto `log`:
+
+```bash
+find /var -type f -name "*log*" 2> /dev/null
+```
+
+Por otro lado, ¿y si queremos encontrar los archivos que han sido modificados en la última semana? Usamos para ello el atributo `-mtime` y le pasamos como argumento el número de días:
+
+```bash
+find /var/log -type f -name *.log -mtime -7
+```
+
+Además, podemos ejecutar comandos a los resultados de la búsqueda a través del atributo `-exec`. Por ejemplo, si queremos eliminar aquellos ''logs'' que posean 7 días de antigüedad, añadiríamos al final `-exec rm {} \;`, donde las llaves hacen referencia a cada línea de la salida del comando find. No obstante, como mencionamos en lecciones anteriores, hemos de ser cautos a la hora de emplear el comando `rm` para no eliminar del sistema información importante.
+
+## 20. Referencias
 
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [The Odin Project](https://www.theodinproject.com/)
 
-## 20. Historial de versiones del artículo
+## 21. Historial de versiones del artículo
 
+- 2023.06.11: Escribe la sección sobre el comando `find`
 - 2023.06.10: Escribe la sección sobre variables 
 - 2023.06.09: Escribe la sección sobre ''streams''
 - 2023.06.07: Escribe la sección sobre redirecciones
