@@ -5,7 +5,7 @@ subtitle: "Aprendiendo a manejar la terminal de Linux desde cero"
 summary: "En este curso aprenderemos a utilizar la terminal de *Linux* empezando desde los comandos más básicos y con el objetivo de emplear esta herramienta de una forma eficiente para realizar las operaciones cotidianas."
 
 date: 2023-06-05T00:00:01+02:00
-lastmod: 2023-06-11T00:00:01+02:00
+lastmod: 2023-06-12T00:00:01+02:00
 
 authors: ["admin"]
 math: false
@@ -1102,13 +1102,63 @@ find /var/log -type f -name *.log -mtime -7
 
 Además, podemos ejecutar comandos a los resultados de la búsqueda a través del atributo `-exec`. Por ejemplo, si queremos eliminar aquellos ''logs'' que posean 7 días de antigüedad, añadiríamos al final `-exec rm {} \;`, donde las llaves hacen referencia a cada línea de la salida del comando find. No obstante, como mencionamos en lecciones anteriores, hemos de ser cautos a la hora de emplear el comando `rm` para no eliminar del sistema información importante.
 
-## 20. Referencias
+## 20. Cambiando permisos numéricamente
+
+En esta sección abordaremos la gestión de permisos numéricamente. Recordemos que el tratamiento de permisos ya lo estudiamos en la novena sección, aunque en ella los establecimos a través de la secuencia de caracteres `rwx`.
+
+Así, las equivalencias numéricas de dichos permisos son:
+
+- `4` equivale a `r`
+- `2` equivale a `w`
+- `1` equivale a `x`
+
+En la práctica, empleando el comando `chmod` podemos escribir:
+
+```bash
+touch test-permissions.txt
+ls -l
+chmod 400 test-permissions.txt
+ls -l
+```
+
+Como podemos observar, el propietario dispone del permiso de lectura (dado el `4` que figura al principio del código), mientras que el resto de los permisos quedan desactivados. Además, ni el grupo, ni el resto de los usuarios, posee permiso alguno, pues para ellos hemos declarado un `0` en cada caso (el primer cero hace referencia al grupo, mientras que el segundo está asociado al resto de usuarios).
+
+Siguiendo esta filosofía, con `chmod 444 test-permissions.txt`, tanto el administrador, como el grupo y el resto de los usuarios poseerían el permiso de lectura para este fichero en concreto.
+
+En cuanto al permiso para escritura, generamos ejemplos similares a los anteriores sin más que teclear `chmod 200 test-permissions.txt` o `chmod 222 test-permissions.txt`.
+
+Ahora bien, ¿cómo asignamos varios permisos simultáneamente? Por ejemplo, para que el administrador posea todos los permisos disponibles sobre el archivo, hemos de teclear:
+
+```bash
+chmod 700 test-permissions.txt
+ls -l
+```
+
+Por tanto:
+
+- `7` asigna los permisos `rwx`.
+- `6` asigna los permisos `rw-`.
+- `5` asigna los permisos `r-x`.
+- `3` asigna los permisos `-wx`.
+
+Seguramente, a estas alturas, hayamos detectado el patrón de funcionamiento. Si queremos asignar varios permisos, simplemente hemos de realizar la suma de sus valores e introducir ese resultado en el dígito deseado del código numérico. Por ejemplo, `rwx`, echando cuentas, equivale a `4 + 2 + 1`, esto es, a `7`. Análogamente, `-wx`, equivale a `0 + 2 + 1`, es decir, a `3`.
+
+{{% callout note %}}
+En la práctica, un código de permisos muy frecuente para archivos es `644`.
+{{% /callout %}}
+
+{{% callout note %}}
+Aunque en la sección hemos trabajado únicamente con ficheros, la misma filosofía se emplea para directorios. No obstante, hemos de recordar que los permisos no tienen exactamente el mismo significado para archivos que para carpetas, como bien comentamos en la novena sección de este artículo.
+{{% /callout %}}
+
+## 21. Referencias
 
 - [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [The Odin Project](https://www.theodinproject.com/)
 
-## 21. Historial de versiones del artículo
+## 22. Historial de versiones del artículo
 
+- 2023.06.12: Escribe la sección sobre el cambio numérico de permisos
 - 2023.06.11: Escribe la sección sobre el comando `find`
 - 2023.06.10: Escribe la sección sobre variables 
 - 2023.06.09: Escribe la sección sobre ''streams''
