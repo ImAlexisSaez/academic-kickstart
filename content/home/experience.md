@@ -7,9 +7,18 @@ title: "Experiencia laboral"
 subtitle: ""
 date_format: 2006-01-02 # Date format for experience. Refer to https://wowchemy.com/docs/customization/#date-format
 experience: # Experiences.
+- company: "IES Torrellano"
+  company_url: "https://portal.edu.gva.es/iestorrellano/"
+  date_end: ""
+  date_start: "2023-09-01"
+  description: |-
+    *Curso académico 2023/24:*
+    * Por determinar
+  location: "Torrellano"
+  title: "Profesor de matemáticas"
 - company: "IES La Torreta"
   company_url: "https://mestreacasa.gva.es/web/ieslatorreta"
-  date_end: ""
+  date_end: "2023-08-31"
   date_start: "2020-09-01"
   description: |-
     *Curso académico 2022/23:*
