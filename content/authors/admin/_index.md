@@ -3,8 +3,8 @@ title: Alexis Sáez # Display name
 superuser: true # Is this the primary user of the site?
 role: Profesor de matemáticas # Role/position/tagline
 organizations: # Organizations/Affiliations to show in About widget
-- name: IES La Torreta
-  url: https://mestreacasa.gva.es/web/ieslatorreta
+- name: IES Torrellano
+  url: https://portal.edu.gva.es/iestorrellano/
 bio: Cazador de problemas matemáticos en parajes opositores. # Short bio (displayed in user profile at end of posts)
 interests: # Interests to show in About widget
 - Problemas de matemáticas
