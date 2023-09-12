@@ -12,8 +12,11 @@ experience: # Experiences.
   date_end: ""
   date_start: "2023-09-01"
   description: |-
-    *Curso académico 2023/24:*
-    * Por determinar
+    *Curso académico 2023/24:*    
+    * 2º de ESO: grupos B, C y D.
+    * 2º de ESO: grupos C y D. Taller de refuerzo.
+    * 3º de ESO: grupos D, E y F. Taller de refuerzo.
+    * 4º de ESO: grupos C y E. Taller de refuerzo.
   location: "Torrellano"
   title: "Profesor de matemáticas"
 - company: "IES La Torreta"
@@ -44,7 +47,6 @@ experience: # Experiences.
   date_start: "2019-11-20"
   description: |-
     *Curso académico 2019/20:*
-  
     * 1º de ESO: grupos A, D, E y F.
     * 2º de ESO: grupo C.
   location: "Elche"
