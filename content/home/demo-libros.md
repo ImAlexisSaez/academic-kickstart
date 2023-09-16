@@ -52,7 +52,7 @@ subtitle = "Esa desconexión necesaria"
 
 |   |   |   |   |
 |---|---|---|---|
-| | {{< figure src="portada-oruna-puerto-escondido.jpg" caption="" numbered="false" >}} | {{< figure src="portada-sanchez-ultimos-dias-en-berlin.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-las-madres.jpg" caption="" numbered="false" >}} |
+| {{< figure src="portada-mola-la-bestia.jpg" caption="" numbered="false" >}} | {{< figure src="portada-oruna-puerto-escondido.jpg" caption="" numbered="false" >}} | {{< figure src="portada-sanchez-ultimos-dias-en-berlin.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-las-madres.jpg" caption="" numbered="false" >}} |
 | {{< figure src="portada-dicker-la-verdad-sobre-el-caso-harry-quebert.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-nena.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-red-purpura.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-novia-gitana.jpg" caption="" numbered="false" >}} |
 
 
