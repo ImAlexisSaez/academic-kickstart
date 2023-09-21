@@ -23,7 +23,9 @@ image:
 
 Esta semana se proponen algunos enunciados relacionados con los números enteros (divisibilidad, congruencias y pequeño teorema de Fermat).
 
-**1.** Demuestra que, siendo $n\in\mathbb{Z}$, la expresión
+### Ejercicio 1
+
+Demuestra que, siendo $n\in\mathbb{Z}$, la expresión
 {{< math >}}
     $$
         \frac{n^5 - 5n^3 + 4n}{n + 2}
@@ -31,24 +33,30 @@ Esta semana se proponen algunos enunciados relacionados con los números enteros
 {{< /math >}}
 siempre es divisible por $24$.
 
-**2.** Halla el número $N=2^m5^n$ sabiendo que la suma de sus divisores es $961$.
+### Ejercicio 2
+
+Halla el número $N=2^m5^n$ sabiendo que la suma de sus divisores es $961$.
 
 {{< spoiler text="Solución" >}}
 $2^45^2$
 {{< /spoiler >}}
 
-**3.** 
+### Ejercicio 3
 
 - a) Prueba que, para todo número entero $n\geq 1$, $n(n^2 + 5)$ es divisible entre 6.
 - b) Demuestra que la fracción $$\frac{4n + 5}{2n + 3}$$ es irreducible para cualquier valor $n\in\mathbb{N}$.
 
-**4.** Halla un número entero $A$ que no tenga más factores primos que $2$, $5$ y $7$; sabiendo, además, que $5A$ tiene $8$ divisores más que $A$, y que $8A$ tiene $18$ divisores más que $A$. Calcula también la suma de todos los divisores de $A$.
+### Ejercicio 4
+
+Halla un número entero $A$ que no tenga más factores primos que $2$, $5$ y $7$; sabiendo, además, que $5A$ tiene $8$ divisores más que $A$, y que $8A$ tiene $18$ divisores más que $A$. Calcula también la suma de todos los divisores de $A$.
 
 {{< spoiler text="Solución" >}}
 $A=1400$ y $S=3720$
 {{< /spoiler >}}
 
-**5.** Responde a las siguientes cuestiones:
+### Ejercicio 5
+
+Responde a las siguientes cuestiones:
 
 - a) Determina para qué enteros positivos $n$, $2^n - 1$ es divisible por $7$.
 - b) Prueba que $2^n + 1$ nunca es divisible por $7$
@@ -57,7 +65,9 @@ $A=1400$ y $S=3720$
 a) $n = \dot{3}$
 {{< /spoiler >}}
 
-**6.** Demuestre las siguientes afirmaciones:
+### Ejercicio 6
+
+Demuestre las siguientes afirmaciones:
 
 - a) Si $5$ no es divisor de $n$, $n^8\equiv 2001(\mod{5})$.
 - b) La suma de los cubos de tres enteros consecutivos es congruente con $0$ módulo $9$.
