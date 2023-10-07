@@ -50,17 +50,8 @@ subtitle = "Esa desconexión necesaria"
  css_class = ""
 +++
 
-|   |   |   |   |
-|---|---|---|---|
-| | {{< figure src="portada-diaz-indira.jpg" caption="" numbered="false" >}} | {{< figure src="portada-diaz-las-otras-ninas.jpg" caption="" numbered="false" >}} | {{< figure src="portada-diaz-el-buen-padre.jpg" caption="" numbered="false" >}} |
-| {{< figure src="portada-mola-la-bestia.jpg" caption="" numbered="false" >}} | {{< figure src="portada-oruna-puerto-escondido.jpg" caption="" numbered="false" >}} | {{< figure src="portada-sanchez-ultimos-dias-en-berlin.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-las-madres.jpg" caption="" numbered="false" >}} |
-| {{< figure src="portada-dicker-la-verdad-sobre-el-caso-harry-quebert.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-nena.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-red-purpura.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-novia-gitana.jpg" caption="" numbered="false" >}} |
-
-
-
-
-
-
-
-
-
+|   |   |   |   |   | 
+|---|---|---|---|---|
+| | | | {{< figure src="portada-lackberg-la-princesa-de-hielo.jpg" caption="" numbered="false" >}} | {{< figure src="portada-diaz-indira.jpg" caption="" numbered="false" >}} |
+| {{< figure src="portada-diaz-las-otras-ninas.jpg" caption="" numbered="false" >}} | {{< figure src="portada-diaz-el-buen-padre.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-bestia.jpg" caption="" numbered="false" >}} | {{< figure src="portada-oruna-puerto-escondido.jpg" caption="" numbered="false" >}} | {{< figure src="portada-sanchez-ultimos-dias-en-berlin.jpg" caption="" numbered="false" >}} |
+| {{< figure src="portada-mola-las-madres.jpg" caption="" numbered="false" >}} | {{< figure src="portada-dicker-la-verdad-sobre-el-caso-harry-quebert.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-nena.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-red-purpura.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-la-novia-gitana.jpg" caption="" numbered="false" >}} |
