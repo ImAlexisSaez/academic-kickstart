@@ -21,7 +21,7 @@ image:
   caption: "Fotografía de [Jeswin Thomas](https://unsplash.com/es/@jeswinthomas), disponible en [Unsplash](https://unsplash.com/es/fotos/hecib2an4T4)."
 ---
 
-Esta semana se proponen algunos enunciados relacionados con sucesiones
+Esta semana se proponen algunos enunciados relacionados con sucesiones.
 
 ### Ejercicio 1
 
