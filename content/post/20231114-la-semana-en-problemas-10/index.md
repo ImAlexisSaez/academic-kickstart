@@ -64,3 +64,39 @@ Halle todos los polinomios $P(x)$ con coeficientes reales tal que
 \end{align*}
 {{< /math >}}
 sabiendo que $P(0) = \frac{1}{6}$ y que $P(3) = \frac{2}{3}$.
+
+### Ejercicio 6
+
+Sea $\mathbb{R}^3[x]$ el espacio vectorial de los polinomios de grado menor o igual que $3$ con coeficientes reales y sea {{< math >}}$B_1 = \{1, x, x^2, x^3\}${{< /math >}} la base canónica de $\mathbb{R}^3[x]$. Se consideran los subespacios vectoriales
+{{< math >}}
+\begin{align*}
+    U_1 & := L\{x^2+2x, -x^2+x, x^2+x\},                                                                      \\
+    U_2 & := \{a+bx+cx^2+dx^3\in\mathbb{R}^3[x]:b+c=0, 2b-c=0\},\text{ y}                                     \\
+    U_3 & := \{a+bx+cx^2+dx^3\in\mathbb{R}^3[x]:a=0, b=-\beta,c=0,d=\alpha+\beta,\alpha,\beta\in\mathbb{R}\}.
+\end{align*}
+{{< /math >}}
+    
+- a) Calcule $U_1\cap U_2$ y $U_1+U_2$. ¿Son $U_1$ y $U_2$ suplementarios?
+- b) Calcule unas ecuaciones cartesianas respecto de la base $B_1$ de $U_1$ y $U_2$.
+- c) Encuentre una aplicación lineal {{< math >}}$h:\mathbb{R}^3[x]\mapsto \mathbb{R}^4${{< /math >}} cuyo núcleo sea $U_1$.
+- d) Halle la matriz de la aplicación lineal anterior respecto de las bases $B_1$ y
+{{< math >}}
+\begin{align*}
+    B_2 := \{u_1:&=(1,0,0,0),\\
+     u_2:&=(1,1,0,0),\\
+     u_3:&=(1,1,1,0),\\
+     u_4:&=(1,1,1,1)\}.
+\end{align*}
+{{< /math >}}
+- e) ¿Es la matriz hallada en el apartado anterior equivalente a la matriz
+{{< math >}}
+\begin{align*}
+    A =
+    \begin{bmatrix}
+        3 & 4 & 2 & 1 \\
+        1 & 0 & 0 & 0 \\
+        3 & 1 & 1 & 1 \\
+        0 & 0 & 0 & 1
+    \end{bmatrix}?
+\end{align*}
+{{< /math >}}
