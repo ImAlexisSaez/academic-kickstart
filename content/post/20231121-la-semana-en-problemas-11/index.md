@@ -12,7 +12,7 @@ math: true
 draft: false
 featured: false
 
-tags: ["Polinomios"]
+tags: ["Ecuaciones"]
 categories: ["Problemas"]
 # projects: []
 
