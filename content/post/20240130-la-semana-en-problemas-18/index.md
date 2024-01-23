@@ -46,7 +46,7 @@ Para cada par de números reales distintos $r$ y $s$ se llama ''derivada general
 {{< /math >}}
 
 - (a) Demuestre que si la función $f$ es derivable en el punto $a$, entonces $f^{(r,s)}(a)$ existe y coincide con la derivada ordinaria $f'(a)$.
-- (b) Obtenga $f^{(2,1)}(x)$ y $f'(x)$ en el caso de la función $f(x) = x - E(x)$, donde $E(x)$ es la parte entera de $x$, es decir, el mayor enterio no superior a $x$. Compare e interprete los resultados.
+- (b) Obtenga $f^{(2,1)}(x)$ y $f'(x)$ en el caso de la función $f(x) = x - E(x)$, donde $E(x)$ es la parte entera de $x$, es decir, el mayor entero no superior a $x$. Compare e interprete los resultados.
 - (c) Obtenga $f^{(1, -1)}(x)$ y $f'(x)$ para la función ''valor absoluto'' $f(x) = |x|$. Compare e interprete los resultados.
 - (d)
     - i. Calcule $f^{(2,1)}(0)$ en el caso de la función $f(x) = \sin{\left(\frac{\pi}{\ln{2}}\cdot\ln{(x^2)}\right)}$.
