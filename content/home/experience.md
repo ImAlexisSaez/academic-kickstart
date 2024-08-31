@@ -12,6 +12,9 @@ experience: # Experiences.
   date_end: ""
   date_start: "2023-09-01"
   description: |-
+    *Curso académico 2024/25:*
+    * Por determinar
+    
     *Curso académico 2023/24:*    
     * 2º de ESO: grupos B, C y D.
     * 2º de ESO: grupos C y D. Taller de refuerzo.
