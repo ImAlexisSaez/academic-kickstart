@@ -13,7 +13,10 @@ experience: # Experiences.
   date_start: "2023-09-01"
   description: |-
     *Curso académico 2024/25:*
-    * Por determinar
+    * 2º de ESO: grupo F.
+    * 3º de ESO: grupos D y H.
+    * 3º de ESO: grupos D y H. Taller de refuerzo.
+    * 4ª de ESO: grupos C, D y E. Matemáticas A.
     
     *Curso académico 2023/24:*    
     * 2º de ESO: grupos B, C y D.
