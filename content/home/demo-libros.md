@@ -52,6 +52,7 @@ subtitle = "Esa desconexión necesaria"
 
 |   |   |   |   |   | 
 |---|---|---|---|---|
+| | | | | {{< figure src="portada-barker-el-ultimo-juego.jpg" caption="" numbered="false" >}} |
 | {{< figure src="portada-sanchez-mi-dieta-cojea.jpg" caption="" numbered="false" >}} | {{< figure src="portada-nesbo-el-reino.jpg" caption="" numbered="false" >}} | {{< figure src="portada-dicker-un-animal-salvaje.jpg" caption="" numbered="false" >}} | {{< figure src="portada-santiago-el-mentiroso.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mcfadden-la-asistenta.jpg" caption="" numbered="false" >}} |
 | {{< figure src="portada-craven-el-botanico.jpg" caption="" numbered="false" >}} | {{< figure src="portada-craven-zona-muerta.jpg" caption="" numbered="false" >}} | {{< figure src="portada-craven-abandono.jpg" caption="" numbered="false" >}} | {{< figure src="portada-craven-el-procurador.jpg" caption="" numbered="false" >}} | {{< figure src="portada-mola-el-clan.jpg" caption="" numbered="false" >}} |
 | {{< figure src="portada-craven-verano-negro.jpg" caption="" numbered="false" >}} | {{< figure src="portada-craven-el-show-de-las-marionetas.jpg" caption="" numbered="false" >}} | {{< figure src="portada-barker-la-sexta-trampa.jpg" caption="" numbered="false" >}} | {{< figure src="portada-barker-la-quinta-victima.jpg" caption="" numbered="false" >}} | {{< figure src="portada-barker-el-cuarto-mono.jpg" caption="" numbered="false" >}} |
