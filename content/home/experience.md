@@ -12,6 +12,12 @@ experience: # Experiences.
   date_end: ""
   date_start: "2023-09-01"
   description: |-
+    *Curso académico 2025/26:*
+    * 1º de ESO: grupo B.
+    * 2º de ESO: grupo E.
+    * 4º de ESO (Opción B): grupo E.
+    * 2ª de BACH (CCSS II): grupos BACA, BAHG y BACG.
+  
     *Curso académico 2024/25:*
     * 2º de ESO: grupo F.
     * 3º de ESO: grupos D y H.
